@@ -1,141 +1,26 @@
-<img width="100px" src="https://user-images.githubusercontent.com/59280290/142762075-c2ca405a-53a7-4127-9475-41db02345be4.png">
-
-# PhD
-A working-in-progress list of resources on how/why to do a PhD. 
-
 ▼　PhD
 I’m Marina Shimizu, 3rd year Ph.D Student in Nagoya University in Japan.<br>
 My project is about the animal cult in ancient egypt, particullery in ptolemaic period.<br>
 Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
 <br>
 
-## Table of Contents
-| Contents | Overview |
-| ---- | ---- |
-| [Career Background](#Career Background) |Change in Work to Date|
-| [Development Experience](#Development Experience) |Development Experience in my day job|
-|What you want to do immediately or what is the most important requirement for your new job|
-|Certifications you have obtained or are currently learning|
-|External development experience or experience working as one engineer|
-|External development experience or experience as a single engineer|
-| [Media](#Media) |Interview History|
-| [Link](#Link) |Various SNS + Job Draft Nomination Status|
-
 <h2 id="career Background">Career Background</h2
 
-| ---- | ---- |
-| 2014/4-2018/3 |Department of Cultural and Historical Studies, Kindai University|
-| 2018/4-2020/3 |M.A. Graduate School of Humanities, Nagoya University|
-| 2020/4-Present |Ph.D student Graduate School of Humanities, Nagoya University|
-| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)|
-| 2021/8-Present |Visiting Scholar, Free University of Berlin|
+| ---- | ---- |<br>
+| 2014/4-2018/3 |Department of Cultural and Historical Studies, Kindai University|<br>
+| 2018/4-2020/3 |M.A. Graduate School of Humanities, Nagoya University|<br>
+| 2020/4-Present |Ph.D student Graduate School of Humanities, Nagoya University|<br>
+| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)|<br>
+| 2021/8-Present |Visiting Scholar, Free University of Berlin|<br>
 
-- 期間<br>
-2021年1月〜現在<br>
 
-- 担当<br>
-フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、機能設計、一部DB設計（6テーブル程の決算機能）、保守運用、開発環境の構築と簡易化など、一通り行いました。<br>
-CTOに相談できる環境があり、顧客への提案、コンサルティング以外の部分は基本的に1人で全て行いました。<br>
-2021/09/03 プロダクトオーナーに任命されました。開発以外にも市場調査やバックログ整備、チームビルディング等も開始しました。<br>
+▼Media<br>
+[My HomePage](https://horikoshiyuki.wraptas.site/)<br>
 
-- 工程<br>
-プロダクトのBacklog管理運用方法決定、プロダクトの方向性決定、市場調査、営業資料作成サポート<br>
-フロントエンド開発、バックエンド開発、ドキュメント管理、リリース、保守運用、開発環境の構築と簡易化
+[Twitter](https://twitter.com/13ypt)<br>
 
-- 技術スタック<br>
-開発環境<br>
-Salesforce パッケージ開発組織、スクラッチ開発組織/Gitea<br>
+[You Tube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
 
-- バックエンド<br>
-Apex（静的型付け言語）<br>
-※ほぼJavaベースの言語です。<br>
-
-- フロントエンド<br>
-Lightning Web Component/HTML/JavaScript/CSS
-
-- リリース/保守<br>
-Salesforce LMA(License Management App),COA(Channel Order Application),PBO(Partner Business Organization)<br>
-
-#### 実装の具体
-- 静的リソースと連携したPDFの出力を行うLWC(Lightning Web Component)の作成。
-- 帳票、税金関連の処理（計算、PDF出力）
-- カスタムオブジェクト、項目の作成やレイアウト修正など画面上で行う作業全般
-- プロファイル、権限セット、ロールを用いた閲覧権限の設定
-- フロー、ワークフローの使用をして自動化
-
-あとは部署横断的に、自社サイトのワードプレスの改修や、エンジニア採用の協力にも関わらせていただいております。
-
-<h2 id="直近でやりたいこと">直近でやりたいこと</h2>
-
-- <span style="color: green; ">**詳しいレビューのある・レビューのできるチーム開発**</span>
-
----
-
-<h2 id="資格">資格</h2>
-
-教員免許小中高国語＋高校書道<br>
-Salesforce認定アドミニストレーター<br>
-基本情報技術者試験<br>
-PHP7技術者認定試験 初級<br>
-全日本SEO検定1級<br>
-TOEIC590点(2021/08/22)<br>
-ロジスティクス管理3級（本業に関係する物流の資格です。）
-
-### 勉強中
-TOEICは毎日少し勉強&2021から毎年受験<br>
-Salesforce 認定デベロッパー(2022.02受験予定)<br>
-AWS SAA(2022.02受験予定)<br>
-
-```
-他企業でプログラミング系の記事執筆・及びSEOを意識した添削やディレクションを行なっています。（月間4,000字ほどのものを2本執筆、50〜60記事の添削）
-こちらに記事は公開できないですが、採用関係者の方向けに実績をご紹介できますので、もしよければお申し付けください。
-社内オウンドメディアの記事作成にも貢献できます。
-```
-
-<img width="600" alt="Qiitaランキング" src="https://user-images.githubusercontent.com/59280290/132987129-40215c54-545d-4ec4-b805-db9d7a8b10cd.png">
-
-```
-Qiita文化のなかった現職でしたが、旗振りを行い、週間1位、月間3位まで押し上げました。
-社内の技術ブログに挑戦してみたいです！
-```
-
----
-
-**Twitter運用・中の人経験**
-
-<img width="150px" src="https://user-images.githubusercontent.com/59280290/132987031-e9dc4c93-c95d-4408-a731-09d86d8cc1eb.png">
-
-```
-前職で10,000フォロワーほどの企業アカウントの運用経験があり、現在も他企業でTwitterの中の人を行なっています。
-toCの経験中心ですが、ターゲティングや各種ツールの使用など実務経験があります。
-```
-
-<h2 id="メディア">メディア</h2>
-
-[「DMM WEBCAMP」で身に付くものがプログラミングスキルだけではない理由〜ブランドリニューアルに込めた想い〜](https://prtimes.jp/story/detail/zrElp5i33yx)  
-卒業生代表としてインタビューしていただきました。
-
-[【新しいことにチャレンジできる環境】社員インタビュー#1](https://www.wantedly.com/companies/company_3244501/post_articles/278203)  
-社員インタビューです。
-
-[【NewsPicks】なぜ「今」プログラミングを学ばないと後悔するのか](https://newspicks.com/news/5858526/body/)   
-文系でプログラミングに挑戦した理由や、学習を通じて思考力を得られたことなどについて述べました。
-
-<h2 id="リンク">リンク</h2>
-
-[My HomePage](https://horikoshiyuki.wraptas.site/)
-
-[Twitter](https://twitter.com/yuki82511988)
-
-[Qiita](https://qiita.com/yuki82511988)
-
-[note](https://note.com/yuki82511988)
-
-[FaceBook](https://www.facebook.com/profile.php?id=100056757287028)
-
-[SpeakerDeck](https://speakerdeck.com/yukisnow1823)  
-
-[転職ドラフト](https://job-draft.jp/users/57254)
 
 
 # Contents
@@ -423,39 +308,4 @@ toCの経験中心ですが、ターゲティングや各種ツールの使用�
 * *Tips for first time peer reviewers: Accepting a peer review invitation* by Kakoli Majumde 
   * http://www.editage.com/insights/tips-for-first-time-peer-reviewers-accepting-a-peer-review-invitation 
   
-# English
-* http://www.bartleby.com/141/index.html
-## Collocation
-* https://prowritingaid.com/en/Collocation/Dictionary?word=search
-* http://www.just-the-word.com/
-* http://www.freecollocation.com/
-* https://ludwig.guru/
-## Dictionary
-* http://www.wordhippo.com/
-* http://www.roget.org/
-## Thesaurus
-* http://www.thesaurus.com/
-* https://www.merriam-webster.com/
 
-# Books
-## Science 
-* Chalmers, Alan F. What is this thing called science?. Hackett Publishing, 2013.
-* Okasha, Samir. Philosophy of Science: Very Short Introduction. Oxford University Press, 2016.
-* Feynman, Richard P. The meaning of it all: Thoughts of a citizen-scientist. Addison-Wesley, 1998.
-
-## Writing Science
-* Schimiel, J. (2011). Writing Science: How to Write Papers That Get Cited and Proposals That Get Funded. Oxford University Press. 
-* Silvia, P. J. (2007) How to write a lot: A practical guide to productive academic writing. American Psychological Association.
-* White, E. B., and Strunk, W. (2014) The elements of style. Pearson Education Limited.
-
-## Statistics
-* DeGroot, M. H., & Schervish, M. J. (2012). Probability and Statistics (4th ed.). Addison-Wesley.
-
-# Nice Wikipedia pages
-* https://en.wikipedia.org/wiki/Philosophy_of_science
-* https://en.wikipedia.org/wiki/List_of_fallacies
-* https://en.wikipedia.org/wiki/IMRAD
-
-# Similar lists
-* https://www.cs.tufts.edu/~nr/students/
-* http://www.ece.ucsb.edu/~yuanxie/Advice.html
