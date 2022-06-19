@@ -1,32 +1,7 @@
-▼　PhD
-I’m Marina Shimizu, 3rd year Ph.D Student in Nagoya University in Japan.<br>
-My project is about the animal cult in ancient egypt, particullery in ptolemaic period.<br>
-Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
-<br>
-
-<h2 id="career Background">Career Background</h2
-
-| ---- | ---- |<br>
-| 2014/4-2018/3 |Department of Cultural and Historical Studies, Kindai University|<br>
-| 2018/4-2020/3 |M.A. Graduate School of Humanities, Nagoya University|<br>
-| 2020/4-Present |Ph.D student Graduate School of Humanities, Nagoya University|<br>
-| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)|<br>
-| 2021/8-Present |Visiting Scholar, Free University of Berlin|<br>
-
-
-▼Media<br>
-[My HomePage](https://horikoshiyuki.wraptas.site/)<br>
-
-[Twitter](https://twitter.com/13ypt)<br>
-
-[You Tube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
-
-
-
 # Contents
-- [On why (or why not)](#on-why) 
-- [On how](#on-how)
-  - [Overall](#overall)
+- [PhD student](#PhD student) 
+- [career Background](#career Background)
+  - [Media](#Media)
   - [Admission](#admission)
   - [Reading a paper](#reading-a-paper)
   - [On writing](#on-writing)
@@ -52,6 +27,31 @@ Forcussing on the facility where the animal mummies were buried and reserching t
   - [Statistics](#statistics)
 - [Nice Wikipedia pages](#nice-wikipedia-pages)
 - [Similar lists](#similar-lists)
+
+
+<h1 id="PhD student">PhD student</h1
+
+I’m Marina Shimizu, 3rd year Ph.D Student in Nagoya University in Japan.<br>
+My project is about the animal cult in ancient egypt, particullery in ptolemaic period.<br>
+Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
+<br>
+
+<h2 id="career Background">Career Background</h2
+
+| ---- | ---- |<br>
+| 2014/4-2018/3 |Department of Cultural and Historical Studies, Kindai University|<br>
+| 2018/4-2020/3 |M.A. Graduate School of Humanities, Nagoya University|<br>
+| 2020/4-Present |Ph.D student Graduate School of Humanities, Nagoya University|<br>
+| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)|<br>
+| 2021/8-Present |Visiting Scholar, Free University of Berlin|<br>
+
+<h3 id="Media">Media</h3
+[My HomePage](https://horikoshiyuki.wraptas.site/)<br>
+
+[Twitter](https://twitter.com/13ypt)<br>
+
+[You Tube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
+
 
 # On why (or why not) to pursue a Ph.D.
 * *The Ph.D Experience* by Mihir Bellare
