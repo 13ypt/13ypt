@@ -54,11 +54,11 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 
 <h2 id=(#Research-Achievement)>Research Achievement</h2
 # English article
-* *”Crocodile Worship: Cultic Niches for Crocodile Mummies in Local Temples”, Preliminary Report Akoris 2020, Kawanishi. H., Tsujimura. S. and Hanasaka. T.(eds.), Akoris Archaeological Project.
+* *”Crocodile Worship: Cultic Niches for Crocodile Mummies in Local Temples”, *Preliminary Report Akoris 2020*, Kawanishi. H., Tsujimura. S. and Hanasaka. T.(eds.), Akoris Archaeological Project.
   
 # On how
 ## Japanese article
-* "Animal Cults in Memphis in the Late Period of Ancient Egypt", Nagoya University Humanities Forum 2, 113-126, 2019.（「古代エジプト末期王朝時代におけるメンフィスの動物信仰について」、『名古屋大学人文学フォーラム２』、名古屋大学大学院人文学研究科、pp.113-126. 2019年）
+* "Animal Cults in Memphis in the Late Period of Ancient Egypt", *Nagoya University Humanities Forum 2*, 113-126, 2019.（「古代エジプト末期王朝時代におけるメンフィスの動物信仰について」、『名古屋大学人文学フォーラム２』、名古屋大学大学院人文学研究科、pp.113-126. 2019年）
 　*https://irdb.nii.ac.jp/en/01152/0003997271
   
 * 「サッカラ地区イセウムの遺構分析」、『第25 回ヘレニズム～イスラーム考古学研究会2018』、六一書房、pp.73-82. 2019年
