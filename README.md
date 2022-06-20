@@ -5,7 +5,7 @@
 - [Research-Achievement](#Research-Achievement)
   - [Japanese-Articles](#Japanese-Articles)
   - [Reports](#Reports)
-  - [General writing](#General writing)
+  - [General-Writing](#General-Writing)
   - [Report-About-Japanese-Article](#Report-About-Japanese-Article)
   - [Presentations](#Presentations)
   - [Poster-Presentations](#Poster-Presentations)
@@ -53,13 +53,12 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 * 「プトレマイオス朝エジプトにおけるサッカラのハヤブサ・カタコンベについて」、『近畿大学卒業論文要旨集』、近畿大学、117-156. 2018年.
 
 * 「中エジプトの動物墓地からみる聖獣信仰の様相について」、『名古屋大学大学院人文学研究科フィールド調査プロジェクト』、名古屋大学、9月・2020年.
-　*file:///C:/Users/msn01/Downloads/nenjk_2019_9.pdf
   
 * 「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学　第25回大会要旨集』、51-52. 2020年
 　
 * (summery)"Archaeological Analysis of Animal Catacombs in Ptolemaic Egypt",*Journal of West Asian Archaeology Vol. 22*, 2020.(「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学』第22号　研究発表要旨、2020年)
 
-## General writing
+## General-Writing
 * 「古代エジプトの動物崇拝とアコリス」、文化遺産の世界
 　* https://www.isan-no-sekai.jp/report/8208
 
