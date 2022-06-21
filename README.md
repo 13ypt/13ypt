@@ -11,14 +11,14 @@
   - [Presentations](#Presentations)
   - [Poster Presentations](#Poster-Presentations)
 
-<h2 id=(#PhD-student)>PhD student</h2
+<h2 id=(#PhD-student)>PhD student</h2>
 
 I’m Marina Shimizu, 3rd year Ph.D Student in Nagoya University in Japan.<br>
 My project is about the animal cult in ancient egypt, particullery in ptolemaic period.<br>
 Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
 <br>
   
-<h2 id=(#career-Background)>Career Background</h2
+<h2 id=(#career-Background)>Career Background</h2>
   
 | 2014/4-2018/3  |B.A., Department of Cultural and Historical Studies, Kindai University<br>
 | 2018/4-2020/3  |M.A., Graduate School of Humanities, Nagoya University<br>
@@ -27,14 +27,15 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 | 2021/4-2023/3  |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)<br>
 | 2021/8-2023/3  |Visiting Scholar, Free University of Berlin<br>
 
-<h2 id=(#Outreach-Activity)>Outreach Activity</h2
-I support *Yuki in Ancient Egypt*, our outreach activity to try introducing egyptology on YouTube. 
-Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. 
-Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt.
+<h2 id=(#Outreach-Activity)>Outreach Activity</h2>
+I support *Yuki in Ancient Egypt*, our outreach activity to try introducing egyptology on YouTube. <br>
+Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. <br>
+Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt.<br>
 Uploaded is every tuesday and saturday at 19:00.
   
-<h2 id=(#Media)>Media</h2  
   
+<h2 id=(#Media)>Media</h2>
+ 
 [MyHomePage](https://researchmap.jp/13ypt)<br>
 
 [Twitter](https://twitter.com/13ypt)<br>
