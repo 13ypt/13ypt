@@ -20,18 +20,19 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 <h2 id=(#career-Background)>Career Background</h2
 
 | ---- | ---- |<br>
-| 2014/4-2018/3  |B.A., Department of Cultural and Historical Studies, Kindai University|<br>
-| 2018/4-2020/3  |M.A., Graduate School of Humanities, Nagoya University|<br>
-| 2020/4-Present |Ph.D student, Graduate School of Humanities, Nagoya University|<br>
-| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)|<br>
-| 2021/8-Present |Visiting Scholar, Free University of Berlin|<br>
+| 2014/4-2018/3  |B.A., Department of Cultural and Historical Studies, Kindai University<br>
+| 2018/4-2020/3  |M.A., Graduate School of Humanities, Nagoya University<br>
+| 2020/4-Present |Ph.D student, Graduate School of Humanities, Nagoya University<br>
+| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)<br>
+| 2021/8-Present |Visiting Scholar, Free University of Berlin<br>
 
 <h2 id="Media">Media</h2
-[My HomePage](https://horikoshiyuki.wraptas.site/)<br>
+  
+[MyHomePage](https://researchmap.jp/13ypt)<br>
 
 [Twitter](https://twitter.com/13ypt)<br>
 
-[You Tube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
+[YouTube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
 
 <h2 id=(#Research-Achievement)>Research Achievement</h2
 # English article
@@ -40,7 +41,7 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 # On how
 ## Japanese-Articles
 * "Animal Cults in Memphis in the Late Period of Ancient Egypt", *Nagoya University Humanities Forum 2*, 113-126, 2019.（「古代エジプト末期王朝時代におけるメンフィスの動物信仰について」、『名古屋大学人文学フォーラム２』、名古屋大学大学院人文学研究科、pp.113-126. 2019年）
-　*https://irdb.nii.ac.jp/en/01152/0003997271
+　*https://irdb.nii.ac.jp/en/01152/0003997271*
   
 * "Analysis of Iseum at Saqqara", *The 25th Annual Meeting of Japan Society for Hellenistic-Islam Archaeological Studies*, pp.73-82, 2019.(「サッカラ地区イセウムの遺構分析」、『第25 回ヘレニズム～イスラーム考古学研究会2018』、六一書房、pp.73-82. 2019年)
 
@@ -60,7 +61,7 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 
 ## General-Writing
 * 「古代エジプトの動物崇拝とアコリス」、文化遺産の世界
-　* https://www.isan-no-sekai.jp/report/8208
+　*https://www.isan-no-sekai.jp/report/8208*
 
 ## Report-About-Japanese-Article
 * 筒井崇史・岡田健吾・高野陽子・石井清司・竹村亮仁・米田拓海・清水麻里奈・伊賀高弘・松井忍『京都府遺跡調査報告集 第168冊 新名神高速道路整備事業関係遺跡（１）下水主遺跡第４次（F地区）（２）女谷・荒坂横穴群第14次』、京都府埋蔵文化財調査研究センター、2017.
