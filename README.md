@@ -1,6 +1,7 @@
 # Contents
 - [PhD student](#PhD-student) 
 - [career Background](#career-Background)
+- [Outreach](#Outreach)
 - [Media](#Media)
 - [Research-Achievement](#Research-Achievement)
   - [Japanese-Articles](#Japanese-Articles)
@@ -17,15 +18,21 @@ My project is about the animal cult in ancient egypt, particullery in ptolemaic 
 Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
 <br>
 
-<h2 id=(#career-Background)>Career Background</h2
+<h2 id=(#Outreach)>Outreach</h2
+I support *Yuki in Ancient Egypt*, our outreach activity to try introducing egyptology on YouTube. 
+Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. 
+Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt.
+Uploaded is every tuesday and saturday at 19:00.
 
-| ---- | ---- |<br>
 | 2014/4-2018/3  |B.A., Department of Cultural and Historical Studies, Kindai University<br>
 | 2018/4-2020/3  |M.A., Graduate School of Humanities, Nagoya University<br>
+| 2019/4-2019/12 |Research Fellowship, Field Research Project of Graduate School of Humanities, Nagoya University<br>
 | 2020/4-Present |Ph.D student, Graduate School of Humanities, Nagoya University<br>
-| 2021/4-Present |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)<br>
-| 2021/8-Present |Visiting Scholar, Free University of Berlin<br>
+| 2021/4-2023/3  |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)<br>
+| 2021/8-2023/3  |Visiting Scholar, Free University of Berlin<br>
 
+<h2 id=(#PhD-student)>PhD student</h2
+  
 <h2 id="Media">Media</h2
   
 [MyHomePage](https://researchmap.jp/13ypt)<br>
