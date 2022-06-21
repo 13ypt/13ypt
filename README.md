@@ -1,6 +1,6 @@
 # Contents
 - [PhD student](#PhD-student) 
-- [career Background](#career-Background)
+- [Career Background](#career-Background)
 - [Outreach Activity](#Outreach-Activity)
 - [Media](#Media)
 - [Research Achievement](#Research-Achievement)
@@ -66,7 +66,7 @@ I support _Yuki in Ancient Egypt_, our outreach activity to try introducing egyp
 　*https://www.isan-no-sekai.jp/report/8208*
 
 ## Report About Japanese Article
-*Tsutsui Takashi, Shimizu Marina. et al., "Kyoto Prefecture Site Survey Report Collection, 168, Sites Related to the New Meishin Expressway Development Project (1) Shimomizushi-Site 4th (F Area) (2) Onnadani and Arasaka Yokoana Group 14th," *Kyoto Prefectural Research Center for Archaeological and Burial Properties*, 2017. (
+* Tsutsui Takashi, Shimizu Marina. et al., "Kyoto Prefecture Site Survey Report Collection, 168, Sites Related to the New Meishin Expressway Development Project (1) Shimomizushi-Site 4th (F Area) (2) Onnadani and Arasaka Yokoana Group 14th," *Kyoto Prefectural Research Center for Archaeological and Burial Properties*, 2017. (
  筒井崇史・岡田健吾・高野陽子・石井清司・竹村亮仁・米田拓海・清水麻里奈・伊賀高弘・松井忍『京都府遺跡調査報告集 第168冊 新名神高速道路整備事業関係遺跡（１）下水主遺跡第４次（F地区）（２）女谷・荒坂横穴群第14次』、京都府埋蔵文化財調査研究センター、2017年)
   
 ## Presentations
