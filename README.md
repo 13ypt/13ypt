@@ -46,27 +46,28 @@ I support _Yuki in Ancient Egypt_, our outreach activity to try introducing egyp
   
 * "Analysis of Iseum at Saqqara", *The 25th Annual Meeting of Japan Society for Hellenistic-Islam Archaeological Studies*, pp.73-82, 2019.(「サッカラ地区イセウムの遺構分析」、『第25 回ヘレニズム～イスラーム考古学研究会2018』、六一書房、pp.73-82. 2019年)
 
-* "The Rise and Fall of Animal cult in Ancient Egypt", *Cultura antica*,pp.88-97,2022.(「古代エジプトにおける動物崇拝の盛衰」『古代文化』72号第3号、pp. 88-97、2020年)
+* "The Rise and Fall of Animal cult in Ancient Egypt", *Cultura antica* ,pp.88-97,2022.(「古代エジプトにおける動物崇拝の盛衰」『古代文化』72号第3号、pp. 88-97、2020年)
 
-* "Archaeological Analysis of Animal Catacombs in Ptolemaic Egypt",*Journal of West Asian Archaeology Vol. 22*, pp. 91-107.(「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究」『西アジア考古学』第22号、pp.91-107. 2021年)
+* "Archaeological Analysis of Animal Catacombs in Ptolemaic Egypt", *Journal of West Asian Archaeology Vol. 22*, pp. 91-107.(「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究」『西アジア考古学』第22号、pp.91-107. 2021年)
 
 
 ## Reports
 　
 * "the falcon catacombs of Saqqara in Ptolemaic Egypt", *Abstracts of the Graduation Theses of Kindai University*, Kindai University, 117-156. 2018. (「プトレマイオス朝エジプトにおけるサッカラのハヤブサ・カタコンベについて」、『近畿大学卒業論文要旨集』、近畿大学、117-156. 2018年)
 
-* 'the Worship of Sacred Animals from Animal Cemeteries in Middle Egypt', *Field Research Project of Graduate School of Humanities of Nagoya University*, Nagoya University, Sept. 2020. (「中エジプトの動物墓地からみる聖獣信仰の様相について」、『名古屋大学大学院人文学研究科フィールド調査プロジェクト』、名古屋大学、9月・2020年.)
+* "the Worship of Sacred Animals from Animal Cemeteries in Middle Egypt", *Field Research Project of Graduate School of Humanities of Nagoya University*, Nagoya University, Sept. 2020. (「中エジプトの動物墓地からみる聖獣信仰の様相について」、『名古屋大学大学院人文学研究科フィールド調査プロジェクト』、名古屋大学、9月・2020年.)
   
-* "An Archaeological Study of Animal Cult in Ptolemaic Egypt, Focusing on the Analysis of Votive Animal Remains," *Abstracts of the 25th Annual Meeting of the West Asian Archaeology*, 51-52. 2020. (「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学　第25回大会要旨集』、51-52. 2020年)
+* "An Archaeological Study of Animal Cult in Ptolemaic Egypt, Focusing on the Analysis of Votive Animal Remains", *Abstracts of the 25th Annual Meeting of the West Asian Archaeology*, 51-52. 2020. (「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学　第25回大会要旨集』、51-52. 2020年)
 　
-* (summery)"Archaeological Analysis of Animal Catacombs in Ptolemaic Egypt",*Journal of West Asian Archaeology Vol. 22*, 2020.(「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学』第22号　研究発表要旨、2020年)
+* "Archaeological Analysis of Animal Catacombs in Ptolemaic Egypt", *Journal of West Asian Archaeology Vol. 22*, 2020.(「プトレマイオス朝エジプトにおける動物崇拝の考古学的研究-奉納用動物の遺構分析を中心に-」『西アジア考古学』第22号　研究発表要旨、2020年)
 
 ## General Writing
-* 「古代エジプトの動物崇拝とアコリス」、『文化遺産の世界』、11月・2021年
+* "Animal cult in Akoris and ancient Egypt", *The World of Cultural Heritage*, Nov. 2021.(「古代エジプトの動物崇拝とアコリス」、『文化遺産の世界』、11月・2021年)
 　*https://www.isan-no-sekai.jp/report/8208*
 
 ## Report About Japanese Article
-* 筒井崇史・岡田健吾・高野陽子・石井清司・竹村亮仁・米田拓海・清水麻里奈・伊賀高弘・松井忍『京都府遺跡調査報告集 第168冊 新名神高速道路整備事業関係遺跡（１）下水主遺跡第４次（F地区）（２）女谷・荒坂横穴群第14次』、京都府埋蔵文化財調査研究センター、2017.
+*Tsutsui Takashi, Shimizu Marina. et al., "Kyoto Prefecture Site Survey Report Collection, 168, Sites Related to the New Meishin Expressway Development Project (1) Shimomizushi-Site 4th (F Area) (2) Onnadani and Arasaka Yokoana Group 14th," *Kyoto Prefectural Research Center for Archaeological and Burial Properties*, 2017. (
+ 筒井崇史・岡田健吾・高野陽子・石井清司・竹村亮仁・米田拓海・清水麻里奈・伊賀高弘・松井忍『京都府遺跡調査報告集 第168冊 新名神高速道路整備事業関係遺跡（１）下水主遺跡第４次（F地区）（２）女谷・荒坂横穴群第14次』、京都府埋蔵文化財調査研究センター、2017年)
   
 ## Presentations
 * 「プトレマイオス朝エジプトにおけるメンフィスの動物墓地」、若き考古学徒論壇デビュー 大阪府立弥生文化博物館、1月・2018年
@@ -95,7 +96,7 @@ I support _Yuki in Ancient Egypt_, our outreach activity to try introducing egyp
   
 
 ## Poster Presentations
-* 安倍雅史・清水麻里奈ほか「バハレーン、ワーディー・アッ＝サイル考古学プロジェクト2017」、日本西アジア考古学会第22 回大会、天理大学、７月・2017 年. 
+* Masashi Abe, Marina Shimizu, et al. "Bahrain, Wadi as Sail Archaeology Project 2017," the 22nd Conference of the West Asian Archaeology, Tenri University, July, 2017. (安倍雅史・清水麻里奈ほか「バハレーン、ワーディー・アッ＝サイル考古学プロジェクト2017」、日本西アジア考古学会第22 回大会、天理大学、７月・2017年) 
 
-* 方美樺、相場伸彦、清水麻里奈、須賀永帰、島田莉菜　2020 『令和2年度考古学セミナー　あいちの考古学２０２０　資料集』「2020年度豊田市伊保古瓦出土地（伊保白鳳寺）の発掘調査報告」愛知県埋蔵文化財センター、30-31. 12月・2020年
+* Fang, Mika, Nobuhiko Aiba, Marina Shimizu, Eikki Suga, and Rina Shimada 2020, "2020 Archaeological Seminar: Materials for the Archaeology of Aichi 2020," "Excavation Report of Old Tiles from Iho, Toyota City (Iho Hakuho-ji Temple) in 2020. Report of Excavation Survey," Aichi Prefectural Archaeological Center, 30-31. December, 2020. (方美樺、相場伸彦、清水麻里奈、須賀永帰、島田莉菜　2020 『令和2年度考古学セミナー　あいちの考古学２０２０　資料集』「2020年度豊田市伊保古瓦出土地（伊保白鳳寺）の発掘調査報告」愛知県埋蔵文化財センター、30-31. 12月・2020年)
 
