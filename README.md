@@ -28,7 +28,7 @@ Forcussing on the facility where the animal mummies were buried and reserching t
 | 2021/8-2023/3  |Visiting Scholar, Free University of Berlin<br>
 
 <h2 id=(#Outreach-Activity)>Outreach Activity</h2>
-I support *Yuki* *in* *Ancient* *Egypt*, our outreach activity to try introducing egyptology on YouTube. Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt. Uploaded is every tuesday and saturday at 19:00.<br>
+I support _Yuki in Ancient Egypt_, our outreach activity to try introducing egyptology on YouTube. Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt. Uploaded is every tuesday and saturday at 19:00.<br>
   
   
 <h2 id=(#Media)>Media</h2>
