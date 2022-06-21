@@ -13,10 +13,7 @@
 
 <h2 id=(#PhD-student)>PhD student</h2>
 
-I’m Marina Shimizu, 3rd year Ph.D Student in Nagoya University in Japan.<br>
-My project is about the animal cult in ancient egypt, particullery in ptolemaic period.<br>
-Forcussing on the facility where the animal mummies were buried and reserching the Ptolemaic religious policy.<br>
-<br>
+My name is Marina Shimizu, 3rd-year Ph.D. Student of Graduate School of Humanities at Nagoya University in Japan. My project is about the animal cult in ancient Egypt, particularly in the Ptolemaic period. During Ph. D. Student, I'm analyzing the process that led to the flourishing of the animal cult during the Ptolemaic period from the perspective of archaeological remains, focusing on the facility where the animal mummies were buried and researching the Ptolemaic religious policy.<br>
   
 <h2 id=(#career-Background)>Career Background</h2>
   
