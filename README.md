@@ -27,7 +27,7 @@ My name is Marina Shimizu, 3rd-year Ph.D. Student of Graduate School of Humaniti
 | 2025/4-present |Visiting Scholar, Free University of Berlin<br>
 
 <h2 id=(#Outreach-Activity)>Outreach Activity</h2>
-I support Yuki in Ancient Egypt, our outreach activity to try introducing egyptology on YouTube. Dr. Kawae, Professor at the Center for the Advancement of Digital Humanities and Social Sciences at Nagoya University and a National Geographic Explorer, launched the channel on January 5, 2021, with the explicit aim of disseminating professional Egyptological research to general audiences. As of June 2025, the channel has achieved remarkable metrics: 315,000 subscribers, 43.34 million total views, and 459 published videos, establishing it as one of the largest humanities-focused YouTube channels in the Japanese-speaking world. ![image](https://github.com/user-attachments/assets/08807512-372c-4fc0-8a72-17d54e812238)
+I support Yuki in Ancient Egypt, our outreach activity to try introducing egyptology on YouTube. Dr. Kawae, Professor at the Center for the Advancement of Digital Humanities and Social Sciences at Nagoya University and a National Geographic Explorer, launched the channel on January 5, 2021, with the explicit aim of disseminating professional Egyptological research to general audiences. As of June 2025, the channel has achieved remarkable metrics: 315,000 subscribers, 43.34 million total views, and 459 published videos, establishing it as one of the largest humanities-focused YouTube channels in the Japanese-speaking world. 
 <br>
   
   
