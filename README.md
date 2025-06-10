@@ -13,7 +13,12 @@
 
 <h2 id=(#PhD-student)>PhD student</h2>
 
-My name is Marina Shimizu, 3rd-year Ph.D. Student of Graduate School of Humanities at Nagoya University in Japan. My project is about the animal cult in ancient Egypt, particularly in the Ptolemaic period. During Ph. D. Student, I'm analyzing the process that led to the flourishing of the animal cult during the Ptolemaic period from the perspective of archaeological remains, focusing on the facility where the animal mummies were buried and researching the Ptolemaic religious policy.<br>
+I am a Japanese Egyptologist and JSPS Overseas Research Fellow currently holding a post-doctoral position at the Institute of Egyptology, Freie Universität Berlin. My research explores the social and religious history of Ptolemaic Egypt, with a particular focus on animal cults—especially crocodile and ibis worship in Middle Egypt—and on the transmission of early-dynastic historiography in Manetho’s Aegyptiaca.
+
+Since 2020 I have been pursuing a Ph.D. in Ancient History at Nagoya University’s Graduate School of Humanities. Fieldwork is central to my scholarship: I have participated in the Akoris Archaeological Project (2019, 2020, 2022, 2024); three consecutive seasons of the Asyut Necropolis excavations (The Asyut Project, 16th season 2022; 17th season 2023; 18th season 2024); and, most recently, the Sinki Archaeological Project (2024, 2025).
+
+These experiences inform both my current publications and my ongoing dissertation on animal cults and regional identities in Ptolemaic Middle Egypt.
+<br>
   
 <h2 id=(#career-Background)>Career Background</h2>
   
