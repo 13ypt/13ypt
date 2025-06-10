@@ -20,12 +20,15 @@ My name is Marina Shimizu, 3rd-year Ph.D. Student of Graduate School of Humaniti
 | 2014/4-2018/3  |B.A., Department of Cultural and Historical Studies, Kindai University<br>
 | 2018/4-2020/3  |M.A., Graduate School of Humanities, Nagoya University<br>
 | 2019/4-2019/12 |Research Fellowship, Field Research Project of Graduate School of Humanities, Nagoya University<br>
-| 2020/4-Present |Ph.D student, Graduate School of Humanities, Nagoya University<br>
+| 2020/4-2025/3  |Ph.D student, Graduate School of Humanities, Nagoya University<br>
 | 2021/4-2023/3  |Research Fellowships for Young Scientists, Japan Society for the Promotion of Science (JSPS)<br>
 | 2021/8-2023/3  |Visiting Scholar, Free University of Berlin<br>
+| 2025/4-present |Postdoctral Fellowship for Research Abroad, Japan Society for the Promotion of Science (JSPS)<br>
+| 2025/4-present |Visiting Scholar, Free University of Berlin<br>
 
 <h2 id=(#Outreach-Activity)>Outreach Activity</h2>
-I support _Yuki in Ancient Egypt_, our outreach activity to try introducing egyptology on YouTube. Our primary caster is Yukinori Kawae, an Egyptologist, an Associate Professor at the Nagoya University, and an Explorer for the National Geographic Society. Through YouTube, I hope to provide people with easy-to-understand and academically helpful content that will help people learn more about ancient Egypt. Uploaded is every tuesday and saturday at 19:00.<br>
+I support Yuki in Ancient Egypt, our outreach activity to try introducing egyptology on YouTube. Dr. Kawae, Professor at the Center for the Advancement of Digital Humanities and Social Sciences at Nagoya University and a National Geographic Explorer, launched the channel on January 5, 2021, with the explicit aim of disseminating professional Egyptological research to general audiences. As of June 2025, the channel has achieved remarkable metrics: 315,000 subscribers, 43.34 million total views, and 459 published videos, establishing it as one of the largest humanities-focused YouTube channels in the Japanese-speaking world. ![image](https://github.com/user-attachments/assets/08807512-372c-4fc0-8a72-17d54e812238)
+<br>
   
   
 <h2 id=(#Media)>Media</h2>
