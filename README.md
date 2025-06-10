@@ -11,7 +11,7 @@
   - [Presentations](#Presentations)
   - [Poster Presentations](#Poster-Presentations)
 
-<h2 id=(#PhD-student)>PhD student</h2>
+<h2 id=(#PhD-student)>POSTDOC RESEARCHER</h2>
 
 I am a Japanese Egyptologist and JSPS Overseas Research Fellow currently holding a post-doctoral position at the Institute of Egyptology, Freie Universität Berlin. My research explores the social and religious history of Ptolemaic Egypt, with a particular focus on animal cults—especially crocodile and ibis worship in Middle Egypt—and on the transmission of early-dynastic historiography in Manetho’s Aegyptiaca.
 
