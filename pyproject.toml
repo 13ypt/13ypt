@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "egypt-paper-notifier"
+version = "1.0.0"
+description = "古代エジプトの動物崇拝に関する新規論文を自動検索し通知するアプリ"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.31",
+    "schedule>=1.2",
+    "pyyaml>=6.0",
+    "plyer>=2.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0", "responses>=0.23"]
+
+[project.scripts]
+egypt-notify = "egypt_paper_notifier.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["egypt_paper_notifier*"]
