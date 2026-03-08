@@ -1,0 +1,39 @@
+# Egypt Paper Notifier 設定ファイル
+# ~/.egypt_paper_notifier/config.yaml にコピーして使用してください
+
+# 検索キーワード（英語推奨。各APIで OR 検索されます）
+keywords:
+  - "ancient Egypt animal worship"
+  - "ancient Egypt animal cult"
+  - "Egyptian animal mummy"
+  - "Egyptian sacred animals"
+  - "Egyptian Apis bull"
+  - "Egyptian cat goddess Bastet"
+  - "Egyptian ibis Thoth"
+  - "Egyptian crocodile Sobek"
+  - "Egyptian falcon Horus"
+  - "Egyptian scarab beetle"
+  - "ancient Egypt theriomorphic"
+
+# チェック間隔（時間）
+check_interval_hours: 24
+
+# 検索ソース
+sources:
+  arxiv: true
+  crossref: true
+  pubmed: true
+
+# 通知設定
+notification:
+  # デスクトップ通知
+  desktop: true
+
+  # メール通知
+  email:
+    enabled: false
+    smtp_host: smtp.gmail.com
+    smtp_port: 587
+    username: "your-email@gmail.com"
+    password: "your-app-password"
+    to_address: "your-email@gmail.com"
