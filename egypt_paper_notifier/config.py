@@ -23,6 +23,11 @@ DEFAULT_KEYWORDS = [
     "Egyptian falcon Horus",
     "Egyptian scarab beetle",
     "ancient Egypt theriomorphic",
+    "Egyptian animal cults",
+    "Animal Necropolis Ware",
+    "Mendes Stele",
+    "Thebaid Apis",
+    "Maidum bowls",
     "古代エジプト 動物崇拝",
     "古代エジプト 動物ミイラ",
 ]

@@ -14,6 +14,11 @@ keywords:
   - "Egyptian falcon Horus"
   - "Egyptian scarab beetle"
   - "ancient Egypt theriomorphic"
+  - "Egyptian animal cults"
+  - "Animal Necropolis Ware"
+  - "Mendes Stele"
+  - "Thebaid Apis"
+  - "Maidum bowls"
 
 # チェック間隔（時間）
 check_interval_hours: 24
@@ -32,7 +37,7 @@ notification:
   # メール通知
   email:
     enabled: false
-    smtp_host: smtp.gmail.com
+    smtp_host: "smtp.gmail.com"
     smtp_port: 587
     username: "your-email@gmail.com"
     password: "your-app-password"
