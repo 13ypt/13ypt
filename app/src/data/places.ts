@@ -63,7 +63,7 @@ export const GAZETTEER: GazetteerEntry[] = [
     nameJa: "キュレネ",
     lat: 32.8250,
     lng: 21.8583,
-    keywords: ["キュレネ", "キュレナイカ"],
+    keywords: ["キュレネ", "キュレナイカ", "キレネ"],
   },
   {
     id: "cyprus",
@@ -107,6 +107,31 @@ export const GAZETTEER: GazetteerEntry[] = [
     lat: 40.3833,
     lng: 27.8833,
     keywords: ["キュジコス"],
+  },
+  {
+    id: "ombos",
+    name: "Ombos (Kom Ombo)",
+    nameJa: "オンボイ（コム・オンボ）",
+    lat: 24.4520,
+    lng: 32.9233,
+    keywords: ["オンボイ", "コム・オンボ"],
+  },
+  {
+    id: "heracleopolis",
+    name: "Heracleopolis Magna",
+    nameJa: "ヘラクレオポリス",
+    lat: 29.0859,
+    lng: 30.9328,
+    keywords: ["ヘラクレオポリス"],
+  },
+  {
+    id: "eastern-desert",
+    name: "Eastern Desert",
+    nameJa: "東部砂漠",
+    lat: 26.5,
+    lng: 33.0,
+    approximate: true,
+    keywords: ["東部砂漠"],
   },
 ];
 

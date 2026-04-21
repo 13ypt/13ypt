@@ -1,5 +1,15 @@
-export type Layer = "political" | "regional" | "religious";
+export type Layer = "political" | "regional" | "religious" | "animal-cult";
 export type EventType = "fact" | "interpretation";
+
+export type ActorId = string; // e.g. "ptolemy-viii"
+
+export interface Actor {
+  id: ActorId;
+  nameJa: string;
+  nameEn?: string;
+  role?: string;
+  lifespan?: { birth?: number; death?: number };
+}
 
 export interface Citation {
   id: string;
@@ -49,6 +59,7 @@ export interface HistoricalEvent {
   // content
   description: string;
   placeId?: string;
+  actors?: ActorId[];
   citationRefs: CitationRef[];
   alternatives?: AlternativeInterpretation[];
 }
@@ -76,3 +87,25 @@ export interface King {
   transparencyNote?: string;
   characterNotes?: { title: string; intro?: string; items: CharacterNote[] };
 }
+
+export interface TimelineDataset {
+  id: string;
+  title: string;
+  titleJa: string;
+  summaryJa?: string;
+  dateRange: { start: number; end: number };
+  actors: Actor[];
+  events: HistoricalEvent[];
+  places: Place[];
+  citations: Citation[];
+  transparencyNote?: string;
+}
+
+export type ViewDescriptor =
+  | { kind: "king"; id: string; labelJa: string; king: King }
+  | {
+      kind: "timeline";
+      id: string;
+      labelJa: string;
+      timeline: TimelineDataset;
+    };

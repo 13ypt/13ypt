@@ -1,28 +1,26 @@
 import type {
-  King,
   HistoricalEvent,
   CitationRef,
   Layer,
+  Citation,
+  Place,
+  Actor,
 } from "../data/types";
+import { LAYER_COLORS, LAYER_LABELS } from "./Timeline";
 
 interface Props {
-  king: King;
   event: HistoricalEvent | null;
+  places: Place[];
+  citations: Citation[];
+  actors?: Actor[];
 }
 
-const LAYER_LABELS: Record<Layer, string> = {
-  political: "政治",
-  regional: "地域・建築",
-  religious: "宗教",
-};
-
-const LAYER_COLORS: Record<Layer, string> = {
-  political: "#c04040",
-  regional: "#2f8f6e",
-  religious: "#7a3ca1",
-};
-
-export default function EventDetail({ king, event }: Props) {
+export default function EventDetail({
+  event,
+  places,
+  citations,
+  actors = [],
+}: Props) {
   if (!event) {
     return (
       <div className="detail">
@@ -34,17 +32,24 @@ export default function EventDetail({ king, event }: Props) {
   }
 
   const place = event.placeId
-    ? king.places.find((p) => p.id === event.placeId)
+    ? places.find((p) => p.id === event.placeId)
     : undefined;
 
+  const actorObjs =
+    event.actors
+      ?.map((id) => actors.find((a) => a.id === id))
+      .filter((a): a is Actor => Boolean(a)) ?? [];
+
   return (
-    <div className={`detail ${event.type === "interpretation" ? "is-interp" : ""}`}>
+    <div
+      className={`detail ${event.type === "interpretation" ? "is-interp" : ""}`}
+    >
       <div className="detail-meta">
         <span
           className="chip"
-          style={{ background: LAYER_COLORS[event.layer] }}
+          style={{ background: LAYER_COLORS[event.layer as Layer] }}
         >
-          {LAYER_LABELS[event.layer]}
+          {LAYER_LABELS[event.layer as Layer]}
         </span>
         <span className="chip-section">{event.section}</span>
         {event.type === "interpretation" && (
@@ -63,11 +68,21 @@ export default function EventDetail({ king, event }: Props) {
         )}
       </div>
 
+      {actorObjs.length > 0 && (
+        <div className="actor-chips">
+          {actorObjs.map((a) => (
+            <span key={a.id} className="actor-chip">
+              {a.nameJa}
+            </span>
+          ))}
+        </div>
+      )}
+
       <h2 className="detail-title">{stripCitations(event.description)}</h2>
 
       <section className="detail-section">
         <h3>論文・史料</h3>
-        <CitationRefsList king={king} refs={event.citationRefs} />
+        <CitationRefsList citations={citations} refs={event.citationRefs} />
       </section>
 
       {event.alternatives && event.alternatives.length > 0 && (
@@ -77,7 +92,10 @@ export default function EventDetail({ king, event }: Props) {
             {event.alternatives.map((alt) => (
               <li key={alt.id}>
                 <p>{alt.text}</p>
-                <CitationRefsList king={king} refs={alt.citationRefs} />
+                <CitationRefsList
+                  citations={citations}
+                  refs={alt.citationRefs}
+                />
               </li>
             ))}
           </ul>
@@ -92,14 +110,14 @@ function stripCitations(s: string): string {
 }
 
 function CitationRefsList({
-  king,
+  citations,
   refs,
 }: {
-  king: King;
+  citations: Citation[];
   refs: CitationRef[];
 }) {
   if (!refs.length)
-    return <p className="detail-empty">（出典情報なし）</p>;
+    return <p className="detail-empty">（典拠未記載）</p>;
   return (
     <ul className="cite-list">
       {refs.map((ref, i) => {
@@ -110,7 +128,7 @@ function CitationRefsList({
             </li>
           );
         }
-        const c = king.citations.find((x) => x.id === ref.citationId);
+        const c = citations.find((x) => x.id === ref.citationId);
         if (!c) return null;
         return (
           <li key={i}>

@@ -1,20 +1,31 @@
-import type { HistoricalEvent, King, Layer } from "../data/types";
+import type { HistoricalEvent, Layer } from "../data/types";
 
-const LAYER_COLORS: Record<Layer, string> = {
+export const LAYER_COLORS: Record<Layer, string> = {
   political: "#c04040",
   regional: "#2f8f6e",
   religious: "#7a3ca1",
+  "animal-cult": "#d98c3d",
 };
 
-const LAYER_LABELS: Record<Layer, string> = {
+export const LAYER_LABELS: Record<Layer, string> = {
   political: "政治",
   regional: "地域・建築",
   religious: "宗教",
+  "animal-cult": "動物崇拝・聖獣",
 };
 
+const LAYER_ORDER: Layer[] = [
+  "political",
+  "regional",
+  "religious",
+  "animal-cult",
+];
+
 interface Props {
-  king: King;
-  events: HistoricalEvent[]; // already filtered by layers
+  startYear: number;
+  endYear: number;
+  reigns?: { start: number; end: number; noteJa?: string }[];
+  events: HistoricalEvent[]; // already filtered
   enabledLayers: Set<Layer>;
   selectedEventId: string | null;
   hoveredEventId: string | null;
@@ -26,7 +37,9 @@ interface Props {
 const formatYear = (y: number) => (y < 0 ? `前${-y}年` : `${y}年`);
 
 export default function Timeline({
-  king,
+  startYear,
+  endYear,
+  reigns,
   events,
   enabledLayers,
   selectedEventId,
@@ -35,33 +48,32 @@ export default function Timeline({
   onHover,
   onToggleLayer,
 }: Props) {
-  const minYear = (king.birthYear ?? -200) - 2;
-  const maxYear = (king.deathYear ?? -100) + 2;
+  const minYear = startYear;
+  const maxYear = endYear;
   const span = Math.max(1, maxYear - minYear);
 
   const width = 1100;
-  const padL = 40;
+  const padL = 50;
   const padR = 20;
   const plotW = width - padL - padR;
-
   const yearToX = (y: number) => padL + ((y - minYear) / span) * plotW;
 
   const ticks: number[] = [];
-  const startTick = Math.ceil(minYear / 10) * 10;
-  for (let y = startTick; y <= maxYear; y += 10) ticks.push(y);
+  const tickStep = span > 80 ? 20 : span > 30 ? 10 : 5;
+  const startTick = Math.ceil(minYear / tickStep) * tickStep;
+  for (let y = startTick; y <= maxYear; y += tickStep) ticks.push(y);
 
   const eventsSorted = [...events].sort((a, b) => a.startYear - b.startYear);
 
-  // Allocate lanes per layer (three row-groups)
-  const layerOrder: Layer[] = ["political", "regional", "religious"];
-  const laneByEvent: Record<string, { row: number; layerRow: number }> = {};
+  // Allocate lanes per layer
+  const laneByEvent: Record<string, number> = {};
   const layerLaneCount: Record<Layer, number> = {
     political: 0,
     regional: 0,
     religious: 0,
+    "animal-cult": 0,
   };
-
-  for (const layer of layerOrder) {
+  for (const layer of LAYER_ORDER) {
     const lanesEnd: number[] = [];
     const evsInLayer = eventsSorted.filter((e) => e.layer === layer);
     for (const ev of evsInLayer) {
@@ -71,9 +83,11 @@ export default function Timeline({
       while (lane < lanesEnd.length && lanesEnd[lane] >= start - 1) lane++;
       if (lane === lanesEnd.length) lanesEnd.push(end);
       else lanesEnd[lane] = end;
-      laneByEvent[ev.id] = { row: lane, layerRow: lane };
+      laneByEvent[ev.id] = lane;
     }
-    layerLaneCount[layer] = Math.max(1, lanesEnd.length);
+    layerLaneCount[layer] = enabledLayers.has(layer)
+      ? Math.max(1, lanesEnd.length)
+      : 0;
   }
 
   const reignBandY = 78;
@@ -82,19 +96,20 @@ export default function Timeline({
   const laneH = 16;
   const dotR = 6;
 
-  // Compute y offsets for each layer group
   const layerYStart: Record<Layer, number> = {} as Record<Layer, number>;
-  let cursor = reignBandY + reignBandH + groupGap + 4;
-  for (const layer of layerOrder) {
+  let cursor = reignBandY + (reigns && reigns.length ? reignBandH + groupGap : groupGap) + 4;
+  for (const layer of LAYER_ORDER) {
     layerYStart[layer] = cursor;
-    cursor += layerLaneCount[layer] * laneH + groupGap;
+    if (enabledLayers.has(layer)) {
+      cursor += layerLaneCount[layer] * laneH + groupGap;
+    }
   }
   const svgHeight = cursor + 10;
 
   return (
     <div className="timeline-wrap">
       <div className="layer-toggles">
-        {layerOrder.map((l) => (
+        {LAYER_ORDER.map((l) => (
           <label key={l} className="layer-toggle">
             <input
               type="checkbox"
@@ -119,7 +134,6 @@ export default function Timeline({
         className="timeline-svg"
         preserveAspectRatio="xMidYMid meet"
       >
-        {/* axis */}
         <line x1={padL} x2={width - padR} y1={60} y2={60} stroke="#888" />
         {ticks.map((t) => (
           <g key={t}>
@@ -136,46 +150,32 @@ export default function Timeline({
           </g>
         ))}
 
-        {/* life span line */}
-        {king.birthYear !== undefined && king.deathYear !== undefined && (
+        {reigns && reigns.length > 0 && (
           <>
-            <line
-              x1={yearToX(king.birthYear)}
-              x2={yearToX(king.deathYear)}
-              y1={60}
-              y2={60}
-              stroke="#333"
-              strokeWidth={2}
-            />
-            <circle cx={yearToX(king.birthYear)} cy={60} r={3} fill="#333" />
-            <circle cx={yearToX(king.deathYear)} cy={60} r={3} fill="#333" />
+            {reigns.map((r, i) => (
+              <g key={i}>
+                <rect
+                  x={yearToX(Math.min(r.start, r.end))}
+                  y={reignBandY}
+                  width={Math.max(2, Math.abs(yearToX(r.end) - yearToX(r.start)))}
+                  height={reignBandH}
+                  fill="#d9b872"
+                  opacity={0.6}
+                  stroke="#a6863f"
+                />
+                <title>{r.noteJa ?? ""}</title>
+              </g>
+            ))}
+            <text x={padL - 4} y={reignBandY + 13} textAnchor="end" fontSize={10} fill="#6a5420">
+              治世
+            </text>
           </>
         )}
 
-        {/* reign bands */}
-        {king.reigns.map((r, i) => (
-          <g key={i}>
-            <rect
-              x={yearToX(Math.min(r.start, r.end))}
-              y={reignBandY}
-              width={Math.max(2, Math.abs(yearToX(r.end) - yearToX(r.start)))}
-              height={reignBandH}
-              fill="#d9b872"
-              opacity={0.6}
-              stroke="#a6863f"
-            />
-            <title>{r.noteJa ?? ""}</title>
-          </g>
-        ))}
-        <text x={padL} y={reignBandY - 3} fontSize={11} fill="#6a5420">
-          治世
-        </text>
-
-        {/* layer group separators + labels */}
-        {layerOrder.map((layer) => {
+        {LAYER_ORDER.map((layer) => {
+          if (!enabledLayers.has(layer)) return null;
           const y = layerYStart[layer];
           const h = layerLaneCount[layer] * laneH;
-          if (!enabledLayers.has(layer)) return null;
           return (
             <g key={layer}>
               <rect
@@ -193,11 +193,10 @@ export default function Timeline({
           );
         })}
 
-        {/* events */}
         {eventsSorted.map((ev) => {
-          const info = laneByEvent[ev.id];
-          if (!info) return null;
-          const cy = layerYStart[ev.layer] + info.row * laneH + 8;
+          if (!enabledLayers.has(ev.layer)) return null;
+          const lane = laneByEvent[ev.id] ?? 0;
+          const cy = layerYStart[ev.layer] + lane * laneH + 8;
           const x1 = yearToX(ev.startYear);
           const x2 = yearToX(ev.endYear ?? ev.startYear);
           const isSelected = selectedEventId === ev.id;
@@ -235,8 +234,8 @@ export default function Timeline({
                 strokeDasharray={isInterp ? "2 2" : undefined}
               />
               <title>
-                {`${ev.yearLabel} · ${ev.description.slice(0, 70)}${
-                  ev.description.length > 70 ? "…" : ""
+                {`${ev.yearLabel} · ${ev.description.slice(0, 80)}${
+                  ev.description.length > 80 ? "…" : ""
                 }`}
               </title>
             </g>

@@ -7,17 +7,12 @@ import {
   useMap,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import type { King, HistoricalEvent, Place, Layer } from "../data/types";
-
-const LAYER_COLORS: Record<Layer, string> = {
-  political: "#c04040",
-  regional: "#2f8f6e",
-  religious: "#7a3ca1",
-};
+import type { HistoricalEvent, Place, Layer } from "../data/types";
+import { LAYER_COLORS } from "./Timeline";
 
 interface Props {
-  king: King;
-  events: HistoricalEvent[]; // already filtered
+  places: Place[];
+  events: HistoricalEvent[];
   selectedEventId: string | null;
   hoveredEventId: string | null;
   onSelect: (id: string) => void;
@@ -33,17 +28,19 @@ function Recenter({ place }: { place: Place | null }) {
 }
 
 export default function MapView({
-  king,
+  places,
   events,
   selectedEventId,
   hoveredEventId,
   onSelect,
   onHover,
 }: Props) {
-  const placeById = Object.fromEntries(king.places.map((p) => [p.id, p]));
+  const placeById = Object.fromEntries(places.map((p) => [p.id, p]));
 
-  // For each place, count events and determine dominant layer color
-  const perPlace: Record<string, { count: number; layers: Set<Layer>; events: HistoricalEvent[] }> = {};
+  const perPlace: Record<
+    string,
+    { count: number; layers: Set<Layer>; events: HistoricalEvent[] }
+  > = {};
   for (const ev of events) {
     if (!ev.placeId) continue;
     if (!perPlace[ev.placeId])
@@ -70,7 +67,7 @@ export default function MapView({
           attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
-        {king.places.map((p) => {
+        {places.map((p) => {
           const pdata = perPlace[p.id];
           if (!pdata) return null;
           const n = pdata.count;
@@ -82,7 +79,7 @@ export default function MapView({
           const isHovered =
             hoveredEventId !== null &&
             events.find((e) => e.id === hoveredEventId)?.placeId === p.id;
-          const r = 6 + Math.min(n, 8) * 1.8;
+          const r = 6 + Math.min(n, 8) * 1.6;
           return (
             <CircleMarker
               key={p.id}
