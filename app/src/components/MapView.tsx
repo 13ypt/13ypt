@@ -7,11 +7,17 @@ import {
   useMap,
 } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import type { King, HistoricalEvent, Place } from "../data/types";
+import type { King, HistoricalEvent, Place, Layer } from "../data/types";
+
+const LAYER_COLORS: Record<Layer, string> = {
+  political: "#c04040",
+  regional: "#2f8f6e",
+  religious: "#7a3ca1",
+};
 
 interface Props {
   king: King;
-  events: HistoricalEvent[];
+  events: HistoricalEvent[]; // already filtered
   selectedEventId: string | null;
   hoveredEventId: string | null;
   onSelect: (id: string) => void;
@@ -21,9 +27,7 @@ interface Props {
 function Recenter({ place }: { place: Place | null }) {
   const map = useMap();
   useEffect(() => {
-    if (place) {
-      map.flyTo([place.lat, place.lng], 6, { duration: 0.6 });
-    }
+    if (place) map.flyTo([place.lat, place.lng], 6, { duration: 0.6 });
   }, [place, map]);
   return null;
 }
@@ -38,20 +42,27 @@ export default function MapView({
 }: Props) {
   const placeById = Object.fromEntries(king.places.map((p) => [p.id, p]));
 
-  // event count per place for radius scaling
-  const countByPlace: Record<string, number> = {};
+  // For each place, count events and determine dominant layer color
+  const perPlace: Record<string, { count: number; layers: Set<Layer>; events: HistoricalEvent[] }> = {};
   for (const ev of events) {
-    countByPlace[ev.placeId] = (countByPlace[ev.placeId] ?? 0) + 1;
+    if (!ev.placeId) continue;
+    if (!perPlace[ev.placeId])
+      perPlace[ev.placeId] = { count: 0, layers: new Set(), events: [] };
+    perPlace[ev.placeId].count++;
+    perPlace[ev.placeId].layers.add(ev.layer);
+    perPlace[ev.placeId].events.push(ev);
   }
 
   const selectedEvent = events.find((e) => e.id === selectedEventId) ?? null;
-  const selectedPlace = selectedEvent ? placeById[selectedEvent.placeId] : null;
+  const selectedPlace = selectedEvent?.placeId
+    ? placeById[selectedEvent.placeId] ?? null
+    : null;
 
   return (
     <div className="map-wrap">
       <MapContainer
         center={[30.5, 29.5]}
-        zoom={5}
+        zoom={4}
         scrollWheelZoom
         style={{ height: "100%", width: "100%" }}
       >
@@ -60,31 +71,36 @@ export default function MapView({
           url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
         />
         {king.places.map((p) => {
-          const n = countByPlace[p.id] ?? 0;
-          const placeEvents = events.filter((e) => e.placeId === p.id);
+          const pdata = perPlace[p.id];
+          if (!pdata) return null;
+          const n = pdata.count;
+          const dominantLayer: Layer =
+            [...pdata.layers][0] ?? ("political" as Layer);
+          const fillColor = LAYER_COLORS[dominantLayer];
           const isSelected =
             selectedEvent !== null && selectedEvent.placeId === p.id;
           const isHovered =
             hoveredEventId !== null &&
             events.find((e) => e.id === hoveredEventId)?.placeId === p.id;
-          const r = 6 + Math.min(n, 6) * 2;
+          const r = 6 + Math.min(n, 8) * 1.8;
           return (
             <CircleMarker
               key={p.id}
               center={[p.lat, p.lng]}
               radius={isSelected ? r + 4 : isHovered ? r + 2 : r}
               pathOptions={{
-                color: isSelected ? "#111" : "#8a4b0a",
+                color: isSelected ? "#111" : "#333",
                 weight: isSelected ? 2 : 1,
-                fillColor: "#d98c3d",
-                fillOpacity: n === 0 ? 0.2 : 0.7,
+                fillColor,
+                fillOpacity: 0.6,
+                dashArray: p.approximate ? "4 3" : undefined,
               }}
               eventHandlers={{
                 click: () => {
-                  if (placeEvents[0]) onSelect(placeEvents[0].id);
+                  if (pdata.events[0]) onSelect(pdata.events[0].id);
                 },
                 mouseover: () => {
-                  if (placeEvents[0]) onHover(placeEvents[0].id);
+                  if (pdata.events[0]) onHover(pdata.events[0].id);
                 },
                 mouseout: () => onHover(null),
               }}
@@ -94,7 +110,8 @@ export default function MapView({
                   <strong>{p.nameJa}</strong>
                   <span style={{ color: "#777" }}> ({p.name})</span>
                   <br />
-                  {n > 0 ? `${n} 件のイベント` : "関連地（参照用）"}
+                  {n} 件のイベント
+                  {p.approximate && <em> ・概位置</em>}
                 </div>
               </Tooltip>
             </CircleMarker>

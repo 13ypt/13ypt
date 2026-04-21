@@ -1,32 +1,54 @@
 import { useMemo, useState } from "react";
-import { ptolemyVIII } from "./data/ptolemyVIII";
+import { kings } from "./data/loadKings";
+import type { Layer } from "./data/types";
 import Timeline from "./components/Timeline";
 import MapView from "./components/MapView";
 import EventDetail from "./components/EventDetail";
+import CharacterPanel from "./components/CharacterPanel";
 import "./App.css";
 
+const ALL_LAYERS: Layer[] = ["political", "regional", "religious"];
+
 function App() {
-  const king = ptolemyVIII;
+  const king = kings[0];
   const [selectedEventId, setSelectedEventId] = useState<string | null>(
     king.events[0]?.id ?? null
   );
   const [hoveredEventId, setHoveredEventId] = useState<string | null>(null);
+  const [enabledLayers, setEnabledLayers] = useState<Set<Layer>>(
+    new Set(ALL_LAYERS)
+  );
+  const [showInterpretations, setShowInterpretations] = useState(true);
+
+  const minYear = (king.birthYear ?? -200) - 2;
+  const maxYear = (king.deathYear ?? -100) + 2;
   const [yearWindow, setYearWindow] = useState<[number, number]>([
-    king.birthYear - 2,
-    king.deathYear + 2,
+    minYear,
+    maxYear,
   ]);
 
   const filteredEvents = useMemo(() => {
     const [lo, hi] = yearWindow;
     return king.events.filter((e) => {
+      if (!enabledLayers.has(e.layer)) return false;
+      if (!showInterpretations && e.type === "interpretation") return false;
       const s = e.startYear;
       const en = e.endYear ?? e.startYear;
       return en >= lo && s <= hi;
     });
-  }, [king.events, yearWindow]);
+  }, [king.events, yearWindow, enabledLayers, showInterpretations]);
 
   const selectedEvent =
     king.events.find((e) => e.id === selectedEventId) ?? null;
+
+  function toggleLayer(l: Layer) {
+    setEnabledLayers((prev) => {
+      const next = new Set(prev);
+      if (next.has(l)) next.delete(l);
+      else next.add(l);
+      return next;
+    });
+  }
 
   return (
     <div className="app-root">
@@ -37,25 +59,54 @@ function App() {
             <span className="app-title-en">({king.name})</span>
           </h1>
           <div className="app-epithet">
-            {king.epithetJa} · {king.epithet} ／ 生没: {formatYear(king.birthYear)}〜
-            {formatYear(king.deathYear)}
+            {king.epithetJa && <>{king.epithetJa}</>}
           </div>
+          {king.reignSummary.length > 0 && (
+            <ul className="reign-list">
+              {king.reignSummary.map((r, i) => (
+                <li key={i}>{r}</li>
+              ))}
+            </ul>
+          )}
+          {king.headerMeta.length > 0 && (
+            <div className="app-meta">
+              {king.headerMeta.map((m) => (
+                <span key={m.label} className="meta-item">
+                  <strong>{m.label}</strong>: {m.value}
+                </span>
+              ))}
+            </div>
+          )}
         </div>
         <div className="app-header-note">
-          プトレマイオス朝史 可視化プロトタイプ (v0.1 — サンプル：プトレマイオス8世)
+          プトレマイオス朝史 可視化プロトタイプ (v0.2)
         </div>
       </header>
+
+      {king.transparencyNote && (
+        <div className="transparency-note">
+          <strong>⚠ 補注</strong> {king.transparencyNote}
+        </div>
+      )}
 
       <section className="panel timeline-panel">
         <div className="panel-head">
           <h2>タイムライン</h2>
           <div className="year-filter">
+            <label className="interp-toggle">
+              <input
+                type="checkbox"
+                checked={showInterpretations}
+                onChange={(e) => setShowInterpretations(e.target.checked)}
+              />
+              解釈・伝承を表示
+            </label>
             <label>
               始点: 前{-yearWindow[0]}年
               <input
                 type="range"
-                min={king.deathYear + 2}
-                max={king.birthYear - 2}
+                min={maxYear}
+                max={minYear}
                 step={1}
                 value={yearWindow[0]}
                 onChange={(e) =>
@@ -70,8 +121,8 @@ function App() {
               終点: 前{-yearWindow[1]}年
               <input
                 type="range"
-                min={king.deathYear + 2}
-                max={king.birthYear - 2}
+                min={maxYear}
+                max={minYear}
                 step={1}
                 value={yearWindow[1]}
                 onChange={(e) =>
@@ -84,9 +135,7 @@ function App() {
             </label>
             <button
               className="reset-btn"
-              onClick={() =>
-                setYearWindow([king.birthYear - 2, king.deathYear + 2])
-              }
+              onClick={() => setYearWindow([minYear, maxYear])}
             >
               全期間
             </button>
@@ -94,19 +143,22 @@ function App() {
         </div>
         <Timeline
           king={king}
+          events={filteredEvents}
+          enabledLayers={enabledLayers}
           selectedEventId={selectedEventId}
           hoveredEventId={hoveredEventId}
           onSelect={setSelectedEventId}
           onHover={setHoveredEventId}
+          onToggleLayer={toggleLayer}
         />
       </section>
 
-      <section className="panel split-panel">
+      <section className="split-panel">
         <div className="map-panel">
           <div className="panel-head">
             <h2>地図</h2>
             <span className="muted">
-              {filteredEvents.length} 件（年代フィルタ後）
+              {filteredEvents.length} 件（フィルタ後 / 全 {king.events.length} 件中）
             </span>
           </div>
           <MapView
@@ -126,9 +178,13 @@ function App() {
         </div>
       </section>
 
+      <CharacterPanel king={king} />
+
       <footer className="app-footer">
         <div>
-          データは学術文献・一次史料に基づくサンプル。実研究での利用時は必ず一次情報を再確認してください。
+          データソース：
+          <code>app/src/data/kings/ptolemy-viii.md</code>{" "}
+          （Markdownを編集するとアプリが自動更新されます）
         </div>
         <div className="muted">
           © {new Date().getFullYear()} Ptolemaic History Visualizer (prototype)
@@ -136,10 +192,6 @@ function App() {
       </footer>
     </div>
   );
-}
-
-function formatYear(y: number) {
-  return y < 0 ? `前${-y}年` : `${y}年`;
 }
 
 export default App;
