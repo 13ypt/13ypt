@@ -114,15 +114,11 @@ function parseCitationList(lines: string[]): Citation[] {
   for (const raw of lines) {
     const line = raw.trim();
     if (!line.startsWith("-")) continue;
-    // Skip horizontal-rule separators like `---`
     if (/^-{2,}$/.test(line)) continue;
-    // Require the entry to contain a 4-digit year somewhere
-    if (!/\d{4}/.test(line)) continue;
     const body = line.replace(/^-\s*/, "");
-
     let titleMatch = body.match(/\*([^*]+)\*/);
     if (!titleMatch) titleMatch = body.match(/_([^_]+)_/);
-
+    if (!titleMatch && !/\d{4}/.test(line)) continue;
     const title = titleMatch ? titleMatch[1].trim() : "";
     const before = titleMatch
       ? body.substring(0, titleMatch.index!).trim()
@@ -130,16 +126,22 @@ function parseCitationList(lines: string[]): Citation[] {
     const after = titleMatch
       ? body.substring(titleMatch.index! + titleMatch[0].length).trim()
       : "";
-
     const authors = before.replace(/\.$/, "").trim();
     const yearMatch = after.match(/(\d{4})/);
     const year = yearMatch ? parseInt(yearMatch[1], 10) : 0;
     const publication = after.replace(/^\.\s*/, "").replace(/\.$/, "").trim();
     const lastName = (authors.split(",")[0] || "").trim();
-    const key = `${lastName} ${year}`;
-    const id = `${lastName.toLowerCase().replace(/\s+/g, "-")}-${year}`;
-
-    citations.push({ id, key, authors, year, title, publication });
+    const key = year > 0 ? `${lastName} ${year}` : lastName;
+    const idBase = lastName.toLowerCase().replace(/\s+/g, "-");
+    const id = year > 0 ? `${idBase}-${year}` : idBase;
+    citations.push({
+      id,
+      key,
+      authors,
+      year: year > 0 ? year : "n.d.",
+      title,
+      publication,
+    });
   }
   return citations;
 }

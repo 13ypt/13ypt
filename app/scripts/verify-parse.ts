@@ -68,6 +68,26 @@ for (const e of tl.events)
 for (const [k, v] of Object.entries(bySection))
   console.log(`  ${v} events: ${k}`);
 
+console.log("\nCitations in timeline:");
+for (const c of tl.citations)
+  console.log(`  - ${c.key} → ${c.title.slice(0, 60)}`);
+
+console.log("\nEvents with citations:");
+const withCites = tl.events.filter((e) => e.citationRefs.length > 0);
+console.log(`  ${withCites.length} / ${tl.events.length} events have citations`);
+for (const e of withCites.slice(0, 12)) {
+  const refs = e.citationRefs
+    .map(
+      (r) =>
+        r.citationId
+          ? tl.citations.find((c) => c.id === r.citationId)?.key +
+            (r.pages ? `: ${r.pages}` : "")
+          : `[${r.rawLabel}]`
+    )
+    .join(" · ");
+  console.log(`  · ${e.yearLabel}: ${refs}`);
+}
+
 console.log("\nAnimal-cult events:");
 for (const e of tl.events.filter((e) => e.layer === "animal-cult")) {
   console.log(`  · ${e.yearLabel} — ${e.description.slice(0, 70)}`);

@@ -125,6 +125,32 @@ export const GAZETTEER: GazetteerEntry[] = [
     keywords: ["ヘラクレオポリス"],
   },
   {
+    id: "antaiopolis",
+    name: "Antaiopolis (Qaw el-Kebir)",
+    nameJa: "アンタイオポリス",
+    lat: 26.8903,
+    lng: 31.5094,
+    keywords: ["アンタイオポリス"],
+  },
+  {
+    id: "coptos",
+    name: "Coptos (Qift)",
+    nameJa: "コプトス",
+    lat: 25.9957,
+    lng: 32.8183,
+    keywords: ["コプトス"],
+  },
+  {
+    id: "diospolis-parva",
+    name: "Diospolis Parva (Hou)",
+    nameJa: "ディオスポリス・パルヴァ",
+    lat: 26.0208,
+    lng: 32.2658,
+    keywords: ["ディオスポリス・パルヴァ"],
+  },
+  // Broader regional / cross-cutting areas are listed LAST so specific cities
+  // (e.g. コプトス 東部砂漠への入り口) take precedence in inference.
+  {
     id: "eastern-desert",
     name: "Eastern Desert",
     nameJa: "東部砂漠",
