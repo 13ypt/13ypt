@@ -38,6 +38,41 @@ function isInterpretation(text: string): boolean {
   return INTERPRETATION_MARKERS.some((m) => text.includes(m));
 }
 
+// Keyword → extra-layer inference. An event with primary layer X can also
+// belong to other layers if its description hits those keywords, so e.g. a
+// 宗教 event that talks about 戴冠式 also surfaces in the 政治 row.
+const LAYER_EXTRA_KEYWORDS: Record<Layer, string[]> = {
+  political: [
+    "即位", "戴冠", "結婚", "共同統治", "単独支配", "追放", "和解", "内戦",
+    "奪還", "奪回", "反撃", "戦死", "殺害", "大赦", "恩赦", "勅令",
+    "遺言", "介入", "侵攻", "講和", "粛清",
+  ],
+  religious: [
+    "神殿", "神官", "祭司", "神格化", "奉献", "王朝祭祀", "ヒエロ",
+    "ネオス・フィロパトル", "テオイ・エウエルゲタイ", "碑文", "王号",
+  ],
+  "animal-cult": [
+    "アピス", "ムネヴィス", "ブキス", "ブケウム", "聖獣",
+    "Apis", "Mnevis", "セド祭", "ibiotroph", "hierake", "Anoubie",
+    "ἰβιοτροφ", "ἱερακ", "Ἀνουβι", "ἱερῶν ζῴων",
+  ],
+  regional: [
+    "巡幸", "神殿の奉献式", "建設", "装飾", "列柱室",
+    "誕生殿", "Mammisi", "サナトリウム", "ステラ",
+  ],
+};
+
+function inferExtraLayers(description: string, primary: Layer): Layer[] {
+  const extras: Layer[] = [];
+  for (const layer of ["political", "religious", "animal-cult", "regional"] as Layer[]) {
+    if (layer === primary) continue;
+    if (LAYER_EXTRA_KEYWORDS[layer].some((k) => description.includes(k))) {
+      extras.push(layer);
+    }
+  }
+  return extras;
+}
+
 // ---- Year parsing ------------------------------------------------------
 
 export interface ParsedYear {
@@ -299,6 +334,7 @@ function rowsToEvents(
     const py = parseYear(yearCell);
     const refs = parseCitationRefs(sourceCell, opts.keyToId);
     const placeId = inferPlaceId(eventCell);
+    const extraLayers = inferExtraLayers(eventCell, opts.layer);
     events.push({
       id: `${opts.idPrefix}-${i + 1}`,
       startYear: py.startYear,
@@ -307,6 +343,7 @@ function rowsToEvents(
       approximate: py.approximate,
       qualifier: py.qualifier,
       layer: opts.layer,
+      extraLayers: extraLayers.length ? extraLayers : undefined,
       section: opts.section,
       type: isInterpretation(eventCell) ? "interpretation" : "fact",
       description: eventCell,

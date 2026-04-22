@@ -47,6 +47,16 @@ for (const e of king.events.slice(0, 6)) {
 const reignWide = king.events.filter((e) =>
   /^(治世中|治世|不明|年代不詳)$/.test(e.qualifier ?? "")
 );
+
+console.log("\nEvents with extra layers (cross-cutting):");
+const cross = king.events.filter((e) => e.extraLayers && e.extraLayers.length);
+console.log(`  ${cross.length} / ${king.events.length} events are cross-cutting`);
+for (const e of cross.slice(0, 8)) {
+  console.log(
+    `  · ${e.yearLabel} [${e.layer}] +${e.extraLayers?.join(",")}: ${e.description.slice(0, 60)}`
+  );
+}
+
 console.log("\n治世中 events (expanded to reign span):", reignWide.length);
 for (const e of reignWide)
   console.log(

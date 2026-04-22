@@ -53,7 +53,8 @@ export interface HistoricalEvent {
   approximate?: boolean;
   qualifier?: string; // "夏", "7月28日", "以降", "後半"
   // semantic axis
-  layer: Layer;
+  layer: Layer;           // primary layer (from section)
+  extraLayers?: Layer[];  // additional layers inferred from keywords
   section: string; // e.g. "エジプト王として再即位"
   type: EventType;
   // content

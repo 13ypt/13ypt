@@ -65,8 +65,18 @@ export default function Timeline({
 
   const eventsSorted = [...events].sort((a, b) => a.startYear - b.startYear);
 
-  // Allocate lanes per layer
-  const laneByEvent: Record<string, number> = {};
+  // An event appears in its primary layer AND any extraLayers — so the same
+  // event can surface in multiple rows (e.g. a 宗教 event also showing up in
+  // 政治 if it's a governing-strategy moment).
+  const layersOfEvent = (ev: HistoricalEvent): Layer[] => {
+    const all = [ev.layer, ...(ev.extraLayers ?? [])];
+    // dedupe while keeping order
+    return Array.from(new Set(all));
+  };
+
+  // Allocate lanes per layer — each (eventId, layer) pair has its own lane.
+  const laneByEventLayer: Record<string, number> = {};
+  const keyFor = (id: string, layer: Layer) => `${layer}::${id}`;
   const layerLaneCount: Record<Layer, number> = {
     political: 0,
     regional: 0,
@@ -75,7 +85,9 @@ export default function Timeline({
   };
   for (const layer of LAYER_ORDER) {
     const lanesEnd: number[] = [];
-    const evsInLayer = eventsSorted.filter((e) => e.layer === layer);
+    const evsInLayer = eventsSorted.filter((e) =>
+      layersOfEvent(e).includes(layer)
+    );
     for (const ev of evsInLayer) {
       const start = ev.startYear;
       const end = ev.endYear ?? ev.startYear;
@@ -83,7 +95,7 @@ export default function Timeline({
       while (lane < lanesEnd.length && lanesEnd[lane] >= start - 1) lane++;
       if (lane === lanesEnd.length) lanesEnd.push(end);
       else lanesEnd[lane] = end;
-      laneByEvent[ev.id] = lane;
+      laneByEventLayer[keyFor(ev.id, layer)] = lane;
     }
     layerLaneCount[layer] = enabledLayers.has(layer)
       ? Math.max(1, lanesEnd.length)
@@ -193,53 +205,57 @@ export default function Timeline({
           );
         })}
 
-        {eventsSorted.map((ev) => {
-          if (!enabledLayers.has(ev.layer)) return null;
-          const lane = laneByEvent[ev.id] ?? 0;
-          const cy = layerYStart[ev.layer] + lane * laneH + 8;
-          const x1 = yearToX(ev.startYear);
-          const x2 = yearToX(ev.endYear ?? ev.startYear);
-          const isSelected = selectedEventId === ev.id;
-          const isHovered = hoveredEventId === ev.id;
-          const color = LAYER_COLORS[ev.layer];
-          const isInterp = ev.type === "interpretation";
-          return (
-            <g
-              key={ev.id}
-              onClick={() => onSelect(ev.id)}
-              onMouseEnter={() => onHover(ev.id)}
-              onMouseLeave={() => onHover(null)}
-              style={{ cursor: "pointer" }}
-            >
-              {ev.endYear !== undefined && (
-                <rect
-                  x={x1}
-                  y={cy - 3}
-                  width={Math.max(2, x2 - x1)}
-                  height={6}
-                  fill={color}
-                  opacity={isSelected ? 0.9 : 0.55}
-                  strokeDasharray={isInterp ? "3 3" : undefined}
-                  stroke={isInterp ? color : "none"}
-                  rx={2}
+        {eventsSorted.flatMap((ev) => {
+          const layers = layersOfEvent(ev).filter((l) => enabledLayers.has(l));
+          return layers.map((layer) => {
+            const lane = laneByEventLayer[keyFor(ev.id, layer)] ?? 0;
+            const cy = layerYStart[layer] + lane * laneH + 8;
+            const x1 = yearToX(ev.startYear);
+            const x2 = yearToX(ev.endYear ?? ev.startYear);
+            const isSelected = selectedEventId === ev.id;
+            const isHovered = hoveredEventId === ev.id;
+            const color = LAYER_COLORS[layer];
+            const isExtra = layer !== ev.layer;
+            const isInterp = ev.type === "interpretation";
+            return (
+              <g
+                key={`${ev.id}-${layer}`}
+                onClick={() => onSelect(ev.id)}
+                onMouseEnter={() => onHover(ev.id)}
+                onMouseLeave={() => onHover(null)}
+                style={{ cursor: "pointer" }}
+              >
+                {ev.endYear !== undefined && (
+                  <rect
+                    x={x1}
+                    y={cy - 3}
+                    width={Math.max(2, x2 - x1)}
+                    height={6}
+                    fill={color}
+                    opacity={isSelected ? 0.9 : isExtra ? 0.35 : 0.55}
+                    strokeDasharray={isInterp ? "3 3" : undefined}
+                    stroke={isInterp ? color : "none"}
+                    rx={2}
+                  />
+                )}
+                <circle
+                  cx={x1}
+                  cy={cy}
+                  r={isSelected ? dotR + 2 : isHovered ? dotR + 1 : dotR}
+                  fill={isInterp ? "white" : isExtra ? "white" : color}
+                  stroke={color}
+                  strokeWidth={isInterp ? 2 : isExtra ? 1.5 : isSelected ? 2 : 1}
+                  strokeDasharray={isInterp ? "2 2" : undefined}
+                  opacity={isExtra ? 0.85 : 1}
                 />
-              )}
-              <circle
-                cx={x1}
-                cy={cy}
-                r={isSelected ? dotR + 2 : isHovered ? dotR + 1 : dotR}
-                fill={isInterp ? "white" : color}
-                stroke={color}
-                strokeWidth={isInterp ? 2 : isSelected ? 2 : 1}
-                strokeDasharray={isInterp ? "2 2" : undefined}
-              />
-              <title>
-                {`${ev.yearLabel} · ${ev.description.slice(0, 80)}${
-                  ev.description.length > 80 ? "…" : ""
-                }`}
-              </title>
-            </g>
-          );
+                <title>
+                  {`${ev.yearLabel}${isExtra ? " (関連)" : ""} · ${ev.description.slice(0, 80)}${
+                    ev.description.length > 80 ? "…" : ""
+                  }`}
+                </title>
+              </g>
+            );
+          });
         })}
       </svg>
     </div>
