@@ -208,36 +208,35 @@ function parseCitationRefs(
   const trimmed = text.trim();
   if (!trimmed) return refs;
 
-  // Case 1: contains bracketed citations — parse each
-  if (trimmed.includes("[")) {
-    const matches = Array.from(trimmed.matchAll(/\[([^\]]+)\]/g));
-    for (const m of matches) {
-      const content = m[1].trim();
-      if (!/\d{4}/.test(content) && !content.includes(":")) {
-        // Non-citation bracket like [補注参照]; still try lookup by name
-        const id = keyToId.get(content) ?? keyToId.get(stripDiacritics(content));
-        if (id) refs.push({ citationId: id });
-        else refs.push({ citationId: "", rawLabel: content });
-        continue;
-      }
-      const idx = content.indexOf(":");
-      const key = (idx === -1 ? content : content.slice(0, idx)).trim();
-      const pages = idx === -1 ? undefined : content.slice(idx + 1).trim();
-      const id =
-        keyToId.get(key) ?? keyToId.get(stripDiacritics(key));
-      if (id) refs.push({ citationId: id, pages });
-      else refs.push({ citationId: "", rawLabel: content });
+  const resolveBare = (raw: string): CitationRef => {
+    const key = raw.trim();
+    const id = keyToId.get(key) ?? keyToId.get(stripDiacritics(key));
+    return id ? { citationId: id } : { citationId: "", rawLabel: key };
+  };
+
+  const resolveBracket = (content: string): CitationRef => {
+    if (!/\d{4}/.test(content) && !content.includes(":")) {
+      // Non-citation bracket like [補注参照]; still try lookup by name
+      return resolveBare(content);
     }
-    return refs;
+    const idx = content.indexOf(":");
+    const key = (idx === -1 ? content : content.slice(0, idx)).trim();
+    const pages = idx === -1 ? undefined : content.slice(idx + 1).trim();
+    const id = keyToId.get(key) ?? keyToId.get(stripDiacritics(key));
+    if (id) return { citationId: id, pages };
+    return { citationId: "", rawLabel: content };
+  };
+
+  // Extract bracketed refs in order
+  for (const m of trimmed.matchAll(/\[([^\]]+)\]/g)) {
+    refs.push(resolveBracket(m[1].trim()));
   }
 
-  // Case 2: bare text — treat the cell as a list of author refs
-  // Support "Holbl", "Holbl 2001", "Holbl, Pestman" (comma-separated).
-  const parts = trimmed.split(/\s*[、,;；]\s*/).filter(Boolean);
-  for (const part of parts) {
-    const id = keyToId.get(part) ?? keyToId.get(stripDiacritics(part));
-    if (id) refs.push({ citationId: id });
-    else refs.push({ citationId: "", rawLabel: part });
+  // Everything outside of brackets — treat as a list of bare author refs
+  const outside = trimmed.replace(/\[[^\]]+\]/g, " ").trim();
+  if (outside) {
+    const parts = outside.split(/\s*[、,;；]\s*/).filter(Boolean);
+    for (const part of parts) refs.push(resolveBare(part));
   }
   return refs;
 }
