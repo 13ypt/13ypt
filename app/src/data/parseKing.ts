@@ -18,6 +18,9 @@ const LAYER_BY_SECTION: Record<string, Layer> = {
   政治的事件: "political",
   "地域・建築": "regional",
   宗教的動向: "religious",
+  動物崇拝: "animal-cult",
+  聖獣信仰: "animal-cult",
+  "動物崇拝・聖獣": "animal-cult",
 };
 
 const INTERPRETATION_MARKERS = [
