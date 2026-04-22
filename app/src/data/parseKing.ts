@@ -485,18 +485,20 @@ export function parseKingMarkdown(md: string, kingId: string): King {
     }
   }
 
-  // Post-process "治世中" (reign-wide) events to span the full reign.
+  // Post-process "治世中" (reign-wide) events: place as a single point at the
+  // midpoint of the last (usually most significant) reign, so they render as
+  // dots rather than wide bars that dominate the timeline.
   if (reigns.length > 0) {
-    const reignStart = Math.min(...reigns.map((r) => r.start));
-    const reignEnd = Math.max(...reigns.map((r) => r.end));
+    const lastReign = reigns[reigns.length - 1];
+    const midpoint = Math.round((lastReign.start + lastReign.end) / 2);
     for (const ev of events) {
       if (
         ev.startYear === 0 &&
         ev.qualifier &&
         /^(治世中|治世|不明|年代不詳)$/.test(ev.qualifier)
       ) {
-        ev.startYear = reignStart;
-        ev.endYear = reignEnd;
+        ev.startYear = midpoint;
+        ev.endYear = undefined;
         ev.approximate = true;
       }
     }
