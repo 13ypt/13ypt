@@ -50,8 +50,29 @@ export function parseYear(raw: string): ParsedYear {
   s = s.replace(/ごろ|頃/g, "").trim();
   s = s.replace(/[~～]/g, "〜");
 
-  // Range: 前X〜(前)?Y年
-  let m = s.match(/^前(\d+)\s*〜\s*前?(\d+)\s*年(.*)$/);
+  // Reign-wide or unknown-date markers — caller fills in the range later.
+  if (/^(治世中|治世|不明|年代不詳)$/.test(s)) {
+    return { startYear: 0, qualifier: s, approximate: true };
+  }
+
+  // Range with qualifier before the 〜 e.g. 前170年秋〜前164年
+  let m = s.match(
+    /^前(\d+)\s*年\s*([^〜]*?)\s*〜\s*前?(\d+)\s*年(.*)$/
+  );
+  if (m) {
+    const left = (m[2] || "").trim();
+    const right = (m[4] || "").trim();
+    const q = [left, right].filter(Boolean).join(" / ") || undefined;
+    return {
+      startYear: -parseInt(m[1], 10),
+      endYear: -parseInt(m[3], 10),
+      approximate,
+      qualifier: q,
+    };
+  }
+
+  // Range without 年 on first side: 前X〜前?Y年
+  m = s.match(/^前(\d+)\s*〜\s*前?(\d+)\s*年(.*)$/);
   if (m) {
     return {
       startYear: -parseInt(m[1], 10),
@@ -109,6 +130,11 @@ function splitSections(md: string): Section[] {
 
 // ---- Citation parsing --------------------------------------------------
 
+// Strip Unicode combining marks so "Hölbl" and "Holbl" compare equal.
+function stripDiacritics(s: string): string {
+  return s.normalize("NFD").replace(/[̀-ͯ]/g, "");
+}
+
 function parseCitationList(lines: string[]): Citation[] {
   const citations: Citation[] = [];
   for (const raw of lines) {
@@ -132,7 +158,7 @@ function parseCitationList(lines: string[]): Citation[] {
     const publication = after.replace(/^\.\s*/, "").replace(/\.$/, "").trim();
     const lastName = (authors.split(",")[0] || "").trim();
     const key = year > 0 ? `${lastName} ${year}` : lastName;
-    const idBase = lastName.toLowerCase().replace(/\s+/g, "-");
+    const idBase = stripDiacritics(lastName).toLowerCase().replace(/\s+/g, "-");
     const id = year > 0 ? `${idBase}-${year}` : idBase;
     citations.push({
       id,
@@ -146,25 +172,72 @@ function parseCitationList(lines: string[]): Citation[] {
   return citations;
 }
 
+// Build a lookup map that accepts references written in several forms:
+//   - exact key                ("Hölbl 2001")
+//   - diacritic-stripped key   ("Holbl 2001")
+//   - last-name only           ("Hölbl")
+//   - diacritic-stripped last  ("Holbl")
+// Name-only keys are only registered when unambiguous (single citation).
+function buildCitationLookup(citations: Citation[]): Map<string, string> {
+  const map = new Map<string, string>();
+  const byName: Map<string, string[]> = new Map();
+  for (const c of citations) {
+    map.set(c.key, c.id);
+    map.set(stripDiacritics(c.key), c.id);
+    const lastName = (c.authors.split(",")[0] || "").trim();
+    if (lastName) {
+      const list = byName.get(lastName) ?? [];
+      list.push(c.id);
+      byName.set(lastName, list);
+    }
+  }
+  for (const [name, ids] of byName) {
+    if (ids.length === 1) {
+      map.set(name, ids[0]);
+      map.set(stripDiacritics(name), ids[0]);
+    }
+  }
+  return map;
+}
+
 function parseCitationRefs(
   text: string,
   keyToId: Map<string, string>
 ): CitationRef[] {
   const refs: CitationRef[] = [];
-  const matches = Array.from(text.matchAll(/\[([^\]]+)\]/g));
-  for (const m of matches) {
-    const content = m[1].trim();
-    // Non-citation bracket like [補注参照]
-    if (!/\d{4}/.test(content) && !content.includes(":")) {
-      refs.push({ citationId: "", rawLabel: content });
-      continue;
+  const trimmed = text.trim();
+  if (!trimmed) return refs;
+
+  // Case 1: contains bracketed citations — parse each
+  if (trimmed.includes("[")) {
+    const matches = Array.from(trimmed.matchAll(/\[([^\]]+)\]/g));
+    for (const m of matches) {
+      const content = m[1].trim();
+      if (!/\d{4}/.test(content) && !content.includes(":")) {
+        // Non-citation bracket like [補注参照]; still try lookup by name
+        const id = keyToId.get(content) ?? keyToId.get(stripDiacritics(content));
+        if (id) refs.push({ citationId: id });
+        else refs.push({ citationId: "", rawLabel: content });
+        continue;
+      }
+      const idx = content.indexOf(":");
+      const key = (idx === -1 ? content : content.slice(0, idx)).trim();
+      const pages = idx === -1 ? undefined : content.slice(idx + 1).trim();
+      const id =
+        keyToId.get(key) ?? keyToId.get(stripDiacritics(key));
+      if (id) refs.push({ citationId: id, pages });
+      else refs.push({ citationId: "", rawLabel: content });
     }
-    const idx = content.indexOf(":");
-    const key = (idx === -1 ? content : content.slice(0, idx)).trim();
-    const pages = idx === -1 ? undefined : content.slice(idx + 1).trim();
-    const id = keyToId.get(key);
-    if (id) refs.push({ citationId: id, pages });
-    else refs.push({ citationId: "", rawLabel: content });
+    return refs;
+  }
+
+  // Case 2: bare text — treat the cell as a list of author refs
+  // Support "Holbl", "Holbl 2001", "Holbl, Pestman" (comma-separated).
+  const parts = trimmed.split(/\s*[、,;；]\s*/).filter(Boolean);
+  for (const part of parts) {
+    const id = keyToId.get(part) ?? keyToId.get(stripDiacritics(part));
+    if (id) refs.push({ citationId: id });
+    else refs.push({ citationId: "", rawLabel: part });
   }
   return refs;
 }
@@ -377,7 +450,7 @@ export function parseKingMarkdown(md: string, kingId: string): King {
   const citations: Citation[] = refSection
     ? parseCitationList(refSection.lines)
     : [];
-  const keyToId = new Map<string, string>(citations.map((c) => [c.key, c.id]));
+  const keyToId = buildCitationLookup(citations);
 
   // Walk sections, tracking current layer
   const events: HistoricalEvent[] = [];
@@ -409,6 +482,23 @@ export function parseKingMarkdown(md: string, kingId: string): King {
         });
         events.push(...evs);
       });
+    }
+  }
+
+  // Post-process "治世中" (reign-wide) events to span the full reign.
+  if (reigns.length > 0) {
+    const reignStart = Math.min(...reigns.map((r) => r.start));
+    const reignEnd = Math.max(...reigns.map((r) => r.end));
+    for (const ev of events) {
+      if (
+        ev.startYear === 0 &&
+        ev.qualifier &&
+        /^(治世中|治世|不明|年代不詳)$/.test(ev.qualifier)
+      ) {
+        ev.startYear = reignStart;
+        ev.endYear = reignEnd;
+        ev.approximate = true;
+      }
     }
   }
 

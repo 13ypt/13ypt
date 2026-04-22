@@ -23,6 +23,35 @@ for (const e of king.events) kbyLayer[e.layer] = (kbyLayer[e.layer] || 0) + 1;
 console.log("events by layer:", kbyLayer);
 console.log("total events:", king.events.length);
 console.log("places:", king.places.map((p) => p.nameJa).join(", "));
+console.log(
+  "king events with citations:",
+  king.events.filter((e) => e.citationRefs.some((r) => r.citationId)).length,
+  "/",
+  king.events.length
+);
+console.log("king citations in bib:");
+for (const c of king.citations) console.log(`  - ${c.key} → ${c.title.slice(0, 50)}`);
+console.log("\nking events (first 6):");
+for (const e of king.events.slice(0, 6)) {
+  const refs = e.citationRefs
+    .map((r) =>
+      r.citationId
+        ? king.citations.find((c) => c.id === r.citationId)?.key ?? "?"
+        : `[${r.rawLabel}]`
+    )
+    .join(", ");
+  console.log(
+    `  [${e.layer}] ${e.yearLabel} (${e.startYear}..${e.endYear ?? ""}) place=${e.placeId || "-"} refs=${refs}`
+  );
+}
+const reignWide = king.events.filter((e) =>
+  /^(治世中|治世|不明|年代不詳)$/.test(e.qualifier ?? "")
+);
+console.log("\n治世中 events (expanded to reign span):", reignWide.length);
+for (const e of reignWide)
+  console.log(
+    `  · ${e.yearLabel} (${e.startYear}..${e.endYear}) ${e.description.slice(0, 60)}`
+  );
 
 // ---- Timeline: Late Ptolemies ------------------------------------------
 console.log("\n========== Timeline: Late Ptolemies ==========");
