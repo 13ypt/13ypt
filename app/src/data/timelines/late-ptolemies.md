@@ -28,7 +28,7 @@
 - **紀元前164年〜163年**: プトレマイオス8世が兄を一時追放するが、のちにキレネへ追放される。
 - **紀元前145年**: プトレマイオス6世がシリアで戦死。プトレマイオス8世がエジプト王位を継ぎ、未亡人となった姉クレオパトラ2世と結婚。
 - **紀元前144年**: プトレマイオス8世がメンフィスで伝統的な戴冠式を行う。クレオパトラ2世との間に息子メンフィテスが誕生。
-- **紀元前142年9月10日**: プトレマイオス8世とクレオパトラ2世がエドフの巨大なホルス神殿を聖別（奉献）した。エジプト人へのアピールの一環。 [Thompson: p.310]
+- **紀元前142年9月10日**: プトレマイオス8世とクレオパトラ2世がエドフの巨大なホルス神殿を聖別（奉献）した。エジプト人へのアピールの一環。 [Thompson 1992: p.310]
 - **紀元前135年4月22日**: プトレマイオス8世、クレオパトラ2世、クレオパトラ3世の3人が、オンボイ（現コム・オンボ）のギュムナシオン（ギリシャ的教育施設）の青年たち（neaniskoi）に対して特権を認める書簡を発行した。 [Rossini 2022: pp.113, 117] [Lanciers 2020: p.32]
 - **紀元前135年〜133年**: プトレマイオス8世が、クレオパトラ3世との息子（後の9世および10世）を連続して名誉あるアレクサンドロス神官に任命。
 - **紀元前133年以前**: プトレマイオス8世が、クレオパトラ3世のために「ヒエロス・ポロス」という特別な男性神官職を創設し、彼女を「神々の母イシス」と同一視させる。この優遇がクレオパトラ2世の怒りを買い、対立が決定的に。
@@ -56,7 +56,7 @@
 
 - **紀元前124年1月25日**: ディオスポリス・パルヴァ（Hou）で作成された文書（SB XXII 15537）では、いまだクレオパトラ2世の名前が排除されており、この時点でも完全な和解には至っていない。 [Lanciers 2020: p.50]
 - **紀元前124年7月9日**: テーベの文書群（P.Berl.Spieg. 3099ほか）で、クレオパトラ2世の名前が年代表記に復活。遅くとも5〜6月頃には3人の正式な和解が成立していたと推測される。 [Lanciers 2020: p.51]
-- **紀元前118年4月28日**: プトレマイオス8世と2人のクレオパトラが「大赦令（Amnesty Decree）」を発布（テブテュニスで P.Tebt. I 5 のコピーが出土）。内戦後の社会秩序回復のため、負債免除・役人の不正禁止に加え、「ギリシャ語契約書はギリシャ系裁判所（王室裁判所）が、エジプト語契約書はエジプト系裁判所が裁く」という画期的な司法管轄の合理化を含む46項目の措置。 [Pestman 1985: p.265] [Hauben 2011: pp.442–443] [Thompson: p.314]
+- **紀元前118年4月28日**: プトレマイオス8世と2人のクレオパトラが「大赦令（Amnesty Decree）」を発布（テブテュニスで P.Tebt. I 5 のコピーが出土）。内戦後の社会秩序回復のため、負債免除・役人の不正禁止に加え、「ギリシャ語契約書はギリシャ系裁判所（王室裁判所）が、エジプト語契約書はエジプト系裁判所が裁く」という画期的な司法管轄の合理化を含む46項目の措置。 [Pestman 1985: p.265] [Hauben 2016: pp.442–443] [Thompson 1992: p.314]
 - **紀元前116年**: 在位54年目にしてプトレマイオス8世が死去。クレオパトラ3世の息子・プトレマイオス9世が即位し、母クレオパトラ3世、伯母クレオパトラ2世との共同統治となる。
 - **紀元前115年**: クレオパトラ2世が死去。以降、クレオパトラ3世が絶大な権力を握る。
 
@@ -75,7 +75,7 @@
 
 ## 補注
 
-本年表は段階的に典拠を整備していく。現時点で **典拠付き** として整理されているのは、Lanciers 2020、Rossini 2022・2023、Pestman 1985、Hauben (2011?)、Thompson の各論文に基づく月日精度の出来事群（約11件）である。それ以外の項目は概観レベルで、今後の論文調査によって典拠付与と事実関係の精緻化が必要。
+本年表は段階的に典拠を整備していく。現時点で **典拠付き** として整理されているのは、Lanciers 2020、Rossini 2022・2023、Pestman 1985、Hauben 2016、Thompson 1992 の各論文に基づく月日精度の出来事群（約11件）である。それ以外の項目は概観レベルで、今後の論文調査によって典拠付与と事実関係の精緻化が必要。
 
 地点・「関係者」・「軸」のタグは本文からの自動推定を含むため、研究利用時には必ず一次情報と照合してください。
 
@@ -83,9 +83,9 @@
 
 ## 参考文献
 
-- Lanciers, Eddy. *The Civil War between Ptolemy VIII and Cleopatra II (132–124 BC)*. Ancient Society / Studia Hellenistica, 2020.
-- Rossini, Alessandro. *Letters from Ptolemy VIII, Cleopatra II and Cleopatra III to the neaniskoi of the gymnasium at Omboi*. 2022.
-- Rossini, Alessandro. *Dedication to Pan Euodos by Soterichos, archisomatophylax of Ptolemy VIII*. 2023.
+- Lanciers, Eddy. *The Civil War between Ptolemy VIII and Cleopatra II (132–124 BC)*. Ancient Society, 2020.
+- Rossini, Alessandro. *Letters from Ptolemy VIII, Cleopatra II and Cleopatra III to the neaniskoi of the gymnasium at Omboi*. Axon 6(2), 2022, pp. 113–152.
+- Rossini, Alessandro. *Dedication to Pan Euodos by Soterichos, archisomatophylax of Ptolemy VIII*. Axon 7(1), 2023, pp. 109–146.
 - Pestman, Pieter W. *The Competence of Greek and Egyptian Tribunals According to the Decree of 118 B.C.*. 1985.
-- Hauben, Hans. *The Ptolemaic Ordinance of 118 BC and the Administration of Justice*. 2011.
-- Thompson, Dorothy J. *Egypt 146–31 BC*. (書誌要確認: egypt-146-31-bc.pdf)
+- Hauben, Hans. *The Ptolemaic Ordinance of 118 BC and the Administration of Justice*. The Journal of Juristic Papyrology 46, 2016.
+- Thompson, Dorothy J. *Egypt 146–31 BC*. Chapter 8c in The Cambridge Ancient History, 2nd ed., vol. IX: The Last Age of the Roman Republic, 146–43 B.C., Cambridge University Press, 1992 (章自体は1986年に最終改訂).
