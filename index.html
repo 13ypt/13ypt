@@ -1,0 +1,234 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Deutsch Trainer · B1–C2</title>
+<meta name="description" content="Effizientes Deutschlernen für Mittel- und Oberstufe: SRS-Wortschatz, Deklination, Konjugation, Lückentexte, Konnektoren." />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <span class="logo">DE</span>
+    <div>
+      <h1>Deutsch Trainer</h1>
+      <p class="sub">Mittelstufe · Oberstufe · B1–C2</p>
+    </div>
+  </div>
+  <nav id="tabs" class="tabs">
+    <button data-tab="dashboard" class="active">Übersicht</button>
+    <button data-tab="vocab">Wortschatz (SRS)</button>
+    <button data-tab="declension">Deklination</button>
+    <button data-tab="verbs">Verben</button>
+    <button data-tab="cloze">Lückentext</button>
+    <button data-tab="connectors">Konnektoren</button>
+    <button data-tab="reading">Lesen</button>
+  </nav>
+</header>
+
+<main>
+  <!-- Dashboard -->
+  <section id="dashboard" class="panel active">
+    <div class="hero">
+      <h2>Heute üben</h2>
+      <p class="lead">Wissenschaftlich fundiert: aktive Abrufübung, verteiltes Lernen, Lernen im Kontext.</p>
+    </div>
+    <div class="grid stats">
+      <div class="card"><span class="num" id="stat-due">–</span><span class="lbl">Karten fällig</span></div>
+      <div class="card"><span class="num" id="stat-learned">–</span><span class="lbl">gelernte Karten</span></div>
+      <div class="card"><span class="num" id="stat-streak">–</span><span class="lbl">Tage Serie</span></div>
+      <div class="card"><span class="num" id="stat-accuracy">–</span><span class="lbl">Trefferquote</span></div>
+    </div>
+    <div class="grid modules">
+      <a class="mod" data-goto="vocab">
+        <h3>Wortschatz SRS</h3>
+        <p>Leitner-System mit 5 Boxen. Wörter, die du vergisst, kehren schneller zurück.</p>
+      </a>
+      <a class="mod" data-goto="declension">
+        <h3>Adjektivdeklination</h3>
+        <p>Der/die/das · ein/eine · kein/meine · nullartikel — endlich automatisch.</p>
+      </a>
+      <a class="mod" data-goto="verbs">
+        <h3>Starke & gemischte Verben</h3>
+        <p>Drei Stammformen und Konjunktiv II — das Rückgrat der Oberstufe.</p>
+      </a>
+      <a class="mod" data-goto="cloze">
+        <h3>Lückentext</h3>
+        <p>Passiv, Konjunktiv, Nominalstil und Partizipialkonstruktionen im Kontext.</p>
+      </a>
+      <a class="mod" data-goto="connectors">
+        <h3>Konnektoren</h3>
+        <p>obwohl, während, sodass, indem, je … desto — sauber unterscheiden.</p>
+      </a>
+      <a class="mod" data-goto="reading">
+        <h3>Lesen mit Wörterbuch</h3>
+        <p>Authentische Mittel-/Oberstufentexte. Klick auf ein Wort für die Bedeutung.</p>
+      </a>
+    </div>
+    <p class="foot-note">Tipp: <kbd>1</kbd>–<kbd>4</kbd> bewertet, <kbd>Leer</kbd> deckt auf, <kbd>Enter</kbd> bestätigt. Alles läuft lokal im Browser.</p>
+    <div class="controls">
+      <button id="reset" class="ghost">Fortschritt zurücksetzen</button>
+    </div>
+  </section>
+
+  <!-- Vocab SRS -->
+  <section id="vocab" class="panel">
+    <div class="toolbar">
+      <h2>Wortschatz · SRS</h2>
+      <div class="right">
+        <label>Richtung
+          <select id="vocab-dir">
+            <option value="de-ja">DE → JA</option>
+            <option value="ja-de">JA → DE</option>
+          </select>
+        </label>
+        <label>Level
+          <select id="vocab-level">
+            <option value="all">alle</option>
+            <option value="B1">B1</option>
+            <option value="B2">B2</option>
+            <option value="C1">C1</option>
+            <option value="C2">C2</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div id="vocab-card" class="card big">
+      <div class="meta"><span id="vocab-level-tag" class="tag">–</span><span id="vocab-pos" class="tag ghost">–</span><span id="vocab-box" class="tag ghost">Box –</span></div>
+      <div class="front" id="vocab-front">Lade …</div>
+      <div class="back hidden" id="vocab-back"></div>
+      <div class="example hidden" id="vocab-example"></div>
+      <div class="rate hidden" id="vocab-rate">
+        <button data-q="1" class="btn bad">Vergessen <kbd>1</kbd></button>
+        <button data-q="2" class="btn so">Schwer <kbd>2</kbd></button>
+        <button data-q="3" class="btn ok">Gut <kbd>3</kbd></button>
+        <button data-q="4" class="btn good">Leicht <kbd>4</kbd></button>
+      </div>
+      <button id="vocab-show" class="btn primary">Aufdecken <kbd>Leer</kbd></button>
+    </div>
+    <p class="hint" id="vocab-hint"></p>
+  </section>
+
+  <!-- Declension -->
+  <section id="declension" class="panel">
+    <div class="toolbar">
+      <h2>Adjektivdeklination</h2>
+      <div class="right">
+        <label>Artikeltyp
+          <select id="decl-type">
+            <option value="all">alle</option>
+            <option value="def">bestimmter (der)</option>
+            <option value="indef">unbestimmter (ein)</option>
+            <option value="null">nullartikel</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div class="card big">
+      <div class="meta"><span id="decl-case" class="tag">–</span><span id="decl-gender" class="tag ghost">–</span></div>
+      <div class="prompt" id="decl-prompt">—</div>
+      <div class="options" id="decl-options"></div>
+      <div class="explanation hidden" id="decl-exp"></div>
+      <button id="decl-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
+    </div>
+    <p class="hint">Kasus und Genus bestimmen die Endung. Mit Übung wird es automatisch.</p>
+  </section>
+
+  <!-- Verbs -->
+  <section id="verbs" class="panel">
+    <div class="toolbar">
+      <h2>Unregelmäßige Verben</h2>
+      <div class="right">
+        <label>Form
+          <select id="verb-mode">
+            <option value="stamm">3 Stammformen</option>
+            <option value="prat">Präteritum (er/sie/es)</option>
+            <option value="part">Partizip II</option>
+            <option value="konj2">Konjunktiv II (er/sie/es)</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div class="card big">
+      <div class="meta"><span class="tag" id="verb-level-tag">–</span></div>
+      <div class="prompt">
+        <span class="infinitive" id="verb-inf">—</span>
+        <span class="meaning" id="verb-meaning"></span>
+      </div>
+      <form id="verb-form" class="typing">
+        <div id="verb-inputs"></div>
+        <button class="btn primary" type="submit">Prüfen <kbd>Enter</kbd></button>
+      </form>
+      <div class="explanation hidden" id="verb-exp"></div>
+      <button id="verb-next" class="btn primary hidden">Nächstes Verb <kbd>Enter</kbd></button>
+    </div>
+  </section>
+
+  <!-- Cloze -->
+  <section id="cloze" class="panel">
+    <div class="toolbar">
+      <h2>Lückentext</h2>
+      <div class="right">
+        <label>Thema
+          <select id="cloze-topic">
+            <option value="all">alle</option>
+            <option value="konj2">Konjunktiv II</option>
+            <option value="passiv">Passiv</option>
+            <option value="nominal">Nominalstil</option>
+            <option value="prap">Präpositionen</option>
+          </select>
+        </label>
+      </div>
+    </div>
+    <div class="card big">
+      <div class="meta"><span class="tag" id="cloze-topic-tag">–</span></div>
+      <div class="prompt sentence" id="cloze-sentence">—</div>
+      <form id="cloze-form" class="typing">
+        <input id="cloze-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Antwort" />
+        <button class="btn primary" type="submit">Prüfen <kbd>Enter</kbd></button>
+      </form>
+      <div class="explanation hidden" id="cloze-exp"></div>
+      <button id="cloze-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
+    </div>
+  </section>
+
+  <!-- Connectors -->
+  <section id="connectors" class="panel">
+    <div class="toolbar"><h2>Konnektoren</h2></div>
+    <div class="card big">
+      <div class="prompt sentence" id="conn-sentence">—</div>
+      <div class="options" id="conn-options"></div>
+      <div class="explanation hidden" id="conn-exp"></div>
+      <button id="conn-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
+    </div>
+  </section>
+
+  <!-- Reading -->
+  <section id="reading" class="panel">
+    <div class="toolbar">
+      <h2>Lesen</h2>
+      <div class="right">
+        <select id="read-select"></select>
+      </div>
+    </div>
+    <article class="reader">
+      <h3 id="read-title">—</h3>
+      <p class="reader-meta" id="read-meta"></p>
+      <div class="reader-text" id="read-body"></div>
+    </article>
+    <aside id="read-pop" class="popover hidden"></aside>
+    <p class="hint">Klick auf ein unterstrichenes Wort — Bedeutung erscheint unten.</p>
+  </section>
+</main>
+
+<footer class="bottom">
+  <span>Offline-fähig · localStorage · kein Tracking</span>
+</footer>
+
+<script type="module" src="app.js"></script>
+</body>
+</html>
