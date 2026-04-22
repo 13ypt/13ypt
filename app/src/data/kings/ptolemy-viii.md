@@ -67,6 +67,11 @@
 | 前124/123年 | シリア政策を転換し、クレオパトラ・テアとアンティオコス8世グリュポスを支援して娘トリュファイナを嫁がせた（Grainger 2024 は「前124/123年ごろ」）。 | Holbl [Grainger 2024: p.62] |
 | 前119/118年ごろ | キュジコスのエウドクソスに対してインド航路探索を支援したとされる。 | [Grainger 2024: p.45, 47] |
 | 前118年4月28日 | 負債免除、神殿保護、裁判管轄の規定などを含む大規模な大赦令を発布した。また、殺害した息子の名誉回復とみられる新王朝神「ネオス・フィロパトル」を創設した（Grainger 2024 は日付まで特定せず「前118年」とする）。 | Holbl [Grainger 2024: p.41, 60] |
+| 前118年4月28日 | プトレマイオス8世とクレオパトラ2世・3世は、王室裁判所（chrematists）とエジプト裁判所（laokritai）の管轄を定める prostagma を公布した。 | [Hauben 2016: p.441] |
+| 前118年4月28日 | この命令は、同日公布された46本の関連 prostagmata の一部であり、いわゆる「前118年恩赦令」のクラスターに属する。 | [Hauben 2016: p.441] |
+| 前118年 | 契約言語が訴訟管轄を決める基準とされ、ギリシア語契約は chrematists、エジプト語契約は laokritai に向かうのが原則となった。 | [Hauben 2016: pp.441, 448–450] |
+| 前118年 | エジプト人同士の係争については、chrematists がそれを奪ってはならず、laokritai のもとで終結させるべきだと命じられた。 | [Hauben 2016: pp.448–449] |
+| 前118年 | 著者はこの法令を、戦争と内乱で崩れた司法秩序を再建するための措置と解釈する。 | [Hauben 2016: p.442] |
 | 前118年 | フィランスロパ（philanthropa）勅令により、プトレマイオス8世・クレオパトラ2世・クレオパトラ3世の三者は和解後の秩序の固定化を図ったとみられる。 | [Minas-Nerpel 2011: p.68] |
 | 前117年ごろ | クレオパトラ3世の意向により、のちのプトレマイオス9世をキプロス総督として派遣した。また、キュジコスのエウドクソスをインドへ派遣した（Grainger 2024 はキプロス配置を「前118年ごろ」とする）。 | Holbl [Grainger 2024: p.61–62] |
 | 前116年6月28日 | 死去。遺言により、エジプト王国はクレオパトラ3世と彼女が選ぶ息子に、キュレネは非嫡出子プトレマイオス・アピオンに委ねられた（没日については Grainger 2024 は「前116年7月28日」とし、Hölbl 2001 は「前116年6月28日」とする）。 | Holbl [Grainger 2024: p.63–64] |
@@ -109,6 +114,7 @@
 | 前132〜前124年 | クレオパトラ3世がイシスと同一視されて礼拝され、ヒエロス・ポロス（hieros polos）の神官職が置かれた。著者はこれをプトレマイオス8世側の王位回復戦略と解釈する。 | [Minas-Nerpel 2011: pp.67–68] |
 | 前118年 | 恩赦令のなかで、アピス牛やムネヴィス牛の埋葬費用を王室財源で負担することや、神殿の聖域保護を定めた。また、恩赦令の文脈でメンフィテスが神格化されたプトレマイオスの列に加えられた（Grainger）。 | Holbl [Grainger 2024: p.41, 60] |
 | 前118年 | フィランスロパ勅令と同年に、プトレマイオス・ネオス・フィロパトル（Ptolemy Neos Philopator）が神格化された。 | [Minas-Nerpel 2011: p.68] |
+| 前118年 | 問題の司法管轄 prostagma は、テブテュニス近郊ウンム・エル＝バラガート（Umm el-Baragat）出土のワニ・ミイラのカルトナージュに含まれていた地方写本である。 | [Hauben 2016: p.443] |
 | 前124〜前116年 | エドフ神殿の二后と男子後継者を伴う表象について、著者は継承の安定と王家の統一を主張するためのものと解釈する。 | [Minas-Nerpel 2015: p.820] |
 | 治世中 | エドフなどの神殿に先祖崇拝の浮き彫りが数多く設けられ、王が神々に供物を捧げる姿が描写された。 | Holbl |
 
@@ -161,5 +167,6 @@ Hölbl（2001）は、プトレマイオス8世を古典古代の史料が伝え
 - Malinine, Michel, Georges Posener, and Jean Vercoutter. *Catalogue des stèles du Sérapéum de Memphis*. Paris: Imprimerie Nationale, 1968. (ステラ番号は「IM = Inventaire Mariette」＝ Auguste Mariette による1851–1852年メンフィス・セラペウム発掘に基づくルーヴル美術館の収蔵番号)
 - Pfeiffer, Stefan. *Griechische und lateinische Inschriften zum Ptolemäerreich und zur römischen Provinz Aegyptus*. 2., erweiterte Auflage. Einführungen und Quellentexte zur Ägyptologie 9. Berlin: LIT Verlag, 2020.
 - Grenfell, B. P., A. S. Hunt, and J. G. Smyly. *The Tebtunis Papyri, Part I*. London: Henry Frowde, 1902. (第2次大赦令 P.Tebt. I 5 = C.Ord.Ptol. 53)
+- Hauben, Hans. *The Ptolemaic Ordinance of 118 BC and the Administration of Justice*. The Journal of Juristic Papyrology 46, 2016.
 - Minas-Nerpel, Martina. *Cleopatra II and III: The Queens of Ptolemy VIII as Guarantors of Kingship and Rivals for Power*. 2011. (Ptolemy VIII 治下の二人のクレオパトラ王朝祭祀・エポニュモス祭司職・ヒエロス・ポロスに関する論考)
 - Minas-Nerpel, Martina. *Ptolemy VIII, Cleopatra II and Cleopatra III in Upper Egyptian Temple Scenes*. 2015. (書誌要確認 — デイル・エル=メディーナ／コム・オンボ／エドフにおける王家儀礼場面の分析)
