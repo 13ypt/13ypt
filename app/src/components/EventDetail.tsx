@@ -63,16 +63,15 @@ export default function EventDetail({
             {place.approximate && <em> ・概位置</em>}
           </span>
         )}
-      </div>
-
-      {event.approximate && (
-        <div className="detail-approx-row">
-          <span className="chip approx-chip">推定</span>
-          <span className="detail-approx-note">
-            年代は研究者の推定値／範囲表記です（「ごろ」「後半」「夏」等）。
+        {event.approximate && (
+          <span
+            className="chip approx-chip detail-approx-end"
+            title="年代は研究者の推定値／範囲表記です（「ごろ」「後半」「夏」等）"
+          >
+            推定
           </span>
-        </div>
-      )}
+        )}
+      </div>
 
       {actorObjs.length > 0 && (
         <div className="actor-chips">
