@@ -1,232 +1,232 @@
 <!doctype html>
-<html lang="de">
+<html lang="ja">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Deutsch Trainer · B1–C2</title>
-<meta name="description" content="Effizientes Deutschlernen für Mittel- und Oberstufe: SRS-Wortschatz, Deklination, Konjugation, Lückentexte, Konnektoren." />
+<title>Deutsch Tutor · AI · B1–C2</title>
+<meta name="description" content="Claude APIを使ったドイツ語中級〜上級学習サイト。会話練習・作文添削・語彙コーチ・問題生成。" />
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css" />
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dompurify@3.1.0/dist/purify.min.js"></script>
 </head>
 <body>
 <header class="top">
   <div class="brand">
     <span class="logo">DE</span>
     <div>
-      <h1>Deutsch Trainer</h1>
-      <p class="sub">Mittelstufe · Oberstufe · B1–C2</p>
+      <h1>Deutsch Tutor <span class="ai-badge">AI</span></h1>
+      <p class="sub">Claude搭載 · 会話練習と精密添削 · B1→C2</p>
     </div>
+    <button id="settings-btn" class="icon-btn" title="設定" aria-label="設定">⚙</button>
   </div>
   <nav id="tabs" class="tabs">
-    <button data-tab="dashboard" class="active">Übersicht</button>
-    <button data-tab="vocab">Wortschatz (SRS)</button>
-    <button data-tab="declension">Deklination</button>
-    <button data-tab="verbs">Verben</button>
-    <button data-tab="cloze">Lückentext</button>
-    <button data-tab="connectors">Konnektoren</button>
-    <button data-tab="reading">Lesen</button>
+    <button data-tab="tutor" class="active">💬 チューター</button>
+    <button data-tab="korrektur">✍ 作文添削</button>
+    <button data-tab="wortschatz">📖 語彙コーチ</button>
+    <button data-tab="uebungen">🧩 問題生成</button>
   </nav>
 </header>
 
 <main>
-  <!-- Dashboard -->
-  <section id="dashboard" class="panel active">
-    <div class="hero">
-      <h2>Heute üben</h2>
-      <p class="lead">Wissenschaftlich fundiert: aktive Abrufübung, verteiltes Lernen, Lernen im Kontext.</p>
-    </div>
-    <div class="grid stats">
-      <div class="card"><span class="num" id="stat-due">–</span><span class="lbl">Karten fällig</span></div>
-      <div class="card"><span class="num" id="stat-learned">–</span><span class="lbl">gelernte Karten</span></div>
-      <div class="card"><span class="num" id="stat-streak">–</span><span class="lbl">Tage Serie</span></div>
-      <div class="card"><span class="num" id="stat-accuracy">–</span><span class="lbl">Trefferquote</span></div>
-    </div>
-    <div class="grid modules">
-      <a class="mod" data-goto="vocab">
-        <h3>Wortschatz SRS</h3>
-        <p>Leitner-System mit 5 Boxen. Wörter, die du vergisst, kehren schneller zurück.</p>
-      </a>
-      <a class="mod" data-goto="declension">
-        <h3>Adjektivdeklination</h3>
-        <p>Der/die/das · ein/eine · kein/meine · nullartikel — endlich automatisch.</p>
-      </a>
-      <a class="mod" data-goto="verbs">
-        <h3>Starke & gemischte Verben</h3>
-        <p>Drei Stammformen und Konjunktiv II — das Rückgrat der Oberstufe.</p>
-      </a>
-      <a class="mod" data-goto="cloze">
-        <h3>Lückentext</h3>
-        <p>Passiv, Konjunktiv, Nominalstil und Partizipialkonstruktionen im Kontext.</p>
-      </a>
-      <a class="mod" data-goto="connectors">
-        <h3>Konnektoren</h3>
-        <p>obwohl, während, sodass, indem, je … desto — sauber unterscheiden.</p>
-      </a>
-      <a class="mod" data-goto="reading">
-        <h3>Lesen mit Wörterbuch</h3>
-        <p>Authentische Mittel-/Oberstufentexte. Klick auf ein Wort für die Bedeutung.</p>
-      </a>
-    </div>
-    <p class="foot-note">Tipp: <kbd>1</kbd>–<kbd>4</kbd> bewertet, <kbd>Leer</kbd> deckt auf, <kbd>Enter</kbd> bestätigt. Alles läuft lokal im Browser.</p>
-    <div class="controls">
-      <button id="reset" class="ghost">Fortschritt zurücksetzen</button>
+  <!-- Onboarding / API key setup -->
+  <section id="onboarding" class="panel onboarding hidden">
+    <div class="card big">
+      <h2>ようこそ</h2>
+      <p class="lead">このサイトはブラウザから直接 Claude API を呼び出します。Anthropic の API キーが必要です。</p>
+      <ol class="steps">
+        <li><a href="https://console.anthropic.com/" target="_blank" rel="noopener">console.anthropic.com</a> でキーを発行</li>
+        <li>下に貼り付ける（<b>localStorage のみに保存</b>・サーバー送信なし）</li>
+        <li>モデルを選んで「開始」</li>
+      </ol>
+      <div class="field">
+        <label for="apikey-input">API キー (sk-ant-…)</label>
+        <input id="apikey-input" type="password" placeholder="sk-ant-..." autocomplete="off" spellcheck="false" />
+      </div>
+      <div class="field">
+        <label for="model-input">モデル</label>
+        <select id="model-input">
+          <option value="claude-sonnet-4-6" selected>claude-sonnet-4-6（推奨・速さと質のバランス）</option>
+          <option value="claude-opus-4-7">claude-opus-4-7（最高精度・添削向き）</option>
+          <option value="claude-haiku-4-5-20251001">claude-haiku-4-5（最速・軽い対話）</option>
+        </select>
+      </div>
+      <button id="save-key" class="btn primary">開始</button>
+      <p class="fine">キーはこの端末にのみ保存されます。使用量は Anthropic アカウント側でご確認ください。</p>
     </div>
   </section>
 
-  <!-- Vocab SRS -->
-  <section id="vocab" class="panel">
+  <!-- Tutor -->
+  <section id="tutor" class="panel active">
     <div class="toolbar">
-      <h2>Wortschatz · SRS</h2>
-      <div class="right">
-        <label>Richtung
-          <select id="vocab-dir">
-            <option value="de-ja">DE → JA</option>
-            <option value="ja-de">JA → DE</option>
+      <div class="left">
+        <label>シナリオ
+          <select id="tutor-scenario">
+            <option value="alltag">💬 日常会話</option>
+            <option value="cafe">☕ カフェ</option>
+            <option value="arzt">🏥 病院</option>
+            <option value="amt">🏛 役所（Anmeldung 等）</option>
+            <option value="uni">🎓 大学（指導教員との面談）</option>
+            <option value="konferenz">📢 学会・発表後の議論</option>
+            <option value="smalltalk">🤝 職場のスモールトーク</option>
+            <option value="debatte">⚖️ 時事問題ディベート</option>
+            <option value="frei">🎲 自由会話（お任せ）</option>
           </select>
         </label>
-        <label>Level
-          <select id="vocab-level">
-            <option value="all">alle</option>
-            <option value="B1">B1</option>
-            <option value="B2">B2</option>
+        <label>レベル
+          <select id="tutor-level">
+            <option value="B2" selected>B2</option>
             <option value="C1">C1</option>
             <option value="C2">C2</option>
           </select>
         </label>
       </div>
-    </div>
-    <div id="vocab-card" class="card big">
-      <div class="meta"><span id="vocab-level-tag" class="tag">–</span><span id="vocab-pos" class="tag ghost">–</span><span id="vocab-box" class="tag ghost">Box –</span></div>
-      <div class="front" id="vocab-front">Lade …</div>
-      <div class="back hidden" id="vocab-back"></div>
-      <div class="example hidden" id="vocab-example"></div>
-      <div class="rate hidden" id="vocab-rate">
-        <button data-q="1" class="btn bad">Vergessen <kbd>1</kbd></button>
-        <button data-q="2" class="btn so">Schwer <kbd>2</kbd></button>
-        <button data-q="3" class="btn ok">Gut <kbd>3</kbd></button>
-        <button data-q="4" class="btn good">Leicht <kbd>4</kbd></button>
-      </div>
-      <button id="vocab-show" class="btn primary">Aufdecken <kbd>Leer</kbd></button>
-    </div>
-    <p class="hint" id="vocab-hint"></p>
-  </section>
-
-  <!-- Declension -->
-  <section id="declension" class="panel">
-    <div class="toolbar">
-      <h2>Adjektivdeklination</h2>
       <div class="right">
-        <label>Artikeltyp
-          <select id="decl-type">
-            <option value="all">alle</option>
-            <option value="def">bestimmter (der)</option>
-            <option value="indef">unbestimmter (ein)</option>
-            <option value="null">nullartikel</option>
-          </select>
-        </label>
+        <button id="tutor-new" class="btn ghost">新しい会話</button>
       </div>
     </div>
-    <div class="card big">
-      <div class="meta"><span id="decl-case" class="tag">–</span><span id="decl-gender" class="tag ghost">–</span></div>
-      <div class="prompt" id="decl-prompt">—</div>
-      <div class="options" id="decl-options"></div>
-      <div class="explanation hidden" id="decl-exp"></div>
-      <button id="decl-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
-    </div>
-    <p class="hint">Kasus und Genus bestimmen die Endung. Mit Übung wird es automatisch.</p>
-  </section>
-
-  <!-- Verbs -->
-  <section id="verbs" class="panel">
-    <div class="toolbar">
-      <h2>Unregelmäßige Verben</h2>
-      <div class="right">
-        <label>Form
-          <select id="verb-mode">
-            <option value="stamm">3 Stammformen</option>
-            <option value="prat">Präteritum (er/sie/es)</option>
-            <option value="part">Partizip II</option>
-            <option value="konj2">Konjunktiv II (er/sie/es)</option>
-          </select>
-        </label>
-      </div>
-    </div>
-    <div class="card big">
-      <div class="meta"><span class="tag" id="verb-level-tag">–</span></div>
-      <div class="prompt">
-        <span class="infinitive" id="verb-inf">—</span>
-        <span class="meaning" id="verb-meaning"></span>
-      </div>
-      <form id="verb-form" class="typing">
-        <div id="verb-inputs"></div>
-        <button class="btn primary" type="submit">Prüfen <kbd>Enter</kbd></button>
+    <div class="chat-wrap">
+      <div id="tutor-chat" class="chat"></div>
+      <form id="tutor-form" class="composer" autocomplete="off">
+        <textarea id="tutor-input" rows="2" placeholder="Auf Deutsch schreiben … (Enterで送信、Shift+Enterで改行)"></textarea>
+        <button class="btn primary" type="submit" id="tutor-send">送信</button>
       </form>
-      <div class="explanation hidden" id="verb-exp"></div>
-      <button id="verb-next" class="btn primary hidden">Nächstes Verb <kbd>Enter</kbd></button>
     </div>
   </section>
 
-  <!-- Cloze -->
-  <section id="cloze" class="panel">
-    <div class="toolbar">
-      <h2>Lückentext</h2>
-      <div class="right">
-        <label>Thema
-          <select id="cloze-topic">
-            <option value="all">alle</option>
-            <option value="konj2">Konjunktiv II</option>
-            <option value="passiv">Passiv</option>
-            <option value="nominal">Nominalstil</option>
-            <option value="prap">Präpositionen</option>
+  <!-- Korrektur -->
+  <section id="korrektur" class="panel">
+    <div class="toolbar"><h2>作文添削</h2></div>
+    <div class="card big">
+      <p class="hint">ドイツ語のテキストを貼り付けると、<b>修正版／変更表／3つのスタイルで書き換え／スタイル提案</b> を返します。</p>
+      <div class="field">
+        <label for="korr-input">ドイツ語テキスト</label>
+        <textarea id="korr-input" rows="8" placeholder="Hier dein deutscher Text …"></textarea>
+      </div>
+      <div class="field inline">
+        <label>目標レベル
+          <select id="korr-level">
+            <option value="B2">B2</option>
+            <option value="C1" selected>C1</option>
+            <option value="C2">C2 (academisch)</option>
           </select>
         </label>
+        <label>トーン
+          <select id="korr-tone">
+            <option value="neutral">neutral</option>
+            <option value="akademisch">akademisch / Nominalstil</option>
+            <option value="offiziell">offiziell / E-Mail</option>
+            <option value="locker">locker / gesprochen</option>
+          </select>
+        </label>
+        <button id="korr-submit" class="btn primary">添削する</button>
       </div>
+      <div id="korr-output" class="output md hidden"></div>
     </div>
+  </section>
+
+  <!-- Wortschatz -->
+  <section id="wortschatz" class="panel">
+    <div class="toolbar"><h2>語彙コーチ</h2></div>
     <div class="card big">
-      <div class="meta"><span class="tag" id="cloze-topic-tag">–</span></div>
-      <div class="prompt sentence" id="cloze-sentence">—</div>
-      <form id="cloze-form" class="typing">
-        <input id="cloze-input" type="text" autocomplete="off" autocapitalize="off" spellcheck="false" placeholder="Antwort" />
-        <button class="btn primary" type="submit">Prüfen <kbd>Enter</kbd></button>
+      <p class="hint">単語・熟語・前置詞表現など、<b>意味・レジスター・コロケーション・類義語のニュアンス・よくある誤用</b>を詳しく解説します。</p>
+      <form id="wort-form" class="field inline">
+        <input id="wort-input" type="text" placeholder="例: sich auseinandersetzen mit / etwas in Kauf nehmen / maßgeblich" />
+        <button class="btn primary" type="submit">解説</button>
       </form>
-      <div class="explanation hidden" id="cloze-exp"></div>
-      <button id="cloze-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
-    </div>
-  </section>
-
-  <!-- Connectors -->
-  <section id="connectors" class="panel">
-    <div class="toolbar"><h2>Konnektoren</h2></div>
-    <div class="card big">
-      <div class="prompt sentence" id="conn-sentence">—</div>
-      <div class="options" id="conn-options"></div>
-      <div class="explanation hidden" id="conn-exp"></div>
-      <button id="conn-next" class="btn primary hidden">Weiter <kbd>Enter</kbd></button>
-    </div>
-  </section>
-
-  <!-- Reading -->
-  <section id="reading" class="panel">
-    <div class="toolbar">
-      <h2>Lesen</h2>
-      <div class="right">
-        <select id="read-select"></select>
+      <div class="chips" id="wort-chips">
+        <button class="chip" data-w="sich auseinandersetzen mit">sich auseinandersetzen mit</button>
+        <button class="chip" data-w="in Kauf nehmen">in Kauf nehmen</button>
+        <button class="chip" data-w="maßgeblich">maßgeblich</button>
+        <button class="chip" data-w="zur Folge haben">zur Folge haben</button>
+        <button class="chip" data-w="anhand">anhand (Gen.)</button>
+        <button class="chip" data-w="Bestrebung">die Bestrebung</button>
+        <button class="chip" data-w="ins Auge fassen">ins Auge fassen</button>
       </div>
+      <div id="wort-output" class="output md hidden"></div>
     </div>
-    <article class="reader">
-      <h3 id="read-title">—</h3>
-      <p class="reader-meta" id="read-meta"></p>
-      <div class="reader-text" id="read-body"></div>
-    </article>
-    <aside id="read-pop" class="popover hidden"></aside>
-    <p class="hint">Klick auf ein unterstrichenes Wort — Bedeutung erscheint unten.</p>
   </section>
+
+  <!-- Übungen -->
+  <section id="uebungen" class="panel">
+    <div class="toolbar"><h2>問題生成</h2></div>
+    <div class="card big">
+      <p class="hint">テーマと形式を指定すると、練習問題と解説を生成します。</p>
+      <div class="field inline">
+        <label>テーマ
+          <select id="ueb-topic">
+            <option value="Konjunktiv II">Konjunktiv II</option>
+            <option value="Passiv (Vorgangs- und Zustandspassiv)">Passiv</option>
+            <option value="Nominalstil / Nominalisierung">Nominalstil</option>
+            <option value="Präpositionen mit festem Kasus und Verben mit Präposition">前置詞支配</option>
+            <option value="Adjektivdeklination (der/ein/kein/null)">形容詞語尾</option>
+            <option value="Konnektoren (weil/obwohl/damit/sodass/indem/falls/sofern)">Konnektoren</option>
+            <option value="Partizipialkonstruktionen und Partizip I/II als Adjektiv">Partizipialkonstruktionen</option>
+            <option value="indirekte Rede mit Konjunktiv I">間接話法（Konjunktiv I）</option>
+            <option value="feste Wortverbindungen auf C1/C2 Niveau">慣用表現 C1/C2</option>
+          </select>
+        </label>
+        <label>形式
+          <select id="ueb-type">
+            <option value="Lückentext mit Kontext">Lückentext</option>
+            <option value="Umformulierung (Nominal↔Verbalstil)">書き換え</option>
+            <option value="Übersetzung JP → DE">翻訳 日→独</option>
+            <option value="Fehlersuche (Korrigiere den Satz)">誤り探し</option>
+            <option value="Leseverstehen-Fragen">読解Q&A</option>
+          </select>
+        </label>
+        <label>レベル
+          <select id="ueb-level">
+            <option value="B2">B2</option>
+            <option value="C1" selected>C1</option>
+            <option value="C2">C2</option>
+          </select>
+        </label>
+        <label>問題数
+          <select id="ueb-count">
+            <option value="5" selected>5</option>
+            <option value="10">10</option>
+          </select>
+        </label>
+        <button id="ueb-submit" class="btn primary">生成</button>
+      </div>
+      <div id="ueb-output" class="output md hidden"></div>
+    </div>
+  </section>
+
 </main>
 
+<!-- Settings modal -->
+<div id="settings-modal" class="modal hidden" role="dialog" aria-modal="true">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h3>設定</h3>
+      <button id="settings-close" class="icon-btn" aria-label="閉じる">✕</button>
+    </div>
+    <div class="field">
+      <label for="set-apikey">API キー</label>
+      <input id="set-apikey" type="password" placeholder="sk-ant-..." autocomplete="off" spellcheck="false" />
+    </div>
+    <div class="field">
+      <label for="set-model">モデル</label>
+      <select id="set-model">
+        <option value="claude-sonnet-4-6">claude-sonnet-4-6</option>
+        <option value="claude-opus-4-7">claude-opus-4-7</option>
+        <option value="claude-haiku-4-5-20251001">claude-haiku-4-5</option>
+      </select>
+    </div>
+    <div class="modal-actions">
+      <button id="set-clear" class="btn ghost">キーとログを削除</button>
+      <button id="set-save" class="btn primary">保存</button>
+    </div>
+    <p class="fine">キーはこの端末（localStorage）にのみ保存。通信は Anthropic API に直接行われます。</p>
+  </div>
+</div>
+
 <footer class="bottom">
-  <span>Offline-fähig · localStorage · kein Tracking</span>
+  <span>ブラウザ完結 · localStorage · サーバーなし</span>
 </footer>
 
 <script type="module" src="app.js"></script>
