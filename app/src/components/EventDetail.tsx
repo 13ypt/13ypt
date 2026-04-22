@@ -55,9 +55,6 @@ export default function EventDetail({
         {event.type === "interpretation" && (
           <span className="chip interp-chip">解釈・伝承</span>
         )}
-        {event.approximate && (
-          <span className="chip approx-chip">推定</span>
-        )}
         <span className="detail-year">{event.yearLabel}</span>
         {place && (
           <span className="detail-place">
@@ -67,6 +64,15 @@ export default function EventDetail({
           </span>
         )}
       </div>
+
+      {event.approximate && (
+        <div className="detail-approx-row">
+          <span className="chip approx-chip">推定</span>
+          <span className="detail-approx-note">
+            年代は研究者の推定値／範囲表記です（「ごろ」「後半」「夏」等）。
+          </span>
+        </div>
+      )}
 
       {actorObjs.length > 0 && (
         <div className="actor-chips">

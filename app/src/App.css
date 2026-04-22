@@ -201,6 +201,23 @@
   color: #a6863f;
 }
 
+.detail-approx-row {
+  margin: 6px 0 10px;
+  padding: 6px 10px;
+  background: #fcf5e3;
+  border-left: 3px dotted #a6863f;
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 11px;
+}
+
+.detail-approx-note {
+  color: #6e5a33;
+  line-height: 1.4;
+}
+
 .detail.is-interp .detail-title {
   font-style: italic;
 }
