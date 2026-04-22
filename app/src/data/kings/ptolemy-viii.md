@@ -109,7 +109,7 @@
 | 前130年 | プトレマイオス8世がキプロスから軍を動かし、アレクサンドリアを避けてメンフィスに拠る。メンフィス（アピスカルト本拠地）で独自の「アレクサンドロスと神格化されたプトレマイオス達の祭司」を立て、クレオパトラ2世側アレクサンドリアの王朝祭祀に対抗する祭司系列を創設（「counter-priests」）。前127年まで2人の祭司が並立。 | Holbl [Grainger 2024: p.34] |
 | 前130年1月 | エジプト人将軍パオスがテーベ全域の strategos に任命され、ヘルモンティス（ブケウム＝ブキス牛崇拝地）の反乱鎮圧を準備。アピス（メンフィス）とブキス（ヘルモンティス）の両聖獣崇拝地を在地基盤として掌握する戦略。 | Holbl |
 | 前130〜116年 | 「陶工の託宣（Oracle of the Potter）」が流通。反ギリシア的終末預言文書で、ハルシエセ敗北への失望を表現するとされる。クヌム神を表象する潜在的反王権言説として、プトレマイオス8世のメンフィス戦略の背景をなす。 | Holbl [McGing 1997] |
-| 前127〜前118年 | フィラエのイシス神官団が王権官吏の「無料接待」義務への苦情を申立て、プトレマイオス8世（三者）が将軍ロコスに「神官を悩ますな」と指示（フィラエ・オベリスク、Pfeiffer Text 29）。フィラエはイシス崇拝中心地であり、イシスはアピス葬儀における双子イシス＝ネフテュス役の神格。P.Tebt. I 5 と同時期・同テーマ（王権─神殿交渉）の並行史料。 | [Pfeiffer: Text 29] |
+| 前127〜前118年 | フィラエのイシス神官団が王権官吏の「無料接待」義務への苦情を申立て、プトレマイオス8世（三者）が将軍ロコスに「神官を悩ますな」と指示（フィラエ・オベリスク、Pfeiffer Text 29）。フィラエはイシス崇拝中心地であり、イシスはアピス葬儀における双子イシス＝ネフテュス役の神格。P.Tebt. I 5 と同時期・同テーマ（王権─神殿交渉）の並行史料。 | [Pfeiffer 2020: Text 29] |
 | 前119年 | プトレマイオス8世がヘルモンティスのブケウム（ブキス牛崇拝の中心）を訪れる。前130年のパオス反乱鎮圧地と同じ。メンフィス戦略の持続的 articulation。 | [Grainger 2024: p.45] [Holbl] |
 | 前119年9月8日 | Gereget II の子アピス（Apis 第12個体）死去。プトレマイオス8世治世2度目のアピス死亡。 | [Malinine 1968: 4246] |
 | 前119年11月17日ごろ | アピス（Apis 第12個体）の埋葬（70日哀悼期間終了後、推定）。翌年の P.Tebt. I 5 §§77-82 条項の直接的契機となる。 | [Malinine 1968: 4246] |
@@ -141,6 +141,6 @@ Hölbl（2001）は、プトレマイオス8世を古典古代の史料が伝え
 - Grainger, John D. *The Decline and Fall of the Ptolemies: Ptolemaic Egypt 146–30 BC*. Barnsley: Pen and Sword, 2024.
 - Ray, John D. *The Archive of Ḥor*. Texts from Excavations 2. London: Egypt Exploration Society, 1976.
 - McGing, Brian C. *Revolt Egyptian Style: Internal Opposition to Ptolemaic Rule*. Archiv für Papyrusforschung 43, 1997, pp. 273–314.
-- Malinine, Michel, Georges Posener, and Jean Vercoutter. *Catalogue des stèles du Sérapéum de Memphis*. Paris: Imprimerie Nationale, 1968. (引用時の記号 IM / Inv. Mariette は個別ステラ番号を指す)
-- Pfeiffer, Stefan. *Text 29 (Philae obelisk / Philensis dekret)*. (書誌要確認 — Stefan Pfeiffer の論考／刊行物を特定のこと)
+- Malinine, Michel, Georges Posener, and Jean Vercoutter. *Catalogue des stèles du Sérapéum de Memphis*. Paris: Imprimerie Nationale, 1968. (ステラ番号は「IM = Inventaire Mariette」＝ Auguste Mariette による1851–1852年メンフィス・セラペウム発掘に基づくルーヴル美術館の収蔵番号)
+- Pfeiffer, Stefan. *Griechische und lateinische Inschriften zum Ptolemäerreich und zur römischen Provinz Aegyptus*. 2., erweiterte Auflage. Einführungen und Quellentexte zur Ägyptologie 9. Berlin: LIT Verlag, 2020.
 - Grenfell, B. P., A. S. Hunt, and J. G. Smyly. *The Tebtunis Papyri, Part I*. London: Henry Frowde, 1902. (第2次大赦令 P.Tebt. I 5 = C.Ord.Ptol. 53)
