@@ -55,10 +55,10 @@ export default function EventDetail({
         {event.type === "interpretation" && (
           <span className="chip interp-chip">解釈・伝承</span>
         )}
-        <span className="detail-year">
-          {event.yearLabel}
-          {event.approximate && " ※推定"}
-        </span>
+        {event.approximate && (
+          <span className="chip approx-chip">推定</span>
+        )}
+        <span className="detail-year">{event.yearLabel}</span>
         {place && (
           <span className="detail-place">
             @ {place.nameJa}

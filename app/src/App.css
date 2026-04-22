@@ -189,6 +189,18 @@
   color: #6a4a12 !important;
 }
 
+.approx-chip {
+  background: #fff5d6 !important;
+  border: 1px dotted #a6863f;
+  color: #6a4a12 !important;
+  font-size: 11px;
+}
+
+.approx-chip::before {
+  content: "※ ";
+  color: #a6863f;
+}
+
 .detail.is-interp .detail-title {
   font-style: italic;
 }
