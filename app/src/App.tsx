@@ -12,6 +12,7 @@ import Timeline from "./components/Timeline";
 import MapView from "./components/MapView";
 import EventDetail from "./components/EventDetail";
 import CharacterPanel from "./components/CharacterPanel";
+import BibliographyPanel from "./components/BibliographyPanel";
 import ActorFilter from "./components/ActorFilter";
 import "./App.css";
 
@@ -343,6 +344,11 @@ function App() {
           }}
         />
       )}
+
+      <BibliographyPanel
+        citations={normalized.citations}
+        events={normalized.events}
+      />
 
       <footer className="app-footer">
         <div>

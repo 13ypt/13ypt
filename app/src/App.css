@@ -308,6 +308,50 @@
   padding: 14px 16px;
 }
 
+.bibliography-panel {
+  background: #ffffff;
+  border: 1px solid #e2d7bd;
+  border-radius: 8px;
+  padding: 14px 16px;
+}
+
+.bib-list {
+  margin: 6px 0 0;
+  padding-left: 24px;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #2a2320;
+}
+
+.bib-list li {
+  margin-bottom: 6px;
+}
+
+.bib-count {
+  color: #8d7a55;
+  font-size: 11px;
+}
+
+.bib-unused {
+  margin-top: 12px;
+  font-size: 12px;
+  color: #6e5a33;
+}
+
+.bib-unused summary {
+  cursor: pointer;
+  color: #8d7a55;
+}
+
+.bib-unused ol {
+  padding-left: 24px;
+  margin: 6px 0 0;
+}
+
+.bib-unused li {
+  margin-bottom: 4px;
+}
+
 .char-intro {
   font-size: 13px;
   margin: 0 0 8px;
