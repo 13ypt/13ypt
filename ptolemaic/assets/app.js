@@ -3,7 +3,7 @@
 
 (() => {
   const SVG_NS = "http://www.w3.org/2000/svg";
-  const YEAR_MIN = -335;
+  const YEAR_MIN = -365;
   const YEAR_MAX = -25;
   const DEFAULT_PX_PER_YEAR = 4;
   const ROW_HEIGHT = 26;
@@ -320,8 +320,12 @@
 
     g.addEventListener("mouseenter", (e) => {
       const name = state.lang === "ja" ? b.name : (b.nameEn || b.name);
-      showTooltip(e, `<div class="tt-title">${kind}: ${name}</div>
-        <div class="tt-meta">${state.lang === "ja" ? "生" : "born"} ${fmtYear(b.birth)} · ${state.lang === "ja" ? "即位" : "installed"} ${fmtYear(b.installed)} · ${state.lang === "ja" ? "没" : "died"} ${fmtYear(b.death)}</div>
+      const title = b.stela ? `${kind} [${b.stela}]: ${name}` : `${kind}: ${name}`;
+      const installedTxt = b.installed != null
+        ? ` · ${state.lang === "ja" ? "即位" : "installed"} ${fmtYear(b.installed)}`
+        : ` · ${state.lang === "ja" ? "即位年不詳" : "install not recorded"}`;
+      showTooltip(e, `<div class="tt-title">${title}</div>
+        <div class="tt-meta">${state.lang === "ja" ? "生" : "born"} ${fmtYear(b.birth)}${installedTxt} · ${state.lang === "ja" ? "没" : "died"} ${fmtYear(b.death)}</div>
         ${b.note ? `<div>${b.note}</div>` : ""}
         ${b.source ? `<div class="tt-src">${b.source}</div>` : ""}`);
     });
