@@ -1,3 +1,4 @@
+import { useEffect, useRef, useState } from "react";
 import type { HistoricalEvent, Layer } from "../data/types";
 
 export const LAYER_COLORS: Record<Layer, string> = {
@@ -51,6 +52,29 @@ export default function Timeline({
   const minYear = startYear;
   const maxYear = endYear;
   const span = Math.max(1, maxYear - minYear);
+
+  // Layer-select dropdown state + outside-click-to-close
+  const [dropdownOpen, setDropdownOpen] = useState(false);
+  const dropdownRef = useRef<HTMLDivElement>(null);
+  useEffect(() => {
+    if (!dropdownOpen) return;
+    const handler = (e: MouseEvent) => {
+      if (dropdownRef.current && !dropdownRef.current.contains(e.target as Node)) {
+        setDropdownOpen(false);
+      }
+    };
+    document.addEventListener("mousedown", handler);
+    return () => document.removeEventListener("mousedown", handler);
+  }, [dropdownOpen]);
+
+  const selectedLabel =
+    enabledLayers.size === LAYER_ORDER.length
+      ? "すべて表示"
+      : enabledLayers.size === 0
+        ? "なし"
+        : LAYER_ORDER.filter((l) => enabledLayers.has(l))
+            .map((l) => LAYER_LABELS[l])
+            .join(" / ");
 
   const width = 1100;
   const padL = 50;
@@ -121,20 +145,38 @@ export default function Timeline({
   return (
     <div className="timeline-wrap">
       <div className="layer-toggles">
-        {LAYER_ORDER.map((l) => (
-          <label key={l} className="layer-toggle">
-            <input
-              type="checkbox"
-              checked={enabledLayers.has(l)}
-              onChange={() => onToggleLayer(l)}
-            />
-            <span
-              className="layer-swatch"
-              style={{ background: LAYER_COLORS[l] }}
-            />
-            {LAYER_LABELS[l]}
-          </label>
-        ))}
+        <div className="layer-dropdown" ref={dropdownRef}>
+          <button
+            type="button"
+            className="layer-dropdown-btn"
+            onClick={() => setDropdownOpen((v) => !v)}
+            aria-expanded={dropdownOpen}
+          >
+            <span className="layer-dropdown-label">表示レイヤー</span>
+            <span className="layer-dropdown-value">{selectedLabel}</span>
+            <span className="layer-dropdown-arrow">
+              {dropdownOpen ? "▴" : "▾"}
+            </span>
+          </button>
+          {dropdownOpen && (
+            <div className="layer-dropdown-panel">
+              {LAYER_ORDER.map((l) => (
+                <label key={l} className="layer-toggle">
+                  <input
+                    type="checkbox"
+                    checked={enabledLayers.has(l)}
+                    onChange={() => onToggleLayer(l)}
+                  />
+                  <span
+                    className="layer-swatch"
+                    style={{ background: LAYER_COLORS[l] }}
+                  />
+                  {LAYER_LABELS[l]}
+                </label>
+              ))}
+            </div>
+          )}
+        </div>
         <span className="legend-hint">
           <span className="legend-dot fact" /> 事実 / 記述
           <span className="legend-dot interp" /> 解釈・伝承
