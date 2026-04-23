@@ -48,7 +48,13 @@
 | 前142年 | クレオパトラ3世との結婚により、一王二后（プトレマイオス8世・クレオパトラ2世・クレオパトラ3世）の体制を形成した。 | [Minas-Nerpel 2015: p.814] |
 | 前141/140年 | 姪のクレオパトラ3世と結婚し彼女も女王としたことで、母娘の激しい対立を招いた。 | Holbl [Grainger 2024: p.10–11] |
 | 前141年5月8日〜前140年1月14日ごろ | プトレマイオス8世は姪クレオパトラ3世と結婚し、重婚状態となった。Huß はこの出来事がクレオパトラ2世のプライドを深く傷つけたとみる。 | [Huß 2001: p.606] |
+| 前141/140年〜前132年 | プトレマイオス8世・姉クレオパトラ2世・妻クレオパトラ3世の三者共同統治（trio au pouvoir）が公式に機能し、公文書における王・姉である女王・妻である女王の称号スタイルが定着した。 | [Rossini 2022: p.139] |
+| 前149年頃〜前135年 | ギリシア系高官ボエトス（Boethos）が、テーベ地域（テーバイド）の「王室近衛隊長（archisomatophylax）」および「将軍（strategos）」として活躍した。 | [Rossini 2022: p.142] |
 | 前140年以降 | クレオパトラ3世との間に複数の子が生まれ、以後の継承問題の中心となる。 | [Grainger 2024: p.10–11] |
+| 前136〜前135年 | 上エジプトの都市オンボイのギュムナシオンに所属する青年たち（neaniskoi）が、3人の統治者から与えられた特権（フィラントローパ）や書簡を石碑に刻んで顕彰するための法令（プセフィスマ）を可決した。 | [Rossini 2022: pp.113, 114, 123] |
+| 前135年4月22日ごろ | オンボイのギュムナシオンの代表者アルキマコスとテミストクレスの2名が、宮廷へ出向いて王たちに請願書（エンテウクシス）を手渡した。 | [Rossini 2022: pp.140, 141] |
+| 前135年4月22日 | プトレマイオス8世・クレオパトラ2世・クレオパトラ3世の3名が、オンボイのギュムナシオンに特権を与える公式書簡（第一の書簡）に署名した。同時に、この恩恵を実行に移すようテーベ将軍ボエトス宛ての書簡（第二の書簡）も発行された。 | [Rossini 2022: pp.117, 142] |
+| 前134年〜前130年 | 高官ボエトスがさらに昇進し、テーベ地域の「副長官（epistrategos）」および「将軍（strategos）」の地位に就いた。この地位は前130年の内戦中にエジプト人のパオスに交代するまで続いた。 | [Rossini 2022: p.142] |
 | 前139年 | スキピオ・アエミリアヌス率いるローマ使節団を迎え、贅沢（トリュフェ）を誇示する肥満した姿を見せた。また、将軍ガライステスによる反乱の企てを未然に防いだ（Grainger 2024 は使節団の訪問を「前141〜前138年ごろ」とする）。 | Holbl [Grainger 2024: p.19–22] [Grainger 2024: p.20–22] |
 | 前132年11月以前 | クレオパトラ2世派との内戦が本格化した（Grainger 2024 は「前132年後半ごろ」）。 | Holbl [Grainger 2024: p.32] |
 | 前132年11月11日まで | 蓄積していた緊張が爆発し、共同統治体制が完全に崩壊して内戦が勃発した。 | [Huß 2001: p.608] |
@@ -197,6 +203,7 @@ Huß 2001 は、前124年の和解後も王朝内の緊張や地方社会の記�
 - Pfeiffer, Stefan. *Griechische und lateinische Inschriften zum Ptolemäerreich und zur römischen Provinz Aegyptus*. 2., erweiterte Auflage. Einführungen und Quellentexte zur Ägyptologie 9. Berlin: LIT Verlag, 2020.
 - Grenfell, B. P., A. S. Hunt, and J. G. Smyly. *The Tebtunis Papyri, Part I*. London: Henry Frowde, 1902. (第2次大赦令 P.Tebt. I 5 = C.Ord.Ptol. 53)
 - Hauben, Hans. *The Ptolemaic Ordinance of 118 BC and the Administration of Justice*. The Journal of Juristic Papyrology 46, 2016.
+- Rossini, Alessandro. *Letters from Ptolemy VIII, Cleopatra II and Cleopatra III Concerning the Gymnasium of Omboi*. Axon 6(2), 2022, pp. 113–152.
 - Huß, Werner. *Ägypten in hellenistischer Zeit, 332–30 v. Chr.*. München: C. H. Beck, 2001.
 - Minas-Nerpel, Martina. *Cleopatra II and III: The Queens of Ptolemy VIII as Guarantors of Kingship and Rivals for Power*. 2011. (Ptolemy VIII 治下の二人のクレオパトラ王朝祭祀・エポニュモス祭司職・ヒエロス・ポロスに関する論考)
 - Minas-Nerpel, Martina. *Ptolemy VIII, Cleopatra II and Cleopatra III in Upper Egyptian Temple Scenes*. 2015. (書誌要確認 — デイル・エル=メディーナ／コム・オンボ／エドフにおける王家儀礼場面の分析)
