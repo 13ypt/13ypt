@@ -241,8 +241,8 @@ function App() {
               始点: 前{-yearWindow[0]}年
               <input
                 type="range"
-                min={normalized.dateRange.end}
-                max={normalized.dateRange.start}
+                min={normalized.dateRange.start}
+                max={normalized.dateRange.end}
                 step={1}
                 value={yearWindow[0]}
                 onChange={(e) =>
@@ -257,8 +257,8 @@ function App() {
               終点: 前{-yearWindow[1]}年
               <input
                 type="range"
-                min={normalized.dateRange.end}
-                max={normalized.dateRange.start}
+                min={normalized.dateRange.start}
+                max={normalized.dateRange.end}
                 step={1}
                 value={yearWindow[1]}
                 onChange={(e) =>
