@@ -1,0 +1,113 @@
+[
+  {
+    "id": "buchis-B1",
+    "name": "ブキス B1（プトレマイオス2世期）",
+    "nameEn": "Buchis B1 (Ptolemy II)",
+    "birth": -288,
+    "installed": -285,
+    "death": -266,
+    "source": "Mond & Myers 1934, The Bucheum II, stelae 1-2.",
+    "note": "現存する最古期のプトレマイオス朝ブキス埋葬。"
+  },
+  {
+    "id": "buchis-B2",
+    "name": "ブキス B2（プトレマイオス2世〜3世期）",
+    "nameEn": "Buchis B2 (Ptolemy II–III)",
+    "birth": -267,
+    "installed": -266,
+    "death": -246,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B3",
+    "name": "ブキス B3（プトレマイオス3世期）",
+    "nameEn": "Buchis B3 (Ptolemy III)",
+    "birth": -247,
+    "installed": -246,
+    "death": -224,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B4",
+    "name": "ブキス B4（プトレマイオス4世期）",
+    "nameEn": "Buchis B4 (Ptolemy IV)",
+    "birth": -225,
+    "installed": -224,
+    "death": -204,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B5",
+    "name": "ブキス B5（プトレマイオス5世期）",
+    "nameEn": "Buchis B5 (Ptolemy V)",
+    "birth": -205,
+    "installed": -204,
+    "death": -180,
+    "source": "Mond & Myers 1934, Bucheum II, stela 5.",
+    "note": "ロゼッタ・ストーン時代のブキス。"
+  },
+  {
+    "id": "buchis-B6",
+    "name": "ブキス B6（プトレマイオス6世期）",
+    "nameEn": "Buchis B6 (Ptolemy VI)",
+    "birth": -181,
+    "installed": -180,
+    "death": -158,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B7",
+    "name": "ブキス B7（プトレマイオス6世〜8世期）",
+    "nameEn": "Buchis B7 (Ptolemy VI–VIII)",
+    "birth": -159,
+    "installed": -158,
+    "death": -138,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B8",
+    "name": "ブキス B8（プトレマイオス8世期）",
+    "nameEn": "Buchis B8 (Ptolemy VIII)",
+    "birth": -139,
+    "installed": -138,
+    "death": -118,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B9",
+    "name": "ブキス B9（プトレマイオス9世期）",
+    "nameEn": "Buchis B9 (Ptolemy IX)",
+    "birth": -119,
+    "installed": -118,
+    "death": -96,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B10",
+    "name": "ブキス B10（プトレマイオス10世〜12世期）",
+    "nameEn": "Buchis B10 (Ptolemy X–XII)",
+    "birth": -97,
+    "installed": -96,
+    "death": -77,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B11",
+    "name": "ブキス B11（プトレマイオス12世期）",
+    "nameEn": "Buchis B11 (Ptolemy XII)",
+    "birth": -78,
+    "installed": -77,
+    "death": -58,
+    "source": "Mond & Myers 1934, Bucheum II."
+  },
+  {
+    "id": "buchis-B12",
+    "name": "ブキス B12（クレオパトラ7世による即位式）",
+    "nameEn": "Buchis B12 — installed by Cleopatra VII",
+    "birth": -59,
+    "installed": -58,
+    "death": -35,
+    "source": "Bucheum stela 13 (Mond & Myers 1934, II, pl. XLIII).",
+    "note": "前51年3月22日、クレオパトラ7世が自らヘルモンティスでブキス牛の即位式を執行（Bucheum stela 13）。プトレマイオス朝の王権儀礼と動物崇拝の結合を示す重要碑文。"
+  }
+]

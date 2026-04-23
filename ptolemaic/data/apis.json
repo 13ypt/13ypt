@@ -1,0 +1,136 @@
+[
+  {
+    "id": "apis-ptolI",
+    "name": "アピス（プトレマイオス1世期）",
+    "nameEn": "Apis bull (reign of Ptolemy I)",
+    "birth": -330,
+    "installed": -316,
+    "death": -294,
+    "source": "Vercoutter 1962 (Textes biographiques du Sérapeum); Devauchelle 1994.",
+    "note": "前330年頃生、サトラップ期に埋葬。セラペウム S北系ガレリー埋葬。日付は碑文に基づく目安。"
+  },
+  {
+    "id": "apis-ptolI-II",
+    "name": "アピス（プトレマイオス1世〜2世期）",
+    "nameEn": "Apis bull (late Ptolemy I – Ptolemy II)",
+    "birth": -295,
+    "installed": -294,
+    "death": -276,
+    "source": "Vercoutter 1962; Thompson 2012.",
+    "note": "前276年没（プトレマイオス2世治世9年頃）。セラペウム碑文より。"
+  },
+  {
+    "id": "apis-ptolII-1",
+    "name": "アピス（プトレマイオス2世期・前期）",
+    "nameEn": "Apis bull (mid Ptolemy II)",
+    "birth": -277,
+    "installed": -276,
+    "death": -259,
+    "source": "Vercoutter 1962, no. 3-4.",
+    "note": "前259年（プトレマイオス2世治世26年）没とされる。"
+  },
+  {
+    "id": "apis-ptolII-2",
+    "name": "アピス（プトレマイオス2世末〜3世初）",
+    "nameEn": "Apis bull (late Ptolemy II – early Ptolemy III)",
+    "birth": -260,
+    "installed": -259,
+    "death": -241,
+    "source": "Devauchelle 1994.",
+    "note": "プトレマイオス3世治世6年頃没。"
+  },
+  {
+    "id": "apis-ptolIII",
+    "name": "アピス（プトレマイオス3世期）",
+    "nameEn": "Apis bull (Ptolemy III)",
+    "birth": -242,
+    "installed": -241,
+    "death": -222,
+    "source": "Vercoutter 1962.",
+    "note": "治世末の埋葬。"
+  },
+  {
+    "id": "apis-ptolIV",
+    "name": "アピス（プトレマイオス4世期）",
+    "nameEn": "Apis bull (Ptolemy IV)",
+    "birth": -223,
+    "installed": -222,
+    "death": -202,
+    "source": "Thompson 2012.",
+    "note": "ラフィアの戦い前後の在位。"
+  },
+  {
+    "id": "apis-ptolV",
+    "name": "アピス（プトレマイオス5世期・ロゼッタ・ストーン）",
+    "nameEn": "Apis bull of the Rosetta Stone era",
+    "birth": -202,
+    "installed": -201,
+    "death": -186,
+    "source": "Memphis Decree (OGIS 90); Vercoutter 1962.",
+    "note": "ロゼッタ・ストーンに言及されるアピス。戴冠儀礼と連動。"
+  },
+  {
+    "id": "apis-ptolVI-1",
+    "name": "アピス（プトレマイオス5世末〜6世）",
+    "nameEn": "Apis bull (late Ptolemy V – Ptolemy VI)",
+    "birth": -186,
+    "installed": -185,
+    "death": -164,
+    "source": "Vercoutter 1962."
+  },
+  {
+    "id": "apis-ptolVI-2",
+    "name": "アピス（プトレマイオス6世〜8世）",
+    "nameEn": "Apis bull (Ptolemy VI – VIII)",
+    "birth": -165,
+    "installed": -164,
+    "death": -142,
+    "source": "Thompson 2012; Devauchelle 1994."
+  },
+  {
+    "id": "apis-ptolVIII",
+    "name": "アピス（プトレマイオス8世期）",
+    "nameEn": "Apis bull (Ptolemy VIII)",
+    "birth": -142,
+    "installed": -141,
+    "death": -121,
+    "source": "Vercoutter 1962."
+  },
+  {
+    "id": "apis-ptolIX",
+    "name": "アピス（プトレマイオス9世期）",
+    "nameEn": "Apis bull (Ptolemy IX)",
+    "birth": -122,
+    "installed": -121,
+    "death": -99,
+    "source": "Devauchelle 1994."
+  },
+  {
+    "id": "apis-ptolX-XII",
+    "name": "アピス（プトレマイオス10世〜12世期）",
+    "nameEn": "Apis bull (Ptolemy X – XII)",
+    "birth": -98,
+    "installed": -97,
+    "death": -76,
+    "source": "Vercoutter 1962."
+  },
+  {
+    "id": "apis-ptolXII",
+    "name": "アピス（プトレマイオス12世期）",
+    "nameEn": "Apis bull (Ptolemy XII)",
+    "birth": -76,
+    "installed": -75,
+    "death": -54,
+    "source": "Thompson 2012."
+  },
+  {
+    "id": "apis-cleoVII",
+    "name": "アピス（クレオパトラ7世期）",
+    "nameEn": "Apis bull of Cleopatra VII",
+    "birth": -54,
+    "installed": -53,
+    "death": -35,
+    "source": "Bresciani 1983; Thompson 2012.",
+    "note": "ヘルモンティスでクレオパトラがブキス牛即位式を主催した記録あり（下記ブキス参照）。"
+  }
+]
