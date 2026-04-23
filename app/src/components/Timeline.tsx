@@ -103,10 +103,10 @@ export default function Timeline({
   }
 
   const reignBandY = 78;
-  const reignBandH = 18;
-  const groupGap = 10;
-  const laneH = 16;
-  const dotR = 6;
+  const reignBandH = 14;
+  const groupGap = 6;
+  const laneH = 10;
+  const dotR = 4;
 
   const layerYStart: Record<Layer, number> = {} as Record<Layer, number>;
   let cursor = reignBandY + (reigns && reigns.length ? reignBandH + groupGap : groupGap) + 4;

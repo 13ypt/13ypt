@@ -451,7 +451,15 @@
   padding: 14px 16px;
   display: flex;
   flex-direction: column;
-  min-height: 480px;
+  min-height: 420px;
+}
+
+.detail-panel {
+  position: sticky;
+  top: 8px;
+  align-self: start;
+  max-height: calc(100vh - 16px);
+  overflow-y: auto;
 }
 
 .map-wrap {
