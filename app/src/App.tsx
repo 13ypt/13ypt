@@ -42,8 +42,16 @@ interface NormalizedView {
 function normalize(v: (typeof views)[number]): NormalizedView {
   if (v.kind === "king") {
     const k = v.king;
-    const start = (k.birthYear ?? -200) - 2;
-    const end = (k.deathYear ?? -100) + 2;
+    // Timeline range covers the king's lifespan plus any post-reign events
+    // (e.g. damnatio memoriae) so they still render — but birthYear/deathYear
+    // themselves remain reign-bounded for the lifespan display.
+    const eventYears = k.events.flatMap((e) =>
+      e.endYear !== undefined ? [e.startYear, e.endYear] : [e.startYear]
+    );
+    const minEv = eventYears.length ? Math.min(...eventYears) : k.birthYear ?? -200;
+    const maxEv = eventYears.length ? Math.max(...eventYears) : k.deathYear ?? -100;
+    const start = Math.min(k.birthYear ?? -200, minEv) - 2;
+    const end = Math.max(k.deathYear ?? -100, maxEv) + 2;
     return {
       id: v.id,
       labelJa: v.labelJa,

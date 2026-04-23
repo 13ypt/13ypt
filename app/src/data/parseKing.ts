@@ -564,13 +564,12 @@ export function parseKingMarkdown(md: string, kingId: string): King {
         .join(" ")
     : undefined;
 
-  const reignYears = reigns.flatMap((r) => [r.start, r.end]);
-  const eventYears = events.flatMap((e) =>
-    e.endYear !== undefined ? [e.startYear, e.endYear] : [e.startYear]
-  );
-  const pool = [...reignYears, ...eventYears].filter((y) => y !== 0);
-  const birthYear = pool.length ? Math.min(...pool) - 3 : undefined;
-  const deathYear = pool.length ? Math.max(...pool) + 1 : undefined;
+  // birth / death are derived from REIGNS only. Post-reign events (e.g. the
+  // damnatio memoriae of Cleopatra II in 前115, Cleopatra III's 前112/111
+  // re-appropriation of titles) should not inflate the lifespan display.
+  const reignYears = reigns.flatMap((r) => [r.start, r.end]).filter((y) => y !== 0);
+  const birthYear = reignYears.length ? Math.min(...reignYears) - 3 : undefined;
+  const deathYear = reignYears.length ? Math.max(...reignYears) + 1 : undefined;
 
   const places = GAZETTEER.filter((g) => usedPlaceIds.has(g.id)).map(
     ({ keywords: _k, ...p }) => p
