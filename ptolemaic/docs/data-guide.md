@@ -144,7 +144,40 @@ Thompson 2012 Appendix D 脚注85 は Louvre の Cleopatra VII 治世3年（前5
 - **Buchis stela 13** については別史料であり、関与の解釈は Žabkar 1983 vs Goldbrunner 2004 で分かれる（`buchis.json` M13 の `note` 参照）。
 - 「Cleopatra VII は動物崇拝儀礼に積極関与した」という一般化は、Apis と Buchis を一緒くたにせず、史料ごとに分けて論じるべし。Bucheum vol. 3 の再精査が必要。
 
-### 6. Mond/Myers 王番号付けの誤り
+### 6. ブキス即位遅延問題（Mond & Myers pp.35-36）
+
+Mond & Myers 自身が「Additional Note on the Installation of Buchis」（pp.35-36）で、**Stela 6** が生（前234）から即位（前222）まで **12 年の遅延**を持つことを論じ、「これは政情不安で説明がつかない」と結論している。つまり **ブキス即位遅延は必ずしも政治状況と相関しない**。
+
+この一事実は相関論の**上限**を規定する：
+
+- 即位遅延が政治非相関である以上、**即位が王権交代と同年になる事例**（M6 即位 = Ptol IV 即位 前222; M9 没 = Ptol VI 没 前145; M11 即位 = Apis T9 没 前119; M13 即位 = Cleopatra VII 即位 前51）は、**選択的同期**として強調されるべきである。
+- 逆に言えば、「全てのブキス即位が王権交代と連動した」と主張することはできない（Stela 6 が反例）。
+- 論文では「遅延が常態としてあり得る中で、特定の場面で同期が選ばれた」という枠組みで書く方が査読耐性が高い。
+
+各ブキスエントリの `installationDelay` フィールド（年単位）は、生年から即位年までの年数を独立に計算・提示するためのもの。M6 以外でも遅延パターンを整理して論じる材料になる。
+
+### 7. Soter II 名義 vs 連続 regnal year 問題（Mond & Myers p.31）
+
+Stelae 11・12 は **王名＝プトレマイオス9世 Soter II Lathyros** だが、**regnal year ＝ プトレマイオス8世 Euergetes II からの連続計数**という二重構造を持つ。
+
+- Chassinat は Edfu 資料から「Soter II 名は第一次治世（前116-107）のみ」と主張したが、Bucheum Stelae 11・12 はこれを否定する証拠（regnal year 51、35 は連続計数によるもので第二次治世期間を含む）。
+- これは **プトレマイオス9世／10世／Euergetes II 継承期の年代計算の重要な典拠**。
+- Mond/Myers の旧番号「Ptolemy VIII Soter II」（= 現代 IX）と「Ptolemy XI Auletes」（= 現代 XII）の混乱は、この二重構造を旧番号体系が吸収できなかった結果でもある。
+
+### 8. ブキス書記誤記一覧
+
+Mond & Myers Section V で指摘されている牛齢・日付の書記誤差：
+
+| 碑文 | 誤差 | 出典 |
+|---|---|---|
+| Stela 3 (Ptol II) | 計算上 +6 日長い | Mond & Myers pp.28-29 |
+| Stela 8 (Ptol VI) | 没日は実際には Ptol VI 治世20年 Pharmuthi 2 であるべき（Edgar） | Mond & Myers pp.29-30 |
+| Stela 9 (Ptol VI+VIII) | 碑文「14+x 年」← 本来17年／没日 5 日ずれ | Mond & Myers pp.30-31 |
+| Stela 12 (Ptol IX 2期) | 没月 Shemu/Peret 読み揺れ | Mond & Myers p.32 |
+
+論文で「同年」を主張するときはこの誤差を織り込むこと。日単位の厳密性を要する場合は一次碑文に戻って再確認が必要。
+
+### 9. Mond/Myers 王番号付けの誤り
 
 Mond & Myers 1934 の王番号付けは旧規格（Bevan 1927 以前）を部分的に使用しており、現代標準（Hölbl 1994 で確立）と一致しない。特に:
 

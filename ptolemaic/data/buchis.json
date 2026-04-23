@@ -28,8 +28,8 @@
     "birth": -291,
     "installed": -291,
     "death": -270,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 3.",
-    "note": "生: プトレマイオス1世 治世14年 Paoni 19 = 前291年。即位: 同年 Mesore 23。没: プトレマイオス2世 治世13年 Mechir 25 = 前270年（寿命20年8月13日）。I期 syntaxis 制度の典拠。"
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 3, pp. 28-29.",
+    "note": "生: プトレマイオス1世 治世14年 Paoni 19 = 前291年。即位: 同年 Mesore 23。没: プトレマイオス2世 治世13年 Mechir 25 = 前270年（寿命 碑文記載 20年8月13日）。I期 syntaxis 制度の典拠。★ 書記誤記: Mond & Myers は碑文記載の牛齢が実年代計算より **+6日長い** と指摘（scribal error）。論文で牛齢を用いる際は±数日の誤差を織り込むこと。"
   },
   {
     "id": "buchis-M04",
@@ -49,8 +49,9 @@
     "birth": -234,
     "installed": -222,
     "death": -214,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 6.",
-    "note": "生: プトレマイオス3世 治世13年 Epep 20 = 前234年。即位: 同25年 Thoth 15(?) = 前222年。没: プトレマイオス4世 治世8年 Paoni 12 = 前214年（寿命19年10月23日）。baseline — 王権関与を示す定型句なし。"
+    "installationDelay": 12,
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 6; 即位遅延分析 pp. 35-36 「Additional Note on the Installation of Buchis」.",
+    "note": "生: プトレマイオス3世 治世13年 Epep 20 = 前234年。即位: 同25年 Thoth 15(?) = 前222年 **即位遅延12年**。没: プトレマイオス4世 治世8年 Paoni 12 = 前214年（寿命19年10月23日）。baseline — 王権関与を示す定型句なし。★★ 即位遅延論点（Mond & Myers pp.35-36）: 本碑文の 12 年遅延について Mond & Myers 自身が「政情不安で説明がつかない」と結論。すなわち **ブキス即位遅延は必ずしも政治と相関しない**。この一事実が Marina 論文の「聖牛即位 vs 王即位」相関論の**上限**を規定する — 即位遅延が政治非相関である以上、相関する事例（M9、M13 等）は **選択的同期**として強調されるべき。"
   },
   {
     "id": "buchis-M07",
@@ -73,8 +74,8 @@
     "installed": -169,
     "death": -162,
     "dateConfidence": "birth-disputed",
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 8; re-examined in Goldbrunner 2004.",
-    "note": "生: プトレマイオス5世 治世25年 = 前180年（※ M7 没と同年との Mond/Myers 同定は Goldbrunner 2004 で再検討、若干の幅あり）。即位: プトレマイオス6世 治世12年 Epep 3rd Epag. = 前169年。没: 同19年 Tobi 7 = 前162年（寿命17年9月6日11時）。I期、アンティオコス4世侵攻（前169年）に言及。"
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 8; cf. Edgar による計算修正; re-examined in Goldbrunner 2004.",
+    "note": "生: プトレマイオス5世 治世25年 = 前180年（※ M7 没と同年との Mond/Myers 同定は Goldbrunner 2004 で再検討、若干の幅あり）。即位: プトレマイオス6世 治世12年 Epep 3rd Epag. = 前169年（★ アンティオコス4世侵攻と同年）。没: 同19年 Tobi 7 = 前162年（寿命17年9月6日11時）。★ 書記誤記: Edgar は碑文の寿命計算を再検討し、実際は「プトレマイオス6世 治世20年 Pharmuthi 2」で死ぬべきだと指摘（Mond & Myers pp.28-31 引用）。没日の帰属に数日のずれあり。I期、王権儀礼と政治事件の時間的連動を示す重要例（install = Antiochus IV 侵攻年）。"
   },
   {
     "id": "buchis-M09",
@@ -84,8 +85,8 @@
     "birth": -162,
     "installed": -157,
     "death": -145,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 9.",
-    "note": "生: プトレマイオス6世 治世19年 Phamenoth 3 = 前162年。即位: 同24年 Paopi 30 = 前157年。没: プトレマイオス8世 治世36年 = 6世 治世25年 Mesore 27 = 前145年（寿命約14年5月20日）。★ I→II期移行、王権関与定型句の初登場。"
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 9, pp. 29-31.",
+    "note": "生: プトレマイオス6世 治世19年 Phamenoth 3 = 前162年。即位: 同24年 Paopi 30 = 前157年。★ 没: **プトレマイオス8世 治世36年 = プトレマイオス6世 治世25年** Mesore 27 = 前145年。**二重治世年表記**が碑文に明示され、共治期の regnal-year 計算の重要典拠。寿命は碑文に「14+x 年」と書かれるが本来17年であるべき書記誤記（Mond & Myers pp.30-31）、没日も計算と実際で5日程度ずれる。★ I→II期移行、王権関与定型句の初登場、かつ Ptol VI 没年（= Ptol VIII 単独即位年）との同期は独立に確認できる（牛齢の書記誤差に依存しない）。"
   },
   {
     "id": "buchis-M10",
@@ -105,8 +106,8 @@
     "birth": -125,
     "installed": -119,
     "death": -101,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 11. Mond/Myers 旧番号「Ptolemy VIII (= Soter II)」＝現代 Ptolemy IX。",
-    "note": "生: プトレマイオス8世 治世45年 Khoiak 12 = 前125年。即位: 同51年 = 前119年。没: プトレマイオス9世 治世4年 Pharmuthi 11/12 = 前101年（推定）。寿命24年4月X日。★★★ 論文中核 — 即位 前119年 = 恩赦勅令 P.Tebt I 5（前118年）の前年。形式上はプトレマイオス9世治世だが実治世は8世エウエルゲテス2世。"
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 11, pp. 31-32. Mond/Myers 旧番号「Ptolemy VIII Soter II」＝現代 Ptolemy IX Lathyros。Chassinat 1930s (Edfu 資料) 参照。",
+    "note": "生: プトレマイオス8世 治世45年 Khoiak 12 = 前125年。★ 即位: 同碑文中の **治世51 Pakhons 22 = 治世4** と二重表記 = 前119年（プトレマイオス8世 Euergetes II の連続 regnal year 計数）。没: プトレマイオス9世 治世4年 Pharmuthi 11/12 = 前101年（推定）。寿命24年4月10日。★★★ 論文中核 — 即位 前119年 = 恩赦勅令 P.Tebt I 5（前118年）の前年。★ **Soter II 名義問題**（Mond & Myers p.31）: 王名は「プトレマイオス9世 Soter II Lathyros」と明記されるが regnal year は **プトレマイオス8世 Euergetes II からの連続計数**。Chassinat は Edfu 資料から「Soter II 名は第一次治世のみ」と主張したが、Bucheum Stelae 11・12 はこの主張を **否定する証拠**となる。王名と regnal year の不一致は Ptol IX/X/Euergetes II の年代計算の重要な典拠。"
   },
   {
     "id": "buchis-M12",
@@ -118,18 +119,19 @@
     "death": -77,
     "dateConfidence": "disputed",
     "source": "Mond & Myers 1934, The Bucheum II, Stela 12; cf. Samuel 1962, Ptolemaic Chronology; Hölbl 2001 付録年表。",
-    "note": "Mond/Myers は旧番号で「Ptolemy XI」（= 現代 Ptolemy XII Auletes）と帰属したが、チロノロジー的に不可能。プトレマイオス12世は前80年即位、前58〜55年追放のため治世35年 Pharmuthi 1 = 前82年は成立しない。前82年は **プトレマイオス9世ソテル2世の第二治世末年**にあたり、前116年を年1とする連続計数で治世35年 = 前82年となる（Samuel 1962 ほか）。再検証必須。生: 治世16年 (= Soter II 治世13年) Pharmuthi 12 = 前101年。即位: Soter II 治世35年 Pharmuthi 1 = 前82年（Mond/Myers 帰属誤り）。没: 年代不詳、c. 前77年（寿命24年4月10日）。"
+    "note": "★ 旧番号帰属誤り: Mond/Myers は「Ptolemy XI」（= 現代 Ptolemy XII Auletes）と帰属したが、チロノロジー的に不可能。プトレマイオス12世は前80年即位、前58〜55年追放のため治世35年 Pharmuthi 1 = 前82年は成立しない。前82年は **プトレマイオス9世 Soter II Lathyros 第二治世末年**にあたり、前116年を年1とする連続計数で治世35年 = 前82年（Samuel 1962 ほか）。Stela 11 と同じく Soter II 名義＋Euergetes II 連続 regnal year の構造。生: 治世16年 (= Soter II 治世13年) Pharmuthi 12 = 前101年。即位: Soter II 治世35年 Pharmuthi 1 = 前82年。没: 碑文に Epep 21、寿命24年4月10日から計算して c. 前77年。★ 書記揺れ: 没月の読みが **Shemu（Epep）か Peret か**で揺れがあり、Mond & Myers は両読みを示す。正確な没月を主張する場合は hieroglyphic 原文に戻って確認必要。"
   },
   {
     "id": "buchis-M13",
     "stela": "M/M 13",
-    "name": "ブキス（クレオパトラ7世即位年〜アウグストゥス期・Stela 13）",
-    "nameEn": "Buchis M/M Stela 13 — Cleopatra VII / Augustus",
+    "name": "★ ブキス（3王またがり: Ptol XII → Cleopatra VII → Augustus・Stela 13）",
+    "nameEn": "Buchis M/M Stela 13 — 3-king stela: Ptolemy XII → Cleopatra VII → Augustus",
     "birth": -53,
     "installed": -51,
     "death": -29,
+    "isPaperAnchor": true,
     "dateConfidence": "birth-year-disputed",
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 13（Mond/Myers 旧「Cleopatra VI」＝現代 Cleopatra VII）; Žabkar 1983, Serapis 7; Goldbrunner 2004, Buchis (Brepols).",
-    "note": "生: プトレマイオス12世アウレテス 治世28年 Phamenoth 28 = 前53年（治世年は追放期 前58-55 を算入するか否かで前後2年の揺れ、碑文・パピルス間で不一致あり。厳密な年次の引用には一次碑文を要確認）。即位: クレオパトラ7世 治世1年 Phamenoth 18 = 前51年。没: アウグストゥス 治世1年 Pharmuthi 20 = 前29年。★ 女王の関与の程度（儀礼執行か、臨席・随伴か）は Žabkar 1983 と Goldbrunner 2004 で解釈が分かれる。hieroglyphic text と demotic text の動詞主語を厳密に照合すべし。"
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 13, pp. 32-33（Mond/Myers 旧「Cleopatra VI」＝現代 Cleopatra VII）; Žabkar 1983, Serapis 7; Goldbrunner 2004, Buchis (Brepols).",
+    "note": "★★★ **プトレマイオス朝で唯一、3王をまたぐブキス碑文**。Mond & Myers pp.32-33 が独立章で扱う。Marina 論文「第10回 Cleopatra VII」章の archaeological anchor として最優先。生: プトレマイオス12世アウレテス 治世28年 Phamenoth 28 = 前53年（治世年は追放期 前58-55 の算入可否で前後2年の揺れ、碑文・パピルス間で不一致あり。一次碑文要確認）。★ 即位: **クレオパトラ7世 治世1年 Phamenoth 18 = 前51年3月22日頃**。女王の即位年（太陽暦換算 前51年3月22日頃）と Buchis 即位が **同年・同月** で一致 — 導入図として最も強く言える同期点。没: アウグストゥス 治世1年 Pharmuthi 20 = 前29年。★ 女王の関与の程度（儀礼執行か、臨席・随伴か）は Žabkar 1983 と Goldbrunner 2004 で解釈が分かれる。hieroglyphic text と demotic text の動詞主語を厳密に照合すべし。Apis についての Revillout 再構築は Thompson fn.85 で退けられているが、この Stela 13 はそれとは **別史料系統** — 混同せず分けて論じること。"
   }
 ]
