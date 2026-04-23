@@ -60,8 +60,9 @@
     "birth": -194,
     "installed": -181,
     "death": -180,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 7.",
-    "note": "生: プトレマイオス5世 治世11年 Mechir 13 = 前194年。即位: 同24年 Paopi 7 = 前181年。没: 同25年 Tobi 11 = 前180年（寿命14年10月24日）。ロゼッタ・ストーン時代。"
+    "dateConfidence": "disputed-day",
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 7; re-examined in Goldbrunner 2004, Buchis (Brepols).",
+    "note": "生: プトレマイオス5世 治世11年 Mechir 13 = 前194年。即位: 同24年 Paopi 7 = 前181年。没: 同25年 Tobi 11 = 前180年（寿命14年10月24日）。ロゼッタ・ストーン時代。★ M7→M8 の交代年代は Mond/Myers 1934 では同年連続とされるが、Goldbrunner 2004 は刻銘年号の再読解を行い、月日の精度に幅があると指摘。「同年同月の継承」を主張する場合、一次碑文の年号・月・日まで戻って確定させる必要あり。"
   },
   {
     "id": "buchis-M08",
@@ -71,8 +72,9 @@
     "birth": -180,
     "installed": -169,
     "death": -162,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 8.",
-    "note": "生: プトレマイオス5世 治世25年 = 前180年。即位: プトレマイオス6世 治世12年 Epep 3rd Epag. = 前169年。没: 同19年 Tobi 7 = 前162年（寿命17年9月6日11時）。I期、アンティオコス4世侵攻（前169年）に言及。"
+    "dateConfidence": "birth-disputed",
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 8; re-examined in Goldbrunner 2004.",
+    "note": "生: プトレマイオス5世 治世25年 = 前180年（※ M7 没と同年との Mond/Myers 同定は Goldbrunner 2004 で再検討、若干の幅あり）。即位: プトレマイオス6世 治世12年 Epep 3rd Epag. = 前169年。没: 同19年 Tobi 7 = 前162年（寿命17年9月6日11時）。I期、アンティオコス4世侵攻（前169年）に言及。"
   },
   {
     "id": "buchis-M09",
@@ -109,23 +111,25 @@
   {
     "id": "buchis-M12",
     "stela": "M/M 12",
-    "name": "ブキス（プトレマイオス12世アウレテス期・Stela 12）",
-    "nameEn": "Buchis M/M Stela 12 — Ptolemy XII Auletes",
+    "name": "ブキス（プトレマイオス9世ソテル2世 第二治世・Stela 12）",
+    "nameEn": "Buchis M/M Stela 12 — Ptolemy IX Soter II (second reign, continuous regnal count)",
     "birth": -101,
     "installed": -82,
     "death": -77,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 12. Mond/Myers 旧番号「Ptolemy XI」＝現代 Ptolemy XII。",
-    "note": "生: プトレマイオス9世 治世16年 (= 13年 Soter II) Pharmuthi 12 = 前101年。即位: プトレマイオス12世アウレテス 治世35年 Pharmuthi 1 = 前82年。没: 年代不詳、c. 前77年（寿命24年4月10日）。II期定型句継承。"
+    "dateConfidence": "disputed",
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 12; cf. Samuel 1962, Ptolemaic Chronology; Hölbl 2001 付録年表。",
+    "note": "Mond/Myers は旧番号で「Ptolemy XI」（= 現代 Ptolemy XII Auletes）と帰属したが、チロノロジー的に不可能。プトレマイオス12世は前80年即位、前58〜55年追放のため治世35年 Pharmuthi 1 = 前82年は成立しない。前82年は **プトレマイオス9世ソテル2世の第二治世末年**にあたり、前116年を年1とする連続計数で治世35年 = 前82年となる（Samuel 1962 ほか）。再検証必須。生: 治世16年 (= Soter II 治世13年) Pharmuthi 12 = 前101年。即位: Soter II 治世35年 Pharmuthi 1 = 前82年（Mond/Myers 帰属誤り）。没: 年代不詳、c. 前77年（寿命24年4月10日）。"
   },
   {
     "id": "buchis-M13",
     "stela": "M/M 13",
-    "name": "ブキス（クレオパトラ7世即位式〜アウグストゥス期・Stela 13）",
-    "nameEn": "Buchis M/M Stela 13 — Cleopatra VII (installer) / Augustus",
+    "name": "ブキス（クレオパトラ7世即位年〜アウグストゥス期・Stela 13）",
+    "nameEn": "Buchis M/M Stela 13 — Cleopatra VII / Augustus",
     "birth": -53,
     "installed": -51,
     "death": -29,
-    "source": "Mond & Myers 1934, The Bucheum II, Stela 13. Mond/Myers 旧「Cleopatra VI」＝現代 Cleopatra VII。",
-    "note": "生: プトレマイオス12世アウレテス 治世28年 Phamenoth 28 = 前53年。即位: クレオパトラ7世 治世1年 Phamenoth 18 = 前51年（女王自身が舟で牛を運んだ記録）。没: カエサル（アウグストゥス）治世1年 Pharmuthi 20 = 前29年（寿命24年1月8日）。★ II→III期移行。"
+    "dateConfidence": "birth-year-disputed",
+    "source": "Mond & Myers 1934, The Bucheum II, Stela 13（Mond/Myers 旧「Cleopatra VI」＝現代 Cleopatra VII）; Žabkar 1983, Serapis 7; Goldbrunner 2004, Buchis (Brepols).",
+    "note": "生: プトレマイオス12世アウレテス 治世28年 Phamenoth 28 = 前53年（治世年は追放期 前58-55 を算入するか否かで前後2年の揺れ、碑文・パピルス間で不一致あり。厳密な年次の引用には一次碑文を要確認）。即位: クレオパトラ7世 治世1年 Phamenoth 18 = 前51年。没: アウグストゥス 治世1年 Pharmuthi 20 = 前29年。★ 女王の関与の程度（儀礼執行か、臨席・随伴か）は Žabkar 1983 と Goldbrunner 2004 で解釈が分かれる。hieroglyphic text と demotic text の動詞主語を厳密に照合すべし。"
   }
 ]
