@@ -306,36 +306,51 @@
   }
 
   function drawBull(svg, b, y, color, kind) {
-    if (b.birth == null && b.death == null) return; // nothing plottable
+    if (b.birth == null && b.death == null && b.installed == null && b.extantAt == null) return;
     const g = el("g", { class: "bull-bar" });
-    // life bar (only if both ends known)
+    // life bar (both ends known)
     if (b.birth != null && b.death != null) {
       const x1 = xOf(b.birth);
       const x2 = xOf(b.death);
       g.appendChild(el("rect", { x: x1, y: y + 6, width: Math.max(2, x2 - x1), height: ROW_HEIGHT - 12, rx: 2, ry: 2, fill: color, "fill-opacity": 0.55, stroke: color, "stroke-width": 1 }));
+    } else if (b.birth != null && b.extantAt != null) {
+      const x1 = xOf(b.birth);
+      const x2 = xOf(b.extantAt);
+      g.appendChild(el("rect", { x: x1, y: y + 6, width: Math.max(2, x2 - x1), height: ROW_HEIGHT - 12, rx: 2, ry: 2, fill: color, "fill-opacity": 0.35, stroke: color, "stroke-width": 1, "stroke-dasharray": "3,2" }));
     }
-    // installation marker
+    // installation marker (white vertical line)
     if (b.installed != null) {
       const ix = xOf(b.installed);
       g.appendChild(el("line", { x1: ix, y1: y + 3, x2: ix, y2: y + ROW_HEIGHT - 3, stroke: "#fff", "stroke-width": 1.5 }));
     }
-    // death marker
+    // death marker (filled circle)
     if (b.death != null) {
       g.appendChild(el("circle", { cx: xOf(b.death), cy: y + ROW_HEIGHT / 2, r: 3.5, fill: color, stroke: "#fff", "stroke-width": 1 }));
     }
-    // birth-only edge case (bull known only from birth inscription)
-    if (b.birth != null && b.death == null) {
+    // extant-at marker (open diamond — "attested alive, death not recorded")
+    if (b.extantAt != null && b.death == null) {
+      const x = xOf(b.extantAt);
+      const cy = y + ROW_HEIGHT / 2;
+      g.appendChild(el("polygon", { points: `${x},${cy - 5} ${x + 4.5},${cy} ${x},${cy + 5} ${x - 4.5},${cy}`, fill: "none", stroke: color, "stroke-width": 1.5 }));
+    }
+    // birth-only
+    if (b.birth != null && b.death == null && b.extantAt == null) {
       g.appendChild(el("circle", { cx: xOf(b.birth), cy: y + ROW_HEIGHT / 2, r: 3.5, fill: "none", stroke: color, "stroke-width": 1.5 }));
     }
 
     g.addEventListener("mouseenter", (e) => {
       const name = state.lang === "ja" ? b.name : (b.nameEn || b.name);
-      const title = b.stela ? `${kind} [${b.stela}]: ${name}` : `${kind}: ${name}`;
-      const installedTxt = b.installed != null
-        ? ` · ${state.lang === "ja" ? "即位" : "installed"} ${fmtYear(b.installed)}`
-        : ` · ${state.lang === "ja" ? "即位年不詳" : "install not recorded"}`;
+      const ref = b.stela || b.bull;
+      const title = ref ? `${kind} [${ref}]: ${name}` : `${kind}: ${name}`;
+      const lang = state.lang;
+      const parts = [];
+      parts.push(`${lang === "ja" ? "生" : "born"} ${fmtYear(b.birth)}`);
+      if (b.installed != null) parts.push(`${lang === "ja" ? "即位" : "installed"} ${fmtYear(b.installed)}`);
+      if (b.death != null) parts.push(`${lang === "ja" ? "没" : "died"} ${fmtYear(b.death)}`);
+      else if (b.extantAt != null) parts.push(`${lang === "ja" ? "生存確認" : "extant at"} ${fmtYear(b.extantAt)} — ${lang === "ja" ? "没年記録なし" : "death not recorded"}`);
+      if (b.dateConfidence) parts.push(`<em style="color:#e8c988">[${b.dateConfidence}]</em>`);
       showTooltip(e, `<div class="tt-title">${title}</div>
-        <div class="tt-meta">${state.lang === "ja" ? "生" : "born"} ${fmtYear(b.birth)}${installedTxt} · ${state.lang === "ja" ? "没" : "died"} ${fmtYear(b.death)}</div>
+        <div class="tt-meta">${parts.join(" · ")}</div>
         ${b.note ? `<div>${b.note}</div>` : ""}
         ${b.source ? `<div class="tt-src">${b.source}</div>` : ""}`);
     });
@@ -447,12 +462,25 @@
       container.appendChild(ul);
     }
 
-    // Apis overlapping reign (handle entries with partial dates)
+    // Apis overlapping reign (handle entries with partial dates incl. extantAt)
     const overlapsReign = (a) => {
-      const start = a.birth != null ? a.birth : a.death;
-      const end = a.death != null ? a.death : a.birth;
-      if (start == null || end == null) return false;
-      return end >= k.start && start <= k.end;
+      const earliest = a.birth != null ? a.birth
+        : (a.installed != null ? a.installed
+        : (a.extantAt != null ? a.extantAt : a.death));
+      const latest = a.death != null ? a.death
+        : (a.extantAt != null ? a.extantAt
+        : (a.installed != null ? a.installed : a.birth));
+      if (earliest == null || latest == null) return false;
+      return latest >= k.start && earliest <= k.end;
+    };
+    const bullRangeText = (x) => {
+      const lang = state.lang;
+      const parts = [];
+      parts.push(`${lang === "ja" ? "生" : "b."} ${fmtYear(x.birth)}`);
+      if (x.installed != null) parts.push(`${lang === "ja" ? "即位" : "inst."} ${fmtYear(x.installed)}`);
+      if (x.death != null) parts.push(`${lang === "ja" ? "没" : "d."} ${fmtYear(x.death)}`);
+      else if (x.extantAt != null) parts.push(`${lang === "ja" ? "前" : ""}${-x.extantAt} BCE ${lang === "ja" ? "時点で生存" : "extant"}`);
+      return parts.join(" · ");
     };
     const relApis = state.data.apis.filter(overlapsReign);
     if (relApis.length) {
@@ -460,7 +488,8 @@
       const ul = el("ul");
       for (const a of relApis) {
         const li = el("li");
-        li.appendChild(document.createTextNode(`${state.lang === "ja" ? a.name : (a.nameEn || a.name)} — ${fmtYear(a.birth)} ～ ${fmtYear(a.death)}`));
+        li.appendChild(document.createTextNode(`${state.lang === "ja" ? a.name : (a.nameEn || a.name)} — ${bullRangeText(a)}`));
+        if (a.dateConfidence) li.appendChild(el("span", { class: "src" }, ` [${a.dateConfidence}]`));
         if (a.note) li.appendChild(el("div", {}, a.note));
         if (a.source) li.appendChild(el("span", { class: "src" }, a.source));
         ul.appendChild(li);
@@ -475,7 +504,8 @@
       const ul = el("ul");
       for (const b of relBuchis) {
         const li = el("li");
-        li.appendChild(document.createTextNode(`${state.lang === "ja" ? b.name : (b.nameEn || b.name)} — ${fmtYear(b.birth)} ～ ${fmtYear(b.death)}`));
+        li.appendChild(document.createTextNode(`${state.lang === "ja" ? b.name : (b.nameEn || b.name)} — ${bullRangeText(b)}`));
+        if (b.dateConfidence) li.appendChild(el("span", { class: "src" }, ` [${b.dateConfidence}]`));
         if (b.note) li.appendChild(el("div", {}, b.note));
         if (b.source) li.appendChild(el("span", { class: "src" }, b.source));
         ul.appendChild(li);

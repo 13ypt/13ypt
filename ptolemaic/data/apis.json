@@ -80,9 +80,11 @@
     "mother": "Pagereghor in Athribite nome",
     "kings": "Ptolemy VI Philometor → Ptolemy VIII Euergetes II",
     "birth": -165,
+    "installed": -158,
     "death": -143,
-    "source": "Thompson 2012; Louvre IM 3350, 4157, 4179, 3386.",
-    "note": "生年・即位年は碑文記録なし、寿命約22年から逆算で c. 前165年。没: プトレマイオス8世 治世27年 Pauni 27 = 前143年7月21日。没年はプトレマイオス6世の死（前145年）と8世単独治世開始の直後。"
+    "dateConfidence": "install-and-death-secure",
+    "source": "Thompson 2012, Appendix D; Louvre IM 3350, 4157, 4179, 3386.",
+    "note": "生年: 碑文に記録なし、寿命 約22年から逆算で c. 前165年（calculated）。関連: 前159年12月に Athribite で embalming place 設置記録、installation = 前158年（Thompson 2012）。没: プトレマイオス8世 治世27年 Pauni 27 = 前143年7月21日（記録確実）。没年はプトレマイオス6世の没（前145年）／8世単独即位の 2年後 にあたる（±1年窓外、±3年窓内）。"
   },
   {
     "id": "apis-T09",
@@ -105,10 +107,11 @@
     "nameEn": "Apis Bull #10 — Gerege III",
     "mother": "Pahetep in Heliopolite nome",
     "kings": "Cleopatra III + Ptolemy IX → Cleopatra III + Ptolemy X",
-    "birth": -116,
+    "birth": -119,
     "death": -96,
-    "source": "Thompson 2012; Vienna 5849, Louvre IM 3352, 3324, 3391.",
-    "note": "生年・即位年は碑文記録なし、stele 年代から c. 前116–107年。没: 治世18年 Pachons 29 = 前96年6月11日。寿命 約20年。生年 前116 はプトレマイオス8世没年と同年の可能性。"
+    "dateConfidence": "birth-calculated",
+    "source": "Thompson 2012, Appendix D; Vienna 5849, Louvre IM 3352, 3324, 3391.",
+    "note": "生年: 碑文に記録なし。Thompson の Apis 年計算（没時の Apis 年 = 24 から逆算）で c. 前119年（calculated）。stele 設置期は前116–107年（Cleopatra III + IX 共治期）でこれは「生」ではなく「installation / 出現」にあたる可能性が高い — 前116年は王権イベント（プトレマイオス8世没）と同年だが、Thompson ベースでは生 = 前119年で王権交代とは直接接続しない。没: 治世18年 Pachons 29 = 前96年6月11日（記録確実）。寿命 約23年。"
   },
   {
     "id": "apis-T11",
@@ -118,9 +121,11 @@
     "mother": "Oxyrhynchos 出身",
     "kings": "Ptolemy IX Soter II restored → Ptolemy XII Neos Dionysos",
     "birth": -96,
+    "installed": -86,
     "death": -75,
-    "source": "Thompson 2012; Louvre IM 3324; Cairo CG 31099 (Anemhor stele).",
-    "note": "生年・即位年は碑文記録なし、寿命約21年から逆算で c. 前96年。没: 治世7年 Phaophi 17 = 前75年10月27日。オクシュリュンコス出身の母牛。"
+    "dateConfidence": "birth-unverified",
+    "source": "Thompson 2012, Appendix D; Louvre IM 3324; Cairo CG 31099 (Anemhor stele).",
+    "note": "初出（installation）: 前86年2月25日、プトレマイオス9世復位期（Thompson 2012）。生年: Thompson に明記なし（検証不能）。前96年は Bull 10 没直後の即位サイクルに合わせた推定で、論文で主張する際は Thompson Appendix D への注記が必要。没: 治世7年 Phaophi 17 = 前75年10月27日（記録確実、プトレマイオス12世初期、Pasherenptah III 台頭期）。"
   },
   {
     "id": "apis-T12",
@@ -129,8 +134,12 @@
     "nameEn": "Apis Bull #12 — Tabastet",
     "mother": "Pagereghor in Kynopolite nome",
     "kings": "Ptolemy XII → Cleopatra VII + Ptolemy XIII",
-    "source": "Thompson 2012; Louvre IM 4138, 3325, 3389, 4146.",
-    "note": "生・即位・没・埋葬すべて碑文に記録不詳。在位王からプトレマイオス12世末〜クレオパトラ7世初期。タイムライン上は日付データ不足のため表示されません。"
+    "birth": -79,
+    "installed": -60,
+    "death": -49,
+    "dateConfidence": "install-secure-birth-death-calculated",
+    "source": "Thompson 2012, Appendix D; Louvre IM 4138, 3325, 3389, 4146.",
+    "note": "初出（installation）: 前60年1月21日（記録確実）— プトレマイオス12世アウレテスの亡命（前58年）直前、Auletes 体制の動揺期。生年: Apis 年 19 から逆算で c. 前79年（calculated）。没: 碑文記録なし、Louvre stelae が前50/49年まで継続記録していることから死亡／最終記録は c. 前50-49年と推定。★ 論文注意: Thompson 2012 脚注85 は、Cleopatra VII 治世3年（前50/49年）の Louvre Apis stelae が女王ではなく「男性プトレマイオス（兄弟）」を年号主に立てる点を指摘。Cleopatra VII の Apis 儀礼関与を主張した Revillout の再構築は信頼できない。"
   },
   {
     "id": "apis-T13",
@@ -139,8 +148,9 @@
     "nameEn": "Apis Bull #13 — Tapihy/Taihy",
     "mother": "不詳",
     "kings": "Cleopatra VII 末期",
-    "death": -30,
-    "source": "Thompson 2012.",
-    "note": "没: c. 前30年（オクタウィアヌスが訪問を拒否したと伝わる、Cass. Dio 51.16.5; Suet. Aug. 93）。生・即位・埋葬の碑文記録なし。生年が欠落しているためタイムライン上は没マーカーのみ表示。"
+    "extantAt": -30,
+    "dateConfidence": "extant-at-30-no-recorded-death",
+    "source": "Thompson 2012, Appendix D (cow stelae MoA 46–47); Cass. Dio 51.16.5.",
+    "note": "★ 重要修正: Thompson Appendix D は Bull 13 を「オクタウィアヌスが訪問を拒否した Apis」と同定している。すなわち **前30年時点で生存していた**。没年は Thompson に記載なし。したがって本エントリは「没: 前30年」ではなく「前30年時点で extant（現役）」と解すべし。Cass. Dio 51.16.5（Thompson の原典『Diod. Sic.』は Dio の誤記）。Marković 2015 はこの訪問拒否を「王的 Apis 保護伝統からの断絶」として中心論点化。生・即位・埋葬の碑文記録はなく、cow stelae (MoA 46–47) でのみ既知。タイムライン上は前30年 extant マーカーのみ表示。"
   }
 ]

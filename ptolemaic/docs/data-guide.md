@@ -123,7 +123,28 @@ Apis/Buchis の年代復元は、王朝年表を基準として逆算・校正�
 
 「同年」を単位とする議論と「同月」「同日」を単位とする議論では根拠が異なる。特に M7 没／M8 生、M9 没／Ptol VI 没は Mond/Myers 以降の再検討で年月日の精度に幅が認められる。
 
-### 4. Mond/Myers 王番号付けの誤り
+### 4. Thompson 2012 Appendix D は「provisional」
+
+Thompson は Appendix D 冒頭で Apis リストを **provisional** と明言し、Devauchelle による全面刊行を待つ状態。したがって本サイトの Apis データを確定事実として引用せず、Devauchelle の原碑文集成に戻ること（Stèles du Sérapéum）。`dateConfidence` フィールドに `calculated` / `birth-unverified` / `install-secure-birth-death-calculated` 等を付与しているのはそのため。
+
+特に以下の bull は論文引用時に再検証を要する：
+
+- **Bull 8 (Tahor)**: 生年は Thompson に明記なし、寿命22年からの逆算。表上で「前145年前後に生まれた」と書いてはならない（前 Ptolemy VIII 単独即位年の連動主張は破綻する）。実際の記録は前158年 installation、前143年 7月21日 没の2点のみ確実。
+- **Bull 10 (Gerege III)**: Thompson の Apis-year 計算では生 c. 前119年。stele 設置期前116–107年は「生」ではなく "installation / 出現"。王権交代（Ptol VIII 没 前116）との同期主張はこの解釈に依存。
+- **Bull 11 (Taamun III)**: 初出 前86年2月25日は記録確実。生年はトンプソンに明記なし、検証不能。
+- **Bull 12 (Tabastet)**: 初出 前60年1月21日は記録確実（Auletes 亡命 前58 の 2年前）。生年は Apis 年 19 からの逆算。
+- **Bull 13 (Tapihy/Taihy)**: ★ 重要 ★ **前30年時点で生存**（Octavian が訪問拒否）。没ではない。表で「Bull 13 没 前30年」と書くと論旨が逆転する。Cass. Dio 51.16.5（Thompson の "Diod. Sic." は Dio の誤記）。Marković 2015 はこの訪問拒否を王的 Apis 保護伝統からの断絶として中心論点化。
+
+### 5. Cleopatra VII の Apis 関与について — Revillout の再構築は信頼できない
+
+Thompson 2012 Appendix D 脚注85 は Louvre の Cleopatra VII 治世3年（前50/49年）Apis stelae について、「クレオパトラは名前が挙がっておらず、男性プトレマイオス（おそらく兄弟）で年号が付されている。Revillout の Cleopatra VII 役割に関する再構築は信頼できない」と明示。
+
+したがって：
+- **Apis** について女王の直接関与を主張する碑文証拠は希薄。
+- **Buchis stela 13** については別史料であり、関与の解釈は Žabkar 1983 vs Goldbrunner 2004 で分かれる（`buchis.json` M13 の `note` 参照）。
+- 「Cleopatra VII は動物崇拝儀礼に積極関与した」という一般化は、Apis と Buchis を一緒くたにせず、史料ごとに分けて論じるべし。Bucheum vol. 3 の再精査が必要。
+
+### 6. Mond/Myers 王番号付けの誤り
 
 Mond & Myers 1934 の王番号付けは旧規格（Bevan 1927 以前）を部分的に使用しており、現代標準（Hölbl 1994 で確立）と一致しない。特に:
 
