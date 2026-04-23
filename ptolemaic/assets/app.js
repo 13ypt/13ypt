@@ -41,6 +41,7 @@
   };
 
   const fmtYear = (y) => {
+    if (y == null) return "—";
     if (y < 0) return `${-y} BCE`;
     return `${y} CE`;
   };
@@ -305,18 +306,27 @@
   }
 
   function drawBull(svg, b, y, color, kind) {
-    const x1 = xOf(b.birth);
-    const x2 = xOf(b.death);
+    if (b.birth == null && b.death == null) return; // nothing plottable
     const g = el("g", { class: "bull-bar" });
-    // life bar
-    g.appendChild(el("rect", { x: x1, y: y + 6, width: Math.max(2, x2 - x1), height: ROW_HEIGHT - 12, rx: 2, ry: 2, fill: color, "fill-opacity": 0.55, stroke: color, "stroke-width": 1 }));
+    // life bar (only if both ends known)
+    if (b.birth != null && b.death != null) {
+      const x1 = xOf(b.birth);
+      const x2 = xOf(b.death);
+      g.appendChild(el("rect", { x: x1, y: y + 6, width: Math.max(2, x2 - x1), height: ROW_HEIGHT - 12, rx: 2, ry: 2, fill: color, "fill-opacity": 0.55, stroke: color, "stroke-width": 1 }));
+    }
     // installation marker
-    if (b.installed) {
+    if (b.installed != null) {
       const ix = xOf(b.installed);
       g.appendChild(el("line", { x1: ix, y1: y + 3, x2: ix, y2: y + ROW_HEIGHT - 3, stroke: "#fff", "stroke-width": 1.5 }));
     }
     // death marker
-    g.appendChild(el("circle", { cx: x2, cy: y + ROW_HEIGHT / 2, r: 3.5, fill: color, stroke: "#fff", "stroke-width": 1 }));
+    if (b.death != null) {
+      g.appendChild(el("circle", { cx: xOf(b.death), cy: y + ROW_HEIGHT / 2, r: 3.5, fill: color, stroke: "#fff", "stroke-width": 1 }));
+    }
+    // birth-only edge case (bull known only from birth inscription)
+    if (b.birth != null && b.death == null) {
+      g.appendChild(el("circle", { cx: xOf(b.birth), cy: y + ROW_HEIGHT / 2, r: 3.5, fill: "none", stroke: color, "stroke-width": 1.5 }));
+    }
 
     g.addEventListener("mouseenter", (e) => {
       const name = state.lang === "ja" ? b.name : (b.nameEn || b.name);
@@ -437,8 +447,14 @@
       container.appendChild(ul);
     }
 
-    // Apis overlapping reign
-    const relApis = state.data.apis.filter(a => a.death >= k.start && a.birth <= k.end);
+    // Apis overlapping reign (handle entries with partial dates)
+    const overlapsReign = (a) => {
+      const start = a.birth != null ? a.birth : a.death;
+      const end = a.death != null ? a.death : a.birth;
+      if (start == null || end == null) return false;
+      return end >= k.start && start <= k.end;
+    };
+    const relApis = state.data.apis.filter(overlapsReign);
     if (relApis.length) {
       container.appendChild(el("h2", {}, state.lang === "ja" ? "治世に重なるアピス牛" : "Apis bulls overlapping reign"));
       const ul = el("ul");
@@ -453,7 +469,7 @@
     }
 
     // Buchis overlapping reign
-    const relBuchis = state.data.buchis.filter(b => b.death >= k.start && b.birth <= k.end);
+    const relBuchis = state.data.buchis.filter(overlapsReign);
     if (relBuchis.length) {
       container.appendChild(el("h2", {}, state.lang === "ja" ? "治世に重なるブキス牛" : "Buchis bulls overlapping reign"));
       const ul = el("ul");
@@ -513,6 +529,7 @@
 
     // apis
     for (const a of state.data.apis) {
+      if (a.birth == null || a.death == null) continue;
       if (a.death < yrStart || a.birth > yrEnd) continue;
       const x1 = toX(Math.max(a.birth, yrStart));
       const x2 = toX(Math.min(a.death, yrEnd));
@@ -520,6 +537,7 @@
     }
     // buchis
     for (const b of state.data.buchis) {
+      if (b.birth == null || b.death == null) continue;
       if (b.death < yrStart || b.birth > yrEnd) continue;
       const x1 = toX(Math.max(b.birth, yrStart));
       const x2 = toX(Math.min(b.death, yrEnd));
