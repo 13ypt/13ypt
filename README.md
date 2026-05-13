@@ -40,7 +40,7 @@ I support Yuki in Ancient Egypt, our outreach activity to try introducing egypto
  
 [MyHomePage](https://researchmap.jp/13ypt)<br>
 
-[Twitter](https://twitter.com/13ypt)<br>
+[X (Twitter)](https://x.com/13ypt)<br>
 
 [YouTube](https://www.youtube.com/channel/UCdB2b2qy6kFGZiXbFsS4QNw)<br>
 
