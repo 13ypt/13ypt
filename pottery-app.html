@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Pottery Database</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: 'Segoe UI', system-ui, sans-serif; background: #f5f5f0; color: #333; }
+  header { background: #3a3226; color: #f5f0e8; padding: 1rem 2rem; display: flex; align-items: center; justify-content: space-between; }
+  header h1 { font-size: 1.4rem; font-weight: 600; letter-spacing: .5px; }
+  .tab-bar { display: flex; gap: 4px; }
+  .tab-bar button { background: transparent; border: 2px solid #8a7e6e; color: #c4b9a8; padding: .45rem 1.2rem; border-radius: 6px; cursor: pointer; font-size: .9rem; transition: all .15s; }
+  .tab-bar button.active { background: #6b5d4d; border-color: #a89880; color: #fff; }
+  .tab-bar button:hover { border-color: #a89880; color: #fff; }
+  main { max-width: 1100px; margin: 2rem auto; padding: 0 1.5rem; }
+
+  /* Form */
+  .card { background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,.08); padding: 1.8rem 2rem; margin-bottom: 1.5rem; }
+  .card h2 { font-size: 1.1rem; margin-bottom: 1.2rem; color: #5a4d3e; border-bottom: 2px solid #e8e0d4; padding-bottom: .5rem; }
+  .form-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: .8rem 1.2rem; }
+  .form-group { display: flex; flex-direction: column; }
+  .form-group label { font-size: .75rem; font-weight: 600; color: #7a6e5e; text-transform: uppercase; letter-spacing: .5px; margin-bottom: .25rem; }
+  .form-group input, .form-group select, .form-group textarea { border: 1.5px solid #d4cec2; border-radius: 6px; padding: .5rem .65rem; font-size: .9rem; transition: border-color .15s; background: #faf9f6; }
+  .form-group input:focus, .form-group select:focus, .form-group textarea:focus { outline: none; border-color: #8a7e6e; background: #fff; }
+  .form-group.wide { grid-column: 1 / -1; }
+  .form-group textarea { resize: vertical; min-height: 60px; }
+  .btn-row { display: flex; gap: .6rem; margin-top: 1rem; justify-content: flex-end; }
+  .btn { padding: .55rem 1.4rem; border: none; border-radius: 6px; font-size: .9rem; cursor: pointer; font-weight: 500; transition: background .15s; }
+  .btn-primary { background: #5a4d3e; color: #fff; }
+  .btn-primary:hover { background: #6b5d4d; }
+  .btn-secondary { background: #e8e0d4; color: #5a4d3e; }
+  .btn-secondary:hover { background: #d4cec2; }
+  .btn-danger { background: #c0392b; color: #fff; }
+  .btn-danger:hover { background: #a93226; }
+
+  /* Search */
+  .search-bar { display: flex; gap: .6rem; margin-bottom: 1.2rem; }
+  .search-bar input { flex: 1; border: 1.5px solid #d4cec2; border-radius: 6px; padding: .55rem .8rem; font-size: .9rem; background: #faf9f6; }
+  .search-bar input:focus { outline: none; border-color: #8a7e6e; background: #fff; }
+
+  /* Table */
+  .table-wrap { overflow-x: auto; }
+  table { width: 100%; border-collapse: collapse; font-size: .85rem; }
+  thead th { background: #5a4d3e; color: #f5f0e8; padding: .6rem .5rem; text-align: left; white-space: nowrap; position: sticky; top: 0; cursor: pointer; user-select: none; }
+  thead th:hover { background: #6b5d4d; }
+  thead th .sort-arrow { font-size: .7rem; margin-left: 3px; }
+  tbody tr { border-bottom: 1px solid #e8e0d4; transition: background .1s; }
+  tbody tr:hover { background: #f5f0e8; }
+  tbody td { padding: .55rem .5rem; max-width: 180px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  tbody td.actions { white-space: nowrap; }
+  .icon-btn { background: none; border: none; cursor: pointer; padding: 2px 5px; font-size: 1rem; opacity: .6; transition: opacity .15s; }
+  .icon-btn:hover { opacity: 1; }
+  .empty-msg { text-align: center; padding: 3rem; color: #999; }
+
+  /* Stats */
+  .stats { display: flex; gap: 1rem; margin-bottom: 1rem; font-size: .85rem; color: #7a6e5e; }
+  .stats span { background: #e8e0d4; padding: .3rem .8rem; border-radius: 12px; }
+
+  /* Export row */
+  .export-row { display: flex; gap: .6rem; margin-bottom: 1rem; }
+
+  /* Modal */
+  .modal-overlay { display: none; position: fixed; inset: 0; background: rgba(0,0,0,.4); z-index: 100; align-items: center; justify-content: center; }
+  .modal-overlay.open { display: flex; }
+  .modal { background: #fff; border-radius: 10px; padding: 2rem; max-width: 500px; width: 90%; }
+  .modal h3 { margin-bottom: 1rem; }
+  .modal .btn-row { justify-content: flex-end; }
+
+  @media (max-width: 600px) {
+    .form-grid { grid-template-columns: 1fr; }
+    header { flex-direction: column; gap: .5rem; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Pottery Database</h1>
+  <div class="tab-bar">
+    <button class="active" onclick="showTab('input')">Input</button>
+    <button onclick="showTab('browse')">Browse &amp; Search</button>
+  </div>
+</header>
+
+<main>
+  <!-- INPUT TAB -->
+  <div id="tab-input">
+    <div class="card">
+      <h2 id="form-title">New Entry</h2>
+      <input type="hidden" id="edit-id">
+
+      <div class="form-grid">
+        <div class="form-group">
+          <label>Museum Object ID *</label>
+          <input type="text" id="f-objectId" required>
+        </div>
+        <div class="form-group">
+          <label>Mummy *</label>
+          <input type="text" id="f-mummy">
+        </div>
+        <div class="form-group">
+          <label>Size *</label>
+          <input type="text" id="f-size">
+        </div>
+        <div class="form-group">
+          <label>Height (with) *</label>
+          <input type="text" id="f-height">
+        </div>
+        <div class="form-group">
+          <label>Rim Shape</label>
+          <input type="text" id="f-rimShape">
+        </div>
+        <div class="form-group">
+          <label>Rim Long Axis</label>
+          <input type="text" id="f-rimLongAxis">
+        </div>
+        <div class="form-group">
+          <label>Rim Short Axis</label>
+          <input type="text" id="f-rimShortAxis">
+        </div>
+        <div class="form-group">
+          <label>Rim Profile</label>
+          <input type="text" id="f-rimProfile">
+        </div>
+        <div class="form-group">
+          <label>Rim Line</label>
+          <input type="text" id="f-rimLine">
+        </div>
+        <div class="form-group">
+          <label>Plaster</label>
+          <input type="text" id="f-plaster">
+        </div>
+        <div class="form-group">
+          <label>Lid</label>
+          <input type="text" id="f-lid">
+        </div>
+        <div class="form-group">
+          <label>Condition</label>
+          <input type="text" id="f-condition">
+        </div>
+        <div class="form-group wide">
+          <label>Find Spot *</label>
+          <textarea id="f-findSpot"></textarea>
+        </div>
+        <div class="form-group wide">
+          <label>Notes</label>
+          <textarea id="f-notes"></textarea>
+        </div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn btn-secondary" onclick="clearForm()">Clear</button>
+        <button class="btn btn-primary" onclick="saveEntry()">Save</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- BROWSE TAB -->
+  <div id="tab-browse" style="display:none">
+    <div class="card">
+      <h2>Search</h2>
+      <div class="search-bar">
+        <input type="text" id="search-input" placeholder="Search across all fields..." oninput="renderTable()">
+        <button class="btn btn-secondary" onclick="document.getElementById('search-input').value='';renderTable()">Clear</button>
+      </div>
+      <div class="stats">
+        <span id="stat-total">0 entries</span>
+        <span id="stat-showing">Showing 0</span>
+      </div>
+      <div class="export-row">
+        <button class="btn btn-secondary" onclick="exportCSV()">Export CSV</button>
+        <label class="btn btn-secondary" style="cursor:pointer">
+          Import CSV
+          <input type="file" accept=".csv" style="display:none" onchange="importCSV(event)">
+        </label>
+      </div>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr id="table-head"></tr>
+          </thead>
+          <tbody id="table-body"></tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+</main>
+
+<!-- Delete confirmation modal -->
+<div class="modal-overlay" id="delete-modal">
+  <div class="modal">
+    <h3>Delete Entry</h3>
+    <p>Are you sure you want to delete this entry?</p>
+    <div class="btn-row">
+      <button class="btn btn-secondary" onclick="closeDeleteModal()">Cancel</button>
+      <button class="btn btn-danger" onclick="confirmDelete()">Delete</button>
+    </div>
+  </div>
+</div>
+
+<script>
+const FIELDS = [
+  { key: 'objectId',     label: 'Object ID' },
+  { key: 'mummy',        label: 'Mummy' },
+  { key: 'size',         label: 'Size' },
+  { key: 'height',       label: 'Height' },
+  { key: 'rimShape',     label: 'Rim Shape' },
+  { key: 'rimLongAxis',  label: 'Rim Long Axis' },
+  { key: 'rimShortAxis', label: 'Rim Short Axis' },
+  { key: 'rimProfile',   label: 'Rim Profile' },
+  { key: 'rimLine',      label: 'Rim Line' },
+  { key: 'plaster',      label: 'Plaster' },
+  { key: 'lid',          label: 'Lid' },
+  { key: 'condition',    label: 'Condition' },
+  { key: 'findSpot',     label: 'Find Spot' },
+  { key: 'notes',        label: 'Notes' },
+];
+
+let data = JSON.parse(localStorage.getItem('pottery-db') || '[]');
+let sortCol = 'objectId';
+let sortAsc = true;
+let deleteTarget = null;
+
+function persist() {
+  localStorage.setItem('pottery-db', JSON.stringify(data));
+}
+
+function showTab(tab) {
+  document.getElementById('tab-input').style.display = tab === 'input' ? '' : 'none';
+  document.getElementById('tab-browse').style.display = tab === 'browse' ? '' : 'none';
+  document.querySelectorAll('.tab-bar button').forEach((b, i) => {
+    b.classList.toggle('active', (tab === 'input' && i === 0) || (tab === 'browse' && i === 1));
+  });
+  if (tab === 'browse') renderTable();
+}
+
+function clearForm() {
+  FIELDS.forEach(f => {
+    const el = document.getElementById('f-' + f.key);
+    if (el) el.value = '';
+  });
+  document.getElementById('edit-id').value = '';
+  document.getElementById('form-title').textContent = 'New Entry';
+}
+
+function saveEntry() {
+  const objectId = document.getElementById('f-objectId').value.trim();
+  if (!objectId) { alert('Museum Object ID is required.'); return; }
+
+  const entry = {};
+  FIELDS.forEach(f => {
+    entry[f.key] = (document.getElementById('f-' + f.key)?.value || '').trim();
+  });
+
+  const editId = document.getElementById('edit-id').value;
+  if (editId) {
+    const idx = data.findIndex(d => d._id === editId);
+    if (idx >= 0) { entry._id = editId; data[idx] = entry; }
+  } else {
+    entry._id = Date.now().toString(36) + Math.random().toString(36).slice(2, 7);
+    data.push(entry);
+  }
+
+  persist();
+  clearForm();
+  alert(editId ? 'Entry updated.' : 'Entry saved.');
+}
+
+function editEntry(id) {
+  const entry = data.find(d => d._id === id);
+  if (!entry) return;
+  FIELDS.forEach(f => {
+    const el = document.getElementById('f-' + f.key);
+    if (el) el.value = entry[f.key] || '';
+  });
+  document.getElementById('edit-id').value = id;
+  document.getElementById('form-title').textContent = 'Edit Entry: ' + entry.objectId;
+  showTab('input');
+}
+
+function openDeleteModal(id) {
+  deleteTarget = id;
+  document.getElementById('delete-modal').classList.add('open');
+}
+function closeDeleteModal() {
+  deleteTarget = null;
+  document.getElementById('delete-modal').classList.remove('open');
+}
+function confirmDelete() {
+  if (deleteTarget) {
+    data = data.filter(d => d._id !== deleteTarget);
+    persist();
+    renderTable();
+  }
+  closeDeleteModal();
+}
+
+function renderTable() {
+  const query = (document.getElementById('search-input')?.value || '').toLowerCase();
+  let filtered = data;
+  if (query) {
+    filtered = data.filter(d => FIELDS.some(f => (d[f.key] || '').toLowerCase().includes(query)));
+  }
+
+  filtered.sort((a, b) => {
+    const va = (a[sortCol] || '').toLowerCase();
+    const vb = (b[sortCol] || '').toLowerCase();
+    return sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+  });
+
+  // Header
+  const thead = document.getElementById('table-head');
+  thead.innerHTML = FIELDS.map(f =>
+    `<th onclick="sortBy('${f.key}')">${f.label}<span class="sort-arrow">${sortCol === f.key ? (sortAsc ? '▲' : '▼') : ''}</span></th>`
+  ).join('') + '<th>Actions</th>';
+
+  // Body
+  const tbody = document.getElementById('table-body');
+  if (filtered.length === 0) {
+    tbody.innerHTML = `<tr><td colspan="${FIELDS.length + 1}" class="empty-msg">No entries found.</td></tr>`;
+  } else {
+    tbody.innerHTML = filtered.map(d =>
+      '<tr>' + FIELDS.map(f => `<td title="${(d[f.key] || '').replace(/"/g, '&quot;')}">${d[f.key] || ''}</td>`).join('') +
+      `<td class="actions">
+        <button class="icon-btn" title="Edit" onclick="editEntry('${d._id}')">&#9998;</button>
+        <button class="icon-btn" title="Delete" onclick="openDeleteModal('${d._id}')">&#128465;</button>
+      </td></tr>`
+    ).join('');
+  }
+
+  document.getElementById('stat-total').textContent = data.length + ' entries';
+  document.getElementById('stat-showing').textContent = 'Showing ' + filtered.length;
+}
+
+function sortBy(col) {
+  if (sortCol === col) { sortAsc = !sortAsc; } else { sortCol = col; sortAsc = true; }
+  renderTable();
+}
+
+function exportCSV() {
+  if (data.length === 0) { alert('No data to export.'); return; }
+  const header = FIELDS.map(f => f.label).join(',');
+  const rows = data.map(d => FIELDS.map(f => {
+    const v = (d[f.key] || '').replace(/"/g, '""');
+    return v.includes(',') || v.includes('"') || v.includes('\n') ? `"${v}"` : v;
+  }).join(','));
+  const csv = [header, ...rows].join('\n');
+  const blob = new Blob(['﻿' + csv], { type: 'text/csv;charset=utf-8;' });
+  const a = document.createElement('a');
+  a.href = URL.createObjectURL(blob);
+  a.download = 'pottery-database.csv';
+  a.click();
+  URL.revokeObjectURL(a.href);
+}
+
+function importCSV(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    const lines = e.target.result.split('\n').filter(l => l.trim());
+    if (lines.length < 2) { alert('CSV file is empty.'); return; }
+
+    const headerLine = lines[0];
+    const headers = parseCSVLine(headerLine);
+
+    const fieldMap = {};
+    headers.forEach((h, i) => {
+      const match = FIELDS.find(f => f.label.toLowerCase() === h.trim().toLowerCase());
+      if (match) fieldMap[i] = match.key;
+    });
+
+    let imported = 0;
+    for (let i = 1; i < lines.length; i++) {
+      const cols = parseCSVLine(lines[i]);
+      const entry = { _id: Date.now().toString(36) + Math.random().toString(36).slice(2, 7) + i };
+      Object.entries(fieldMap).forEach(([idx, key]) => {
+        entry[key] = (cols[parseInt(idx)] || '').trim();
+      });
+      if (entry.objectId) {
+        data.push(entry);
+        imported++;
+      }
+    }
+    persist();
+    renderTable();
+    alert(`Imported ${imported} entries.`);
+    event.target.value = '';
+  };
+  reader.readAsText(file);
+}
+
+function parseCSVLine(line) {
+  const result = [];
+  let current = '';
+  let inQuotes = false;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (inQuotes) {
+      if (c === '"' && line[i + 1] === '"') { current += '"'; i++; }
+      else if (c === '"') { inQuotes = false; }
+      else { current += c; }
+    } else {
+      if (c === '"') { inQuotes = true; }
+      else if (c === ',') { result.push(current); current = ''; }
+      else { current += c; }
+    }
+  }
+  result.push(current);
+  return result;
+}
+
+renderTable();
+</script>
+</body>
+</html>
