@@ -86,7 +86,11 @@ def norm_inv(s):
     s = strip_accents(s or "").lower().strip()
     if s in ("", "unknown", "none", "n/a", "unnumbered"):
         return ""
+    s = re.sub(r"\([^)]*\)", " ", s)  # "(ethnology)", "(second record)"
+    # collection labels / institution prefixes that do not change the number itself
+    s = re.sub(r"^(agyptische sammlung,?\s*|mhnl\s*|mnhn[-\s]?ra[-\s]?|provv\.?\s*|p\.\s*(?=\d))", "", s)
     s = re.sub(r"^(inv(entory)?|acc(ession)?|no|nr|n°|cat)\.?\s*(no\.?|nr\.?|number)?\s*[:.]?\s*", "", s)
+    s = re.sub(r"/n\.?\s*", "/", s)
     return re.sub(r"[\s.\-_/,:;]+", "", s)
 
 
@@ -260,6 +264,20 @@ def main():
         row["x_agents"] = ";".join(sorted({x.get("_agent", "") for x in recs}))
         row["_okey"], row["_ikey"] = ok, ikey
         obj_rows.append(row)
+
+    # ---------- curated object overrides (by persistent object_id) ----------
+    okey_to_oid = ids["obj"]
+    obj_by_oid = {okey_to_oid[o["_okey"]]: o for o in obj_rows if o["_okey"] in okey_to_oid}
+    applied = set()
+    for i, ov in enumerate(overrides):
+        o = obj_by_oid.get(ov["id"])
+        if o is None:
+            continue
+        o[ov["field"]] = ov["value"]
+        tag = f"[corrected {ov['field']}: {ov['reason']}]"
+        o["notes"] = tag if o.get("notes", U) == U else f"{o['notes']} {tag}"
+        applied.add(i)
+    overrides = [ov for i, ov in enumerate(overrides) if i not in applied]
 
     # ---------- build institution rows ----------
     inst_rows = []

@@ -1,1 +1,3 @@
 id,field,value,reason
+INST-FR-010-O001,confidence,PROBABLE,"Joconde record (AE = Louvre series) gives inventory N 2902, identical to Louvre N 2902 recorded as in Paris; likely a Louvre deposit record or outdated location — not counted as a separate confirmed object"
+INST-FR-010-O001,possible_duplicate_of,INST-FR-003 Musée du Louvre N 2902,same inventory number in the Louvre AE series

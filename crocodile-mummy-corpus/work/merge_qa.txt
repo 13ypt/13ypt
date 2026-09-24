@@ -1,8 +1,5 @@
-CONFIRMED institution without confirmed object rows or stated count: DK|national museum of denmark
-CONFIRMED institution without confirmed object rows or stated count: ES|national archaeological museum
-CONFIRMED institution without confirmed object rows or stated count: EG|akoris archaeological site chapel e storeroom
 INST-CA-001: 13 object(s) without inventory number among 15 — check duplicates: ['INST-CA-001-O003', 'INST-CA-001-O004', 'INST-CA-001-O005', 'INST-CA-001-O006', 'INST-CA-001-O007', 'INST-CA-001-O008', 'INST-CA-001-O009', 'INST-CA-001-O010', 'INST-CA-001-O011', 'INST-CA-001-O012', 'INST-CA-001-O013', 'INST-CA-001-O014', 'INST-CA-001-O015']
-INST-DK-001: 4 object(s) without inventory number among 11 — check duplicates: ['INST-DK-001-O008', 'INST-DK-001-O009', 'INST-DK-001-O010', 'INST-DK-001-O011']
+INST-DK-002: 4 object(s) without inventory number among 11 — check duplicates: ['INST-DK-002-O008', 'INST-DK-002-O009', 'INST-DK-002-O010', 'INST-DK-002-O011']
 INST-EG-002: 2 object(s) without inventory number among 2 — check duplicates: ['INST-EG-002-O001', 'INST-EG-002-O002']
 INST-EG-003: 2 object(s) without inventory number among 29 — check duplicates: ['INST-EG-003-O028', 'INST-EG-003-O029']
 INST-EG-004: 2 object(s) without inventory number among 2 — check duplicates: ['INST-EG-004-O001', 'INST-EG-004-O002']
@@ -14,11 +11,6 @@ INST-GB-007: 1 object(s) without inventory number among 4 — check duplicates: 
 INST-GB-010: 2 object(s) without inventory number among 2 — check duplicates: ['INST-GB-010-O001', 'INST-GB-010-O002']
 INST-IT-002: 3 object(s) without inventory number among 3 — check duplicates: ['INST-IT-002-O001', 'INST-IT-002-O002', 'INST-IT-002-O003']
 INST-NO-002: 2 object(s) without inventory number among 2 — check duplicates: ['INST-NO-002-O001', 'INST-NO-002-O002']
-POSSIBLE SAME INSTITUTION: 'DK|national museum of denmark' ~ 'DK|national museum of denmark collection of classical and near eastern antiquities'
-POSSIBLE SAME INSTITUTION: 'EG|akoris archaeological site chapel e storeroom' ~ 'EG|akoris archaeological site chapel e storeroom western temple'
-POSSIBLE SAME INSTITUTION: 'ES|national archaeological museum' ~ 'ES|national archaeological museum of spain'
-POSSIBLE SAME INSTITUTION: 'FR|musee des beaux arts et d archeologie' ~ 'FR|musee des beaux arts et d archeologie de besancon'
-POSSIBLE SAME INSTITUTION: 'FR|musee municipal' ~ 'FR|musee municipal de sens'
-POSSIBLE SAME INSTITUTION: 'SE|malmo museer' ~ 'SE|malmo museum'
 POSSIBLE SAME INSTITUTION: 'US|carnegie museum of natural history' ~ 'US|field museum of natural history'
 no_confirmation superseded by master: EG|sharm el sheikh museum -> INST-EG-007
+no_confirmation superseded by master: US|carnegie museum of natural history -> INST-US-002
