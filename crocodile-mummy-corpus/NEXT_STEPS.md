@@ -170,3 +170,10 @@ High-value open leads named by several agents:
 7. **Image audit not done.** `head_visible`, `dorsal_visible` and `tail_visible` are
    `UNKNOWN` for almost all objects. Next step: download the primary image of every
    class A/B object with `image_urls`, then record the three visibility fields.
+8. **Smithsonian second pass not reviewed.** `portals_world` finished a second Open Access
+   API pass after the final merge. Its raw output was saved but not screened, and it
+   produced no new records:
+   - `work/agents/portals_world/raw/si_candidates_full_pass2.json`
+   - `work/agents/portals_world/raw/si_all_hits_summary_pass2.json`
+   - `work/agents/portals_world/raw/si_query_stats_pass2.json`
+   Screen these candidates before running any new Smithsonian queries.

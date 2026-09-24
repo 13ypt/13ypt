@@ -1,2 +1,27 @@
 429, sleeping 600 s
 429, sleeping 600 s
+429, sleeping 600 s
+crocodile AND unit_code:NMNHANTHRO 217 217 4
+429, sleeping 600 s
+429, sleeping 600 s
+429, sleeping 600 s
+429, sleeping 600 s
+crocodile AND mummy None 0 0
+mummified AND unit_code:NMNHHERPS 8 8 0
+429, sleeping 600 s
+429, sleeping 600 s
+mummy AND unit_code:NMNHHERPS 3 3 1
+Sobek 18 18 2
+429, sleeping 600 s
+429, sleeping 600 s
+429, sleeping 600 s
+429, sleeping 600 s
+reptile AND mummy AND unit_code:NMNHANTHRO None 0 0
+429, sleeping 600 s
+Crocodylus AND mummified 0 0 0
+429, sleeping 600 s
+"Mummied Crocodile" 1 1 1
+crocodile AND Egypt 22 22 5
+crocodile AND unit_code:NMAfA 3 3 0
+crocodile AND unit_code:FSG 0 0 0
+crocodile mummy None 0 0
