@@ -1,0 +1,62 @@
+{
+"query": "coccodrillo AND mummia",
+"profile": "standard",
+"total": 2,
+"fetched": 2,
+"items": [
+{
+"id": "/186/IT_PI112_MRD_300_3_43",
+"title": [
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\""
+],
+"dataProvider": "University Library Of Pisa",
+"provider": "MUSEU",
+"country": "Italy",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.internetculturale.it/it/16/search/detail?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AIT-PI112_MRD.300.3.43",
+"edmIsShownBy": "http://www.internetculturale.it/jmms/cacheman/normal/MagTeca_-_ICCU/Biblioteca_Universitaria_-_Pisa/oai.www.internetculturale.sbn.it.Teca.20.NT0000.IT-PI112_MRD.300.3.43/1.jpg?token=cL2eQ3utgviJDLbZeTUfAjhsIGnX2o1DECWm9QAIh43AnR61zVnxMRIWdZIo3CH7i%2Fl99a%2FYB3o0gi7YZnZ3n6rNKajULPWBYCenQ3qyz1Jj5vS3Z3C1n2tZeMUaR%2BeS",
+"guid": "https://www.europeana.eu/item/186/IT_PI112_MRD_300_3_43?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "186_Museu_Pisa",
+"desc": [
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\""
+]
+},
+{
+"id": "/446/IT_PI112_MRD_300_3_43",
+"title": [
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\"",
+"Nile cathedral (rocks) and Osiri's mummy on a crocodile with goddess Isi",
+"Inside Camicia: “Tav. M. d. C. N ° XVI”",
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\""
+],
+"dataProvider": "University Library Of Pisa",
+"provider": "CulturaItalia",
+"country": "Italy",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/NoC-OKLR/1.0/"
+],
+"edmIsShownAt": "https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AIT-PI112_MRD.300.3.43",
+"edmIsShownBy": "https://www.internetculturale.it/jmms/thumbnailProxy.jsp?type=normal&id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3AIT-PI112_MRD.300.3.43",
+"guid": "https://www.europeana.eu/item/446/IT_PI112_MRD_300_3_43?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "446_CulturaItalia_InternetCulturale",
+"desc": [
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\"",
+"Nile cathedral (rocks) and Osiri's mummy on a crocodile with goddess Isi",
+"Inside Camicia: “Tav. M. d. C. N ° XVI”",
+"Cateratta del Nilo (rocce) e mummia di Osiri stesa su coccodrillo con dea Isi",
+"All'interno di Camicia: \"Tav. M. d. C. N° XVI\""
+]
+}
+]
+}

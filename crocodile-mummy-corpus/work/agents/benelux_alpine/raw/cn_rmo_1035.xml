@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/
+         http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd">
+  <responseDate>2026-09-24T12:13:41.338923+02:00</responseDate>
+  <request verb="GetRecord" metadataPrefix="edm" identifier="dcn_rijksmuseum-van-oudheden_1035" >https://www.collectienederland.nl/api/oai-pmh/</request>
+  
+    <GetRecord>
+        
+            <record>
+                <header>
+                    <identifier>dcn_rijksmuseum-van-oudheden_1035</identifier>
+                    <datestamp>2026-04-21T12:31:58+02:00</datestamp>
+                    
+                        <setSpec>rijksmuseum-van-oudheden</setSpec>
+                    
+                </header>
+                <metadata>
+                    
+                        <rdf:RDF
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:dcterms="http://purl.org/dc/terms/"
+   xmlns:edm="http://www.europeana.eu/schemas/edm/"
+   xmlns:nave="http://schemas.delving.eu/nave/terms/"
+   xmlns:ore="http://www.openarchives.org/ore/terms/"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <rdf:Description rdf:about="http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff">
+    <rdf:type rdf:resource="http://www.europeana.eu/schemas/edm/WebResource"/>
+    <nave:resourceSortOrder>1</nave:resourceSortOrder>
+    <nave:thumbLarge>http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff</nave:thumbLarge>
+    <nave:thumbMedium>http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff</nave:thumbMedium>
+    <nave:thumbSmall>http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff</nave:thumbSmall>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="b0">
+    <rdf:type rdf:resource="http://schemas.delving.eu/nave/terms/DelvingResource"/>
+    <nave:allowDeepZoom>true</nave:allowDeepZoom>
+    <nave:allowLinkedOpenData>true</nave:allowLinkedOpenData>
+    <nave:allowSourceDownload>false</nave:allowSourceDownload>
+    <nave:collectionPart>Egypte en Nubië</nave:collectionPart>
+    <nave:featured>false</nave:featured>
+    <nave:public>true</nave:public>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.collectienederland.nl/resource/document/rijksmuseum-van-oudheden/1035">
+    <rdf:type rdf:resource="http://www.europeana.eu/schemas/edm/ProvidedCHO"/>
+    <dc:coverage>Egypte</dc:coverage>
+    <dc:coverage>Onbekend</dc:coverage>
+    <dc:date>Imperiaal (Romeins) 30 v.Chr.-395 n.Chr.</dc:date>
+    <dc:description>Deze krokodillenmummie is gemodelleerd met behulp van meerdere lagen van papyrusstengels in verschillende richtingen, welke zichtbaar zijn door een gat in de achterkant en een opening aan het uiteinde van de staart. Dit geraamte werd bedekt in een of twee lagen van ruw linnen. Hier overheen kwam een gevlochten patroon van linnen stroken die afwisselend ongekleurd en donkerbruin zijn, zoals nog zichtbaar is op de rug. De kop en schouders zijn ingewikkeld in donkerbruin linnen, dat op zijn plaats gehouden wordt door een paar omwikkelingen met ongekleurd linnen rondom de nek. De mond en ogen zijn gedefinieerd door middel van datzelfde ongekleurde linnen en bij de ogen zijn er nog twee spleten geknipt waar met zwart irissen geverfd zijn. De staart is recht en ingewikkeld in donkerbruin linnen. De mummie is goed bewaard gebleven, al zijn de windels om sommige plekken wel beschadigd. The animal's body has been modelled in several layers of vegetable stalks (probably papyrus) in various directions (longitudinal, concentric, diagonal), as can be seen through a hole in the back and an opening at the end of the tail. This was then covered in one or two layers of coarse natural linen (warp-faced tabby weave, about 7 x 13 threads/cm2), as visible on the belly of the reptile. Over this other layers were applied: the centre of the back still shows a plaited pattern composed of 0.6-1.0 cm wide strips of doubled linen, alternating natural and dark brown in colour; this pattern was probably not continued over the belly, although on the ventral side some remains of dark brown linen still adhere to the coarse cloth. The head and shoulders are wrapped in dark brown cloth, fixed by means of a concentric band of natural linen around the neck. Two slits have been cut for the eyes, which have rims of doubled natural linen and black painted irises. A horizontally applied strip of natural linen depicts the animal's mouth. The tail is straight and has also been wrapped in dark brown linen, with some irregular bandages in natural colour.</dc:description>
+    <dc:identifier>AMM 16h</dc:identifier>
+    <dc:subject>Mummie van een krokodil</dc:subject>
+    <dc:type>mummie ; reptiel ; krokodil ; dierenmummie</dc:type>
+    <dcterms:created>Imperiaal (Romeins) 30 v.Chr.-395 n.Chr.</dcterms:created>
+    <dcterms:extent>38,5 x 7,7 x 5,8 cm</dcterms:extent>
+    <dcterms:isReferencedBy>M. de Bakker et al., Visions 35 (2020) https://ca.medical.canon/publication/ct/V35_CTEU200150</dcterms:isReferencedBy>
+    <dcterms:medium>organisch ; mummie (dierlijk) ; linnen</dcterms:medium>
+    <edm:type>IMAGE</edm:type>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="b1">
+    <rdf:type rdf:resource="http://schemas.delving.eu/nave/terms/DcnResource"/>
+    <nave:province>Zuid-Holland</nave:province>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://data.collectienederland.nl/resource/aggregation/rijksmuseum-van-oudheden/1035">
+    <rdf:type rdf:resource="http://www.openarchives.org/ore/terms/Aggregation"/>
+    <edm:aggregatedCHO rdf:resource="http://data.collectienederland.nl/resource/document/rijksmuseum-van-oudheden/1035"/>
+    <edm:dataProvider>Rijksmuseum van Oudheden</edm:dataProvider>
+    <edm:hasView rdf:resource="http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff"/>
+    <edm:isShownAt rdf:resource="https://hdl.handle.net/21.12126/1035"/>
+    <edm:isShownBy rdf:resource="http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff"/>
+    <edm:object rdf:resource="http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&amp;cache=yes&amp;filename=019360.tiff"/>
+    <edm:provider>Rijksdienst voor het Cultureel Erfgoed</edm:provider>
+    <edm:rights rdf:resource="http://creativecommons.org/licenses/by/4.0/"/>
+    <ore:aggregates rdf:nodeID="b1"/>
+    <ore:aggregates rdf:nodeID="b0"/>
+    <ore:aggregates rdf:nodeID="b2"/>
+    <ore:aggregates rdf:nodeID="b3"/>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="b2">
+    <rdf:type rdf:resource="http://schemas.delving.eu/nave/terms/BrabantCloudResource"/>
+    <nave:copyrightNote>Rijksmuseum van Oudheden, Leiden</nave:copyrightNote>
+  </rdf:Description>
+  <rdf:Description rdf:nodeID="b3">
+    <rdf:type rdf:resource="http://schemas.delving.eu/nave/terms/RijksCollection"/>
+    <nave:rijksCollection>true</nave:rijksCollection>
+  </rdf:Description>
+</rdf:RDF>
+
+                    
+                </metadata>
+            </record>
+        
+    
+    </GetRecord>
+
+</OAI-PMH>

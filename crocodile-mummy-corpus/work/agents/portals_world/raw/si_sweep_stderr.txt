@@ -1,0 +1,15 @@
+"crocodile mummy" 2 2 2
+"mummified crocodile" 2 2 2
+crocodile AND mummy None 0 0
+crocodile mummy None 0 0
+"Crocodylus" mummy None 0 0
+Crocodylus AND mummified None 0 0
+crocodile AND mummified None 0 0
+"Mummied Crocodile" None 0 0
+crocodile AND unit_code:NMNHANTHRO None 0 0
+reptile AND mummy AND unit_code:NMNHANTHRO None 0 0
+Sobek None 0 0
+crocodile AND Egypt None 0 0
+Crocodylus niloticus None 0 0
+crocodile AND unit_code:NMAfA None 0 0
+crocodile AND unit_code:FSG None 0 0

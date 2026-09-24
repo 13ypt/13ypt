@@ -1,0 +1,29 @@
+{
+"query": "\"krokodil mummie\"",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/2021606/resource_document_rijksmuseum_van_oudheden_AMM16a",
+"title": [
+"mummie ; reptiel ; krokodil ; dierenmummie"
+],
+"dataProvider": "National Museum of Antiquities",
+"provider": "Dutch Collections for Europe",
+"country": "Netherlands",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://hdl.handle.net/21.12126/21747",
+"edmIsShownBy": "http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&cache=yes&filename=017988.jpg",
+"guid": "https://www.europeana.eu/item/2021606/resource_document_rijksmuseum_van_oudheden_AMM16a?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2021606_DigitaleCollectie_RM_Oudheden",
+"desc": [
+"krokodil; mummie The mummy has been reinforced by a bundle of vegetable stalks (visible through holes in the back and tail) and at least one wooden stick (protruding at the caudal end), bound together with numerous concentric windings of palm rope. It was then wrapped in a large sheet of medium-fine"
+]
+}
+]
+}

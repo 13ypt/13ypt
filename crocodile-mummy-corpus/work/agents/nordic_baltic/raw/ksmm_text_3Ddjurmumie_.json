@@ -1,0 +1,5352 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005746",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005746",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14122D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14122D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006280/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006279/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005742",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005742",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14118D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14118D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006264/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006263/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005749",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005749",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14125D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14125D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006292/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006291/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005750",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005750",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14126D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14126D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006296/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006295/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005754",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005754",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14130D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14130D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006312/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006311/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005752",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005752",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14128D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14128D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006304/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006303/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005747",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005747",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14123D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14123D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006284/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006283/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005745",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005745",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14121D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14121D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006276/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006275/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005744",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005744",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14120D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14120D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006272/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006271/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005741",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005741",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14117D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14117D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006260/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006259/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005738",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005738",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14114D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14114D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006248/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006247/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005753",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005753",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14129D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14129D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006308/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006307/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005751",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005751",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14127D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14127D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006300/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006299/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005737",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005737",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14113D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14113D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006244/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006243/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005748",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005748",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14124D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14124D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006288/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006287/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005743",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005743",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14119D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14119D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006268/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006267/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005755",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005755",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14131D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14131D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006316/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006315/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005761",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005761",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14137D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14137D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006340/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006339/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005759",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005759",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14135D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14135D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006332/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006331/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005736",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005736",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14112D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14112D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006240/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006239/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005756",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005756",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14132D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14132D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006320/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006319/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005735",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005735",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14111D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14111D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006236/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006235/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005732",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005732",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14108D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14108D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006224/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006223/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005729",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005729",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14105D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14105D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006212/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006211/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005758",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005758",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14134D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14134D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006328/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006327/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005757",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005757",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14133D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14133D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006324/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006323/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005734",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005734",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14110D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14110D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006232/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006231/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005762",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005762",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14138D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14138D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006344/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006343/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005763",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005763",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14139D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14139D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006348/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006347/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005739",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005739",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14115D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14115D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006252/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006251/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005760",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005760",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14136D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14136D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006336/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006335/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005731",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005731",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14107D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14107D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006220/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006219/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005740",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005740",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14116D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14116D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006256/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006255/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005733",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005733",
+  "label": "föremålshantering, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14109D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålshantering"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14109D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006228/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006227/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005730",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005730",
+  "label": "föremålshantering, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14106D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålshantering"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14106D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006216/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006215/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/showcase/4035072",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4035072",
+  "label": "Animal mummies, Djurmumier",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "The Egyptians believed that the gods could manifest themselves in the form of individual or species of animals such as ibis birds, falcons and cats. \nAnimal cults were popular in the Late Period. Breeding and mummifying animals became a lucrative business for the temples. Pilgrims bought animals that were mummified and presented as gifts to the gods, sometimes accompanied by a prayer or message. The animal mummies were buried in long underground galleries. \nSometimes, beloved pets would also be mummified in the hope that it would give them the possibility of an eternal afterlife. Mummified pet dogs, baboons and gazelles, have been found in graves from different time periods."
+   ],
+   [
+    "Description, Swedish",
+    "Egyptierna föreställde sig att gudar kunde uppenbara sig som vissa djur. Det kunde handla om enskilda individer eller hela arter, som till exempel ibisfåglar, falkar och katter. \nDjurkulterna fick ett uppsving under Sentiden, då uppfödning och mumifiering av djur blev en lönsam verksamhet för templen. Pilgrimer köpte djur som mumifierades och överräcktes som gåvor till gudarna, kanske tillsammans med en bön eller ett meddelande. Djurmumierna begravdes i långa underjordiska gallerier.\nI enstaka fall lät man också mumifiera älskade husdjur för att ge dem en möjlighet till evigt liv. Mumifierade hundar, babianer och gaseller, som helt klart har varit husdjur, har hittats i gravar från olika tidsperioder."
+   ]
+  ],
+  "names": [
+   [
+    "Title",
+    "Animal mummies"
+   ],
+   [
+    "Title, Swedish",
+    "Djurmumier"
+   ]
+  ],
+  "numbers": [
+   [
+    "Exhibition, showcase",
+    "Egypten 8.4"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "8.4"
+   ],
+   [
+    "Previous ID",
+    "1140-D-01"
+   ]
+  ],
+  "meas": [],
+  "ctx": [],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4055519/1140-D-01_ny2.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4055518/1140-D-01_ny2.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240089",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240089",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17465D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17465D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240069/MM+18401%28ts%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240068/MM+18401%28ts%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240084",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240084",
+  "label": "föremålsbild, föremålsporträtt, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17460D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17460D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240045/MM+13886%28ts%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240044/MM+13886%28ts%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240086",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240086",
+  "label": "föremålsbild, föremålsporträtt, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17462D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17462D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240057/MM+18400%28ts3%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240056/MM+18400%28ts3%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240083",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240083",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17459D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17459D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240041/MM+13885%28ts2%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240040/MM+13885%28ts2%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240088",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240088",
+  "label": "föremålsbild, föremålsporträtt, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17464D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17464D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240065/MM+18400%28ts5%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240064/MM+18400%28ts5%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240085",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240085",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17461D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17461D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240049/MM+18400%28ts1%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240048/MM+18400%28ts1%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240087",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240087",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17463D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17463D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240061/MM+18400%28ts4%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240060/MM+18400%28ts4%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240082",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240082",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17458D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17458D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240037/MM+13885%28ts1%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240036/MM+13885%28ts1%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240090",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240090",
+  "label": "föremålsbild, föremålsporträtt, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En var Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17466D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17466D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240073/MM+18403%28ts%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240072/MM+18403%28ts%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240092",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240092",
+  "label": "föremålsporträtt, föremålsbild, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En vad Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17468D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17468D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5240077/MM+19232%28ts%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5240076/MM+19232%28ts%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4062924",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4062924",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Dokumentation av byggandet av den nya Egyptenutställningen som byggdes 2013-2014 och som öppnade den 22/2 2014.\nRöntgenläkare från Karolinska Sjukhuset och egyptolog Salima Ikram t.h. går igenom röntgenbilderna från undersökningen av våra djurmumier."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Photograph Number",
+    "14918D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14918D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-08-09",
+    "toTime": "2012-08-09",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4062929/14918D.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4062928/14918D.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/5240091",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/5240091",
+  "label": "föremålsbild, föremålsporträtt, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Föremålsbild av djurmumie, tagen för bok."
+   ],
+   [
+    "Comments",
+    "Vid tiden för fotograferingen var två böcker om Egypten under produktion. En vad Sofia Häggmans bok om mumier, en annan en extern författare. Denna bild var tänkt för någon eller båda böckerna."
+   ],
+   [
+    "Photograph Number",
+    "17467D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålsbild"
+   ],
+   [
+    "Keyword, Swedish",
+    "föremålsporträtt"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "17467D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "name": "Sandin, Tony",
+    "fromTime": "2019-03-17",
+    "toTime": "2019-03-17",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1435033"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Sandin, Tony",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/5239977/MM+13884%28ts%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/5239976/MM+13884%28ts%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4062917",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4062917",
+  "label": "photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Dokumentation av byggandet av den nya Egyptenutställningen som byggdes 2013-2014 och som öppnade den 22/2 2014.\nRöntgenläkare från Karolinska Sjukhuset och egyptolog Salima Ikram t.v. går igenom röntgenbilderna från undersökningen av våra djurmumier."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Photograph Number",
+    "14917D"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14917D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-08-09",
+    "toTime": "2012-08-09",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4062923/14917D.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4062922/14917D.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/4005728",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4005728",
+  "label": "föremålshantering, photograph, fotografi",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description, Swedish",
+    "Djurmumier från museets samlingar tas till Karolinska Sjukhuset i Solna för röntgen."
+   ],
+   [
+    "Country, Swedish / Photographed in",
+    "Sverige"
+   ],
+   [
+    "Comments",
+    "Personal"
+   ],
+   [
+    "Photograph Number",
+    "14104D"
+   ]
+  ],
+  "names": [
+   [
+    "Keyword, Swedish",
+    "föremålshantering"
+   ],
+   [
+    "Sakord, engelska",
+    "photograph"
+   ],
+   [
+    "Sakord",
+    "fotografi"
+   ]
+  ],
+  "numbers": [
+   [
+    "Photograph Number",
+    "14104D"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Fotograferad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#se",
+    "continentName": "Europa",
+    "countryName": "Sweden",
+    "placeName": "Stockholm",
+    "name": "Kaneberg, Ove",
+    "fromTime": "2012-05-21",
+    "toTime": "2012-05-21",
+    "photographer": "http://kulturarvsdata.se/SMVK-EM/name/1501705"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4006208/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4006207/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3012875",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3012875",
+  "label": "statuette, sculpture, statyett, skulptur",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Sculpture of a falcon, perhaps Spodu? Hole for fittning, for example onto a canopic chest."
+   ],
+   [
+    "Inventory number",
+    "MME 1969:024"
+   ],
+   [
+    "Acquisition",
+    "From the Reinhold Holtermann collection."
+   ],
+   [
+    "Comments",
+    "Marked 194/CPS."
+   ],
+   [
+    "Dimensions",
+    "H. 5.5 cm, L. 8 cm"
+   ],
+   [
+    "Cf Publications",
+    "Peet, Cemetries of Abydos II, pl. 39."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Skulptur av en falk, kanske Sopdu? Hål för infästning i t.ex. ett kanopskrin."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Reinhold Holtermanns samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Sokar figures that have been a part of coffins or canopic shrines. The tomb god Sokar is often represented as a falcon."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Sokar-figurer som suttit på kistor eller kanopskrin. Gravguden Sokar avbildades ofta som falk."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "statuette"
+   ],
+   [
+    "Object",
+    "sculpture"
+   ],
+   [
+    "Object, Swedish",
+    "statyett"
+   ],
+   [
+    "Object, Swedish",
+    "skulptur"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1969:024"
+   ],
+   [
+    "Previous ID",
+    "H 25"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.2"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "5,5",
+    "cm",
+    null
+   ],
+   [
+    "Length / Längd",
+    "8",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Holtermann, Reinhold Oscar Christian",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3223046"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3994694/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3994693/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3994698/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3994697/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016252",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016252",
+  "label": "mummy, gazelle, gasell, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified gazell with folded legs."
+   ],
+   [
+    "Inventory number",
+    "MM 18401"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "The gazelle has been x-rayed twice. X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "H. 23.5 cm, L. 42 cm"
+   ],
+   [
+    "Publications",
+    "diener, NMÅ 1986, s. 45."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Loan out / Previously",
+    "2017.0003"
+   ],
+   [
+    "Name / Loantaker",
+    "KTH Engineering Sciences"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad gasell med invikta ben."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified fishes and wooden models of fishes.\nSome of the models are hollow and have functioned\nas coffins for fish mummies. The one on the left still\nhas a small fish mummy inside."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierad gasell."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "gazelle"
+   ],
+   [
+    "Object, Swedish",
+    "gasell"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18401"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:250"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "7"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "23,5",
+    "cm",
+    null
+   ],
+   [
+    "Length / Längd",
+    "42",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013734/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013733/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005110/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005109/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005114/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005113/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005118/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005117/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005122/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005121/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005126/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005125/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013739/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013738/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008657",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008657",
+  "label": "lid, canopic jar, vessel, kanopkärl, kärl, lock",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A canopic jar with the lid of a jackal´s head, Duamutef"
+   ],
+   [
+    "Inventory number",
+    "NME 103"
+   ],
+   [
+    "Acquisition",
+    "On loan from Nationalmuseum, Stockholm since 1983. Dep. 1928."
+   ],
+   [
+    "Condition",
+    "Complete"
+   ],
+   [
+    "Dimensions",
+    "H. 24 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Description, Swedish",
+    "Ett Kanopkärl med ett lock i form av ett sjakalhuvud, Duamutef"
+   ],
+   [
+    "Acquisition, Swedish",
+    "På lån från Nationalmuseum, Stockholm sedan 1983. Dep. 1928."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Canopic jars with lids. The canopic jars were used to store the embalmed inner organs. The lids were shaped as human heads or in the form of the gods that were the protectors of the organs: Hapi (baboon) protected the lungs; Duamutef (jackal) the stomach; Imsety (human) liver and Qebehsenuef (falcon) the intestines. The vessels in the case are from different time periods and places."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Kanopkärl och lock. I kanopkärlen förvarades de balsamerade inre organen. Locken utformades som människohuvuden eller som de gudar som skyddade organen: Hapi (babian) skyddade lungorna, Duamutef (sjakal) magen, Imsety(människa) levern och Qebehsenuef (falk) inälvorna. Kärlen i montern kommer från olika tider och platser."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "lid"
+   ],
+   [
+    "Object",
+    "canopic jar"
+   ],
+   [
+    "Object",
+    "vessel"
+   ],
+   [
+    "Object, Swedish",
+    "kanopkärl"
+   ],
+   [
+    "Object, Swedish",
+    "kärl"
+   ],
+   [
+    "Object, Swedish",
+    "lock"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 103"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "1.11"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "24",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044311/NME+103%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044310/NME+103%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044306/NME+103%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044305/NME+103%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747523/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747524/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/showcase/4035372",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4035372",
+  "label": "Forgeries, Förfalskningar",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Forgeries\nThe demand for exotic objects from Egypt was great during the whole nineteenth century. It was partly met by newly made forgeries that gullible tourists – but even museums – bought.\nOne such example is this fake infant mummy (1). The mask and the shroud are authentic, but x-rays have shown that it contains the lower leg of an adult male. The botanical material that accompanied the “mummy” suggests it was produced somewhere in the Baltic Sea region. How it came\nto Sweden and ended up in the collection of the National Museum is unclear. In 1928 it was deposited at the Egyptian museum.\nWhat was bought as a “mummified animal in a pot” (2) has also been found to be a forgery. Animal mummies were buried in pots in long underground galleries.\nThis pot however has turned out to contain a modern paper roll, wrapped in linen."
+   ],
+   [
+    "Description, Swedish",
+    "Förfalskningar\nEfterfrågan på exotiska föremål från Egypten var stor under hela 1800-talet. Den möttes delvis av nytillverkade förfalskningar, som godtrogna turister – men även museer – köpte.\nEn sådan är denna förfalskade spädbarnsmumie (1). Masken och svepningen är äkta, men röntgenundersökningar har visat att den innehåller underbenet av en vuxen man. Det botaniska material som följde med ”mumien” tyder på att den är tillverkad någonstans i östersjöområdet.\nHur den kom till Sverige och hamnade i Nationalmuseums samling är osäkert.\nÅr 1928 deponerades den på Egyptiska museet.\nDet som köptes in som ”mumifierat djur i kruka” (2) har också visat sig vara en förfalskning. Djurmumier begravdes i krukor i långa underjordiska gallerier. Den här krukan har emellertid visat sig innehålla en modern pappersrulle, inlindad i linne."
+   ]
+  ],
+  "names": [
+   [
+    "Title",
+    "Forgeries"
+   ],
+   [
+    "Title, Swedish",
+    "Förfalskningar"
+   ]
+  ],
+  "numbers": [
+   [
+    "Exhibition, showcase",
+    "Egypten 11.4"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "11.4"
+   ],
+   [
+    "Previous ID",
+    "1292-C-01"
+   ]
+  ],
+  "meas": [],
+  "ctx": [],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4054610/14660D%28_DSC6085%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4054609/14660D%28_DSC6085%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008731",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008731",
+  "label": "canopic jar, kanopkärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A canopic jar with a lid in the shape of a falcon head, Quebehsenuef. The jar has four vertical rows of hieroglyphic inscriptions. The jar belonged to Wahibremen."
+   ],
+   [
+    "Inventory number",
+    "MM 19233d"
+   ],
+   [
+    "Acquisition",
+    "Purchased from the Republic of Egypt. Gift by H.R.H. Crownprince Gustaf Adolf 1935."
+   ],
+   [
+    "Comments",
+    "Search for additional pictures."
+   ],
+   [
+    "Dimensions",
+    "H. 32.2 cm, H. lid 12 cm"
+   ],
+   [
+    "Exhibitions",
+    "Storeroom 3, shelf R 15"
+   ],
+   [
+    "Publications",
+    "Drioton, Ét. and Lauer, J.P., Fouilles À Saqqarah, Les Tombes Jumelées de Neferibrê-sa-neith et de Ouahibrê-men, ASAE, Tome LI, (Cairo, 1951), pp.469-490, pls. XII and XIII\nFirth, C.M., Excavations of the Department of Antiquities at Saqqara, October 1928 to March 1929, ASAE 29, (Cairo, 1929), pp.66-70\nSee also, Aftonbladet, June 5, 1935 and Lugn and Larsen, Egyptiska Museet, Globen, no.5, 1943, särtryck, p.6"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Ett kanopkärl med ett lock i form av ett falkhuvud, Qebehsenuef. Kärlet har fyra vertikala rader med hieroglyfinskriptioner. Kärlet tillhörde Wahibremen."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från den Egyptiska staten. Gåva från kronprins Gustav Adolf 1925."
+   ],
+   [
+    "Geographic name, alternative",
+    "Saqqara"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Saqqara"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "A set of canopic jars. Every person should have four canopic jars. These belong to a man named Wahibremen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "En mans uppsättning kanopkärl. Varje människa skulle ha fyra kanopkärl. Dessa tillhör en man vid namn Wahibremen."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "canopic jar"
+   ],
+   [
+    "Object, Swedish",
+    "kanopkärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19233d"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "2.3"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "32,2",
+    "cm",
+    null
+   ],
+   [
+    "Height / Höjd",
+    "12",
+    "cm",
+    null
+   ],
+   [
+    "Diameter",
+    "12",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gustaf VI Adolf",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1015117"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period, 26th Dynasty (664-525 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Saqqara"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044628/MM+19233d%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044627/MM+19233d%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044633/MM+19233d%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044632/MM+19233d%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044642/MM+19233d%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044641/MM+19233d%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044637/MM+19233d%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044636/MM+19233d%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747775/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747776/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747778/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747779/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008729",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008729",
+  "label": "canopic jar, kanopkärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A canopic jar with a lid in the shape of a jackal´s head, Duamutef. The jar has four vertical rows of hieroglyphic inscriptions. The jar belonged to Wahibremen."
+   ],
+   [
+    "Inventory number",
+    "MM 19233b"
+   ],
+   [
+    "Acquisition",
+    "Purchased from the Republic of Egypt. Gift by H.R.H. Crownprince Gustaf Adolf 1935."
+   ],
+   [
+    "Comments",
+    "Search for additional pictures."
+   ],
+   [
+    "Dimensions",
+    "H. 29.5 cm, H. lid 11.5 cm"
+   ],
+   [
+    "Exhibitions",
+    "Storeroom 3, shelf R 15"
+   ],
+   [
+    "Publications",
+    "Drioton, Ét. and Lauer, J.P., Fouilles À Saqqarah, Les Tombes Jumelées de Neferibrê-sa-neith et de Ouahibrê-men, ASAE, Tome LI, (Cairo, 1951), pp.469-490, pls. XII and XIII\nFirth, C.M., Excavations of the Department of Antiquities at Saqqara, October 1928 to March 1929, ASAE 29, (Cairo, 1929), pp.66-70\nSee also, Aftonbladet, June 5, 1935 and Lugn and Larsen, Egyptiska Museet, Globen, no.5, 1943, särtryck, p.6"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Ett kanopkärl med ett lock i form av ett sjakalhuvud, Duamutef. Kärlet har fyra vertikala rader med hieroglyfinskriptioner. Kärlet tillhörde Wahibremen."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från den Egyptiska staten. Gåva från kronprins Gustav Adolf 1925."
+   ],
+   [
+    "Geographic name, alternative",
+    "Saqqara"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Saqqara"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "A set of canopic jars. Every person should have four canopic jars. These belong to a man named Wahibremen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "En mans uppsättning kanopkärl. Varje människa skulle ha fyra kanopkärl. Dessa tillhör en man vid namn Wahibremen."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "canopic jar"
+   ],
+   [
+    "Object, Swedish",
+    "kanopkärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19233b"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "2.4"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "29,5",
+    "cm",
+    null
+   ],
+   [
+    "Height / Höjd",
+    "11,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gustaf VI Adolf",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1015117"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period, 26th Dynasty (664-525 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Saqqara"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044586/MM+19233b%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044585/MM+19233b%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044591/MM+19233b%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044590/MM+19233b%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044596/MM+19233b%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044595/MM+19233b%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044600/MM+19233b%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044599/MM+19233b%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747760/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747761/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747763/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747764/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747766/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747767/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008667",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008667",
+  "label": "lid for a canopic jar, lock till ett kanopkärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A lid from a canopic jar featuring the human head either of the deceased or it represents one of the four sons of Horus, the god Imsety. Complete with its canopic jar it would have contained the liver."
+   ],
+   [
+    "Inventory number",
+    "MM 15727"
+   ],
+   [
+    "Condition",
+    "Fragmentary, repaired with gypsum."
+   ],
+   [
+    "Dimensions",
+    "H. 11 cm"
+   ],
+   [
+    "Cf Publications",
+    "Hope, C., Egyptian Pottery, Shire Egyptology Ltd., 1987, p.41, pl. 9"
+   ],
+   [
+    "Period, Swedish",
+    "Nya riket - Sentiden (ca.1569-333 f Kr)"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Ett lock från ett kanopkärl som föreställer ett människohuvud antingen av den avlidne eller så representerar den en av de fyra Horus-sönerna, guden Imsety. Komplett med dess kanopkärl skulle den ha innehållit levern. Undersidan har en hieroglyfinskription."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Canopic jars with lids. The canopic jars were used to store the embalmed inner organs. The lids were shaped as human heads or in the form of the gods that were the protectors of the organs: Hapi (baboon) protected the lungs; Duamutef (jackal) the stomach; Imsety (human) liver and Qebehsenuef (falcon) the intestines. The vessels in the case are from different time periods and places."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Kanopkärl och lock. I kanopkärlen förvarades de balsamerade inre organen. Locken utformades som människohuvuden eller som de gudar som skyddade organen: Hapi (babian) skyddade lungorna, Duamutef (sjakal) magen, Imsety(människa) levern och Qebehsenuef (falk) inälvorna. Kärlen i montern kommer från olika tider och platser."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "lid for a canopic jar"
+   ],
+   [
+    "Object, Swedish",
+    "lock till ett kanopkärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 15727"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "1.28"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "11",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "New Kingdom - Late Period (c.1569-333 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044121/MM+15727%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044120/MM+15727%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044116/MM+15727%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044115/MM+15727%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044111/MM+15727%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044110/MM+15727%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747556/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747557/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008730",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008730",
+  "label": "canopic jar, kanopkärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A canopic jar with a lid in the shape of a human head, possibly Imsety. The jar has four vertical rows of hieroglyphic inscriptions. The jar belonged to Wahibremen."
+   ],
+   [
+    "Inventory number",
+    "MM 19233c"
+   ],
+   [
+    "Acquisition",
+    "Purchased from the Republic of Egypt. Gift by H.R.H. Crownprince Gustaf Adolf 1935."
+   ],
+   [
+    "Comments",
+    "Search for additional pictures."
+   ],
+   [
+    "Dimensions",
+    "H. 34 cm, H. lid 11.8 cm"
+   ],
+   [
+    "Exhibitions",
+    "Storeroom 3, shelf R 15"
+   ],
+   [
+    "Publications",
+    "Drioton, Ét. and Lauer, J.P., Fouilles À Saqqarah, Les Tombes Jumelées de Neferibrê-sa-neith et de Ouahibrê-men, ASAE, Tome LI, (Cairo, 1951), pp.469-490, pls. XII and XIII\nFirth, C.M., Excavations of the Department of Antiquities at Saqqara, October 1928 to March 1929, ASAE 29, (Cairo, 1929), pp.66-70\nSee also, Aftonbladet, June 5, 1935 and Lugn and Larsen, Egyptiska Museet, Globen, no.5, 1943, särtryck, p.6"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Ett kanopkärl med ett lock i form av ett människohuvud, möjligen Imsety. Kärlet har fyra vertikala rader av hieroglyfinskriptioner. Kärlet tillhörde Wahibremen."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från den Egyptiska staten. Gåva från kronprins Gustav Adolf 1925."
+   ],
+   [
+    "Geographic name, alternative",
+    "Saqqara"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Saqqara"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "A set of canopic jars. Every person should have four canopic jars. These belong to a man named Wahibremen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "En mans uppsättning kanopkärl. Varje människa skulle ha fyra kanopkärl. Dessa tillhör en man vid namn Wahibremen."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "canopic jar"
+   ],
+   [
+    "Object, Swedish",
+    "kanopkärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19233c"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "2.1"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "11,8",
+    "cm",
+    null
+   ],
+   [
+    "Height / Höjd",
+    "34",
+    "cm",
+    null
+   ],
+   [
+    "Diameter",
+    "11,8",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gustaf VI Adolf",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1015117"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period, 26th Dynasty (664-525 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Saqqara"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044609/MM+19233c%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044608/MM+19233c%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044614/MM+19233c%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044613/MM+19233c%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044619/MM+19233c%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044618/MM+19233c%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044623/MM+19233c%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044622/MM+19233c%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747769/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747770/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747772/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747773/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008728",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008728",
+  "label": "canopic jar, kanopkärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A canopic jar. It did have a lid in the shape of a baboon´s head, Hapy. The lid was however stolen on the 7 of October, 1965. The jar has four vertical rows of hieroglyphic inscriptions. The jar belonged to Wahibremen."
+   ],
+   [
+    "Inventory number",
+    "MM 19233a"
+   ],
+   [
+    "Acquisition",
+    "Purchased from the Republic of Egypt. Gift by H.R.H. Crownprince Gustaf Adolf 1935."
+   ],
+   [
+    "Dimensions",
+    "H. 32 cm, H. lid 9.4 cm"
+   ],
+   [
+    "Exhibitions",
+    "Storeroom 3, shelf R 15"
+   ],
+   [
+    "Publications",
+    "Drioton, Ét. and Lauer, J.P., Fouilles À Saqqarah, Les Tombes Jumelées de Neferibrê-sa-neith et de Ouahibrê-men, ASAE, Tome LI, (Cairo, 1951), pp.469-490, pls. XII and XIII\nFirth, C.M., Excavations of the Department of Antiquities at Saqqara, October 1928 to March 1929, ASAE 29, (Cairo, 1929), pp.66-70\nSee also, Aftonbladet, June 5, 1935 and Lugn and Larsen, Egyptiska Museet, Globen, no.5, 1943, särtryck, p.6"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "Ett kanopkärl. Den hade ett lock i form av ett babianhuvud, Hapy. Det blev dock stulet den 7e oktober 1965. Kärlet har fyra vertikala rader med hieroglyfinskriptioner. Kärlet tillhör Wahibremen."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från den Egyptiska staten. Gåva från kronprins Gustav Adolf 1925."
+   ],
+   [
+    "Geographic name, alternative",
+    "Saqqara"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Saqqara"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.3"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "A set of canopic jars. Every person should have four canopic jars. These belong to a man named Wahibremen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "En mans uppsättning kanopkärl. Varje människa skulle ha fyra kanopkärl. Dessa tillhör en man vid namn Wahibremen."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "canopic jar"
+   ],
+   [
+    "Object, Swedish",
+    "kanopkärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19233a"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "2.2"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "32",
+    "cm",
+    null
+   ],
+   [
+    "Height / Höjd",
+    "9,4",
+    "cm",
+    null
+   ],
+   [
+    "Diameter",
+    "9,4",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gustaf VI Adolf",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1015117"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period, 26th Dynasty (664-525 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Saqqara"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044571/MM+19233a%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044570/MM+19233a%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044576/MM+19233a%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044575/MM+19233a%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044581/MM+19233a%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044580/MM+19233a%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4044604/MM+19233a%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4044603/MM+19233a%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3747757/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3747758/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3012456",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3012456",
+  "label": "papyrus, forgery, staff, stav, förfalskning",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A stick wrapped in papyrus leaves and linen. Clay seal stamps at the ends, Amenhotep III. Hieroglyphs on the linen. Forgery!"
+   ],
+   [
+    "Inventory number",
+    "MM 18032"
+   ],
+   [
+    "Acquisition",
+    "Bequeathed 1957 by Mrs Johnson. Purchased in Egypt probably in 1850 by Prof. Albert Törnkvist."
+   ],
+   [
+    "Dimensions",
+    "L. 23 cm, W. 2.5 cm"
+   ],
+   [
+    "Exhibitions",
+    "Storeroom 3, cabinet C, drawer 45"
+   ],
+   [
+    "Period, Swedish",
+    "Amenhotep III (1410-1372 f Kr), 18e dynastin, Nya riket [förmodat]"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 11, Egyptology - Europe and the Ancient Egypt"
+   ],
+   [
+    "Description, Swedish",
+    "En pinne virad i papyrusblad och linne. Lersigillstämpel på ena änden, Amenhotep III. Hieroglyfer på linnet. Förfalskning!"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Donerad 1957 av Mrs Johnson. Inköpt i Egypten troligen 1850 av Prof. Albert Törnkvist."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 11.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "The demand for exotic objects from Egypt was great during the whole nineteenth century. It was partly met by newly made forgeries that gullible tourists – but even museums – bought.\nOne such example is this fake infant mummy (1). The mask and the shroud are authentic, but x-rays have shown that it contains the lower leg of an adult male. The botanical material that accompanied the “mummy” suggests it was produced somewhere in the Baltic Sea region. How it came\nto Sweden and ended up in the collection of the National Museum is unclear. In 1928 it was deposited at the Egyptian museum.\nWhat was bought as a “mummified animal in a pot” (2) has also been found to be a forgery. Animal mummies were buried in pots in long underground galleries.\nThis pot however has turned out to contain a modern paper roll, wrapped in linen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Förfalskningar\nEfterfrågan på exotiska föremål från Egypten var stor under hela 1800-talet. Den möttes delvis av nytillverkade förfalskningar, som godtrogna turister – men även museer – köpte.\nEn sådan är denna förfalskade spädbarnsmumie (1). Masken och svepningen är äkta, men röntgenundersökningar har visat att den innehåller underbenet av en vuxen man. Det botaniska material som följde med ”mumien” tyder på att den är tillverkad någonstans i östersjöområdet.\nHur den kom till Sverige och hamnade i Nationalmuseums samling är osäkert.\nÅr 1928 deponerades den på Egyptiska museet.\nDet som köptes in som ”mumifierat djur i kruka” (2) har också visat sig vara en förfalskning. Djurmumier begravdes i krukor i långa underjordiska gallerier. Den här krukan har emellertid visat sig innehålla en modern pappersrulle, inlindad i linne."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "papyrus"
+   ],
+   [
+    "Object",
+    "forgery"
+   ],
+   [
+    "Object",
+    "staff"
+   ],
+   [
+    "Object, Swedish",
+    "papyrus"
+   ],
+   [
+    "Object, Swedish",
+    "stav"
+   ],
+   [
+    "Object, Swedish",
+    "förfalskning"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18032"
+   ],
+   [
+    "Acquisition number",
+    "MME 1957:003"
+   ],
+   [
+    "Previous ID",
+    "E 8032"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "3"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "23",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "2,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "New Kingdom, 18th Dynasty, Amenhotep III (1410-1372 BC) [supposedly]"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757445/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757444/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757449/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757448/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015797",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3015797",
+  "label": "vessel, jar, mummy, forgery, mumie, förfalskning, kärl",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Supposedly a canopic jar of red clay. Sealed at the top with linen fragments and papyri, contains coal and what was once believed to have been a mummified animal, probably a cat. However x-ray examination has revealed that the object is a forgery."
+   ],
+   [
+    "Inventory number",
+    "NME 861"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Condition",
+    "Intact, minor chips missing from the rim."
+   ],
+   [
+    "Dimensions",
+    "H. 29 cm, Ø 10.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 11, Egyptology - Europe and the Ancient Egypt"
+   ],
+   [
+    "Description, Swedish",
+    "Troligen ett kanopkärl av röd lera. Förseglad i toppen med linnefragment och papyrus, innehåller kol och vad som en gång troddes vara ett mumifierat djur, troligen en katt. Dock har röntgenundersökning avslöjat att objektet är en förfalskning."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 11.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "The demand for exotic objects from Egypt was great during the whole nineteenth century. It was partly met by newly made forgeries that gullible tourists – but even museums – bought.\nOne such example is this fake infant mummy (1). The mask and the shroud are authentic, but x-rays have shown that it contains the lower leg of an adult male. The botanical material that accompanied the “mummy” suggests it was produced somewhere in the Baltic Sea region. How it came\nto Sweden and ended up in the collection of the National Museum is unclear. In 1928 it was deposited at the Egyptian museum.\nWhat was bought as a “mummified animal in a pot” (2) has also been found to be a forgery. Animal mummies were buried in pots in long underground galleries.\nThis pot however has turned out to contain a modern paper roll, wrapped in linen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Förfalskningar\nEfterfrågan på exotiska föremål från Egypten var stor under hela 1800-talet. Den möttes delvis av nytillverkade förfalskningar, som godtrogna turister – men även museer – köpte.\nEn sådan är denna förfalskade spädbarnsmumie (1). Masken och svepningen är äkta, men röntgenundersökningar har visat att den innehåller underbenet av en vuxen man. Det botaniska material som följde med ”mumien” tyder på att den är tillverkad någonstans i östersjöområdet.\nHur den kom till Sverige och hamnade i Nationalmuseums samling är osäkert.\nÅr 1928 deponerades den på Egyptiska museet.\nDet som köptes in som ”mumifierat djur i kruka” (2) har också visat sig vara en förfalskning. Djurmumier begravdes i krukor i långa underjordiska gallerier. Den här krukan har emellertid visat sig innehålla en modern pappersrulle, inlindad i linne."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "vessel"
+   ],
+   [
+    "Object",
+    "jar"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "forgery"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "förfalskning"
+   ],
+   [
+    "Object, Swedish",
+    "kärl"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 861"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "2"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "29",
+    "cm",
+    null
+   ],
+   [
+    "Diameter",
+    "10,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3995187/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3995186/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3995191/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3995190/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005522/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005521/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005526/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005525/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016085",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016085",
+  "label": "forgery [?], leg, human remains, mummy, mumie, ben, förfalskning [?], mänskliga kvarlevor",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "”Mummy” of a human lower leg in a box of wood. Tibia + fibula, talus, calcanius and naviculare. Forgery!"
+   ],
+   [
+    "Inventory number",
+    "NME 012"
+   ],
+   [
+    "Acquisition",
+    "Dep. 1928."
+   ],
+   [
+    "Cf Publications",
+    "V. Laurent-Täckholm, G. Lugn, T. Säve-Söderbergh, Svensk Botanisk Tidskrift 34, 1940, 141-161; V. Laurent-Täckholm, Faraos Blomster, s.213 ff; L. Diener, Tidningen Vi, nr. 9, 1967, s.5; idem, Mumier i röntgenljus, Med. Hist. Årsbok 1967, 5-8; idem Beobachtungen bei der Röntgenuntersuchung einiger ägyptischen Mumien, Or. Suecana 17, 6-10; idem, Radiology of a ”Child mummy” in Stockholm, MASCA Journal, Vol. I nr. 4, 1980, 102-103; E. Varga, Studia Aegyptiaca (FS Wessetzky 1975), 379 ff.; J. Lipinska, Etudes et Travaux V, 65 ff; Diener, osteologi och historia, 1980, 115; Germer, Flora des pharaonischen Ägypten, s. 1,2,34,71,73,189,201,207,214,218; Coll. ég., Museé de Guéret, France, s. 140-141; Germer, Pseudo-Mumien, SAK 21, 1994, 82 ff."
+   ],
+   [
+    "Period, Swedish",
+    "Tredje intermediet (1081-711 f Kr) [förmodat]"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 11, Egyptology - Europe and the Ancient Egypt"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:04"
+   ],
+   [
+    "Description, Swedish",
+    "\"Mumie\" av ett mänskligt underben i en trälåda. Tibia + fibula, talus, calcanius och naviculare. Mumiekista. Kistan med barnmumien. Förfalskning!"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Dep. 1928."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 11.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "The demand for exotic objects from Egypt was great during the whole nineteenth century. It was partly met by newly made forgeries that gullible tourists – but even museums – bought.\nOne such example is this fake infant mummy (1). The mask and the shroud are authentic, but x-rays have shown that it contains the lower leg of an adult male. The botanical material that accompanied the “mummy” suggests it was produced somewhere in the Baltic Sea region. How it came\nto Sweden and ended up in the collection of the National Museum is unclear. In 1928 it was deposited at the Egyptian museum.\nWhat was bought as a “mummified animal in a pot” (2) has also been found to be a forgery. Animal mummies were buried in pots in long underground galleries.\nThis pot however has turned out to contain a modern paper roll, wrapped in linen."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Förfalskningar\nEfterfrågan på exotiska föremål från Egypten var stor under hela 1800-talet. Den möttes delvis av nytillverkade förfalskningar, som godtrogna turister – men även museer – köpte.\nEn sådan är denna förfalskade spädbarnsmumie (1). Masken och svepningen är äkta, men röntgenundersökningar har visat att den innehåller underbenet av en vuxen man. Det botaniska material som följde med ”mumien” tyder på att den är tillverkad någonstans i östersjöområdet.\nHur den kom till Sverige och hamnade i Nationalmuseums samling är osäkert.\nÅr 1928 deponerades den på Egyptiska museet.\nDet som köptes in som ”mumifierat djur i kruka” (2) har också visat sig vara en förfalskning. Djurmumier begravdes i krukor i långa underjordiska gallerier. Den här krukan har emellertid visat sig innehålla en modern pappersrulle, inlindad i linne."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "forgery [?]"
+   ],
+   [
+    "Object",
+    "leg"
+   ],
+   [
+    "Object",
+    "human remains"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "ben"
+   ],
+   [
+    "Object, Swedish",
+    "förfalskning [?]"
+   ],
+   [
+    "Object, Swedish",
+    "mänskliga kvarlevor"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 012"
+   ],
+   [
+    "Previous ID",
+    "NME 12"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "1"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Third Intermediate Period, 21st-23rd Dynasty (1081-711 BC) [supposedly]"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014634/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014633/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3601352/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3601353/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014619/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014618/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014624/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014623/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014629/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014628/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

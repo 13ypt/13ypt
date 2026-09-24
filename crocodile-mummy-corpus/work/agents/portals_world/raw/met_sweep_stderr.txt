@@ -1,0 +1,13 @@
+crocodile (all departments) 653
+crocodile mummy 7
+mummified crocodile 3
+Sobek 24
+Crocodylus 1
+Souchos 0
+departmentId=10 crocodile 128
+departmentId=10 Sobek 24
+departmentId=10 animal mummy 76
+departmentId=10 crocodile mummy 6
+departmentId=10 Fayum crocodile 3
+departmentId=10 Kom Ombo 0
+50 / 732

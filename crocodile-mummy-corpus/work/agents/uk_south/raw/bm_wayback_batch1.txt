@@ -1,0 +1,107 @@
+=== Y_EA6850: NO SNAPSHOT
+
+=== Y_EA37347 snapshot 20241003171010 http://web.archive.org/web/20241003171010/https://www.britishmuseum.org/collection/object/Y_EA37347
+Object Type
+animal mummy
+mummy-case
+mummy-wrapping
+Museum number
+EA37347
+Description
+ Mummified crocodile enclosed in woven palm leaf(?) and linen.
+Cultures/periods
+Roman Period
+Excavator/field collector
+Excavated by:
+Egypt Exploration Fund
+Findspot
+Excavated/Findspot:
+Hiba, el-
+Materials
+crocodile tissue
+linen
+palm leaf
+(?)
+Dimensions
+Length:
+ 94 centimetres
+Location
+On display 
+(G62/dc29)
+Condition
+fair
+Acquisition name
+Donated by:
+Egypt Exploration Fund
+Acquisition date
+1902
+Department
+Egypt and Sudan
+BM/Big number
+EA37347
+Registration number
+1902,1011.96
+Conservation
+Treatment
+: 21 Apr 1999
+
+
+=== Y_EA35752 snapshot 20240127214129 http://web.archive.org/web/20240127214129/https://www.britishmuseum.org/collection/object/Y_EA35752
+Object Type
+animal mummy
+mummy-wrapping
+Museum number
+EA35752
+Description
+ Unspecified number of mummies of small crocodiles (Register records a maximum of 70), roughly wrapped in wide linen bandages.
+Findspot
+Found/Acquired:
+Abusir (Memphis)
+Materials
+crocodile tissue
+linen
+Dimensions
+Height:
+ 12.80 centimetres 
+(jar)
+Length:
+ 25.50 centimetres 
+(contents)
+Weight:
+ 116 grammes 
+(jar)
+Width:
+ 4.50 centimetres 
+(jar)
+Location
+Not on display
+Condition
+fair (crystal deposit on inside of jar)
+Acquisition name
+Purchased from:
+Miss Selima Harris
+Previous owner
+Previous owner/ex-collection:
+Anthony Charles Harris
+Acquisition date
+1875
+Department
+Egypt and Sudan
+BM/Big number
+EA35752
+Registration number
+1875,0810.290
+Additional IDs
+Miscellaneous number:
+ BS.6842.b 
+(Birch Slip Number)
+
+
+=== Y_EA20764: NO SNAPSHOT
+
+=== Y_EA6768: NO SNAPSHOT
+
+=== Y_EA6813: NO SNAPSHOT
+
+=== Y_EA65795: FETCH FAILED https://web.archive.org/web/20230420151113id_/https://www.britishmuseum.org/collection/object/Y_EA65795
+

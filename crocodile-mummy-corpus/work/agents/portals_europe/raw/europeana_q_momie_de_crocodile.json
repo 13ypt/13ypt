@@ -1,0 +1,34 @@
+{
+"query": "\"momie de crocodile\"",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238",
+"title": [
+"Momie de crocodile",
+"Mummy of a young crocodile",
+"Mummie van een krokodil"
+],
+"dataProvider": "Royal Museums of Art and History, Brussels",
+"provider": "MUSEU",
+"country": "Belgium",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=fr&objectId=75238",
+"edmIsShownBy": "https://mpBruxellesMRAH.zetcom.com/MpWeb-mpBruxellesMRAH/images/75238.jpg",
+"guid": "https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "322_Museu_RMAH",
+"desc": [
+"number-of-objects: 1",
+"Cette momie de crocodile provient des fouilles de B. Grenfell et A. Hunt au Fayoum. Elle est enveloppée dans une étoffe de lin entouré d'un double fil. Les yeux sont fabriqués de cartonnage peint. L'étude radiographique démontre que l'objet est une contrefaçon antique constituant d'un matériel non-i",
+"This crocodile mummy was found during the excavations of Grenfell and Hunt in the Fayum. It is wrapped in linen and surrounded by a double wire. The eyes are made of painted cartonnage. Radiologic studies on the mummy have shown that it is actually an ancient forgery, made of an unidentified materia",
+"Deze krokodillenmummie is afkomstig uit de opgravingen van B. Grenfell en A. Hunt in de Fajoem. Hij is gewikkeld in een linnen stof omgeven door een dubbele draad. De ogen zijn gemaakt van beschilderd cartonnage. Radiografisch onderzoek toont aan dat het voorwerp een antieke vervalsing is die bestaa"
+]
+}
+]
+}

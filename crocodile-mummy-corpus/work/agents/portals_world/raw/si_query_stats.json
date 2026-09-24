@@ -1,0 +1,109 @@
+{
+ "\"crocodile mummy\"": {
+  "hits": 2,
+  "retrieved": 2,
+  "mumm+croc candidates": [
+   "ld1-1643407023501-1643407064923-0",
+   "ld1-1646149545906-1646150103551-0"
+  ]
+ },
+ "\"mummified crocodile\"": {
+  "hits": 2,
+  "retrieved": 2,
+  "mumm+croc candidates": [
+   "ld1-1643407023501-1643407060748-0",
+   "ld1-1643407023501-1643407064923-0"
+  ]
+ },
+ "crocodile AND mummy": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile mummy": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "\"Crocodylus\" mummy": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "Crocodylus AND mummified": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile AND mummified": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "\"Mummied Crocodile\"": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile AND unit_code:NMNHANTHRO": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "reptile AND mummy AND unit_code:NMNHANTHRO": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "Sobek": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile AND Egypt": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "Crocodylus niloticus": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile AND unit_code:NMAfA": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ },
+ "crocodile AND unit_code:FSG": {
+  "error": 429,
+  "hits_so_far": 0,
+  "hits": null,
+  "retrieved": 0,
+  "mumm+croc candidates": []
+ }
+}

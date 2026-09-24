@@ -1,0 +1,71 @@
+{
+"query": "cocodrilo AND momia",
+"profile": "standard",
+"total": 3,
+"fetched": 3,
+"items": [
+{
+"id": "/2022703/pages_Main_idt_199_inventary_1984_79_I_87_table_FMUS_museum_MAN",
+"title": [
+"Estatuilla"
+],
+"dataProvider": "National Archaeological Museum",
+"provider": "Hispana",
+"country": "Spain",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://ceres.mcu.es/pages/Main?idt=199&inventary=1984/79/I/87&table=FMUS&museum=MAN",
+"edmIsShownBy": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MAN&img=/MAN/fondos_pre/MANF1984_79_I_87_P.JPG&Ninv=1984/79/I/87",
+"guid": "https://www.europeana.eu/item/2022703/pages_Main_idt_199_inventary_1984_79_I_87_table_FMUS_museum_MAN?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2022703_Ag_ES_Hispana_eseceres",
+"desc": [
+"Representación de la diosa Neith, de pie, en actitud de marcha, vestida con túnica ceñida hasta los tobillos, con la corona roja del Bajo Egipto, ya que sin duda es con la parte del pais que más vinculación tiene, puesto que su centro principal de culto es la ciudad de Sais en el Delta de Egipto.  A"
+]
+},
+{
+"id": "/2022703/pages_Main_idt_51_inventary_15123_table_FMUS_museum_MAN",
+"title": [
+"Momia de cocodrilo"
+],
+"dataProvider": "National Archaeological Museum",
+"provider": "Hispana",
+"country": "Spain",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://ceres.mcu.es/pages/Main?idt=51&inventary=15123&table=FMUS&museum=MAN",
+"edmIsShownBy": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MAN&img=/MAN/fondos_pre/MANF15123_P.JPG&Ninv=15123",
+"guid": "https://www.europeana.eu/item/2022703/pages_Main_idt_51_inventary_15123_table_FMUS_museum_MAN?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2022703_Ag_ES_Hispana_eseceres",
+"desc": [
+"Momia de cocodrilo, animal simbólico del dios Sobek. Los ojos y la boca están marcados con lino y su cuerpo está vendado con tiras formando rombos siguiendo la tradicional momificación llevada a cabo por los romanos. La radiografía de la momia nos permite ver en el interior de los vendajes los resto"
+]
+},
+{
+"id": "/2022703/pages_Main_idt_106324_inventary_2001_101_1_table_FMUS_museum_MAN",
+"title": [
+"Venda"
+],
+"dataProvider": "National Archaeological Museum",
+"provider": "Hispana",
+"country": "Spain",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://ceres.mcu.es/pages/Main?idt=106324&inventary=2001/101/1&table=FMUS&museum=MAN",
+"edmIsShownBy": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MAN&img=/MAN/fondos_pre/MANF2001_101_1_SEQ_002_P.JPG&Ninv=2001/101/1",
+"guid": "https://www.europeana.eu/item/2022703/pages_Main_idt_106324_inventary_2001_101_1_table_FMUS_museum_MAN?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2022703_Ag_ES_Hispana_eseceres",
+"desc": [
+"Fragmento de venda de momia rota y deshilachada. Presenta tres figuras con cabeza de animal y cuerpo humano que se dirigen hacia la derecha, en actitud de marcha.  Los textos de la venda están escritos en jeroglífico cursivo, y las imágenes evocan los capítulos 144 y 147 del Libro de los Muertos. En"
+]
+}
+]
+}

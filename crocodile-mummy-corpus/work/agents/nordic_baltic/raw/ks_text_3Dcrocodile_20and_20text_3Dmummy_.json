@@ -1,0 +1,4510 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015895",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3015895",
+  "label": "fragment, crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Inventory number",
+    "MM 30865"
+   ],
+   [
+    "Comments",
+    "In the catalogue \"pieces of a baby crocodile\" but the photo shows at least two baby crocodiles."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 30865"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3760533/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3760532/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011830",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011830",
+  "label": "crocodile, mummy, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Inventory number",
+    "MME 1961:263"
+   ],
+   [
+    "Comments",
+    "same object as no MM 18414"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1961:263"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015891",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3015891",
+  "label": "crocodile, mummy, fragment, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile without head."
+   ],
+   [
+    "Inventory number",
+    "MM 18414"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection"
+   ],
+   [
+    "Condition",
+    "The head is missing."
+   ],
+   [
+    "Dimensions",
+    "L. 18.2 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18414"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:263"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "18,2",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3760505/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3760504/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005214/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005213/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011859",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011859",
+  "label": "mummy, fragment, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Inventory number",
+    "S.N. E 0064"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. X-rayed together with MM 18415 and three baby crocodiles from the exhibition."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "S.N. E 0064"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757157/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757156/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005554/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005553/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011834",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011834",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile wrapped in linen."
+   ],
+   [
+    "Inventory number",
+    "NME 799"
+   ],
+   [
+    "Acquisition",
+    "Dep. from NM 1928"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Deposition från Nationalmuseum 1928."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 799"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757017/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757016/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757021/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757020/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005514/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005513/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011847",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011847",
+  "label": "mummy, fragment, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A bunch of young crocodiles wrapped in linen."
+   ],
+   [
+    "Inventory number",
+    "NME 796"
+   ],
+   [
+    "Acquisition",
+    "Dep. from NM 1928"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Deposition från Nationalmuseum 1928."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 796"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757073/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757072/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757077/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757076/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005502/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005501/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011846",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011846",
+  "label": "crocodile, mummy, head, mumie, krokodil, huvud",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified head of a baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 18415"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 5.3 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "head"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "huvud"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18415"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:264"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "5,3",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757069/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757068/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005218/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005217/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011831",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011831",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "NME 797"
+   ],
+   [
+    "Acquisition",
+    "Dep. from NM 1928. Gift from B. Cronstrand 1842."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Deposition från Nationalmuseum 1928."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 797"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Cronstrand, Baltzar",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3222996"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757001/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757000/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005506/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005505/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016279",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016279",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 18410"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29 cm, W. 4.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18410"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:259"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.6"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "4,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013789/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013788/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013794/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013793/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005198/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005197/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011856",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011856",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified and wrapped. Baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 10133"
+   ],
+   [
+    "Acquisition",
+    "Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Condition",
+    "Head is loose."
+   ],
+   [
+    "Dimensions",
+    "L. 99 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 10133"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "99",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Smith, Otto",
+    "fromTime": "1928",
+    "toTime": "1928",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1471739"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757141/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757140/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005054/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005053/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005058/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005057/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016255",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016255",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Without linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 19240"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 19.5 cm, W. 3.8 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Utan linnebindlar."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19240"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.7"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "19,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,8",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013844/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013843/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005290/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005289/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014338/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014337/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016257",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016257",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18411"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29.5 cm, W. 2.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge. Upplindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18411"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:260"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.10"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "2,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013799/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013798/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013804/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013803/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005202/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005201/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016256",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016256",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 18413"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 21.5 cm, W. 3.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18413"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:262"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.8"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "21,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013814/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013813/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013819/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013818/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005210/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005209/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016260",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016260",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18408"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 24.2 cm, W. 4 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Avlindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18408"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:257"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.1"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "24,2",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "4",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013769/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013768/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013774/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013773/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005190/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005189/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016258",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016258",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18412"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 25.7 cm, W. 3 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Upplindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18412"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:261"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.9"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "25,7",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013809/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013808/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005206/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005205/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014333/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014332/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011845",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011845",
+  "label": "mummy, fragment, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile wrapped in linen."
+   ],
+   [
+    "Inventory number",
+    "MM 18406"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. In the same X-ray image as NME 797."
+   ],
+   [
+    "Dimensions",
+    "L. 27.5 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18406"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:255"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "27,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757065/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757064/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005182/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005181/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011857",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011857",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified and wrapped. Baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 10134"
+   ],
+   [
+    "Acquisition",
+    "Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 90.8 cm"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "2020.0005"
+   ],
+   [
+    "Name / Loantaker",
+    "Östergötlands museum"
+   ],
+   [
+    "Loan out / Previously",
+    "0000.0006"
+   ],
+   [
+    "Loan out / Previously",
+    "2016.0001"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 10134"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "90,8",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Smith, Otto",
+    "fromTime": "1928",
+    "toTime": "1928",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1471739"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757145/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757144/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005062/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005061/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005066/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005065/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267609/MM+10134%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267608/MM+10134%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267614/MM+10134%285%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267613/MM+10134%285%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267619/MM+10134%286%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267618/MM+10134%286%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267624/MM+10134%287%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267623/MM+10134%287%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267629/MM+10134%288%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267628/MM+10134%288%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267634/MM+10134%289%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267633/MM+10134%289%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4267639/MM+10134%2810%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4267638/MM+10134%2810%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271433/MM+10134%2811%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271432/MM+10134%2811%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271438/MM+10134%2812%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271437/MM+10134%2812%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271443/MM+10134%2813%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271442/MM+10134%2813%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271448/MM+10134%2814%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271447/MM+10134%2814%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271453/MM+10134%2815%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271452/MM+10134%2815%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Anderzén, Hannes",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4271558/MM+10134%2816%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4271557/MM+10134%2816%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016259",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016259",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18407"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 23.5 cm, W. 3.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Avlindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18407"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:256"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.3"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "23,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013764/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013763/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005186/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005185/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014328/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014327/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016261",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016261",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile without linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 18409"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 25.7 cm, W. 3 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge utan linnebindlar"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18409"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:258"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.2"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "25,7",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013779/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013778/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013784/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013783/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005194/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005193/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016254",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016254",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified baby crocodile without linen wraps."
+   ],
+   [
+    "Inventory number",
+    "MME 1977:002"
+   ],
+   [
+    "Acquisition",
+    "Gift from Mrs A. Müller-Feldmann, Bad Neuenahr, Germany."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810."
+   ],
+   [
+    "Dimensions",
+    "L. 46 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge utan linnebindlar."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Gåva från Mrs A. Müller-Feldmann, Bad Neuenahr, Tyskland."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1977:002"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.12"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "46",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4048642/MME+1977%3B002%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4048641/MME+1977%3B002%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4048637/MME+1977%3B002%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4048636/MME+1977%3B002%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4004148/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4004147/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005394/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005393/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016262",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016262",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Three splints made of palmleaves and linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 30721"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810."
+   ],
+   [
+    "Dimensions",
+    "L. 30 cm, W. 3.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Tre spjälor gjorda av palmlöv och linnebindlar."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 30721"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.5"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "30",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013859/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013858/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013864/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013863/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005310/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005309/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016263",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016263",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose."
+   ],
+   [
+    "Inventory number",
+    "MM 30810"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29 cm, W. 2.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Två spjälor av palmlöv och linne bindlar. Huvudet är löst."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 30810"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.4"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "2,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013869/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013868/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013874/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013873/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005378/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005377/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011850",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011850",
+  "label": "linen, linne",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Linen for crocodile mummy"
+   ],
+   [
+    "Inventory number",
+    "MME 1983:013 B"
+   ],
+   [
+    "Acquisition",
+    "Gift from Riksmuseet. Riksmuseet received the crocodile as a gift from Baltzar Cronstrand in 1842."
+   ],
+   [
+    "Comments",
+    "Belongs to a crocodile found at Riksmuseet. The staff there removed the linen wrapping in 1983. The crocodile is exhibited at Medelhavsmuseet in showcase 01:03."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "linen"
+   ],
+   [
+    "Object, Swedish",
+    "linne"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1983:013 B"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Cronstrand, Baltzar",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3222996"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757097/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757096/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016253",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016253",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified crocodile baby."
+   ],
+   [
+    "Inventory number",
+    "MME 1983:013 A"
+   ],
+   [
+    "Acquisition",
+    "Gift from Riksmuseet. Riksmuseet received the crocodile as a gift from Baltzar Cronstrand in 1842."
+   ],
+   [
+    "Comments",
+    "Found at Riksmuseet. The staff there removed the linen wrapping in 1983. The linen is now kept in a cold room at Etnografiska museet, box MM:1.\nX-rayed at Karolinska Sjukhuset 21st of May 2012."
+   ],
+   [
+    "Condition",
+    "Tip of the tail is missing."
+   ],
+   [
+    "Dimensions",
+    "L. 69 cm, W. 6.7 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Gåva från Riksmuseet. Riksmuseet mottog krokodilen som en gåva från Baltzar Cronstrand 1842."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1983:013 A"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.11"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "69",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "6,7",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Cronstrand, Baltzar",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3222996"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013919/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013918/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013924/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013923/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005618/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005617/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005622/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005621/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005626/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005625/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005630/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005629/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011832",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3011832",
+  "label": "mummy, snake, mumie, orm",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummy package with a snake inside."
+   ],
+   [
+    "Inventory number",
+    "NME 793"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. The X-ray shows that the mummy registred as a crocodile is in fact a snake."
+   ],
+   [
+    "Dimensions",
+    "L. 19 cm, W. 9 cm, H. 5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Description, Swedish",
+    "Mumiepaket med en orm inuti."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummy package. Through x-ray examination,\nit has been shown that it contains a coiled snake."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumiepaket. Röntgenundersökning har visat att det innehåller en orm."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "snake"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "orm"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 793"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "12"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "5",
+    "cm",
+    null
+   ],
+   [
+    "Length / Längd",
+    "19",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "9",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757005/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757004/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om fotograf saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3757009/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757008/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005478/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005477/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016278",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016278",
+  "label": "textile, wrapping, mummy, fragment, textil, mumie, inlindning",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummy linen with pictures and text from the Book of the Dead, chapter 149 and 150. A ”htp-di nsw”-prayer for the owner.\nText and pictures in black, red and yellow.\nThe name of the owner could be for both a man or a woman."
+   ],
+   [
+    "Inventory number",
+    "MM 18398"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection. Dep. from the Museum of Ethnography."
+   ],
+   [
+    "Comments",
+    "The object was identified in November 2015"
+   ],
+   [
+    "Comments",
+    "Monterad mellan två glasskivor."
+   ],
+   [
+    "Comments",
+    "Placerad i kylrummet på EM då det brann, troligen rökskadad. Osäkert om vatten kom in mellan skivorna."
+   ],
+   [
+    "Comments",
+    "Very fragile"
+   ],
+   [
+    "Condition",
+    "Fragmentary"
+   ],
+   [
+    "Dimensions",
+    "L. 143 cm, W. 20 cm"
+   ],
+   [
+    "Dimensions",
+    "L. 139 cm, W. 16 cm"
+   ],
+   [
+    "Period, Swedish",
+    "Thutmosis III (1504-1452 f Kr), 18e dynastin, Nya riket"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Loan out / Current",
+    "0000.0006"
+   ],
+   [
+    "Name / Loantaker",
+    "Etnografiska museet"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "textile"
+   ],
+   [
+    "Object",
+    "wrapping"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "textil"
+   ],
+   [
+    "Object, Swedish",
+    "fragment"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "inlindning"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18398"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:247"
+   ],
+   [
+    "Previous ID",
+    "S.N. E 0179"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "139",
+    "cm",
+    null
+   ],
+   [
+    "Length / Längd",
+    "143",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "20",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "16",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "New Kingdom, 18th Dynasty, Thutmosis III (1504-1452 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009500/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009499/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009504/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009503/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009508/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009507/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009512/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009511/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009516/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009515/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009520/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009519/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009524/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009523/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009528/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009527/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009532/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009531/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009536/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009535/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009540/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009539/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009544/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009543/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009548/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009547/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009552/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009551/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Westling, Rose-Marie",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4009556/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4009555/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/arkiv/4340867",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/4340867",
+  "label": "loan document, lånehandling",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Text in document",
+    "Medelhavsmuseet\n\nSida 1\n\nId Namn <Dataelement> /\nMATNAM /\nMaterial\n\nTumnagel\n\nMM 10007 Offering table Diorite, Stone\n\nMM 10023 Female, Relief,\nSketch\n\nLimestone,\nStone\n\nMM 10032 Mace, Weapon Limestone,\nStone\n\nMM 10040 Axe, Tool,\nWeapon\n\nFlint, Stone\n\nMM 10056 Mortar, Pestle,\nStone vessel\n\nBasalt [?]\n\nMM 10061 Pottery vessel Clay, Pottery\n\nMM 10067 Fish, Mould,\nPalette\n\nClay, Pottery\n\nMM 10076 Imsety, Mould Limestone,\nStone\n\nMM 10080 Stele Clay, Clay,\nyellowish\nwhite glaze,\ntraces of red,\nPottery\n\nMM 10102 Eye, Inlay Ivory,\nSteatite,\nStone\n\nMM 10107A Sculpture Wood\n\n\n\nMedelhavsmuseet\n\nSida 2\n\nId Namn <Dataelement> /\nMATNAM /\nMaterial\n\nTumnagel\n\nMM 10107B Sculpture Wood\n\nMM 10109 Plank statuette Wood\n\nMM 10127 Footwear Fibre\n\nMM 10134 Crocodile,\nMummy\n\nMM 10135 Coffin, Fragment Linen,\nTextile,\nWood\n\nMM 10138 Pottery vessel Clay, pale\ngreyish\nbrown\nburnish\n\nMM 10149 Dice, Game piece Ivory [?]\n\nMM 10168 Jewellery Steatite,\nStone"
+   ],
+   [
+    "Description, Swedish",
+    "Föremålsförteckning, Utlån av föremål till Östergötlands museum. Utskrift från databas."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "loan document"
+   ],
+   [
+    "Object, Swedish",
+    "lånehandling"
+   ]
+  ],
+  "numbers": [
+   [
+    "Record number",
+    "000011"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Tillverkad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#produce",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#create",
+    "fromTime": "2016",
+    "toTime": "2016"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Uppgift om upphovsman saknas",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/blob/4340871/000011%28OstergotlandUtlan%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4340872/000011%28OstergotlandUtlan%29.jpg",
+    "highresSource": "https://collections.smvk.se/carlotta-mhm/web/image/blob/4340869/000011%28OstergotlandUtlan%29.pdf"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008370",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008370",
+  "label": "scarab, skarabé",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Scarab, crudely worked head. Vague incised lines separating elytra from prothorax. Crudely worked legs. Incised standing man holding two crocodiles, one in each hand. Threading hole running lengthwise through the piece."
+   ],
+   [
+    "Inventory number",
+    "MME 1975:066"
+   ],
+   [
+    "Acquisition",
+    "Bequeathed by Mr Sven Kinnwall"
+   ],
+   [
+    "Condition",
+    "Fragmentary. Worn surface"
+   ],
+   [
+    "Dimensions",
+    "L.1.2 cm, W.1.7 cm, T.0.7 cm"
+   ],
+   [
+    "Miscellaneous",
+    "Pharaonic Egypt: Daily Life"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Description, Swedish",
+    "Skarabé, grovt arbetat huvud. Svaga inristade linjer som separerar elytra från prothorax. Grovt arbetade ben. Inristad man som håller två krokodiler, en i vardera hand. Trädningshål som löper längs med och genom föremålet."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Donerad av Mr Sven Kinnwall"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Many different kinds of symbols were used as amulets. They were placed between the layers of mummy wrappings, where they would protect the dead and help him to an eternal life. \nThe djed pillar symbolised stability and is related to the spine of Osiris. The shape of the symbol was taken from the lower vertebrae of a bull.\nThe scarab was an important symbol for re-birth and transformation. It also represented the new-born morning sun. \nThe eye of Horus stood for protection, primarily healing powers. The eye is a combination of a human eye and the markings of a falcon.The heart was depicted as a vessel. The Egyptians believed that one thought with the heart. Everything a person had thought and done was preserved there.\nThe papyrus plant represented the colour green, which in turn was associated with new life and rejuvenation.\nThe headrest had an important symbolic meaning. In the Book of the Dead “to lift up the head” was a paraphrase for re-birth.\nThe Isis knot was connected with welfare and life. It is not known what it actually depicts."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Många olika symboler användes som amuletter. De lades mellan lagren av mumielindor, där de skulle skydda den döde och hjälpa honom till ett evigt liv.\nDjed-pelaren symboliserade stabilitet och förknippades med Osiris ryggrad. Symbolens form kan härledas till de nedre ryggkotorna av\nen tjur.\nSkarabén var en viktig symbol för förvandling och återfödelse. Den representerade samtidigt den nyfödda morgonsolen.\nHorus-ögat stod för beskydd, framför allt läkande och helande krafter. Ögat är en kombination av människoöga och markeringar som finns hos falkar.\nHjärtat avbildades som ett kärl. Egyptierna föreställde sig att man tänkte med hjärtat. Allt en människa hade tänkt och gjort lagrades där.\nPapyrus-växten stod för färgen grön, som i sin tur förknippades med föryngring och nytt liv.\nHuvudstödet hade en viktig symbolisk betydelse. I Dödsboken används uttrycket ”att lyfta upp huvudet” som en omskrivning för att återfödas.\nIsis-knuten förknippades med välgång och liv. Exakt var den föreställer är okänt."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "scarab"
+   ],
+   [
+    "Object, Swedish",
+    "skarabé"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1975:066"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "1,2",
+    "cm",
+    null
+   ],
+   [
+    "Thickness / Tjocklek",
+    "0,7",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "1,7",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4046624/MME+1975%3B066%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4046623/MME+1975%3B066%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4046619/MME+1975%3B066%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4046618/MME+1975%3B066%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Hennix, Cecilia",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3746107/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3746108/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Hennix, Cecilia",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3746110/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3746111/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Hennix, Cecilia",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3746113/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3746114/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016064",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016064",
+  "label": "coffin, cartonnage, kista, kartonnage",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Cartonnage inner coffin for the mummy of a woman called Isisirdis, lady of the house, daughter of Tjaamunu. The texts on the coffin says that she was the daughter of a brewer and that she was married.\nAnthropoid inner bivalve coffin, representing the deceased wearing a tripartite wig, with a fillet, decorated in polychrome. The lid has a broad collar, with superposed crossed red braces. Below this is a winged solar ram, facing left, the tail and legs being flanked by vignettes of Osiris, backed by a white-crowned cobra, adored by one (left) and two (right) female figures.\n\tThe next register is dominated by a solar raptor with spread wings, beneath which are disposed the Four Sons of Horus, two under each wing. The succeeding register has a mummified raptor in the centre, flanked by a pair of raptors with wings stretched out in front of them.\n\tBeneath this, an Osiris-fetish extends down the centre of the lid to the ankles, flanked on each side by two registers, as follows:\n\nL.I\tThoth and Nephthys.\t\nR.I\tHorus and Isis.\nL.II\tRam-headed Re-Horakhty and cobra-headed deity.\t\nR.II\tThouris and crocodile-headed deity.\n\n\tThe upper surface of the feet has five columns of text, flanked by a pair of recumbent jackals. The foot-end is in the form a pedestal.\n\nThe top of the head of the lid and trough is decorated with XXXXXX. Polychrome stripes extend along the sides of the trough, whose back-column bears a djed-pillar atop a tjet-sign, with a sun-disk with a pair of cobras, with pendant ankh-signs, plus the phrase nb-pt [Lord of the Sky] above it. On the back of both shoulders is the phrase tp-Dr.f [Upon his Mountain], below which extends a lotus-headed sceptre, topped with a plumed solar disk, resting on a shen-sign and with a three pairs of menat-symbols hanging from it. Below the sceptres are bearded snakes and finally was-sceptres with ankhs on top. \n\tThe lid was fixed to the trough by four tongues on each side of the fitting into corresponding slots in the trough."
+   ],
+   [
+    "Inventory number",
+    "NME 002"
+   ],
+   [
+    "Acquisition",
+    "Deposited by National Museum in 1928, to which it had been given by Giovanni Anastasi (1870-1860), later Swedish-Norwegian Consul-General in Egypt 1828-1857,  in 1826."
+   ],
+   [
+    "Comments",
+    "The object was studied by Aidan Dodson 2012"
+   ],
+   [
+    "Comments",
+    "By design, probably from Thebes. (Dodson)"
+   ],
+   [
+    "Cf Publications",
+    "Kater-Sibbes & Vermaseren, Apis III, pl. 15; Lyon, Les animaux dans l´Egypt anc., Nr. 6 Lieblein 1868: 15-18; Schmidt 1919: 185[1020]."
+   ],
+   [
+    "Period, Swedish",
+    "7e århundradet e Kr [tidigt]"
+   ],
+   [
+    "Publications",
+    "Schmidt, Typologisk Atlas, s. 185, nr. 1020  Lieblein 1868: 15-18; Schmidt 1919: 185[1020]"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 9, The Tomb"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 2, showcase 02:07"
+   ],
+   [
+    "Description, Swedish",
+    "Kartonnage innerkista för mumien av en kvinna vid namn Isisirdis, husets härskarinna, dotter till Tjaamunu. Texterna på kistan berättar att hon var dotter till en bryggare och att hon var gift.\n\nAntropoid, inre tvådelad kista som representerar den döda som bär en tredelad peruk, med ett hårband, dekorerat i många färger. Locket har en bred krage med röda överlagda spännen. Nedanför detta finns en bevingad solär gumse, vänd åt vänster, stjärten och benen flankerade av vignetter av Osiris, bakom finns en kobra med vita kronan dyrkad av en (vänster) och två (höger) kvinnofigurer.\n\t\nNästa register domineras av en solär rovfågel med utspridda vingar under vilka finns de fyra Horus-sönerna, två under vardera vingar. I nästa register finns en mumifierad rovfågel i mitten, flakerad av ett par rovfåglar med vingar utsträckta framför dem.\n\nUnder detta, en Osiris-fetish som sträcker sig nedför mitten av locket till anklarna, flankerad på vardera sida av två register, som följer:\n\n\nV.I\tThoth och Nefthys.\t\nH.I\tHorus och Isis.\nV.II\tGumsehövdad Re-Horakhty och kobrahövdad gudom.\nH.II\tTaweret och krokodilhövdad gudom.\n\nDen övre ytan av fötterna har fem kolumner av text, flankerad av ett par liggande sjakaler. Fotändan är i form av en piedestal.\n\nÖverdelen av huvudet på locket och tråget är dekorerat med XXXXXX. Ränder i många färger sträcker sig längs sidorna av tråget vars ryggpelare bär en djed-pelare ovanpå ett tjet-tecken, med en solskiva med ett par kobror, med hängande ankh-tecken samt frasen nb-pt [Himlens herre] ovanför. På baksidan av axlarna finns frasen tp-Dw.f [Ovanpå sitt berg] nedan vilken utbreder sig en lotus-hövdad stav, toppad med en befjädrad solskiva som vilar på ett shen-tecken och med tre par menat-symboler som hänger från den. Nedanför stavarna finns ormar med skägg och slutligen was-stavar med ankh-tecken ovanpå.\n\nLocket var fixerat med tråget genom fyra tappar på vardera sida om infattningen in i motsvarande uttag i tråget."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Deponerad av Nationalmuseum 1928 till vilken den hade givits av Giovanni Anastasi (1870-1860), senare svensk-norsk konsul i Egypten 1828-1857, 1826."
+   ],
+   [
+    "Geographic name, alternative",
+    "Luxor"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Luxor"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 9.1"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummy of the woman Isisirdis, who lived during the seventh century BC. The torn wrappings by the face witness to an attempt to unwrap the mummy at some point in the nineteenth century. She is resting in her inner coffin made of cartonnage."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Den mumifierade kvinnan Isisirdis, som levde på 600-talet f Kr. De uppslitna lindorna vid ansiktet vittnar om ett försök att packa upp mumien någon gång på 1800-talet. Isisirdis vilar i sin innerkista av kartonnage."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "coffin"
+   ],
+   [
+    "Object",
+    "cartonnage"
+   ],
+   [
+    "Object, Swedish",
+    "kista"
+   ],
+   [
+    "Object, Swedish",
+    "kartonnage"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 002"
+   ],
+   [
+    "Previous ID",
+    "NME 2; SHM 546"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "30.2"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "12,5",
+    "cm",
+    "face"
+   ],
+   [
+    "Length / Längd",
+    "165",
+    "cm",
+    null
+   ],
+   [
+    "Depth / Djup",
+    "19,0",
+    "cm",
+    "lid-nose"
+   ],
+   [
+    "Depth / Djup",
+    "8,5",
+    "cm",
+    "lid-foot"
+   ],
+   [
+    "Width / Bredd",
+    "27",
+    "cm",
+    "foot"
+   ],
+   [
+    "Width / Bredd",
+    "46,0",
+    "cm",
+    "shoulders"
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Anastasi, Giovanni"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "7th Century BC, Late Period [early]"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Luxor"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4037823/NME+002%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4037822/NME+002%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4037828/NME+002%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4037827/NME+002%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4037833/NME+002%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4037832/NME+002%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4037838/NME+002%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4037837/NME+002%284%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4037843/NME+002%285%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4037842/NME+002%285%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3007192",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3007192",
+  "label": "scarab, skarabé",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Scarab, detailed clypeus, head with eyes. Prothorax and elytra separated by incised line. The latter divided by incised line. Feathered front legs, the remaining pairs crude. The underside has two deeply incised crocodiles. Hieroglyphs for jtj, ruler."
+   ],
+   [
+    "Inventory number",
+    "MM 11287"
+   ],
+   [
+    "Acquisition",
+    "Purchased from the London collection of Major R.G. Gayer-Anderson 1 February 1930. Gift from Dir. G. Werner, Gothenburg, with contributions from R. Hultmark, Linköping."
+   ],
+   [
+    "Comments",
+    "Äldre bilder av Cecilia Hennix, 1997."
+   ],
+   [
+    "Condition",
+    "Complete"
+   ],
+   [
+    "Dimensions",
+    "L.5 cm, W.3.6 cm, T.2.2 cm"
+   ],
+   [
+    "Cf Publications",
+    "Hornung, E., & Staehelin, E., Skarabäen und andere Siegelamulette aus Basler Sammlungen, Ägyptische Denkmäler in der Schweiz Bd. 1, Basel 1976, 123, nos 797-799, B 51"
+   ],
+   [
+    "Period, Swedish",
+    "Nya riket (ca.1569-1081 f Kr)"
+   ],
+   [
+    "Utställning / ingår i",
+    "Study Gallery"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "Study Gallery - Showcase 14:02."
+   ],
+   [
+    "Description, Swedish",
+    "Skarabé, detaljerad clypeus, huvud med ögon. Prothorax och elytra är separerade av inristade linjer. Sen senare är delad av en inristad linje. Befjädrade framben, de övriga paren är grovt arbetade. Undersidan har två djupt inristade krokodiler. Hieroglyfer för iTi, härskare."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från Major Gayer-Anderssons Londonsamling 1930-02-01. Gåva från Dir. G. Werner, Göteborg, med bidrag från R. Hultmark, Linköping."
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Many different kinds of symbols were used as amulets. They were placed between the layers of mummy wrappings, where they would protect the dead and help him to an eternal life. \nThe djed pillar symbolised stability and is related to the spine of Osiris. The shape of the symbol was taken from the lower vertebrae of a bull.\nThe scarab was an important symbol for re-birth and transformation. It also represented the new-born morning sun. \nThe eye of Horus stood for protection, primarily healing powers. The eye is a combination of a human eye and the markings of a falcon.The heart was depicted as a vessel. The Egyptians believed that one thought with the heart. Everything a person had thought and done was preserved there.\nThe papyrus plant represented the colour green, which in turn was associated with new life and rejuvenation.\nThe headrest had an important symbolic meaning. In the Book of the Dead “to lift up the head” was a paraphrase for re-birth.\nThe Isis knot was connected with welfare and life. It is not known what it actually depicts."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Många olika symboler användes som amuletter. De lades mellan lagren av mumielindor, där de skulle skydda den döde och hjälpa honom till ett evigt liv.\nDjed-pelaren symboliserade stabilitet och förknippades med Osiris ryggrad. Symbolens form kan härledas till de nedre ryggkotorna av\nen tjur.\nSkarabén var en viktig symbol för förvandling och återfödelse. Den representerade samtidigt den nyfödda morgonsolen.\nHorus-ögat stod för beskydd, framför allt läkande och helande krafter. Ögat är en kombination av människoöga och markeringar som finns hos falkar.\nHjärtat avbildades som ett kärl. Egyptierna föreställde sig att man tänkte med hjärtat. Allt en människa hade tänkt och gjort lagrades där.\nPapyrus-växten stod för färgen grön, som i sin tur förknippades med föryngring och nytt liv.\nHuvudstödet hade en viktig symbolisk betydelse. I Dödsboken används uttrycket ”att lyfta upp huvudet” som en omskrivning för att återfödas.\nIsis-knuten förknippades med välgång och liv. Exakt var den föreställer är okänt."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "scarab"
+   ],
+   [
+    "Object, Swedish",
+    "skarabé"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 11287"
+   ],
+   [
+    "Previous ID",
+    "E1287, G-A 1930I:36, Gayer-Anderson Coll."
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "5",
+    "cm",
+    null
+   ],
+   [
+    "Thickness / Tjocklek",
+    "2,2",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,6",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gayer-Anderson, Robert Grenville",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3223023"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "New Kingdom (c.1569-1081 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2008",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3738127/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3738126/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "SESAM-projektet",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3738130/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3738131/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "SESAM-projektet",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3738133/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3738134/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "SESAM-projektet",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3738136/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3738137/representation"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2008",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3738140/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3738139/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016068",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016068",
+  "label": "coffin, mumiekista, kista",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummy coffin for the man Hapimen.\nAnthropoid coffin, decorated in polychrome, representing the deceased wearing a tripartite wig, a plaited ‘divine’ beard, and with a broad collar, with solar raptor terminals upon its chest. The face and beard are coloured green, which is also used extensively in the artist’s palette elsewhere on the coffin.\n\t\tA kneeling figure of Nut, facing left, is below the collar, her solar disk being superposed over the collar. Below her, the front of the lid is divided vertically by a column of text, running to the toes, with flanking sections divided into four registers, each with an image and a column of text, the latter being a label-text in the first two registers, relating to the deceased in the second pair. The images are as follows:\n\nR.I\tHuman-headed Imseti.\tL.I\tApe-headed Hapy.\nR.II\tCanid?-headed Duamutef.\tL.II\tRaptor-headed Qebehsenuef.\nR.III\tRam-headed deity.\tL.III\tBovid-headed deity.\nR.IV\tCrocodile-headed deity.\tL.IV\tCobra-headed deity.\n\nThe upper surface of the feet has a pair of recumbent canids on shrines; there is a low podium beneath the feet. The sides of the lid each have a snake, running from the ankles to just below the wings of Nut.\n\t\tThe lid was fixed to the trough by three tongues on each side of the fitting into corresponding slots in the trough. The trough is decorated with a lozenge pattern, probably imitating a bead net."
+   ],
+   [
+    "Inventory number",
+    "MME 1980:002"
+   ],
+   [
+    "Acquisition",
+    "Given by Ambassador and Mrs. Adolf Croneborg in 1980. Bought in Cairo by Croneborg (1902-1983) at the end of his period as ambassador there 1962-1966, and kept in his home in Sweden and donated to the Museum 1980."
+   ],
+   [
+    "Comments",
+    "Previous width registered as 45 cm"
+   ],
+   [
+    "Comments",
+    "The object was studied by Aidan Dodson 2012"
+   ],
+   [
+    "Comments",
+    "Precise dating is difficult owing to the lack of independently-dated parallels from northern Egypt. However, the arrangement and coloration of the body decoration has similarities to that found on the coffin of Mesiset in Bologna,  which has been radiocarbon dated between 905 and 790 BC,  and that Psamtek son of Sebarekhyt in Grenoble,  usually dated around the middle of the sixth century (which shares the green face). On the other hand, the decoration is rather more ‘naïve’ than these pieces, suggesting a somewhat later date than these two items."
+   ],
+   [
+    "Comments",
+    "Previous dating 26th Dynasty"
+   ],
+   [
+    "Dimensions",
+    "H. 182.5 cm, W. 45 cm"
+   ],
+   [
+    "Period, Swedish",
+    "Sentiden - tidig Ptolemeisk tid (724-ca.300 f Kr) [?]"
+   ],
+   [
+    "Publications",
+    "George 1985; Dodson 2015:42-44 Ancient Egyptian Coffins: the Medelhavsmuseet collection"
+   ],
+   [
+    "Publications",
+    "RAÄ /SHMM Årsbok 1979-1980, s. 66. Beate George: ‘Ein anthropoider Sarg des Hapimen, Sohnes der Ptahirdis’ in Medelhavsmuseet Bulletin 20 (1985) p. 42-52."
+   ],
+   [
+    "Context",
+    "Found near Mit Rahina, November 1964; no further information available"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 9, The Tomb"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 2, showcase 02:07"
+   ],
+   [
+    "Description, Swedish",
+    "Mumiekista för mannen Hapimen\nAntropoid kista, dekorerad i många färger, representerande den avlidne som bär en tredelad peruk, ett flätat ’gudomligt’ skägg och en bred krage med ändar i form av solära rovfåglar ovanpå bröstet. Ansiktet och skägget har färgats grönt vilket också använts rikligt i konstnärens palett på övriga ställen på kistan.\nEn knäböjande figur av Nut, vänd åt vänster, finns nedanför kragen, hennes solskiva överlappar kragen. Nedanför henne är lockets framsida indelat vertikalt av en kolumn text som löper ner mot tårna med flankerande sektioner uppdelade i fyra register, var och en med en bild och en kolumn text, den senare fungerar som en etikett i de första två registren och handlar om den avlidne i det andra paret. Bilderna är som följer:\nH.I Människo-hövdad Imsety.\nV.I Ap-hövdad Hapy.\nH.II Hund?-hövdad Duamutef\nV.II Rovfågel-hövdad Qebehsenuef.\nH.III Gumse-hövdad gudom.\nV.III Bovid-hövdad gudom.\nR.IV Krokodil-hövdad gudom.\nL.IV Kobra-hövdad gudom.\nDen övre ytan av foten har ett par liggande hunddjur på skrin; det finns ett lågt podium under fötterna. Sidorna av locket har en orm vardera som löper från anklarna till strax under Nuts vingar. \nLocket var fixerat med tråget genom tre tungor på vardera sidan om infattningen in i motsvarande uttag i tråget. Tråget är dekorerat med ett rombformat mönster, troligen imiterande ett pärlnät."
+   ],
+   [
+    "Description, Swedish",
+    "Hapimens mumiekista, ca 600-500 f.Kr."
+   ],
+   [
+    "Description, Swedish",
+    "Mumiekista för mannen Hapimen"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Gåva från Ambassadör och Fru Adolf Croneborg in 1980. Inköpt i Kairo av Croneborg (1902-1983) vid slutet av hans period som ambassadör där 1962-1966 och förvarad i hans hem i Sverige och donerad till museet 1980."
+   ],
+   [
+    "Geographic name, alternative",
+    "Memphis"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Memfis"
+   ],
+   [
+    "Referens, publicerad i",
+    "George, Beate (1985) \" Ein anthropoider Sarg des Hapimen, Sohnes der Ptahirdis\" in Medelhavsmuseet Bulletin no 20 (1985) p. 42-52."
+   ],
+   [
+    "Referens, publicerad i",
+    "Dodson, Aidan (2015) Ancient Egyptian Coffins. The Medelhavsmuseet Collection. National Museums of World Culture, Stockholm"
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 9.1"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Wooden coffin belonging to Hapimen, son of Kemerek. The green face recalls rebirth and rejuvenation. Below Hapimen’s collar is a seated figure of the goddess Nut who spreads her wings across the coffin. The coffin comes from Memphis and is dated to the Late Period or early Ptolemaic Period."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Träkista som tillhör Hapimen, son till Kemerek.\nDet gröna ansiktet anspelar på återfödelse och föryngring. Under Hapimens krage sitter gudinnan\nNut med utbredda vingar. Kistan kommer från Memfis och är daterad till Sentiden eller tidig ptolemeisk tid."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "coffin"
+   ],
+   [
+    "Object, Swedish",
+    "mumiekista"
+   ],
+   [
+    "Object, Swedish",
+    "kista"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1980:002"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "29"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "19,5",
+    "cm",
+    "face"
+   ],
+   [
+    "Height / Höjd",
+    "182,5",
+    "cm",
+    null
+   ],
+   [
+    "Depth / Djup",
+    "22,0",
+    "cm",
+    "lid-nose"
+   ],
+   [
+    "Depth / Djup",
+    "26,0",
+    "cm",
+    "lid-foot"
+   ],
+   [
+    "Depth / Djup",
+    "20,0",
+    "cm",
+    "trough-head"
+   ],
+   [
+    "Width / Bredd",
+    "31",
+    "cm",
+    "foot"
+   ],
+   [
+    "Width / Bredd",
+    "50,5",
+    "cm",
+    "schoulders"
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Croneborg, L., Croneborg, A.",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3222995"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period - Early Ptolemaic Time Period (724-c.300 BC) [?]"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Memphis"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2014",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4057584/MME+1980%3B002%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4057583/MME+1980%3B002%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2014",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4057589/MME+1980%3B002%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4057588/MME+1980%3B002%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2014",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4057574/MME+1980%3B002%283%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4057573/MME+1980%3B002%283%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2014",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4057579/MME+1980%3B002%284%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4057578/MME+1980%3B002%284%29.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

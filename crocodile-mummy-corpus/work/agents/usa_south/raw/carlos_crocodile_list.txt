@@ -1,0 +1,25 @@
+TERM crocodile status 200 count: 51
+  /objects/1556/incense-burner-with-crocodile-effigy-lid
+  /objects/14607/male-figure-wearing-a-crocodile-mask
+  /objects/27199/scarab-with-kneeling-horus-and-crocodile
+  /objects/17346/globular-bowl-with-abstract-crocodile-designs
+  /objects/1515/bowl-with-two-modeled-crocodile-heads
+  /objects/35055/pedestal-plate-with-opposing-crocodiles
+  /objects/18331/tripod-vessel-with-anthropomorphic-crocodiles
+  /objects/14638/footed-shallow-bowl-with-double-crocodile-heads
+  /objects/6052/stool-in-the-shape-of-a-humancrocodile
+  /objects/5966/door-panel-with-crocodile
+  /objects/15110/female-seated-on-a-bicephalic-crocodile-bench
+  /objects/14754/ceremonial-metate-with-crocodile-scutes-on-underside
+  /objects/1690/bowl-with-modeled-crocodile
+  /objects/21805/looped-leg-tripod-vessel-with-modeled-crocodiles
+  /objects/15916/pedestal-plate-with-crocodilebird-motif
+  /objects/14976/incense-burner-with-doubleheaded-crocodile-effigy-lid
+  /objects/19841/crocodile-cuff-for-leg-or-arm
+  /objects/28496/stylized-crocodile-figurine
+  /objects/31221/falconheaded-crocodile
+  /objects/24131/crocodile-pendant
+  /objects/17289/twoheaded-crocodile-tripod-vessel
+  /objects/40032/seated-male-effigy-figure-with-crocodile-headdress
+  /objects/1459/footed-crocodile-vessel
+  /objects/37003/egyptianizing-crocodile-amulet

@@ -1,0 +1,89 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/HeM/objekt/1505242",
+  "url": "https://museum.helsingborg.se/web/object/1505242",
+  "label": "krokodil, krokodilunge",
+  "org": "HeM",
+  "desc": [
+   [
+    "Beskrivning",
+    "Uppstoppad, balsamerad krokodilunge av okänt ursprung"
+   ],
+   [
+    "Historik",
+    "Skänkt av Ivan Waldemar Hofström enligt testamente"
+   ],
+   [
+    "Gruppering",
+    "Natur"
+   ],
+   [
+    "Gruppering",
+    "Kultur"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord",
+    "krokodil"
+   ],
+   [
+    "Sakord",
+    "krokodilunge"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventarienummer",
+    "52-31"
+   ]
+  ],
+  "meas": [
+   [
+    "Längd",
+    "45,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Hafström, Ivan Waldemar"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#InC",
+    "mediaLicenseUrl": "http://kulturarvsdata.se/resurser/license#inc",
+    "thumbnailSource": "https://museum.helsingborg.se/web/image/tn/1505267/52-31_1.jpg",
+    "lowresSource": "https://museum.helsingborg.se/web/image/zoom/1505266/52-31_1.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#InC",
+    "mediaLicenseUrl": "http://kulturarvsdata.se/resurser/license#inc",
+    "thumbnailSource": "https://museum.helsingborg.se/web/image/tn/1505271/52-31_2.jpg",
+    "lowresSource": "https://museum.helsingborg.se/web/image/zoom/1505270/52-31_2.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#InC",
+    "mediaLicenseUrl": "http://kulturarvsdata.se/resurser/license#inc",
+    "thumbnailSource": "https://museum.helsingborg.se/web/image/tn/1505275/52-31_3.jpg",
+    "lowresSource": "https://museum.helsingborg.se/web/image/zoom/1505274/52-31_3.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#InC",
+    "mediaLicenseUrl": "http://kulturarvsdata.se/resurser/license#inc",
+    "thumbnailSource": "https://museum.helsingborg.se/web/image/tn/1505279/52-31_4.jpg",
+    "lowresSource": "https://museum.helsingborg.se/web/image/zoom/1505278/52-31_4.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

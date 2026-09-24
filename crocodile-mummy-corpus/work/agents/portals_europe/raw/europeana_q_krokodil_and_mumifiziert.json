@@ -1,0 +1,29 @@
+{
+"query": "krokodil AND mumifiziert",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/1236/item_RT33LQ6JMGEBOR2SI4TZHF7BDN4W5OZH",
+"title": [
+"Spitzmaussarg"
+],
+"dataProvider": "Badisches Landesmuseum Karlsruhe",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/publicdomain/zero/1.0/"
+],
+"edmIsShownAt": "https://katalog.landesmuseum.de/object/7EC756B9405DDADC634378B22F6DA421",
+"edmIsShownBy": "https://expo.bsz-bw.de/blm/digitaler-katalog/image?id=7EC756B9405DDADC634378B22F6DA421&pos=0&width=0",
+"guid": "https://www.europeana.eu/item/1236/item_RT33LQ6JMGEBOR2SI4TZHF7BDN4W5OZH?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1236_DDB_BLK",
+"desc": [
+"Auf dem bronzenen quaderförmigen Sarg befindet sich die plastische Darstellung einer kleinen Spitzmaus, die man an ihrer langgezogenen, spitzen Nase identifizieren kann. Der Sarg weist an der vorderen linken Oberseite eine Öse auf; eine weitere an der hinteren rechten Ecke ist nur noch im Ansatz erk"
+]
+}
+]
+}

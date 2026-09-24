@@ -1,0 +1,133 @@
+{
+"query": "Tiermumie AND Krokodil",
+"profile": "standard",
+"total": 6,
+"fetched": 6,
+"items": [
+{
+"id": "/1236/item_RT33LQ6JMGEBOR2SI4TZHF7BDN4W5OZH",
+"title": [
+"Spitzmaussarg"
+],
+"dataProvider": "Badisches Landesmuseum Karlsruhe",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/publicdomain/zero/1.0/"
+],
+"edmIsShownAt": "https://katalog.landesmuseum.de/object/7EC756B9405DDADC634378B22F6DA421",
+"edmIsShownBy": "https://expo.bsz-bw.de/blm/digitaler-katalog/image?id=7EC756B9405DDADC634378B22F6DA421&pos=0&width=0",
+"guid": "https://www.europeana.eu/item/1236/item_RT33LQ6JMGEBOR2SI4TZHF7BDN4W5OZH?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1236_DDB_BLK",
+"desc": [
+"Auf dem bronzenen quaderförmigen Sarg befindet sich die plastische Darstellung einer kleinen Spitzmaus, die man an ihrer langgezogenen, spitzen Nase identifizieren kann. Der Sarg weist an der vorderen linken Oberseite eine Öse auf; eine weitere an der hinteren rechten Ecke ist nur noch im Ansatz erk"
+]
+},
+{
+"id": "/15502/AE_INV_264",
+"title": [
+"Crocodile",
+"Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324028/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324028/AE_INV_264_46118.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_264?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_265",
+"title": [
+"Crocodile",
+"Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324029/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324029/AE_INV_265_46116.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_265?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_266",
+"title": [
+"Great crocodile",
+"Großes Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/316270/",
+"edmIsShownBy": "http://imageapi.khm.at/images/316270/AE_INV_266_46113.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_266?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_290",
+"title": [
+"Mumifizierter Körper eines kleinen Krokodils"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324057/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324057/AE_INV_290_03.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_290?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": [
+"Das Entstehen des Krokodil-Kultes lässt sich mit der Furcht vor diesem Tier und dem Versuch, das im und am Nil lebende Raubtier zu besänftigen, erklären. Sobek ist der wichtigste mit dem Krokodil verbundene Gott. Die Beziehung des Menschen zum Krokodil war eine sehr ambivalente: Einerseits wurde es ",
+"The emergence of the cult of crocodile can be explained by the fear of this animal and the attempt to appease the predator living in and on the Nile. Sobek is the most important god associated with the crocodile. The relationship between man and the crocodile was very ambivalent: on the one hand it "
+]
+},
+{
+"id": "/15502/AE_INV_292",
+"title": [
+"Mumie eines kleinen Krokodils"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324059/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324059/AE_INV_292_2.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_292?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": [
+"Das Entstehen des Krokodil-Kultes lässt sich mit der Furcht vor diesem Tier und dem Versuch, das im und am Nil lebende Raubtier zu besänftigen, erklären. Sobek ist der wichtigste mit dem Krokodil verbundene Gott. Die Beziehung des Menschen zum Krokodil war eine sehr ambivalente: Einerseits wurde es ",
+"The emergence of the cult of crocodile can be explained by the fear of this animal and the attempt to appease the predator living in and on the Nile. Sobek is the most important god associated with the crocodile. The relationship between man and the crocodile was very ambivalent: on the one hand it "
+]
+}
+]
+}

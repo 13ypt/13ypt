@@ -1,0 +1,50 @@
+{
+"query": "crocodil AND mumie",
+"profile": "standard",
+"total": 2,
+"fetched": 2,
+"items": [
+{
+"id": "/2048047/Clasate_64ef45de9f2e40aeb9f6f79e2f231e85",
+"title": [
+"mumie zoomorfă"
+],
+"dataProvider": "National Museum of Transylvanian History",
+"provider": "National Heritage Institute, Bucharest",
+"country": "Romania",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-sa/4.0/"
+],
+"edmIsShownAt": "https://clasate.cimec.ro/detaliu.asp?k=64ef45de9f2e40aeb9f6f79e2f231e85",
+"edmIsShownBy": "https://resource.culturalia.ro/imagini-clasate/imagini32/a27e444e1cd04a96a53386cc990cbd8a.jpg",
+"guid": "https://www.europeana.eu/item/2048047/Clasate_64ef45de9f2e40aeb9f6f79e2f231e85?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2048047_INP",
+"desc": [
+"Pui de crocodil mumificat, în poziția specifică mumificării, cu labele întinse pe lângă corp. Abdomenul este incizat, iar viscerele scoase. Cavitatea abdominală nu conține material de umplutură, din care cauză corpul și-a modificat forma. Mumia a fost acoperită cu bandaje, dar acestea au fost scoase"
+]
+},
+{
+"id": "/2048047/Clasate_8062b87c49e34ec5a883a119839c4e75",
+"title": [
+"mumie zoomorfă"
+],
+"dataProvider": "National Museum of Transylvanian History",
+"provider": "National Heritage Institute, Bucharest",
+"country": "Romania",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-sa/4.0/"
+],
+"edmIsShownAt": "https://clasate.cimec.ro/detaliu.asp?k=8062b87c49e34ec5a883a119839c4e75",
+"edmIsShownBy": "https://resource.culturalia.ro/imagini-clasate/imagini47/3ed943b9bf664c5f873a0777e567f6ed.jpg",
+"guid": "https://www.europeana.eu/item/2048047/Clasate_8062b87c49e34ec5a883a119839c4e75?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2048047_INP",
+"desc": [
+"Pui de crocodil mumificat. Poziția corpului este cu labele întinse pe lângă corp. Deoarece cavitatea abdominală a fost golită de viscere și neumplută cu altă substanță, mumia și-a modificat forma anatomică. Bandajele sunt degradate."
+]
+}
+]
+}

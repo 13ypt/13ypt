@@ -1,0 +1,3853 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/MM/objekt/21265",
+  "url": "http://carlotta.malmo.se/carlotta-mmus/web/object/21265",
+  "label": "mumifierad krokodil, krokodil",
+  "org": "MM",
+  "desc": [
+   [
+    "Beskrivning",
+    "Mumifierad krokodilunge, främre delen. \nTroligen gravfynd från fornegyptisk grav. I fornegyptisk mytologi gestaltades guden Sebek som en krokodil eller en man med krokodilhuvud. Sebek var i egyptisk mytologi flodernas och sjöarnas gud. Han förknippades även med solen, Ra och Amon-Ra. I sin krokodilgestalt har han också en förbindelse med guden Set."
+   ],
+   [
+    "Samlingskod, tidigare",
+    "etn"
+   ],
+   [
+    "Klassifikation OCM",
+    "778"
+   ],
+   [
+    "Klassifikation OCM",
+    "776"
+   ],
+   [
+    "Klassifikation OCM",
+    "136"
+   ],
+   [
+    "Klassifikation OCM",
+    "773"
+   ],
+   [
+    "Klassifikation Saglig Registrant",
+    "A 7"
+   ],
+   [
+    "Klassifikation OWC",
+    "MR2"
+   ],
+   [
+    "Förvärvsomständigheter",
+    "gåva"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord",
+    "mumifierad krokodil"
+   ],
+   [
+    "Sakord",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventarienummer",
+    "MM 000030"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Andersson (gördelmakare)",
+    "fromTime": "1865-10-18",
+    "toTime": "1865-10-18"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "http://carlotta.malmo.se/carlotta-mmus/web/image/tn/300659/MM_000030.jpg",
+    "lowresSource": "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/300658/MM_000030.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "http://carlotta.malmo.se/carlotta-mmus/web/image/tn/300662/MM_000030_A.jpg",
+    "lowresSource": "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/300661/MM_000030_A.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016279",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016279",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 18410"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29 cm, W. 4.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18410"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:259"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.6"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "4,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013789/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013788/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013794/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013793/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005198/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005197/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016255",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016255",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Without linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 19240"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 19.5 cm, W. 3.8 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Utan linnebindlar."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 19240"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.7"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "19,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,8",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013844/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013843/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005290/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005289/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014338/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014337/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016257",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016257",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18411"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29.5 cm, W. 2.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge. Upplindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18411"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:260"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.10"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "2,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013799/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013798/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013804/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013803/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005202/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005201/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016256",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016256",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile."
+   ],
+   [
+    "Inventory number",
+    "MM 18413"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 21.5 cm, W. 3.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18413"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:262"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.8"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "21,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013814/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013813/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013819/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013818/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005210/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005209/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016260",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016260",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18408"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 24.2 cm, W. 4 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Avlindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18408"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:257"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.1"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "24,2",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "4",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013769/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013768/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013774/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013773/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005190/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005189/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016258",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016258",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18412"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 25.7 cm, W. 3 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Upplindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18412"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:261"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.9"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "25,7",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013809/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013808/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005206/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005205/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014333/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014332/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016259",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016259",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Unwrapped."
+   ],
+   [
+    "Inventory number",
+    "MM 18407"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 23.5 cm, W. 3.5 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Avlindad."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18407"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:256"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.3"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "23,5",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013764/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013763/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005186/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005185/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4014328/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014327/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016261",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016261",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile without linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 18409"
+   ],
+   [
+    "Acquisition",
+    "From the Retzius´ collection."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 25.7 cm, W. 3 cm."
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge utan linnebindlar"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från Retzius samling."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 18409"
+   ],
+   [
+    "Acquisition number",
+    "MME 1961:258"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.2"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "25,7",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013779/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013778/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013784/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013783/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005194/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005193/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016254",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016254",
+  "label": "crocodile, mummy, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified baby crocodile without linen wraps."
+   ],
+   [
+    "Inventory number",
+    "MME 1977:002"
+   ],
+   [
+    "Acquisition",
+    "Gift from Mrs A. Müller-Feldmann, Bad Neuenahr, Germany."
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810."
+   ],
+   [
+    "Dimensions",
+    "L. 46 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge utan linnebindlar."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Gåva från Mrs A. Müller-Feldmann, Bad Neuenahr, Tyskland."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1977:002"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.12"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "46",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4048642/MME+1977%3B002%281%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4048641/MME+1977%3B002%281%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4048637/MME+1977%3B002%282%29.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4048636/MME+1977%3B002%282%29.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4004148/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4004147/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005394/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005393/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016262",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016262",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Three splints made of palmleaves and linen wrappings."
+   ],
+   [
+    "Inventory number",
+    "MM 30721"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810."
+   ],
+   [
+    "Dimensions",
+    "L. 30 cm, W. 3.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Tre spjälor gjorda av palmlöv och linnebindlar."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 30721"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.5"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "30",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "3,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013859/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013858/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013864/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013863/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005310/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005309/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016263",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016263",
+  "label": "mummy, crocodile, mumie, krokodil",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose."
+   ],
+   [
+    "Inventory number",
+    "MM 30810"
+   ],
+   [
+    "Comments",
+    "X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+   ],
+   [
+    "Dimensions",
+    "L. 29 cm, W. 2.5 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "En mumifierad krokodilunge. Två spjälor av palmlöv och linne bindlar. Huvudet är löst."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 30810"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.4"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "29",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "2,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013869/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013868/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013874/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013873/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005378/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005377/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016253",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3016253",
+  "label": "mummy, crocodile, krokodil, mumie",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Mummified crocodile baby."
+   ],
+   [
+    "Inventory number",
+    "MME 1983:013 A"
+   ],
+   [
+    "Acquisition",
+    "Gift from Riksmuseet. Riksmuseet received the crocodile as a gift from Baltzar Cronstrand in 1842."
+   ],
+   [
+    "Comments",
+    "Found at Riksmuseet. The staff there removed the linen wrapping in 1983. The linen is now kept in a cold room at Etnografiska museet, box MM:1.\nX-rayed at Karolinska Sjukhuset 21st of May 2012."
+   ],
+   [
+    "Condition",
+    "Tip of the tail is missing."
+   ],
+   [
+    "Dimensions",
+    "L. 69 cm, W. 6.7 cm"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Exhibition / Previously",
+    "Egypten, 1982-2012"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 8, The way to eternal life"
+   ],
+   [
+    "Exhibition, Part of / Previously",
+    "Egyptian gallery 1, showcase 01:03"
+   ],
+   [
+    "Description, Swedish",
+    "Mumifierad krokodilunge."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Gåva från Riksmuseet. Riksmuseet mottog krokodilen som en gåva från Baltzar Cronstrand 1842."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 8.4"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Mummified young crocodiles."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Mumifierade krokodilungar."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "mummy"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "mumie"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1983:013 A"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "4.11"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "69",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "6,7",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Cronstrand, Baltzar",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3222996"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013919/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013918/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Medelhavsmuseet 2013",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4013924/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013923/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005618/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005617/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005622/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005621/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005626/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005625/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4005630/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005629/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/bhm/object/UM000548",
+  "url": "https://digitaltmuseum.se/011024262585",
+  "label": "Mumie",
+  "org": "bhm",
+  "desc": [],
+  "names": [],
+  "numbers": [],
+  "meas": [],
+  "ctx": [],
+  "images": [],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-EM/arkiv/3504473",
+  "url": "https://collections.smvk.se/carlotta-em/web/object/3504473",
+  "label": "förteckning, lista",
+  "org": "SMVK-EM",
+  "desc": [
+   [
+    "Text i dokument",
+    "314 Kamerun, Afrika Gustaf Bolinder \n\n51 Bast, råmaterial  \nDansbälte av bast \n\n1933-03-16 316 Angola Gustaf Bolinder \n\n52 Väska för cocablad, Ijca-indianerna 1933-03-16 317 Sydamerika Gustaf Bolinder \n\n53 Keramikskål med två handtag \nlerkärl från Riffbergen \n\n1933-03-16 318 Amerika Gustaf Bolinder \n\n54 Stenplatta med skrift \nGravvård från malajkyrkogård, Signal Hill, \nKapstaden \n\n1934-04-10 324 Kapstaden Gustaf Hedengren \n\n55.A-C Svärd 1934-11-06 325 Borneo E. Lundqvist \n\n56.A-B Ett par tofflor  1934-11-06 326 Bosnien Wiktor Unander \n\n57 Sköld (Batroc-dajar)  1934-11-06 327 Borneo E. Lundqvist \n\n\n\n58 Skål av bälta \nBälta i form av korg \n\n1935-02-19 333 Sydamerika Hedengren \nOssian Elgström \n\n59 Käpp av ebenholz och elfenben 1935-10-15 336 Afrika Oscar Kraepelien \n\n60 trästav     \n\n61 Jaktnät från Assandifolket 1939-10-10 367 Khartoum, Afrika Woodman \n\n62 ”Tashi lama fr Shigatse” \nBuddhabild, Tashi Lama, Tashi-Lungpu. Från \nShipatse \n\n1940-12-10 370 Shipatse, Tibet Fred Lincoln \n\n63 Käpp med silverknopp \nfrån Vanadis-resan \n\n1942-08-01 374 Bangkok C.E. Ulffs sterbhus \n\n64 Svärd av hopsydda mynt \nmyntsvärd, från Vanadis-resan  \n\n1942-08-01 376 Hongkong, Kina C.E. Ulffs sterbhus \n\n65 Kanotmodell av bark, Magellans sund, Punta \nArenas, från Vanadis-resan \n\n1942-08-01 377 Eldslandet C.E. Ulffs sterbhus \n\n66 Kniv  381  Ulff \n\n67.A-C Väska med kniv och fodral Jaktväska från \nMarocko \n\n1943-09-21 388 Marocko F J Malmberg \nRyttmästare K. Aschan \n\n68 Flätad matta med fjäderkant  1945-04-10 395 Nya Hebriderna F. Malmberg \n\n69 Mattliknande flätverk, utspaningsmönstrad i \nrött-lila \n\n1945-04-10 \n1910 \n\n395 Nya Hebriderna \nVanuatu \n\nF J Malmberg \n\n70.A-B Flätade fläktor 1945-04-10 \n1910 \n\n395 Nya Hebriderna \nVanuatu \n\nF J Malmberg \n\n71 Tomahawk m fjädrar och pärldekor 1945-04-10 396 Nordamerika Harald Solman \nAssessor H. Salomon  \n\n72 Trumma 1945-10-09 398 Uganda Ivar Stafsing \n\n73 Sköld av buffelhud 1945-10-09 399 Uganda Ivar Stafsing \n\n74.A-B Svärd 1945-10-09 400 Omdurran Ivar Stafsing \n\n\n\n75.A-C Svärd, massajer eller kikuyu 1945-10-09 401 Kenya Ivar Stafsing \n\n76.A-C Svärd, massajer eller kikuyu 1945-10-09 402 Kenya Ivar Stafsing \n\n77 Pilkoger av läder. Dekorerat 1945-10-09 403 Omdurman Ivar Stafsing \n\n78 Pilkoger av läder. Dekorerat 1945-10-09 403 Omdurman Ivar Stafsing \n\n79.A-B Rökbord på 8 ben 1945-11-13 404 Kashmir Sune Schéle \n80 Korgfat 1928-02-01 260 Norra Kamerun Gösta Moberg \n\n81 Kalebassfat m ristad dekor, haussa \nKalebass-skål,  \n\n1946-03-26 408 Kamerun Bolinder eller Moberg \nS von Konow \n\n82 Assegaj    S von Konow \n\n83 Väska klädd med snäckor 1938 \n1947-04-15 \n\n418 Tonga Viktor Ståhle \n\n84 Träskulptur, modern. \nEldens gud. av brunt trä \n\n1949-09-27 431 Bali Konsul Sven Lehman \n\n85 Tsantsa, ett  krympt människohuvud,  \nShuar-indianer  \n\n1950-08-06 434 Ecuador Gunnar Harling \n\n86 Kakemono 1950-08-06 435 Thailand Ch. Adlerstråhle \n\n87 Våg 1952-06-22 442 Persien E. Malmström \n\n88.A-B Delar av defekt spjut.  \nEv aboriginer \n\n 5 eller 6  Australien   \n\n89 Vas med svart glasyr  233  Kina eller Japan  \n\n90 Fläkta \nVifta att underhålla eld, från Rio de Janeiro \n\n1925-10-16 227 Söderhavet C.E. Ulff \n\n91 Trumma     \n\n92 Trumma, kärlformig ståtrumma \nTam-tam trumma från sultanatet Fettre, \nMellanafrika \n\n1928-02-10 263  Afrika Gösta Moberg \n\n93 Del av spjut    Erik Mjöberg \n\n\n\n94 Del av spjut    Erik Mjöberg \n\n95 Svärd 1924 \n1924-09-16 \n\n Indonesien Herman Rosengren \n\n96 Svärd   Indonesien Herman Rosengren \n\n97.A-B Sabel med skida   Sumatra Herman Rosengren \n\n98.A-B Kniv med balja 1924-09-16  Indonesien Herman Rosengren \n\n99.A-B Huggkniv med balja   Östra Borneo \nIndonesien \n\nHerman Rosengren \n\n100.A-B Kniv med balja   Ev fr Sumatra Herman Rosengren \n\n101.A-B Kniv med balja   Sumatra Herman Rosengren \n\n102.A-B Kniv med balja   Sumatra Herman Rosengren \n\n103.A-B Kniv med balja   Sumatra Herman Rosengren \n\n104.A-B Kris med balja   Madura, Indonesien Herman"
+   ],
+   [
+    "Text i dokument",
+    "1984.5. Travellers Club    1984.5. \n\n Deponerade på EM sedan april 1979      \n\n     givare/tillverkare \n\nnr föremål till TC org nr lokal namn \n\n1 Spjutslungare, kastträ före 1924 3 Kimberly, Australien Erik Mjöberg \n2 Kastkäpp (bumerang) före 1924 4 Kimberly, Australien Erik Mjöberg \n\n3 Slagträ före 1924 7 Kimberly, Australien Erik Mjöberg \n\n4 Sköld, dekorerad på framsidan före 1924 8 Norra Queensland Erik Mjöberg \n\n5 Käpp m krycka av elfenben \nRinoceroshud och elfenben \n\n1916-10-03 32 Afrika Konsul C.V.A. Sjögren \n\n6. A-C Spjut m harpun o spjutslungare Eskimåspjut 1916-11-07 34 Inuiter A. Klinchowström \n\n7 Figurpall av trä (Sepik)  \nAvgud från söderhavsöarna \n\n1918-11-05  39 Papua Nya Guinea Birger Mörner \n\n8 Modellerat kranium (Sepik) \nmumifierat huvud av en tatuerad papuaneger  \n\n1920-02-03 45 Papua Nya Guinea Birger Mörner \n\n9. A-G Ställ (siamesiskt tempel) 1923-02-06 75 Thailand Birger Mörner \n\n10 Paddelklubba m reliefornamentik  1920 \n \n\n89 Samoa Åke Sjögren \n\n11 Klubba fr Västpolynesien. Slagträ från \nSöderhavsöarna \n\n1923-02-06 89 Tonga Åke Sjögren \n\n12 Arkeologiskt lerkärl m relieffigurer.  \nInka dryckeskanna  \n\n1923-02-06 94 Peru Ossian Elgström \n\n13 Käpp av horn el klubba av noshörningsbete     \n\n14 Antik, broderad sidenbonad 1924-09-20 129 Kina Erik Nyström \n\n15 Målning på papper, inramad 1924-09-20 130 Kina Erik Nyström \n\n16. A-F Rustning 1924-09-22 132 Japan Th Jakobsson \n\n17 Parersköld m reliefmönster   Australien Erik Mjöberg \n\n\n\nAboriginer \n\n18 Parervapen, Järn m naggade kanter   Batetela, Afrika Moberg ? \n\n19 Parervapen, Järn m naggade kanter   Batetela, Afrika Moberg ? \n\n20 Träsnitt fäst på rulle   Japan  \n\n21 Båtmodell från Söderhavet 1924 199 Söderhavet Revisor J. Hanner \n22 Bastvävnad 1925-01-17 202 Zanzibar Gustaf von Hofsten \n\n23 Bastvävnad 1925-01-17 203 Zanzibar Gustaf von Hofsten \n\n24 Bastvävnad 1925-01-17 204 Zanzibar  Gustaf von Hofsten \n\n25 Träfigur, antropomorf \nAntik avgudabild \n\n1925-07-15 223 Salomonöarna Nylander \nIngenjör Nycander \n\n26 Lasso. Överflätat snöre.  1925-10-16 225 Söderhavsöarna C.E. Ulff \n\n27 Lasso. Överflätat snöre 1925-10-16 226 Söderhavsöarna C.E. Ulff \n\n28 Korg 1925-10-16 228 Eldslandet C.E. Ulff \n\n29 Antik buddhabild av brons 1925-12-17 231 Kina C Lagerholm \n\n30.A-C Två knivar i ett fodral  237-238  Wiktor Unander \n\n31.A-B Ett par läderskor, tofflor 1927-11-01 248 Egypten E. Hellström \n\n32.A-C Opiumpipa m tång och nål 1927-12-06 249 Iran K Klingberg \n\n33.A-D Fodral av krokodilhud med tre knivar 1927/28 252 Nubien Wilhelm Boltenstern  \n\n34.A-C vapen, spjut och två knivar 1928-02-01 254 Omdurran  Gösta Moberg \n\n35 Kastkniv (courbatch) från Massenia, \nTschadkolonien \n\n1928-02-01 255 Tsad Gösta Moberg \n\n36 Spjutspets från Massenia, Tschadkolonien 1928-02-01 256 Tsad Gösta Moberg \n\n37 Spjutspets m ornerat blad från Massenia, \nTschadkolonien \n\n1928-02-01 257 Tsad Gösta Moberg \n\n38 Kuddfodral, läder \nLäderkudde från södra Agades \n\n1928-02-01 259 Niger  Gösta Moberg \n\n39 Korg. Matskål 1928-02-01 261 Tsad  Gösta Moberg \n\n\n\nMatskål, flätad från mellanafrika \n\n40 Spjutspets från Ati, Tschadkolonien 1928-02-10 264 Tsad Gösta Moberg \n\n41 Ikatmönstrad vävnad fr Sumba 1928-04-24 266 Indonesien Erik Mjöberg \n\n42 (buddhafigur) säges vara från Ming-perioden.  \nBuddhabild, Ta-ti Fu-tse \n\n1931-09-15 288 Kina O. Nordqvist \n\n43 Käpp av sammanväxta lianer 1931-10-06 289 Sudan John Wibom \n\n44 Pall av trä med 8 ben   Afrika  \n\n45 Strutsägg, vattenbehållare   Afrika  \n\n46.A-B Skål på fot med lock. Rikt dekorerad, metall.  \nGammal siamesisk guldsmedskonst ? \n\n 306  Greve Gustaf Lewenhaupt \n\n47 Fläkta av läder med träskaft 1933-03-16 310 Angola, Afrika Gustaf Bolinder \n\n48 Skopa av kalebass med trähandtag. För \ndricksvatten  \n\n1933-03-16 311 Angola Gustaf Bolinder \n\n49 Läderkudde 1933-03-16 313 Sudan, Afrika Gustaf Bolinder \n\n50 Väska av flätad bast \nväska av grästyg \n\n1933-03-16"
+   ],
+   [
+    "Text i dokument",
+    "fr årshögtid 1914    \n\n324 Mugg tillverkad för King Edward VIII:s kröning 1946-03-26 412  W. Swahn \n\n325 * Tavla -foto     \n\n326 Tavla m krona på ramen -foto av Gustaf VI \nAdolf \n\n    \n\n327 Tavla m krona på ramen -foto av prins Bertil     \n\n328 Tavla med text 1923   Gunnar Haglund \n\n329 Bordsstandar, TC     \n\n330 Band m texten ”Fidra” 1944 393  Kapten G. Nilsson \n331 Vimpel     \n\n332 Fana, Flagga, unions-, under vilken ”Frichiof” \nseglade med Antarktiska undsättningsexp. \n1903-04 \n\nFöre 1924 14  Kom. kapten Gyldén \n\n333 Skinnpåse m tofsar, tobaksfodral 1933-03-16 319 Sydamerika Gustaf Bolinder \n\n334 Halsring av snäckor     \n\n335 Teskål Skål av porslin 1933-01 307   Eric von Rosen \n336 Träskål. Erindring TC 1961-02-14    \n\n337.A-B Skål m lock i form av en jordglob på fot  267  Waldemar Swahn \n\n338 Ordförandeklubba     \n\n\n\n339 Glasflaska m insekt \nKlippskorpion (Scorpio viatorius) i burk  \n1927-11-09 \n\n1927-12-06 251 Persien Major K. Klingberg \n\n340 Glasflaska m gift  \nEn burk haschisch  \n1927-11-09 \n\n1927-12-06 250 Persien Major K. Klingberg \n\n341 Glasflaska m opium 1927-12-06 249  Major K. Klingberg \n\n342 Ansikte av metall, målat, turistpryl     \n\n343 TC-medaljong     \n\n344 Metallplatta m ansikte på  \nWiktor Unander Bey 1903-1906 \n\n1937-12-07 364 \n \n\n Wiktor Unander \n\n345 Lampfot av zebrafot 1927-11-01 247  Yngve Sjöstedt \n\n346 Lampfot av zebrafot 1927-11-01 247  Yngve Sjöstedt \n\n347 Lampfot av zebrafot 1948-04-13 424  Yngve Sjöstedts sterbhus \n\n348 Lampfot av zebrafot 1948-04-13 424  Yngve Sjöstedts sterbhus \n349 Lampa –”ljushuvud”     \n350 Lampglas 1927-11-01 247  Yngve Sjöstedt \n\n351 Lampglas 1927-11-01 247  Yngve Sjöstedt \n\n352 Lampglas 1948-04-13 424  Yngve Sjöstedts sterbhus \n\n353 Vas av gips, skadad och lagas ”Faun jagande \nnymf” \n\n1915-04-13 2  Av Ch. Friberg \n\n354 Trälåda med handtag, öppnas fr båda ändar, \nballotringslåda \n\n    \n\n355 Metallklocka i träställning \nSkeppsklocka. Ställningen är gjord av Dan \nBredenberg \nFrån TC-klubben i Göteborg till 40-årsjubileum \n\n1951-05-09 440  av Dan Bredenberg \n\n\n\n356 Figurkärl    Klinchowström \n\n357 Askfat? i form av ansikte    Klinchowström \n\n358 Askfat? i form av ansikte    Klinchowström \n\n359 Askfat? i form av ansikte    Klinchowström \n\n360 Askfat? i form av ansikte    Klinchowström \n361.A-E Spjut      \n\n362.A-B Spjut      \n\n363.A-H Båge och pilar     \n\n364.A-C Spjut      \n\n365.A-H Båge och pilar     \n\n366.A-F Pilar      \n\n367 Pilspets      \n\n368.A-N Pilar      \n\n369.A-B Spjut m lös spets     \n\n370 Stav     \n\n371 Spjut      \n\n372 Spjut      \n\n373.A-C Spjut      \n\n374 Spjut, avbrutet     \n\n375 Spjutspets      \n\n376 Spjutspets, avbruten     \n\n377.A-B Spjut      \n\n378 Spjut      \n\n379.A-G Spjut      \n\n380 Spjut      \n\n381 Spjut      \n\n382 Spjut      \n\n\n\n383.A-B Spjut      \n\n384.A-F Spjut      \n\n385 Spjut      \n\n386 Spjut      \n\n387.A-C Spjut, avbruten      \n388 Tavla -Axel Klinchowström 1925-01-29 212  av Albert Engström \n\n389 Tavla -självporträtt 1916 205-211  av Albert Engström \n\n390 Tavla -11 foton \nTavla i ram med fotografier \n\n1921-11-22 49 Afrika E. Arrhenius \n\n391 Tavla -11 foton \nTavla i ram med fotografier \n\n1921-11-22 50 Afrika E. Arrhenius \n\n392 Tavla -12 foton \nTavla i ram med fotografier \n\n1921-11-22 51 Afrika E. Arrhenius \n\n393 Tavla I feb 1923  Grönland Av Ossian Elgström \n\n394.A-B Tavla – 2 teckningar. Dels porträtt, dels \napa/elefant m ref till Yngve Sjöstedt \n\n1935 332  Av Ossian Elgström \n\n395 Tavla utan ram, ung kvinna  1950 452  av Lindhé  \n\n396.A-D Hyllningsdikt i fodral \nFodral med textad adress från TC i Göteborg \n\n1931-02-03 281  TC i Göteborg \n\n397.A-B Ordförandeklubba i låda  344 el  \n411 \n\n  \n\n398 Modell av segelfartyg- Ålands fullriggare  1946-12-10 415  Doktor G. Alling \n\n399.A-B Svärd med slida     \n\n400 Gipsbyst:      \n\n401 Gipsbyst:   55   \n\n402 Gipsbyst: Claes Grill 1915-04-13 23  Charles Friberg  \n\n403 Gipsbyst: Klinckowström 1928-03-06 265  av H. Larsson"
+   ],
+   [
+    "Text i dokument",
+    "Jadeföremål, tväryxa av halvädelsten från ca. \n2000 år f. Kr.  \n\n1949-09-27 429 Cheribon, Java Sven Lehman \n\n197 Fertilitetsdocka av trä. \nGammal negerdocka, Ashanti, Nordafrika \n\n1925-10-06 224 Afrika G. Haglund \n\n198 Träskulptur     \n\n199 Träskulptur, modern 1948-10-12 426 Kenya Gustaf Rothman \n\n200 Träskulptur, modern 1948-10-12 426 Kenya Gustaf Rothman \n\n201 Träskulptur, modern 1948-10-12 426 Kenya Gustaf Rothman \n\n202 Träskulptur, modern 1948-10-12 426 Kenya Gustaf Rothman \n\n203 Träskulptur, idol 1931-11-19 295 Dahomey Gustaf Bolinder \n\n204.A-D Etui med 2 penslar   Asien  \n\n205 Stickert, svärd med vågig klinga, från Vanadis-\nresan \n\n1942-08-01 381 Spanien C.E. Ulffs sterbhus \n\n206 Svärd, ur prinsen av Wieds samling 1924-09-22 135-136 Balkan, Asien Th. Jakobsson \n\n207 Svärd, ur prinsen av Wieds samling 1924-09-22 135-136 Balkan, Asien Th. Jakobsson \n\n208 Pistol, ur prinsen av Wieds samling 1924-09-22 133 Balkan Th. Jakobsson \n\n209 Pistol, ur prinsen av Wieds samling 1924-09-22 134 Balkan Th. Jakobsson \n\n210.A-B Modeller av 2 harpuner      \n\n211 Mönstrat trä    Afrika  \n\n212 Mynt, lång vriden metallpinne 1931-11-19  Sierra Leone, \nVästafrika \n\nGustaf Bolinder \n\n213 Träslev      \n\n214 Viska   Afrika  \n\n\n\n215 Halsband av myrägg  329 Kapkolonien, Sydafrika Gustaf Hedengran \n\n216 Halsband     \n\n217 Mynt hopbundna med snören. Amulett?     \n\n218 Skulptur, omslingrat par     \n\n219 Rökpipa, zulu  1935-02-05 328 Kapkolonien, Sydafrika Gustaf Hedengran \n220.A-B Metallspännen   Mexico  \n\n221.A-H Åtta ridsporrar av metall   Mexico  \n\n222 Bjällra      \n\n223.A-I Modeller av div hus. Metall. \nIndonesiskt silverfiligrans-arbete.  Modell av ett \nMinangkaban-hem  \n\n1951-02-27 438 SydostAsien \nIndonesien \n\nDirektör Hothuis \n\n224 Tältpinne, se 225   Asien Nils Ambolt \n\n225 Tavla med ram, historia om tältpinnen och \nSven Hedin \n\n  Asien Nils Ambolt \n\n226 Mässingsmortel    Sydamerika  \n\n227.A-D Fyra metallkärl med dekor   Sydamerika  \n\n228 Sten. Bergskristallblock. 1948-01-13 423  Mirining. H. Graffman \n\n229.A-B Metallspännen   Mexico  \n\n230.A-B Metallspännen   Mexico  \n\n231 Metallplatta med dekor  142   \n\n232 Tavla   Mexico  \n\n233 Konstnärsklubbens medalj 1952-11-25 443  Konstnärsklubben \n\n234 Fat, minnestallrik, 40-årsminne av boerkriget.  1939-11-14 368  Generalkonsul Christer \nUggla \n\n235.A Mumiehuvud  1922-03-04 95  G.B. Gustafsson \n\n235.B Mumifierad fot 1922-03-04 96  G.B. Gustafsson \n\n236.A-B Korgfat. Odekorerade     \n\n\n\n237.A-B Korgfat m lite högre kanter och mönstrade     \n\n238 Spjut     \n\n239 Spjut     \n\n240 Spjut     \n\n241.A-B Spjut      \n242 Spjut     \n\n243 Spjut     \n\n244 Spjut     \n\n245 Spjut     \n\n246 Tavla -båt o islandskap, olja \nTavla från Sydpolen \n\n1923-02-06 63  Major S A Duse \n\n247 Tavla –Porträtt i olja av Waldemar Swahn 1947-12-09 422   av Lindhé \n248 Tavla – etsning i glas och ram. 1931-01-15 279   av Ossian Elgström \n249 Tavla – från Grönland i glas och ram 1929-12-18 274   av Ossian Elgström \n250 Tavla med världskarta  553   \n\n251 Tavla – målning. Porträtt av inföding, ”svärfar” 1945-10-09 397  Konsul R. Lindahl \n252 Tavla  landskap    Evald Dahlskog \n\n253 Tavla – porträtt av Hultman     \n254 Tavla  Porträtt i olja av greve Eric von Rosen 1938-05-31 365  av Ivan Lindhé \n\n255 Tavla – porträtt av Lewenhaupt     \n256 Tavla – oljeporträtt av Oscar Kraepelien 1936-04-07 341  av Bror Kronstrand \n257 Tavla – oljeporträtt av Gerhard Lindblom  1936-02-04 340  av Bror Kronstrand \n258 Tavla, karta över södra Afrika 1949-10-11 433  Oscar Falkman \n\n259 Tavla utan ram – \nMålning i ram: Aboriginals \n\n1912-01-09 21 Australien Disponent Lychou \n\n260 Tavla utan ram - \nMålning i ram: Barron River \n\n1912-01-09 22 Australien Disponent Lychou \n\n\n\n261 Tavla – Erik Mjöberg, hans äreminne  1935-10-08 338  av Ossian Elgström  \n262 Tavla – Gustav Bolinder, hans liv och resor  1935-10-08 337  av Ossian Elgström \n263 Tavla –tryck monterad på"
+   ],
+   [
+    "Text i dokument",
+    "404 Ordförandeklubba gjord av fregatten Vanadis \nroder \n\n1944-01-11 389  S.C:son Poppelman \n\n405 Gipsbyst: Thorild Whulff     \n\n406 Spjutspets  \n26,3 x 2 cm \n\n1771  Nunavut, Canada Jan Lundqvist \n\n407 Parasoll     \n\n408 Tippu Tip, med låda och tillbehör, (svärd, \ntrumma) \n\n1923-02-06 93  Gustaf von Hofsten \n\n409 (svärd)     \n\n410 (trumma)      \n\n      \n\n Plus ett 40-tal naturhistoriska föremål.     \n\n411 Valrossungeskalle 1925-03-22 222  Kom.kapt. Olof Gyldén  \n\n412 Flodhästfot  1931-12-15 298 Sudan, Bahe-el-Zerat \nfloden \n\nKonsul Wibom \n\n413 Elefantfot      \n\n414 Sköldpaddskal 1925-10-16 229 Västindien Ulff, C.E. \n\n415 Svärdsfiskben 1942-08-01 507 Indiska Oceanen Ulff, C.E. \n\n416 Pytonormskinn  50  Arrhenius, E. \n\n417 Pytonormskinn 1931-12-15 51 Sudan Wibom, J.G. \n\n418 Missbildat trä, 2 st (A+B) 1925-02-20 221 Eldslandet Gyldén, O. \n\n419 Hajkäft 1936-05-01 347 Jemen Cronholm, F. \n\n420 Albatrosstrofé  335 Sydafrika Hedengran, G. \n\n421 Leopardtrofé 1935-02-01 330 Sydafrika Hedengran, G. \n422 Ormskinn 1936-05-01 352 Kuba Cronholm, F. \n\n423 Uppstoppad klotfisk 1936-05-01 348 Japan Cronholm, F. \n\n424 Trofé, antilopdjur     \n\n\n\n425 Trofé, antilopdjur     \n\n426 Trofé, antilopdjur     \n\n427 Trofé, antilopdjur     \n\n428 Tand från stort däggdjur     \n\n429 Skinn, elefantsnabel?     \n430 Två horn från antilopdjur A+B     \n\n431 Uppstoppad krokodilunge i sitt ägg     \n\n432 Uppstoppad krokodilunge     \n\n433 Trofé    Arrhenius, E. \n\n434 Trofé     \n\n435 Trofé    Rosengren, H. \n\n436 Trofé     \n\n437 Trofé 1911    \n\n438 Trofé   Rhodesia  \n\n439 Ormskinn     \n\n440 Sköldpaddskal     \n\n441 Två noshörningshorn A+B     \n\n442 Två horn från vattenbuffel A+B   Filippinerna Cronholm, F. \n\n443 Svärdsfiskben     \n\n444 Uppstoppad krokodil     \n\n445 Trofé med avsågade horn     \n\n446 Trofé     \n\n447 Trofé     \n\n448 Trofé    Arrhenius, E. \n\n449 Trofé, vattenrådjur    Kalling, B. \n\n450 Trofé     \n\n451 Trofé, buffel     \n\n\n\n452 Trofé, buffel     \n\n453 Trofé, vildsvinshuvud     \n\n454 Trofé, antilopdjur    Arrhenius, E. \n\n455 Uppstoppad klotfisk     \n\n456 Trofé, lejon     \n457 Alligatorskinn 1936-05-01 229 Kuba Cronholm, F. \n\n458 Alligatorskinn     \n\n459 Skinn, krokodil?     \n\n460 Alligatorskinn"
+   ],
+   [
+    "Text i dokument",
+    "Rosengren \n\n105.A-B Kris med balja   Bali Herman Rosengren \n\n106.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n107.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n108.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n109 Huggkniv    Herman Rosengren \n\n110 Läder målad      \n\n111 Keramikfigur   SydAmerika  \n\n112 Assegaj, kastkniv metall 1946-03-26 410 Afrika S. von Konow \n\n113 Assegaj, kastkniv metall 1946-03-26 410 Afrika S. von Konow \n\n114 Halsring av metall   Afrika  \n\n115 Kniv   Afrika  \n\n116 Kniv   Afrika  \n\n117 Kniv   Afrika  \n\n118 Kniv   Afrika  \n\n\n\n119 Stigbygel av metall     \n\n120 Ridsporre     \n\n121 Ridsporre     \n\n122 Ridsporre     \n\n123.A-B Stigbyglar, ett par     \n124.A-B Stigbyglar, ett par     \n\n125.A-B Koransvärd med slida  \n1926-11-11 \n\n 235 Sudan Unander \n\n126 Käpp eller kastklubba, rungu     \n\n127 Piska     \n\n128 Käpp 1931 124  Wibom \n\n129 Käpp, vattenbuffelhuvud 1947-04-05 417 Argentina/Japan Greve L. av Ugglas \n\n130 Käpp av hajben med knopp avelfenben 1939-03-07 366  Doktor G. Alling \n\n131 från svärdfisk 1942-08-01  \n1942-11-09 \n\n378 el \n 385  \n\nIndiska Oceanen \nAden \n\nC.E. Ulffs sterbhus  \nCh Adlerstråhle \n\n132 Skulptur av metall     \n\n133 Skulptur av metall     \n\n134 Piska av läder     \n\n135 Piska av läder     \n\n136 Lampa av en blåsfisk     \n\n137 Elfenbenslur      \n\n138 Elfenbenslur     \n\n139 Elfenbenslur     \n\n140 Snidad bete   Afrika  \n\n141 Flöjt     \n\n142 Horn eller bete     \n\n143 Två mynt i snöre    Asien  \n\n\n\n144.A-D Bönesnurra     \n\n145.A-D Bönesnurra     \n\n146 Metallbehållare, kruthorn     \n\n147 Kalebass med ristad dekor     \n\n148 Keramikfat på tre fötter     \n149 Råmaterial, skinn och rot     \n\n150.A-B Kniv med slida. Dekorerat knivblad, skaft och \nslida \n\n  Asien  \n\n151.A-B Kniv med slida. Dekorerat knivblad och skaft   Asien  \n\n152.A-B Kniv med slida. Dekorerat knivblad och skaft   Asien  \n\n153.A-B Kniv med slida. Dekorerat knivblad och skaft   Asien  \n\n154 Textil, randig     \n\n155 Krukfot av keramik     \n\n156.A-H Metall. Låsfronter     \n\n157 Keramikkärl  \n>avförd \n\n  Nasca, SydAmerika 50-årspresent till kungen.  \n\n158 Keramikkärl   SydAmerika  \n\n159 Keramikkärl   SydAmerika  \n\n160 Keramikfat på tre fötter   SydAmerika  \n\n161 Keramikfigur   SydAmerika  \n\n162 Zapotekurna   Mexico  \n\n163 Zapotekurna   Mexico  \n\n164 Keramikkärl   Amerika  \n\n165 Keramikkärl   Amerika  \n\n166 Keramikfigurin   Amerika  \n\n167 Keramikfigurin, ansikte   Amerika  \n\n168 Keramikfigur   Amerika  \n\n\n\n169 Keramikplatta    Amerika  \n\n170 Miniatyrkärl m ristad dekor     \n\n171 Keramikfigurin, ansikte     \n\n172 Keramikfigur     \n\n173 Keramikfigur     \n174 Keramik      \n\n175 Keramikfigurin, ansikte     \n\n176 Silverplatta      \n\n177 Elddon med flinta från Tripolis  \n1931-04-07 \n\n1931-04-07 282 Tripolis Gösta Andrée \n\n178 Skål på små fötter. Rikt dekorerat     \n\n179 trä, metall      \n\n180.A-B Bok av palmblad på tamilska språket   Indien  \n\n181 Modell av hundsläde 1929-01-29 270 Grönland Ossian Elgström \n\n182 Tupilak. Ur valrossbete utskuren bild. \nAngmasalik \n\n1947-10-22 420  Grönland John Lagerkrantz \n\n183.A-C Spådomstärningar   1925-02-24 218 Indien E. Hellström \n\n184 Nålhus \nnålfodral av ben \n\n1946-03-26 407 Grönland S. von Konow \n\n185.A-B Spjutspetsar 1942-08-01 379  Magellans sund C.E. Ulffs sterbhus \n\n186 Fiskkrok, från Vanadis-resan 1942-08-01 373 Tahiti C.E. Ulffs sterbhus \n\n187 Halsband     \n\n188 Ask med tuppfäktningsknivar  1949-09-27 428 Java Konsul Sven Lehman \n\n189.A-B Två fläktor \nTvå japanska solfjärar \n\n1936-06-01 358 Japan Generalkonsul Folke \nCronholm \n\n190 Svärd av Madjapahit-typ, från 1400-talet 1949-09-27 430 Java Sven Lehman \n\n191 Bokstöd     \n\n\n\n192 Linga. Fruktsamhetssymbol av messing. 1925-02-24 215 Indien E. Hellström \n\n193.A-B Paddlar till båtmodell     \n\n194.A-C Spjutspetsar 1942-08-01 379  Magellans sund C.E. Ulffs sterbhus \n\n195.A-B Fodral av flätad bast 1933-03-16 319 Colombia, Sydamerika Gustaf Bolinder \n\n196"
+   ],
+   [
+    "Text i dokument",
+    "träplatta. Utan ram.  \n\nKopparstick  \n1921-02-15 47  Skriftställare Waldemar \n\nSwahn \n\n264 Tavla –akvarell av eskimåkateketen G Kleist i \nGodhavn, Vestgrönland. Skänkt av Ossian \nElgström 1923-02-26 \n\n  Gothavn, Grönland av G Kleist \n\n265 Tavla i portfölj  \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n266 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n267 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n268 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n269 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n270 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n271 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n272 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n273 Tavla i portfölj \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n274 Tavla i portfölj  \n10 st djupgrundraderingar. \n\n1931-02-03 280  av Ossian Elgström \n\n\n\n275 Jordglob     \n\n276 Modell av opalgruvöppning i Lightning Ridge 1946-04-09 413 Australien Tage Wendler \n\n277 Tavla –Fidra \nMålning av världsomseglaren Fidra \n\n1944 391  Kapten G. Nilsson \n\n278 Tavla -sångtext o teckningar Travlarevisa med \nteckningar, i glas och ram \n\n1946-12-10 416  Konsul R.Lindahl \n\n279 Tavla – porträtt av von Konow     \n280 Tavla utan ram – \n\nMålning från Grand Canyon av Gunnar \nWidforss \n\n1927-10-22 421   E. Widforss \n\n281 Tavla –”Polarmorgon”    av Klinkowström \n282 Klubba, ”mandråparen” \n\nKlubba från Abessinien, Shilluk. Vita Nilen. \n”storklubban” \n\n1916-12-05 31 Abessinien Konsul J Wibom \n\n283 Flaska m vatten fr ”Hedins pool” i \nTaklamakanöknen, insamlat okt 1992 \n\n1992-10  Kina Bertil Nordenstam Staffan \nRosén och Håkan \nWahlqvist \n\n284 Hårlock av S. Duse, klippt den 8 nov 1903 av \nG. Bodman \n\n1942-11-10 387  G. Bodman \n\n285.A Medaljer Yngve Sjöstedt/giraff \nMedalj i silver av professor Y. Sjöstedt. \n\n1926-09-07 234,  \n \n\n Köpt av TC \n\n285.B-C Gipsavgjutning av medalj över Y. Sjöstedt 1926-12-03 239-240  Y. Sjöstedt \n\n286 Krusifix av metall      \n\n287 Tavla i ram – ”Riddaren” 1921-04-05 48  av Ossian Elgström \n288 Tavla – teckning   205-211  av Albert Engström \n289 Tavla – teckning  205-211  av Albert Engström \n290 Tavla – teckning av prins Wilhelm  210  av Albert Engström \n\n\n\n291 Tavla – teckning  205-211  av Albert Engström \n292 Tavla – teckning  205-211  av Albert Engström \n293 Tavla – teckning  205-211  av Albert Engström \n294 Tavla –teckning i ram av kapten O. Håkansson \n\ngjord av Tyra Kleen \n1923-03-03 64  Oscar Kraepelien  \n\n \n\n295 Tavla -foto   Afrika  \n\n296 Tavla -foto   Afrika  \n\n297 Tavla -foto   Afrika  \n\n298 Tavla -foto   Afrika  \n\n299 Tavla -foto   Afrika  \n\n300 Tavla -foto   Afrika  \n\n301 Tavla -foto   Afrika  \n\n302 Tavla -foto   Afrika  \n\n303 Tavla -foto -landskap     \n\n304 Tavla -foto     \n\n305 Tavla -foto     \n\n306 Tavla -foto  70-73  E. Hellström \n\n307 Tavla -foto  70-73  E. Hellström \n\n308 Tavla -foto  70-73  E. Hellström \n\n309 Tavla -foto  70-73  E. Hellström \n\n310 Tavla –foto på fågeläggsplundrare 1944  Färöarna Klinckowström \n311 Tavla – ”travelling in Lapland” 1931   av Ossian Elgström  \n312 Tavla - antilophuvud    E. Arrhenius \n\n313 Tavla - antilophuvud    E. Arrhenius \n\n314 Tavla –foto i ram av fartyget ”Fritjof” 1915-16 25  Kom kapten Gyldén \n315 Tavla -foto     \n\n316 Tavla m krona på ramen     \n\n\n\nFoto av prins Wilhelm 1913 \n\n317 Tavla med text om strutsägg 1895  Kapstaden Seth von Konow \n\n318 Tavla om TippuTip \nFotografi av Tippu-Tip.  \n\n1951-03-13 439  Minister Axel Paulin \n\n319 * Tavla -foto fr årshögtid 1928    \n\n320 * Tavla -foto fr årshögtid 1926    \n\n321 * Tavla -foto     \n\n322 * Tavla -foto fr årshögtid 1922    \n\n323 * Tavla -foto"
+   ]
+  ],
+  "names": [
+   [
+    "Typ av dokument",
+    "förteckning"
+   ],
+   [
+    "Typ av dokument",
+    "lista"
+   ]
+  ],
+  "numbers": [
+   [
+    "Arkivdokument",
+    "TC"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0005"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0072"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0080"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0083"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0086"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0090"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0092"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0134"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0015"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0016"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0025"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0026"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0039"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0048"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0058"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0061"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0118"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0121"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0128"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0136"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0138"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0151"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0156"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0157"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0165"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0170"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0235"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0184"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0197"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0209"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0211"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0217"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0227"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0231"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0239"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0255"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0256"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0258"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0280"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0267"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0270"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0276"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0281"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0283"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0285"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0286"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0293"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0298"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0303"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0307"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0313"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0314"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0331"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0335"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0339"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0356"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0366"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0406"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0388"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0391"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0405"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0417"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0421"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0425"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0426"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0447"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0439"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0441"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0444"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0458"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0459"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0460"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0003"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0014"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0017"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0023"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0029"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0035"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0043"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0045"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0053"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0054"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0066"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0071"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0079"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0081"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0084"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0088"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0097"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0099"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0103"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0108"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0109"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0131"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0140"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0144"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0148"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0152"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0168"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0173"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0177"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0181"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0182"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0193"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0221"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0224"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0226"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0232"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0237"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0257"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0262"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0274"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0277"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0287"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0301"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0322"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0344"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0345"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0358"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0364"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0370"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0371"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0372"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0377"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0385"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0394"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0398"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0400"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0401"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0409"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0418"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0419"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0432"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0435"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0449"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0296"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0297"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0009"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0028"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0036"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0052"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0055"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0062"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0063"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0065"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0078"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0089"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0093"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0107"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0112"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0119"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0126"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0129"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0142"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0149"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0185"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0188"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0194"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0210"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0214"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0218"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0222"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0238"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0241"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0248"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0252"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0260"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0261"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0279"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0291"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0294"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0299"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0330"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0350"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0357"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0359"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0390"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0397"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0434"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0442"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0448"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0452"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0453"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0457"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0002"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0007"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0020"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0024"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0034"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0037"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0040"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0042"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0044"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0049"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0057"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0060"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0068"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0076"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0100"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0105"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0110"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0116"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0117"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0122"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0127"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0133"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0135"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0143"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0145"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0146"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0155"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0162"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0166"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0198"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0201"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0206"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0208"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0213"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0220"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0230"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0240"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0243"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0247"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0250"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0253"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0265"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0272"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0273"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0278"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0295"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0302"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0310"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0315"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0319"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0323"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0334"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0336"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0337"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0340"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0352"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0355"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0368"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0375"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0392"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0410"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0422"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0423"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0431"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0433"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0437"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0006"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0008"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0022"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0038"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0046"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0059"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0067"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0069"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0070"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0073"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0077"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0087"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0091"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0095"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0101"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0102"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0113"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0115"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0123"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0124"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0125"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0158"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0159"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0164"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0169"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0172"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0187"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0191"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0199"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0202"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0225"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0229"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0233"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0242"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0244"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0245"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0251"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0263"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0284"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0288"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0305"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0306"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0317"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0324"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0338"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0346"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0347"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0351"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0367"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0373"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0374"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0382"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0386"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0399"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0408"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0420"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0454"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0456"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0004"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0012"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0018"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0030"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0032"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0041"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0064"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0074"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0098"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0104"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0130"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0137"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0147"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0150"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0154"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0163"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0175"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0189"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0192"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0204"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0205"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0212"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0219"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0246"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0264"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0266"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0268"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0271"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0300"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0304"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0308"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0309"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0316"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0320"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0326"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0328"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0348"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0365"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0381"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0387"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0393"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0396"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0402"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0404"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0414"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0416"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0443"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0451"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0011"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0013"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0019"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0021"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0031"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0051"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0082"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0085"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0094"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0096"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0106"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0132"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0139"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0153"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0160"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0161"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0167"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0171"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0179"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0183"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0190"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0207"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0228"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0234"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0236"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0259"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0282"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0289"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0292"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0318"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0321"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0325"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0329"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0333"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0353"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0354"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0362"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0379"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0380"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0389"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0403"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0407"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0412"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0415"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0424"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0436"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0438"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0445"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0450"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0001"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0010"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0027"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0033"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0047"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0050"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0056"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0075"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0111"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0114"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0120"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0141"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0174"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0176"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0178"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0180"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0186"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0195"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0196"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0200"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0203"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0215"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0216"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0223"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0249"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0254"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0269"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0275"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0290"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0311"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0312"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0327"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0332"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0341"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0342"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0343"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0349"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0360"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0361"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0363"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0369"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0376"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0378"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0383"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0384"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0395"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0411"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0413"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0427"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0428"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0429"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0430"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0440"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0446"
+   ],
+   [
+    "Inventarienummer / Beskriver",
+    "1984.05.0455"
+   ]
+  ],
+  "meas": [],
+  "ctx": [],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Etnografiska museet",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+    "mediaLicenseUrl": "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-em/web/image/blob/3504477/TC_feb2013.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-em/web/image/zoom/3504478/TC_feb2013.jpg",
+    "highresSource": "https://collections.smvk.se/carlotta-em/web/image/blob/3504475/TC_feb2013.pdf"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

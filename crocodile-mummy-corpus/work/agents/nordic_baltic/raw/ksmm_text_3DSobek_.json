@@ -1,0 +1,530 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3013026",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3013026",
+  "label": "sculpture, skulptur",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Hieroglyphic inscription that mentions Pa-Nefer, head of the cattle that belongs to Ramasseum."
+   ],
+   [
+    "Inventory number",
+    "MME 1977:001"
+   ],
+   [
+    "Acquisition",
+    "Purchased from Müller-Feldmann, Germany (40.000 DM) by Engkvist Foundation. Exhibited at Folkwang-Museum, Essen 1966 (Katalog: Zeug. altägyptischer kultur nr. 9, Abb. 4.)."
+   ],
+   [
+    "Condition",
+    "Intact, minor chip/s"
+   ],
+   [
+    "Dimensions",
+    "L. 55 cm, H. 20.5 cm, W. 14.5 cm"
+   ],
+   [
+    "Period, Swedish",
+    "19-20e dynastin (1315-1081 f Kr), Nya riket"
+   ],
+   [
+    "Utställning / ingår i",
+    "Egypten, 2014-"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Exhibition, Part of / Current",
+    "New Egypt, 2, Creation according to the Egyptians"
+   ],
+   [
+    "Description, Swedish",
+    "Krokodilguden Sobek, kalksten, gåva till tempel av Panefer, ca 1200-110 f. Kr."
+   ],
+   [
+    "Description, Swedish",
+    "Hieroglyf som nämner Pa-Nefer, översyningsman över boskapen som tillhör Ramesseum."
+   ],
+   [
+    "Description, Swedish",
+    "Krokodil i kalksten. Guden Sobek. 1200-1100 f.Kr."
+   ],
+   [
+    "Acquisition, Swedish",
+    "Inköpt från Müller-Feldmann, Tyskland (40.000 DM) av Engkvis stiftelsen. Utställd vid olkwang-Museum, Essen 1966 (Katalog: Zeug. altägyptischer kultur nr. 9, Abb. 4.)."
+   ],
+   [
+    "Referens, publicerad i",
+    "Peterson, Bengt (1979) \"Sobek - der Krokodilgott: Eine Skulptur in Stockholm\" in Medelhavsmuseet Bulletin no 14 (1979) p. 3-8."
+   ],
+   [
+    "Exhibition, showcase / Current",
+    "Egypten 2.2"
+   ],
+   [
+    "Egyptenutställningen 2014, English / Label",
+    "Sobek, the crocodile god, was connected with the dangers of the marshes and the river, but could also offer protection against them."
+   ],
+   [
+    "Egyptenutställningen 2014, Swedish / Label",
+    "Sobek, krokodilguden, förknippades med träskens och flodens faror, som han också kunde erbjuda skydd emot."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "sculpture"
+   ],
+   [
+    "Object, Swedish",
+    "skulptur"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MME 1977:001"
+   ],
+   [
+    "Egypt, Number in Exhibition",
+    "20"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "20,5",
+    "cm",
+    null
+   ],
+   [
+    "Length / Längd",
+    "55",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "14,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "New Kingdom, 19-20th Dynasty (1315-1081 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3611068/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3611069/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3010826",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3010826",
+  "label": "amulet, crocodile, jewellery, smycke, amulett, krokodil, Sobek",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A ‘recumbent’ crocodile on an integral base. Highly stylized, still with some discernable details. Tail end is shown slightly twisted. Suspension hole through the body, at the point of its neck. Pale blue glaze."
+   ],
+   [
+    "Inventory number",
+    "NME 743"
+   ],
+   [
+    "Acquisition",
+    "Dep. from NM 1928"
+   ],
+   [
+    "Condition",
+    "Intact"
+   ],
+   [
+    "Dimensions",
+    "H. 0.7 cm, W. 0.5 cm, D. 1.9 cm"
+   ],
+   [
+    "Period, Swedish",
+    "Sentiden (724-333 f Kr)"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Deposition från Nationalmuseum 1928."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "amulet"
+   ],
+   [
+    "Object",
+    "crocodile"
+   ],
+   [
+    "Object",
+    "jewellery"
+   ],
+   [
+    "Object, Swedish",
+    "smycke"
+   ],
+   [
+    "Object, Swedish",
+    "amulett"
+   ],
+   [
+    "Object, Swedish",
+    "krokodil"
+   ],
+   [
+    "Object, Swedish",
+    "Sobek"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 743"
+   ]
+  ],
+  "meas": [
+   [
+    "Height / Höjd",
+    "0,7",
+    "cm",
+    null
+   ],
+   [
+    "Depth / Djup",
+    "1,9",
+    "cm",
+    null
+   ],
+   [
+    "Width / Bredd",
+    "0,5",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Late Period (724-333 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4000697/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4000696/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/4000701/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4000700/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015791",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3015791",
+  "label": "relief, stele",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "Round relief of limestone. Surface damaged, hieroglyphs and figures visible."
+   ],
+   [
+    "Inventory number",
+    "NME 059"
+   ],
+   [
+    "Acquisition",
+    "Dep. 1928"
+   ],
+   [
+    "Dimensions",
+    "Ø 38 cm, D. 8.7 cm"
+   ],
+   [
+    "Cf Publications",
+    "Simpson, Terrace of the Great God, p. 4, not 27; Graefe, Studien zu dem Göttern und Kulten im 12..., Freiburg 1980; Lexikon der Ägyptologie, s.v. Sobek, not 100; Fs Westerndarz II, 792 nr. 18; Lutz, Egyptian Tomb Stelas, Univ. of California Publ. 4, pl. 32-33."
+   ],
+   [
+    "Period, Swedish",
+    "Mellersta riket (2061-ca.1665 f Kr)"
+   ],
+   [
+    "Publications",
+    "Mogensen, Stèles égyptiennes, p. 59."
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Description, Swedish",
+    "Offerstele, kalksten"
+   ],
+   [
+    "Geographic name, alternative",
+    "Abydos [?]"
+   ],
+   [
+    "Geographic name, alternative",
+    "Qau [?]"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Abydos [?]"
+   ],
+   [
+    "Geographic name, alternative / Swedish",
+    "Qau [?]"
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "relief"
+   ],
+   [
+    "Object",
+    "stele"
+   ],
+   [
+    "Object, Swedish",
+    "stele"
+   ],
+   [
+    "Object, Swedish",
+    "relief"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "NME 059"
+   ],
+   [
+    "Previous ID",
+    "NME 59"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Middle Kingdom (2061-c.1665 BC)"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3995175/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3995174/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3995179/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3995178/image.jpg"
+   },
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Kaneberg, Ove",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3995183/image.jpg",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3995182/image.jpg"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008235",
+  "url": "https://collections.smvk.se/carlotta-mhm/web/object/3008235",
+  "label": "toilette object, toalettartikel",
+  "org": "SMVK-MM",
+  "desc": [
+   [
+    "Description",
+    "A triple tube jar. Unfinished."
+   ],
+   [
+    "Inventory number",
+    "MM 11081"
+   ],
+   [
+    "Acquisition",
+    "Purchased from R.G. Gayer-Anderson"
+   ],
+   [
+    "Comments",
+    "Please see MM10815 for comparison."
+   ],
+   [
+    "Condition",
+    "Fragmentary, chipped"
+   ],
+   [
+    "Dimensions",
+    "L. 11.6cm, H. 4.3cm., Average mouth Ø. 2.9cm."
+   ],
+   [
+    "Cf Publications",
+    "Quibell, Hierakonpolis I, pl.XXXI\nPetrie, W.M.F., Qurneh, BSAE 16, (London, 1909), pl.8, no.27\nEl-Khouli, A. Egyptian Stone Vessels:Predynastic to Dynasty III, Mainz/Rhein, 1978, vol. II, no. 5576, vol. III, pl. 133, no. 5576\nSteindorff, Grab des Sobek-O, Berlin 1901, s.29, (exact parallels)"
+   ],
+   [
+    "Period, Swedish",
+    "2a dynastin (ca.2850-ca.2687 f Kr), Tidigdynastisk tid [?]"
+   ],
+   [
+    "Miscellaneous",
+    "Pharaonic Egypt: Daily Life"
+   ],
+   [
+    "Country / Findspot",
+    "Egypt"
+   ],
+   [
+    "Acquisition, Swedish",
+    "Från R. G. Gayer-Andersons samling."
+   ]
+  ],
+  "names": [
+   [
+    "Object",
+    "toilette object"
+   ],
+   [
+    "Object, Swedish",
+    "toalettartikel"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventory number",
+    "MM 11081"
+   ],
+   [
+    "Previous ID",
+    "E1081"
+   ]
+  ],
+  "meas": [
+   [
+    "Length / Längd",
+    "11,6",
+    "cm",
+    null
+   ]
+  ],
+  "ctx": [
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Gayer-Anderson, Robert Grenville",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/3223023"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "timeText": "Early Dynastic Period, 2nd Dynasty (c.2850-c.2687 BC) [?]"
+   },
+   {
+    "contextLabel": "Funnen",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#find",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#eg",
+    "continentName": "Afrika",
+    "countryName": "Egypten",
+    "placeName": "Memphis-Saqqara"
+   }
+  ],
+  "images": [
+   {
+    "mediaType": "image/jpeg",
+    "byline": "Ljungkvist, Anders",
+    "copyright": "Statens museer för världskultur",
+    "mediaLicense": "http://kulturarvsdata.se/resurser/License#by",
+    "mediaLicenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "thumbnailSource": "https://collections.smvk.se/carlotta-mhm/web/image/tn/3745089/representation",
+    "lowresSource": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3745090/representation"
+   }
+  ],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

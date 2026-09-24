@@ -1,0 +1,125 @@
+{
+ "n_rows": 22193,
+ "croc_or_sobek_mummy": [],
+ "mummy_objects": [
+  {
+   "ObjectID": "492",
+   "AccessionNumber": "79.1",
+   "Title": "Mummified Human Remains of a Woman Inside a Painted Cartonnage",
+   "ObjectName": "mummies",
+   "ResourceURL": "https://purl.thewalters.org/art/79.1"
+  },
+  {
+   "ObjectID": "5872",
+   "AccessionNumber": "32.5",
+   "Title": "Panel Portrait of a Woman",
+   "ObjectName": "mummy portraits; death masks",
+   "ResourceURL": "https://purl.thewalters.org/art/32.5"
+  },
+  {
+   "ObjectID": "7962",
+   "AccessionNumber": "32.6",
+   "Title": "Panel Portrait of a Bearded Man",
+   "ObjectName": "mummy portraits; death masks",
+   "ResourceURL": "https://purl.thewalters.org/art/32.6"
+  },
+  {
+   "ObjectID": "12887",
+   "AccessionNumber": "22.252",
+   "Title": "Head Fragment from a Sarcophagus",
+   "ObjectName": "fragments; mummy cases",
+   "ResourceURL": "https://purl.thewalters.org/art/22.252"
+  },
+  {
+   "ObjectID": "12963",
+   "AccessionNumber": "78.3",
+   "Title": "Cartonnage Mask of a Woman",
+   "ObjectName": "mummy cases; masks",
+   "ResourceURL": "https://purl.thewalters.org/art/78.3"
+  },
+  {
+   "ObjectID": "14067",
+   "AccessionNumber": "32.3",
+   "Title": "Panel Portrait of a Man",
+   "ObjectName": "mummy portraits; death masks",
+   "ResourceURL": "https://purl.thewalters.org/art/32.3"
+  },
+  {
+   "ObjectID": "17902",
+   "AccessionNumber": "1984.30.6",
+   "Title": "Pair of Eyes",
+   "ObjectName": "mummy mask",
+   "ResourceURL": "https://purl.thewalters.org/art/1984.30.6"
+  },
+  {
+   "ObjectID": "21582",
+   "AccessionNumber": "79.3",
+   "Title": "Mummified Cat",
+   "ObjectName": "mummies",
+   "ResourceURL": "https://purl.thewalters.org/art/79.3"
+  },
+  {
+   "ObjectID": "24868",
+   "AccessionNumber": "54.2120",
+   "Title": "Falcon Reliquary",
+   "ObjectName": "figurines; mummies; reliquaries",
+   "ResourceURL": "https://purl.thewalters.org/art/54.2120"
+  },
+  {
+   "ObjectID": "28935",
+   "AccessionNumber": "76.7",
+   "Title": "Funerary Mask",
+   "ObjectName": "mummy mask; funerary mask",
+   "ResourceURL": "https://purl.thewalters.org/art/76.7"
+  },
+  {
+   "ObjectID": "29816",
+   "AccessionNumber": "78.4",
+   "Title": "Cartonnage Mask of a High Official",
+   "ObjectName": "mummy masks",
+   "ResourceURL": "https://purl.thewalters.org/art/78.4"
+  },
+  {
+   "ObjectID": "30478",
+   "AccessionNumber": "32.4",
+   "Title": "Panel Portrait of a Woman",
+   "ObjectName": "mummy portraits; death masks",
+   "ResourceURL": "https://purl.thewalters.org/art/32.4"
+  },
+  {
+   "ObjectID": "37917",
+   "AccessionNumber": "32.7",
+   "Title": "Panel Portrait of a Woman",
+   "ObjectName": "mummy portraits; death masks",
+   "ResourceURL": "https://purl.thewalters.org/art/32.7"
+  },
+  {
+   "ObjectID": "38882",
+   "AccessionNumber": "79.2",
+   "Title": "Mummified Cat",
+   "ObjectName": "mummies",
+   "ResourceURL": "https://purl.thewalters.org/art/79.2"
+  },
+  {
+   "ObjectID": "79099",
+   "AccessionNumber": "83.767",
+   "Title": "Mummification Bandage of Userwer",
+   "ObjectName": "mummy wrappings",
+   "ResourceURL": "https://purl.thewalters.org/art/83.767"
+  },
+  {
+   "ObjectID": "79419",
+   "AccessionNumber": "61.355",
+   "Title": "Mummy Mask with Wig",
+   "ObjectName": "masks (costume)",
+   "ResourceURL": "https://purl.thewalters.org/art/61.355"
+  },
+  {
+   "ObjectID": "91758",
+   "AccessionNumber": "79.1A",
+   "Title": "Mummified Human Remains of a Woman",
+   "ObjectName": "mummies",
+   "ResourceURL": "https://purl.thewalters.org/art/79.1A"
+  }
+ ]
+}

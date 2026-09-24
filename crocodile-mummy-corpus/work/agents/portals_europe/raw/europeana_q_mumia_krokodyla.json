@@ -1,0 +1,35 @@
+{
+"query": "\"mumia krokodyla\"",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/0940411/_nnnr2mr",
+"title": [
+"Führer durch die Sammlungen des Städtischen Museums zu Elbing",
+"Führer durch die Sammlungen des Städtischen Museums zu Elbing",
+"Führer durch die Sammlungen des Städtischen Museums zu Elbing"
+],
+"dataProvider": "Elbląska Digital Library",
+"provider": "Digital Libraries Federation",
+"country": "Poland",
+"type": "TEXT",
+"year": [
+"1903"
+],
+"rights": [
+"http://creativecommons.org/publicdomain/mark/1.0/"
+],
+"edmIsShownAt": "http://fbc.pionier.net.pl/id/oai:dlibra.bibliotekaelblaska.pl:1347",
+"edmIsShownBy": null,
+"guid": "https://www.europeana.eu/item/0940411/_nnnr2mr?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "0940411_Bibliotekaelblaska_pt1",
+"desc": [
+"This book is a guide to the collection of the City Museum in Elbląg by Robert Dorr - historian, mathematician, middle school lecturer and precursor of archeology in Elbląg. Dorr painstakingly and chronologically describes the Museum’s resources, which he considers valuable and interesting. Noteworth",
+"Książka ta to przewodnik po zbiorach Muzeum Miejskiego w Elblągu autorstwa Roberta Dorra – historyka, matematyka, wykładowcy gimnazjalnego oraz prekursora archeologii w Elblągu. Dorr skrupulatnie i chronologicznie opisuje zasoby Muzeum, które uznaje za cenne i ciekawe. Na uwagę zasługuje opis ekspon",
+"Das Buch ist eine Art Führers durch die Sammlungen des Städtischen Museums in Elbing vom Geschichtsforscher, Mathematiker, Gymnasiallehrer und Wegbereiter der Archäologie in Elbing - Robert Dorr verfasst. Dorr beschreibt gründlich und der chronologischen Reihe nach die Bestände des Museum, die er fü"
+]
+}
+]
+}

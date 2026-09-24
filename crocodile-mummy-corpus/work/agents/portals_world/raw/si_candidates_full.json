@@ -1,0 +1,441 @@
+{
+ "ld1-1643407023501-1643407060748-0": {
+  "id": "ld1-1643407023501-1643407060748-0",
+  "title": "Mummied Crocodile",
+  "unitCode": "NMNHANTHRO",
+  "type": "edanmdm",
+  "url": "edanmdm:nmnhanthropology_8314204",
+  "content": {
+   "freetext": {
+    "date": [
+     {
+      "label": "Accession Date",
+      "content": "1885"
+     }
+    ],
+    "name": [
+     {
+      "label": "Donor Name",
+      "content": "Dr. George W. Samson"
+     },
+     {
+      "label": "Site Name",
+      "content": "Thebes"
+     }
+    ],
+    "notes": [
+     {
+      "label": "Notes",
+      "content": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for this artifact, 2011: Mummified crocodile, 332-30 B.C. Priests took great care with these wrappings, modeling the head, nostrils and eyes in linen and covering the body in a crisscross pattern secured by linen thread. The remains inside look less impressive: a flattened crocodile, possibly a hatchling, covered with resin."
+     },
+     {
+      "label": "Record Last Modified",
+      "content": "20 Aug 2017"
+     },
+     {
+      "label": "Specimen Count",
+      "content": "1"
+     }
+    ],
+    "place": [
+     {
+      "label": "Place",
+      "content": "Qena, Upper Egypt, Egypt, Africa"
+     }
+    ],
+    "topic": [
+     {
+      "label": "Topic",
+      "content": "Archaeology"
+     }
+    ],
+    "culture": [
+     {
+      "label": "Culture",
+      "content": "Ancient Egyptian"
+     }
+    ],
+    "setName": [
+     {
+      "label": "See more items in",
+      "content": "Anthropology"
+     }
+    ],
+    "dataSource": [
+     {
+      "label": "Data Source",
+      "content": "NMNH - Anthropology Dept."
+     }
+    ],
+    "identifier": [
+     {
+      "label": "Accession Number",
+      "content": "015645"
+     },
+     {
+      "label": "USNM Number",
+      "content": "A74579-0"
+     }
+    ],
+    "objectType": [
+     {
+      "label": "Object Type",
+      "content": "Animal Mummy"
+     }
+    ]
+   },
+   "indexedStructured": {
+    "date": [
+     "1880s"
+    ],
+    "name": [
+     "Dr. George W. Samson"
+    ],
+    "place": [
+     "Qena",
+     "Africa",
+     "Egypt",
+     "Upper Egypt"
+    ],
+    "topic": [
+     "Archaeology",
+     "Anthropology"
+    ],
+    "culture": [
+     "Egyptians"
+    ],
+    "geoLocation": [
+     {
+      "L1": {
+       "type": "Continent",
+       "content": "Africa"
+      },
+      "L2": {
+       "type": "Country",
+       "content": "Egypt"
+      },
+      "L3": {
+       "type": "State",
+       "content": "Upper Egypt"
+      },
+      "L4": {
+       "type": "County",
+       "content": "Qena"
+      }
+     }
+    ],
+    "object_type": [
+     "Animals",
+     "Mummies"
+    ],
+    "online_media_type": [
+     "Images"
+    ]
+   },
+   "descriptiveNonRepeating": {
+    "guid": "http://n2t.net/ark:/65665/316ca3ab2-b419-49f7-be87-a0961d53fc75",
+    "title": {
+     "label": "title",
+     "content": "Mummied Crocodile"
+    },
+    "record_ID": "nmnhanthropology_8314204",
+    "unit_code": "NMNHANTHRO",
+    "title_sort": "MUMMIED CROCODILE",
+    "data_source": "NMNH - Anthropology Dept.",
+    "record_link": "http://n2t.net/ark:/65665/316ca3ab2-b419-49f7-be87-a0961d53fc75",
+    "metadata_usage": {
+     "access": "CC0"
+    }
+   }
+  },
+  "hash": "6070cfe52d6cbc451bfa37a5bc6c510e91d17fa0",
+  "docSignature": "47af975bec15f2446ed151b1435ac389",
+  "timestamp": "1663781739",
+  "lastTimeUpdated": "1734465139",
+  "version": "1734438687"
+ },
+ "ld1-1643407023501-1643407064923-0": {
+  "id": "ld1-1643407023501-1643407064923-0",
+  "title": "Mummified Reptiles",
+  "unitCode": "NMNHANTHRO",
+  "type": "edanmdm",
+  "url": "edanmdm:nmnhanthropology_8325979",
+  "content": {
+   "freetext": {
+    "date": [
+     {
+      "label": "Accession Date",
+      "content": "1991"
+     }
+    ],
+    "name": [
+     {
+      "label": "Donor Name",
+      "content": "No Information"
+     }
+    ],
+    "notes": [
+     {
+      "label": "Notes",
+      "content": "ONE BOX OF MUMMIFIED REPTILES (INCL. CROCODILES) WITH TEXTILE WRAPPINGS. MIGHT BE FROM CATALOGUE #S 1563 - 1565?"
+     },
+     {
+      "label": "Notes",
+      "content": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for 4 crocodile mummies with this number, 2011: Mummified crocodile group, 332 B.C.-A.D. 250. Dozens of crocodile hatchlings emerge from the nest together, and mummy groups like these that mimic nature were fairly common. The varied quality of the linen wrappings probably means that priests used leftover bits of fabric to wrap the crocodiles."
+     },
+     {
+      "label": "Record Last Modified",
+      "content": "18 Oct 2017"
+     },
+     {
+      "label": "Specimen Count",
+      "content": "50"
+     }
+    ],
+    "place": [
+     {
+      "label": "Place",
+      "content": "Egypt, Africa"
+     }
+    ],
+    "topic": [
+     {
+      "label": "Topic",
+      "content": "Archaeology"
+     }
+    ],
+    "culture": [
+     {
+      "label": "Culture",
+      "content": "Ancient Egyptian"
+     }
+    ],
+    "setName": [
+     {
+      "label": "See more items in",
+      "content": "Anthropology"
+     }
+    ],
+    "dataSource": [
+     {
+      "label": "Data Source",
+      "content": "NMNH - Anthropology Dept."
+     }
+    ],
+    "identifier": [
+     {
+      "label": "Accession Number",
+      "content": "999999"
+     },
+     {
+      "label": "USNM Number",
+      "content": "AT5604-0"
+     }
+    ],
+    "objectType": [
+     {
+      "label": "Object Type",
+      "content": "Animal Mummy"
+     }
+    ]
+   },
+   "indexedStructured": {
+    "date": [
+     "1990s"
+    ],
+    "name": [
+     "No Information"
+    ],
+    "place": [
+     "Africa",
+     "Egypt"
+    ],
+    "topic": [
+     "Archaeology",
+     "Anthropology"
+    ],
+    "culture": [
+     "Egyptians"
+    ],
+    "geoLocation": [
+     {
+      "L1": {
+       "type": "Continent",
+       "content": "Africa"
+      },
+      "L2": {
+       "type": "Country",
+       "content": "Egypt"
+      }
+     }
+    ],
+    "object_type": [
+     "Animals",
+     "Mummies"
+    ],
+    "online_media_type": [
+     "Images"
+    ]
+   },
+   "descriptiveNonRepeating": {
+    "guid": "http://n2t.net/ark:/65665/3ff0f7649-3cb7-4016-ba07-c184a54e5f29",
+    "title": {
+     "label": "title",
+     "content": "Mummified Reptiles"
+    },
+    "record_ID": "nmnhanthropology_8325979",
+    "unit_code": "NMNHANTHRO",
+    "title_sort": "MUMMIFIED REPTILES",
+    "data_source": "NMNH - Anthropology Dept.",
+    "record_link": "http://n2t.net/ark:/65665/3ff0f7649-3cb7-4016-ba07-c184a54e5f29",
+    "metadata_usage": {
+     "access": "CC0"
+    }
+   }
+  },
+  "hash": "91d2089b890d16c332923fbfedc11ef3983d26ce",
+  "docSignature": "16ec8ef60a5879a9f0b702c769850e1e",
+  "timestamp": "1663781739",
+  "lastTimeUpdated": "1734465139",
+  "version": "1734438687"
+ },
+ "ld1-1646149545906-1646150103551-0": {
+  "id": "ld1-1646149545906-1646150103551-0",
+  "title": "Excursion aux grottes de Samoun ou des crocodiles : haute Égypte / dessins de Karl Girardet",
+  "unitCode": "SIL",
+  "type": "edanmdm",
+  "url": "edanmdm:siris_sil_761567",
+  "content": {
+   "freetext": {
+    "date": [
+     {
+      "label": "Date",
+      "content": "1862"
+     }
+    ],
+    "name": [
+     {
+      "label": "Author",
+      "content": "Georges, A"
+     },
+     {
+      "label": "Author",
+      "content": "Girardet, Karl 1813-1871"
+     },
+     {
+      "label": "Author",
+      "content": "Smithsonian Libraries African Art Index Project DSI"
+     }
+    ],
+    "notes": [
+     {
+      "label": "Notes",
+      "content": "Illustrations"
+     },
+     {
+      "label": "Notes",
+      "content": "Georges describes the landscape and scenery between Meguel-Qual and the Arabic mountain range under which are the Samoun caves. He relates his arrival at Daklé and the legends of the place. He describes how he entered the caves and his discoveries of the embalmed crocodiles and all kinds of mummies (human, birds, reptiles). He relays the old story of the four Maghrebians who were looking for gold in the caves and had a vision of a naked woman who would have been a \"djinn,\" responsible for the underground treasures. The author was curious about the origin of the burials found in the caves of Samoun. Were the caves used as graves for ordinary people? The gold found around the feet and the hands of many mummies suggests not."
+     },
+     {
+      "label": "Notes",
+      "content": "Includes illustration of the interior of the grotto with human and crocodile mummies."
+     }
+    ],
+    "place": [
+     {
+      "label": "Place",
+      "content": "Egypt"
+     }
+    ],
+    "topic": [
+     {
+      "label": "Topic",
+      "content": "Caves"
+     },
+     {
+      "label": "Topic",
+      "content": "Mummies"
+     },
+     {
+      "label": "Topic",
+      "content": "Discovery and exploration"
+     }
+    ],
+    "dataSource": [
+     {
+      "label": "Data Source",
+      "content": "Smithsonian Libraries"
+     }
+    ],
+    "identifier": [
+     {
+      "label": "Call number",
+      "content": "G1 .T727"
+     }
+    ],
+    "objectType": [
+     {
+      "label": "Type",
+      "content": "Articles"
+     }
+    ]
+   },
+   "indexedStructured": {
+    "date": [
+     "1860s"
+    ],
+    "name": [
+     "Georges, A",
+     "Smithsonian Libraries",
+     "Girardet, Karl"
+    ],
+    "place": [
+     "Egypt"
+    ],
+    "topic": [
+     "Discovery and exploration",
+     "Mummies",
+     "Caves"
+    ],
+    "language": [
+     "French language"
+    ],
+    "geoLocation": [
+     {
+      "L1": {
+       "type": "Continent",
+       "content": "Africa"
+      },
+      "L2": {
+       "type": "Country",
+       "content": "Egypt"
+      }
+     }
+    ],
+    "object_type": [
+     "Articles"
+    ]
+   },
+   "descriptiveNonRepeating": {
+    "title": {
+     "label": "Title",
+     "content": "Excursion aux grottes de Samoun ou des crocodiles : haute Égypte / dessins de Karl Girardet"
+    },
+    "record_ID": "siris_sil_761567",
+    "unit_code": "SIL",
+    "title_sort": "EXCURSION AUX GROTTES DE SAMOUN OU DES CROCODILES : HAUTE ÉGYPTE DESSINS DE KARL GIRARDET",
+    "data_source": "Smithsonian Libraries",
+    "record_link": "https://siris-libraries.si.edu/ipac20/ipac.jsp?&profile=liball&source=~!silibraries&uri=full=3100001~!761567~!0#focus",
+    "metadata_usage": {
+     "text": "",
+     "access": "CC0"
+    }
+   }
+  },
+  "hash": "0428789d167345ba5431c0a67e19fdc9d237c4df",
+  "docSignature": "ad11e1c3f03678e80f6ebfd10cbd7389",
+  "timestamp": "1498154379",
+  "lastTimeUpdated": "1661964304",
+  "version": "0"
+ }
+}

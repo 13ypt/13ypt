@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><result><version>1.0</version><totalHits>1</totalHits><records><record><rdf:RDF xmlns:ns1="http://kulturarvsdata.se/ksamsok#" xmlns:ns2="http://xmlns.com/foaf/0.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <ns1:Entity rdf:about="http://kulturarvsdata.se/bhm/object/UM000548">
+    <ns1:itemLicenseUrl rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/"/>
+    <ns1:collection>S14UM Kulturhistoriska samlingen</ns1:collection>
+    <ns1:mediaType rdf:resource="http://kulturarvsdata.se/resurser/MediaType#image/jpeg"/>
+    <ns1:lastChangedDate>2025-09-05</ns1:lastChangedDate>
+    <ns1:context>
+      <ns1:Context>
+        <ns1:countryName>Egypten</ns1:countryName>
+        <ns1:contextType rdf:resource="http://kulturarvsdata.se/resurser/ContextType#transact"/>
+        <ns1:contextSuperType rdf:resource="http://kulturarvsdata.se/resurser/ContextSuperType#interact"/>
+        <ns1:contextLabel>Proveniens</ns1:contextLabel>
+      </ns1:Context>
+    </ns1:context>
+    <ns1:itemMaterial>
+      <ns1:ItemMaterial>
+        <ns1:material>Textil</ns1:material>
+      </ns1:ItemMaterial>
+    </ns1:itemMaterial>
+    <ns1:itemSpecification>
+      <ns1:ItemSpecification>
+        <ns1:type>preciserat sakord</ns1:type>
+        <ns1:spec>Nilkrokodil, Crocodylus niloticus, Nile crocodile</ns1:spec>
+      </ns1:ItemSpecification>
+    </ns1:itemSpecification>
+    <ns1:itemKeyWord>Offergåva</ns1:itemKeyWord>
+    <ns1:itemMeasurement>
+      <ns1:ItemMeasurement>
+        <ns1:value>100.0</ns1:value>
+        <ns1:unit>mm</ns1:unit>
+        <ns1:type>Höjd</ns1:type>
+      </ns1:ItemMeasurement>
+    </ns1:itemMeasurement>
+    <ns1:dataQuality rdf:resource="http://kulturarvsdata.se/resurser/DataQuality#raw"/>
+    <ns1:itemLicense rdf:resource="http://kulturarvsdata.se/resurser/License#cc0"/>
+    <ns1:thumbnail>https://ems.dimu.org/image/012sA3s9C8DA?dimension=145x105</ns1:thumbnail>
+    <ns1:itemClassName>Trossystem (OU 779)</ns1:itemClassName>
+    <ns1:itemNumber>
+      <ns1:ItemNumber>
+        <ns1:type>Identifikationsnummer</ns1:type>
+        <ns1:number>UM000548</ns1:number>
+      </ns1:ItemNumber>
+    </ns1:itemNumber>
+    <ns1:itemName>
+      <ns1:ItemName>
+        <ns1:type>sakord</ns1:type>
+        <ns1:name>Mumie</ns1:name>
+      </ns1:ItemName>
+    </ns1:itemName>
+    <ns1:itemDescription>
+      <ns1:ItemDescription>
+        <ns1:type>Föremålsbeskrivning</ns1:type>
+        <ns1:desc>Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilarmerad klisterremsa.
+
+Ur Knut Adrian Anderssons katalog II
+Uddevalla - Musei - Historiska - Samlingar: E: Utländska föremål
+De Etnografiska föremålen upprättad år 1916:
+No 66. Två små Krokodil-mumier,
+den ena i sin linnebinda. Från gravarne
+vid Manfaloot i Egypten 1850. Sk. av Mr.
+D. Macfie i Edinburg 1866.
+
+Ur handskrivna katalogen 1957-1958:
+Två små krokodilmumier. Egypt.
+Den lindade L: 27,5, Den olindade. L: 24. (i 3 delar) Gravfynd. Manfaloot, Egypten 1850.
+
+Kontinent: Afrika
+Lappkatalog: 100</ns1:desc>
+      </ns1:ItemDescription>
+    </ns1:itemDescription>
+    <ns1:buildDate>2026-09-21</ns1:buildDate>
+    <ns1:url>https://digitaltmuseum.se/011024262585</ns1:url>
+    <ns1:itemSuperType rdf:resource="http://kulturarvsdata.se/resurser/EntitySuperType#object"/>
+    <ns1:itemMeasurement>
+      <ns1:ItemMeasurement>
+        <ns1:value>300.0</ns1:value>
+        <ns1:unit>mm</ns1:unit>
+        <ns1:type>Längd</ns1:type>
+        <ns1:qualifier>låda</ns1:qualifier>
+      </ns1:ItemMeasurement>
+    </ns1:itemMeasurement>
+    <ns1:itemSpecification>
+      <ns1:ItemSpecification>
+        <ns1:type>preciserat sakord</ns1:type>
+        <ns1:spec>Krokodil-mumie</ns1:spec>
+      </ns1:ItemSpecification>
+    </ns1:itemSpecification>
+    <ns1:serviceOrganization>bhm</ns1:serviceOrganization>
+    <ns1:presentation rdf:parseType="Literal"><pres:item xmlns:pres="http://kulturarvsdata.se/presentation#"><pres:id>idOwner=S-BM&amp;idIdentifier=UM000548</pres:id><pres:entityUri>http://kulturarvsdata.se/bhm/object/UM000548</pres:entityUri><pres:dataQuality>Rådata</pres:dataQuality><pres:type>Object</pres:type><pres:idLabel>UM000548</pres:idLabel><pres:itemLabel>Mumie</pres:itemLabel><pres:tag>Begravning</pres:tag><pres:tag>Medelhavsområdet</pres:tag><pres:tag>Offergåva</pres:tag><pres:description>Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilarmerad klisterremsa.
+
+Ur Knut Adrian Anderssons katalog II
+Uddevalla - Musei - Historiska - Samlingar: E: Utländska föremål
+De Etnografiska föremålen upprättad år 1916:
+No 66. Två små Krokodil-mumier,
+den ena i sin linnebinda. Från gravarne
+vid Manfaloot i Egypten 1850. Sk. av Mr.
+D. Macfie i Edinburg 1866.
+
+Ur handskrivna katalogen 1957-1958:
+Två små krokodilmumier. Egypt.
+Den lindade L: 27,5, Den olindade. L: 24. (i 3 delar) Gravfynd. Manfaloot, Egypten 1850.
+
+Kontinent: Afrika
+Lappkatalog: 100</pres:description><pres:context/><pres:image><pres:src type="thumbnail">https://ems.dimu.org/image/012sA3s9C8DA?dimension=145x105</pres:src><pres:src type="lowres">https://ems.dimu.org/image/012sA3s9C8DA?dimension=600x600</pres:src><pres:src type="highres">https://ems.dimu.org/image/012sA3s9C8DA?dimension=1200x1200</pres:src><pres:mediaLicense>http://kulturarvsdata.se/resurser/License#by-nc-nd</pres:mediaLicense><pres:mediaLicenseUrl>http://creativecommons.org/licenses/by-nc-nd/3.0/</pres:mediaLicenseUrl></pres:image><pres:representations><pres:representation format="XML">http://kulturarvsdata.se/bhm/object/xml/UM000548</pres:representation><pres:representation format="HTML">http://kulturarvsdata.se/bhm/object/html/UM000548</pres:representation><pres:representation format="RDF">http://kulturarvsdata.se/bhm/object/rdf/UM000548</pres:representation></pres:representations><pres:organization>Bohusläns museum</pres:organization><pres:organizationShort>bhm</pres:organizationShort><pres:service>object</pres:service><pres:version>1.1</pres:version><pres:buildDate>2026-09-21</pres:buildDate></pres:item></ns1:presentation>
+    <ns1:itemDescription>
+      <ns1:ItemDescription>
+        <ns1:type>Föremålsbeskrivning</ns1:type>
+        <ns1:desc>Krokodilerna kommer från den antika egyptiska staden El-Maabdeh som var platsen för en av de äldsta krokodilnekropolerna i det forntida Egypten. På Nilens östra sida, uppe på en platå, låg gravplatsen som även innehöll mumier av människor. El-Maabdeh upptäcktes officiellt (?) 1873 av den italienska zoologen Paolo Panceri. 
+Nekropolen lär ha innehållet ett oräkneligt antal krokodilmumier, tätt packade på varandra. De mumifierade krokodilerna offrades till krokodilguden Sobek.
+Det moderna namet på El-Maabdeh är Manfaloot/Manfalut.
+
+Dessa båda mumier av krokodilungar var de båda första föremålen av museets samlingar som överflyttades till Bohusläns musei nybyggda hus vid Norra Hamnen då överflyttningen påbörjades i november 1983.
+
+David Macfie, Edinburgh (Mr Johnstone David Macfie, 1828-1915); en släkting i den till Uddevalla under 1840-talet inflyttade familjen Macfie. Klan Macfie fick bl.a. sina inkomster genom import av sockerrör från Västindien med efterföljande raffinering i Skottland.
+En gren av familjen var sysselsatta med samma verksamhet i England, jfr Mr Robert Marquis, Liverpool. Sugerboiling kallas verksamheten på engelska; sockerraffinaderi på svenska.
+
+Litt.: Artikel "Exotica" i Bohusläningen den 14 augusti 1941.</ns1:desc>
+      </ns1:ItemDescription>
+    </ns1:itemDescription>
+    <ns1:itemLabel>Mumie</ns1:itemLabel>
+    <ns1:serviceOrganizationFull>Bohusläns museum</ns1:serviceOrganizationFull>
+    <ns1:mediaType rdf:resource="http://kulturarvsdata.se/resurser/MediaType#text/plain"/>
+    <ns1:ksamsokVersion>1.1</ns1:ksamsokVersion>
+    <ns1:itemType rdf:resource="http://kulturarvsdata.se/resurser/EntityType#object"/>
+    <ns1:serviceName>object</ns1:serviceName>
+    <ns1:context>
+      <ns1:Context>
+        <ns1:contextType rdf:resource="http://kulturarvsdata.se/resurser/ContextType#transact"/>
+        <ns1:placeName>Edinburgh Skottland</ns1:placeName>
+        <ns1:contextLabel>Accession</ns1:contextLabel>
+        <ns1:countryName>Storbritannien</ns1:countryName>
+        <ns1:fromTime>1866-01-01</ns1:fromTime>
+        <ns1:toTime>1866-01-01</ns1:toTime>
+        <ns1:contextSuperType rdf:resource="http://kulturarvsdata.se/resurser/ContextSuperType#interact"/>
+        <ns2:name>Macfie, David Johnstone</ns2:name>
+        <ns2:title>Givare till museet</ns2:title>
+      </ns1:Context>
+    </ns1:context>
+    <ns1:context>
+      <ns1:Context>
+        <ns2:title>Ägare av original</ns2:title>
+        <ns2:name>Macfie, David Johnstone</ns2:name>
+        <ns1:placeName>Edinburgh Skottland</ns1:placeName>
+        <ns1:countryName>Storbritannien</ns1:countryName>
+        <ns1:contextType rdf:resource="http://kulturarvsdata.se/resurser/ContextType#use"/>
+        <ns1:contextSuperType rdf:resource="http://kulturarvsdata.se/resurser/ContextSuperType#interact"/>
+        <ns1:contextLabel>Användning</ns1:contextLabel>
+      </ns1:Context>
+    </ns1:context>
+    <ns1:itemKeyWord>Medelhavsområdet</ns1:itemKeyWord>
+    <ns1:itemClassName>Begravning (OU 764)</ns1:itemClassName>
+    <ns1:itemMeasurement>
+      <ns1:ItemMeasurement>
+        <ns1:value>100.0</ns1:value>
+        <ns1:unit>mm</ns1:unit>
+        <ns1:type>Djup</ns1:type>
+      </ns1:ItemMeasurement>
+    </ns1:itemMeasurement>
+    <ns1:image>
+      <ns1:Image>
+        <ns1:thumbnailSource>https://ems.dimu.org/image/022sA3s9C8DB?dimension=145x105</ns1:thumbnailSource>
+        <ns1:mediaType>http://kulturarvsdata.se/resurser/MediaType#image/jpeg</ns1:mediaType>
+        <ns1:mediaLicenseUrl rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+        <ns1:mediaLicense rdf:resource="http://kulturarvsdata.se/resurser/License#by-nc-nd"/>
+        <ns1:lowresSource>https://ems.dimu.org/image/022sA3s9C8DB?dimension=600x600</ns1:lowresSource>
+        <ns1:highresSource>https://ems.dimu.org/image/022sA3s9C8DB?dimension=1200x1200</ns1:highresSource>
+      </ns1:Image>
+    </ns1:image>
+    <ns1:itemMaterial>
+      <ns1:ItemMaterial>
+        <ns1:material>Krokodil</ns1:material>
+      </ns1:ItemMaterial>
+    </ns1:itemMaterial>
+    <ns1:image>
+      <ns1:Image>
+        <ns1:thumbnailSource>https://ems.dimu.org/image/012sA3s9C8DA?dimension=145x105</ns1:thumbnailSource>
+        <ns1:mediaType>http://kulturarvsdata.se/resurser/MediaType#image/jpeg</ns1:mediaType>
+        <ns1:mediaLicenseUrl rdf:resource="http://creativecommons.org/licenses/by-nc-nd/3.0/"/>
+        <ns1:mediaLicense rdf:resource="http://kulturarvsdata.se/resurser/License#by-nc-nd"/>
+        <ns1:lowresSource>https://ems.dimu.org/image/012sA3s9C8DA?dimension=600x600</ns1:lowresSource>
+        <ns1:highresSource>https://ems.dimu.org/image/012sA3s9C8DA?dimension=1200x1200</ns1:highresSource>
+      </ns1:Image>
+    </ns1:image>
+    <ns1:itemKeyWord>Begravning</ns1:itemKeyWord>
+    <ns1:subject rdf:resource="http://kulturarvsdata.se/resurser/Subject#culturalHistory"/>
+  </ns1:Entity>
+</rdf:RDF><rel:score xmlns:rel="info:srw/extension/2/relevancy-1.0">8.295184</rel:score></record></records><echo><method>search</method><startRecord>1</startRecord><hitsPerPage>500</hitsPerPage><query>text=krokodilmumier</query></echo></result>

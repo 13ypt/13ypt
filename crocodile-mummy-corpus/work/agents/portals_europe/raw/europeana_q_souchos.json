@@ -1,0 +1,29 @@
+{
+"query": "Souchos",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/1100/4284",
+"title": [
+"Letter from Herennia to Pompeius"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_63",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_63/800/0/MP63_24353.jpg",
+"guid": "https://www.europeana.eu/item/1100/4284?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Private letter from Herennia to her father Pompeius written in Greek on papyrus in the Arsinoite nome (modern Fayum) in Egypt and dated 18 January 57 AD. Herennia [‘Eλενία] seeks her father's advice in relation to pious contributions requested from the privileged classes resident in the area for the"
+]
+}
+]
+}

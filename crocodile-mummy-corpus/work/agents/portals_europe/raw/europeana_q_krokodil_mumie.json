@@ -1,0 +1,1686 @@
+{
+"query": "Krokodil Mumie",
+"profile": "standard",
+"total": 59,
+"fetched": 59,
+"items": [
+{
+"id": "/1010/item_XLGNYZH3SVPRZCF2SFW3L3YE3NIMTC6O",
+"title": [
+"Krokodil"
+],
+"dataProvider": "State Association of Fine Arts Saxony eV",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-sa/4.0/"
+],
+"edmIsShownAt": "https://www.werkdatenbank.de/documents/obj/wdb_99001558",
+"edmIsShownBy": "https://fotothek.slub-dresden.de/fotos/wdb/abb/9900000/wdb_abb_99001762.jpg",
+"guid": "https://www.europeana.eu/item/1010/item_XLGNYZH3SVPRZCF2SFW3L3YE3NIMTC6O?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1010_DDB_LBKS",
+"desc": [
+"Signatur: ZA, AH ()",
+"Auf seiner Suche nach einem Ort, wo Fontanes Wanderschuh zu sehne sein sollte fand der Reiseschriftsteller Francis Sauvage in der Prignitz einen Ort, der als L&uuml;genmuseum verehrt wurde. Schon die Anreise gestaltete sich als Abenteuer: Die Fahrt f&uuml;hrt durch die D&ouml;rfer Ohnewitz, Wassersu"
+]
+},
+{
+"id": "/2021606/resource_document_rijksmuseum_van_oudheden_AMM16a",
+"title": [
+"mummie ; reptiel ; krokodil ; dierenmummie"
+],
+"dataProvider": "National Museum of Antiquities",
+"provider": "Dutch Collections for Europe",
+"country": "Netherlands",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://hdl.handle.net/21.12126/21747",
+"edmIsShownBy": "http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&cache=yes&filename=017988.jpg",
+"guid": "https://www.europeana.eu/item/2021606/resource_document_rijksmuseum_van_oudheden_AMM16a?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2021606_DigitaleCollectie_RM_Oudheden",
+"desc": [
+"krokodil; mummie The mummy has been reinforced by a bundle of vegetable stalks (visible through holes in the back and tail) and at least one wooden stick (protruding at the caudal end), bound together with numerous concentric windings of palm rope. It was then wrapped in a large sheet of medium-fine"
+]
+},
+{
+"id": "/1488/item_LJCKGETGAMWJ6CBB4PHADRFTY4M76ESV",
+"title": [
+"Johann Hoff und Johann Hoff : Aegyptische Burleske mit antiken Couplets in 1 Akt ; nebst einem Nachspiele: Die Wunder des Malz-Extractes, in 11 lebenden Bildern mit verbindendem Couplet-Texte",
+"Johann Hoff und Johann Hoff"
+],
+"dataProvider": "Bavarian State Library",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "TEXT",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00057123-6",
+"edmIsShownBy": "http://daten.digitale-sammlungen.de/~de/0005/bsb00057123/images/bsb00057123_00001.jpg",
+"guid": "https://www.europeana.eu/item/1488/item_LJCKGETGAMWJ6CBB4PHADRFTY4M76ESV?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1488_DDB_BayerischeStaatsbibliothek_II",
+"desc": [
+"Libretto",
+"Enth. außerdem: Nachspiel. Die Wunder des Malzextractes. - Uraufführung: Berlin, Datum nicht ermittelt. - Akte: 1. - Szenen: 13. - Nummern: 4. - Rollen: Pharao, König von Aegypten (Hr. Schwarz); Nebukadnezar Hoff, Israelitischer Steinklopfer und erster Ersinder des Malz-Extractes (Hr. Kraft); Tubal ",
+"L'Arronge, Adolf, \"Salingré, Hermann\", in: Allgemeine Deutsche Biographie 30 (1890), S. 232 [Onlinefassung]",
+"Sänger: Hr. Schwarz, ... ; Hr. Kraft, ... ; Hr. Maynz, ... ; Frl. Dupré, ... ; Hr. Meyer, ... ; Frl. Teu, ... ; Hr. Limpert, ... ; Hr. Müllerstedt, ... ; Hr. Bierlich, ... ; Hr. Handtrag, ... ; Hr. Tesmar, ... ; Hr. Kreymeier, ..."
+]
+},
+{
+"id": "/15502/AE_INV_264",
+"title": [
+"Crocodile",
+"Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324028/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324028/AE_INV_264_46118.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_264?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_265",
+"title": [
+"Crocodile",
+"Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324029/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324029/AE_INV_265_46116.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_265?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_266",
+"title": [
+"Great crocodile",
+"Großes Krokodil"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/316270/",
+"edmIsShownBy": "http://imageapi.khm.at/images/316270/AE_INV_266_46113.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_266?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": []
+},
+{
+"id": "/15502/AE_INV_290",
+"title": [
+"Mumifizierter Körper eines kleinen Krokodils"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324057/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324057/AE_INV_290_03.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_290?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": [
+"Das Entstehen des Krokodil-Kultes lässt sich mit der Furcht vor diesem Tier und dem Versuch, das im und am Nil lebende Raubtier zu besänftigen, erklären. Sobek ist der wichtigste mit dem Krokodil verbundene Gott. Die Beziehung des Menschen zum Krokodil war eine sehr ambivalente: Einerseits wurde es ",
+"The emergence of the cult of crocodile can be explained by the fear of this animal and the attempt to appease the predator living in and on the Nile. Sobek is the most important god associated with the crocodile. The relationship between man and the crocodile was very ambivalent: on the one hand it "
+]
+},
+{
+"id": "/15502/AE_INV_292",
+"title": [
+"Mumie eines kleinen Krokodils"
+],
+"dataProvider": "Fine Arts Museum Vienna",
+"provider": "Kulturpool",
+"country": "Austria",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.khm.at/de/objektdb/detail/324059/",
+"edmIsShownBy": "http://imageapi.khm.at/images/324059/AE_INV_292_2.jpg",
+"guid": "https://www.europeana.eu/item/15502/AE_INV_292?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "15502_Ag_AT_Kulturpool_Khm",
+"desc": [
+"Das Entstehen des Krokodil-Kultes lässt sich mit der Furcht vor diesem Tier und dem Versuch, das im und am Nil lebende Raubtier zu besänftigen, erklären. Sobek ist der wichtigste mit dem Krokodil verbundene Gott. Die Beziehung des Menschen zum Krokodil war eine sehr ambivalente: Einerseits wurde es ",
+"The emergence of the cult of crocodile can be explained by the fear of this animal and the attempt to appease the predator living in and on the Nile. Sobek is the most important god associated with the crocodile. The relationship between man and the crocodile was very ambivalent: on the one hand it "
+]
+},
+{
+"id": "/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238",
+"title": [
+"Momie de crocodile",
+"Mummy of a young crocodile",
+"Mummie van een krokodil"
+],
+"dataProvider": "Royal Museums of Art and History, Brussels",
+"provider": "MUSEU",
+"country": "Belgium",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=fr&objectId=75238",
+"edmIsShownBy": "https://mpBruxellesMRAH.zetcom.com/MpWeb-mpBruxellesMRAH/images/75238.jpg",
+"guid": "https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "322_Museu_RMAH",
+"desc": [
+"number-of-objects: 1",
+"Cette momie de crocodile provient des fouilles de B. Grenfell et A. Hunt au Fayoum. Elle est enveloppée dans une étoffe de lin entouré d'un double fil. Les yeux sont fabriqués de cartonnage peint. L'étude radiographique démontre que l'objet est une contrefaçon antique constituant d'un matériel non-i",
+"This crocodile mummy was found during the excavations of Grenfell and Hunt in the Fayum. It is wrapped in linen and surrounded by a double wire. The eyes are made of painted cartonnage. Radiologic studies on the mummy have shown that it is actually an ancient forgery, made of an unidentified materia",
+"Deze krokodillenmummie is afkomstig uit de opgravingen van B. Grenfell en A. Hunt in de Fajoem. Hij is gewikkeld in een linnen stof omgeven door een dubbele draad. De ogen zijn gemaakt van beschilderd cartonnage. Radiografisch onderzoek toont aan dat het voorwerp een antieke vervalsing is die bestaa"
+]
+},
+{
+"id": "/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_84095",
+"title": [
+"Momie de jeune crocodile",
+"Mummy of a young crocodile",
+"Mummie van een jonge krokodil"
+],
+"dataProvider": "Royal Museums of Art and History, Brussels",
+"provider": "MUSEU",
+"country": "Belgium",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=fr&objectId=84095",
+"edmIsShownBy": "https://mpBruxellesMRAH.zetcom.com/MpWeb-mpBruxellesMRAH/images/84095.jpg",
+"guid": "https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_84095?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "322_Museu_RMAH",
+"desc": [
+"number-of-objects: 1"
+]
+},
+{
+"id": "/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_84096",
+"title": [
+"Momie de jeune crocodile",
+"Mummy of a young crocodile",
+"Mummie van een jonge krokodil"
+],
+"dataProvider": "Royal Museums of Art and History, Brussels",
+"provider": "MUSEU",
+"country": "Belgium",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=fr&objectId=84096",
+"edmIsShownBy": "https://mpBruxellesMRAH.zetcom.com/MpWeb-mpBruxellesMRAH/images/84096.jpg",
+"guid": "https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_84096?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "322_Museu_RMAH",
+"desc": [
+"number-of-objects: 1"
+]
+},
+{
+"id": "/91666/SMVK_EM_arkiv_3504473",
+"title": [
+"förteckning, lista"
+],
+"dataProvider": "Museum of Ethnography",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "TEXT",
+"year": null,
+"rights": [
+"http://creativecommons.org/publicdomain/zero/1.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-em/web/object/3504473",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-em/web/image/blob/3504475/TC_feb2013.pdf",
+"guid": "https://www.europeana.eu/item/91666/SMVK_EM_arkiv_3504473?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91666_Ag_SE_SwedishNationalHeritage_smvk_arkiv",
+"desc": [
+"Rosengren \n\n105.A-B Kris med balja   Bali Herman Rosengren \n\n106.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n107.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n108.A-B Kris med balja   Java eller Bali Herman Rosengren \n\n109 Huggkniv    Herman Rosengren \n\n110 Läder målad      \n\n1",
+"Jadeföremål, tväryxa av halvädelsten från ca. \n2000 år f. Kr.  \n\n1949-09-27 429 Cheribon, Java Sven Lehman \n\n197 Fertilitetsdocka av trä. \nGammal negerdocka, Ashanti, Nordafrika \n\n1925-10-06 224 Afrika G. Haglund \n\n198 Träskulptur     \n\n199 Träskulptur, modern 1948-10-12 426 Kenya Gustaf Rothman \n\n2",
+"fr årshögtid 1914    \n\n324 Mugg tillverkad för King Edward VIII:s kröning 1946-03-26 412  W. Swahn \n\n325 * Tavla -foto     \n\n326 Tavla m krona på ramen -foto av Gustaf VI \nAdolf \n\n    \n\n327 Tavla m krona på ramen -foto av prins Bertil     \n\n328 Tavla med text 1923   Gunnar Haglund \n\n329 Bordsstandar",
+"404 Ordförandeklubba gjord av fregatten Vanadis \nroder \n\n1944-01-11 389  S.C:son Poppelman \n\n405 Gipsbyst: Thorild Whulff     \n\n406 Spjutspets  \n26,3 x 2 cm \n\n1771  Nunavut, Canada Jan Lundqvist \n\n407 Parasoll     \n\n408 Tippu Tip, med låda och tillbehör, (svärd, \ntrumma) \n\n1923-02-06 93  Gustaf von ",
+"314 Kamerun, Afrika Gustaf Bolinder \n\n51 Bast, råmaterial  \nDansbälte av bast \n\n1933-03-16 316 Angola Gustaf Bolinder \n\n52 Väska för cocablad, Ijca-indianerna 1933-03-16 317 Sydamerika Gustaf Bolinder \n\n53 Keramikskål med två handtag \nlerkärl från Riffbergen \n\n1933-03-16 318 Amerika Gustaf Bolinder ",
+"träplatta. Utan ram.  \n\nKopparstick  \n1921-02-15 47  Skriftställare Waldemar \n\nSwahn \n\n264 Tavla –akvarell av eskimåkateketen G Kleist i \nGodhavn, Vestgrönland. Skänkt av Ossian \nElgström 1923-02-26 \n\n  Gothavn, Grönland av G Kleist \n\n265 Tavla i portfölj  \n10 st djupgrundraderingar. \n\n1931-02-03 28",
+"1984.5. Travellers Club    1984.5. \n\n Deponerade på EM sedan april 1979      \n\n     givare/tillverkare \n\nnr föremål till TC org nr lokal namn \n\n1 Spjutslungare, kastträ före 1924 3 Kimberly, Australien Erik Mjöberg \n2 Kastkäpp (bumerang) före 1924 4 Kimberly, Australien Erik Mjöberg \n\n3 Slagträ före",
+"Rosengren \n\n105.A-B Crisis with Bali Herman Rosengren \n\n106.A-B Crisis with a Balja Java or Bali Herman Rosengren \n\n107.A-B Crisis with a Balja Java or Bali Herman Rosengren \n\n108.A-B Crisis with a Balja Java or Bali Herman Rosengren \n\n109 Herman Rosengren \n\n110 Leather painted      \n\n111 Ceramic fi",
+"Jade objects, cross ax of the semi-precious stone from approx. \n2000 years Kr.  \n\n1949-09-27,429 Cheribon, Java Sven Lehman \n\n197 Wooden Fertility Doll \nOld Negro Doll, Ashanti, North Africa \n\n1925-10-06 224 Africa G. Haglund \n\n198 Wooden sculpture     \n\n199 Wooden sculpture, modern 1948-10-12,426 K"
+]
+},
+{
+"id": "/669/item_PAKHUFNRIOZHSSTBLWAQV37HLJHU5HXL",
+"title": [
+"Krokodilmumie"
+],
+"dataProvider": "Dresden State Art Collections. Sculpture collection",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "https://skd-online-collection.skd.museum/Details/Index/1296154",
+"edmIsShownBy": "http://skd-online-collection.skd.museum/imagescreate/image?id=1296154&type=gross",
+"guid": "https://www.europeana.eu/item/669/item_PAKHUFNRIOZHSSTBLWAQV37HLJHU5HXL?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "669_DDB_SKD",
+"desc": []
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011856",
+"title": [
+"Crocodile, Mummy, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011856",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005053/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011856?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Mummified and wrapped. Baby crocodile.",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Etnografiska museet",
+"Egypt",
+"MM 10133",
+"L. 99 cm",
+"0000.0006",
+"Head is loose.",
+"Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011857",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011857",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005065/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011857?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"L. 90.8 cm",
+"Egypt",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"2016.0001",
+"2020.0005",
+"Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928.",
+"Etnografiska museet",
+"MM 10134",
+"Mummified and wrapped. Baby crocodile.",
+"0000.0006",
+"Östergötlands museum"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016256",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016256",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013813/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016256?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"From the Retzius´ collection.",
+"MM 18413",
+"En mumifierad krokodilunge.",
+"Egypten, 1982-2012",
+"Mummified young crocodiles.",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"A mummified baby crocodile.",
+"Egyptian gallery 1, showcase 01:03",
+"Egypten 8.4",
+"New Egypt, 8, The way to eternal life",
+"L. 21.5 cm, W. 3.5 cm.",
+"Egypten, 2014-"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016257",
+"title": [
+"Mummy, Crocodile, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016257",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005201/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016257?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"MM 18411",
+"Egypt",
+"Mummified young crocodiles.",
+"L. 29.5 cm, W. 2.5 cm.",
+"Egypten, 1982-2012",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"New Egypt, 8, The way to eternal life",
+"Mumifierade krokodilungar.",
+"From the Retzius´ collection.",
+"Egyptian gallery 1, showcase 01:03",
+"Mummified baby crocodile. Unwrapped.",
+"Egypten, 2014-"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016258",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016258",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4014332/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016258?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"En mumifierad krokodilunge. Upplindad.",
+"Egypten, 2014-",
+"Mummified young crocodiles.",
+"Egypten 8.4",
+"A mummified baby crocodile. Unwrapped.",
+"Egyptian gallery 1, showcase 01:03",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"MM 18412",
+"New Egypt, 8, The way to eternal life",
+"L. 25.7 cm, W. 3 cm.",
+"Egypt",
+"Mumifierade krokodilungar."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016259",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016259",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005185/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016259?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Egypt",
+"L. 23.5 cm, W. 3.5 cm.",
+"En mumifierad krokodilunge. Avlindad.",
+"Egypten, 1982-2012",
+"A mummified baby crocodile. Unwrapped.",
+"New Egypt, 8, The way to eternal life",
+"From the Retzius´ collection.",
+"Egypten, 2014-",
+"Egyptian gallery 1, showcase 01:03",
+"Mummified young crocodiles.",
+"MM 18407",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016260",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016260",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013773/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016260?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Mummified young crocodiles.",
+"L. 24.2 cm, W. 4 cm.",
+"En mumifierad krokodilunge. Avlindad.",
+"From the Retzius´ collection.",
+"New Egypt, 8, The way to eternal life",
+"Egypten, 2014-",
+"Mumifierade krokodilungar.",
+"MM 18408",
+"Egypten 8.4",
+"A mummified baby crocodile. Unwrapped.",
+"Egypten, 1982-2012",
+"Egyptian gallery 1, showcase 01:03"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016261",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016261",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013783/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016261?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"From the Retzius´ collection.",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Egypt",
+"Egyptian gallery 1, showcase 01:03",
+"New Egypt, 8, The way to eternal life",
+"MM 18409",
+"Egypten 8.4",
+"Mumifierade krokodilungar.",
+"Egypten, 1982-2012",
+"Egypten, 2014-",
+"L. 25.7 cm, W. 3 cm.",
+"Mummified young crocodiles."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016262",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016262",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013858/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016262?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Egypt",
+"Mummified young crocodiles.",
+"New Egypt, 8, The way to eternal life",
+"Egypten, 1982-2012",
+"Egypten, 2014-",
+"L. 30 cm, W. 3.5 cm",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810.",
+"Mumifierade krokodilungar.",
+"Egypten 8.4",
+"A mummified baby crocodile. Three splints made of palmleaves and linen wrappings.",
+"MM 30721",
+"Egyptian gallery 1, showcase 01:03"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016279",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016279",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013788/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016279?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"MM 18410",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Mummified young crocodiles.",
+"Mumifierade krokodilungar.",
+"New Egypt, 8, The way to eternal life",
+"From the Retzius´ collection.",
+"En mumifierad krokodilunge.",
+"Egypten 8.4",
+"Egypt",
+"A mummified baby crocodile.",
+"Egypten, 2014-",
+"L. 29 cm, W. 4.5 cm"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011856",
+"title": [
+"Crocodile@eng, Mummy@eng, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011856",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757140/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011856?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified and wrapped. Baby crocodile.@eng",
+"MM 10133",
+"Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"Head is loose.@eng",
+"L. 99 cm",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011857",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011857",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757144/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011857?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified and wrapped. Baby crocodile.@eng",
+"MM 10134",
+"Gift from Dr. Otto Smith, 16 Jun 1933. Previously on loan since 1928.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 90.8 cm",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"2016.0001",
+"Ev. loan request Östergötlands Museum@eng",
+"Östergötlands museum"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011859",
+"title": [
+"Fragment@eng, Crocodile@eng, Mummy@eng, Krokodil, Fragment, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011859",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757156/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011859?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"S.N. E 0064",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. X-rayed together with MM 18415 and three baby crocodiles from the exhibition.@eng",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3015895",
+"title": [
+"Fragment@eng, Crocodile@eng, Mummy@eng, Krokodil, Fragment, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3015895",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3760532/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3015895?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"MM 30865",
+"In the catalogue \"pieces of a baby crocodile\" but the photo shows at least two baby crocodiles.@eng",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016255",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016255",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013843/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016255?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Without linen wrappings.@eng",
+"MM 19240",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012.@eng",
+"L. 19.5 cm, W. 3.8 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge. Utan linnebindlar.",
+"Egypten 8.4",
+"Mummified young crocodiles.@eng"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016256",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016256",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013813/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016256?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile.@eng",
+"MM 18413",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 21.5 cm, W. 3.5 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016257",
+"title": [
+"Mummy@eng, Crocodile@eng, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016257",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013798/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016257?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified baby crocodile. Unwrapped.@eng",
+"MM 18411",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 29.5 cm, W. 2.5 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"Mumifierad krokodilunge. Upplindad.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016258",
+"title": [
+"Crocodile@eng, Mummy@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016258",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013808/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016258?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Unwrapped.@eng",
+"MM 18412",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 25.7 cm, W. 3 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge. Upplindad.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016259",
+"title": [
+"Crocodile@eng, Mummy@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016259",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013763/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016259?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Unwrapped.@eng",
+"MM 18407",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 23.5 cm, W. 3.5 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge. Avlindad.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016260",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016260",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013768/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016260?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Unwrapped.@eng",
+"MM 18408",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 24.2 cm, W. 4 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge. Avlindad.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016261",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016261",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013778/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016261?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile without linen wrappings.@eng",
+"MM 18409",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 25.7 cm, W. 3 cm.",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"En mumifierad krokodilunge utan linnebindlar",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016262",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016262",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013858/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016262?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Three splints made of palmleaves and linen wrappings.@eng",
+"MM 30721",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810.@eng",
+"L. 30 cm, W. 3.5 cm",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"Egypten 8.4",
+"Mummified young crocodiles.@eng",
+"Mumifierade krokodilungar."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016279",
+"title": [
+"Crocodile@eng, Mummy@eng, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016279",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013788/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016279?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile.@eng",
+"MM 18410",
+"From the Retzius´ collection.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 29 cm, W. 4.5 cm",
+"Egypten, 2014-",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"En mumifierad krokodilunge.",
+"Egypten 8.4",
+"Mummified young crocodiles.@eng",
+"Mumifierade krokodilungar."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011859",
+"title": [
+"Crocodile, Fragment, Mummy, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011859",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005553/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011859?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"S.N. E 0064",
+"Etnografiska museet",
+"0000.0006",
+"Egypt",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. X-rayed together with MM 18415 and three baby crocodiles from the exhibition."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3015895",
+"title": [
+"Fragment, Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3015895",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3760532/representation",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3015895?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"0000.0006",
+"Egypt",
+"MM 30865",
+"Etnografiska museet",
+"In the catalogue \"pieces of a baby crocodile\" but the photo shows at least two baby crocodiles."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016255",
+"title": [
+"Mummy, Crocodile, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016255",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005289/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016255?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Egypten, 1982-2012",
+"L. 19.5 cm, W. 3.8 cm.",
+"Egypten, 2014-",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012.",
+"Egyptian gallery 1, showcase 01:03",
+"Mumifierade krokodilungar.",
+"Mummified young crocodiles.",
+"Egypt",
+"MM 19240",
+"En mumifierad krokodilunge. Utan linnebindlar.",
+"Egypten 8.4",
+"New Egypt, 8, The way to eternal life"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011831",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011831",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005505/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011831?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"0000.0006",
+"Mummified baby crocodile.",
+"Dep. from NM 1928. Gift from B. Cronstrand 1842.",
+"Etnografiska museet",
+"Egypt",
+"NME 797",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011834",
+"title": [
+"Mummy, Crocodile, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011834",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005513/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011834?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Egypt",
+"Dep. from NM 1928",
+"A mummified baby crocodile wrapped in linen.",
+"0000.0006",
+"NME 799",
+"Etnografiska museet",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011845",
+"title": [
+"Fragment, Mummy, Crocodile, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011845",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005181/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011845?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"MM 18406",
+"Egypt",
+"A mummified baby crocodile wrapped in linen.",
+"0000.0006",
+"L. 27.5 cm",
+"From the Retzius´ collection",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. In the same X-ray image as NME 797.",
+"Etnografiska museet",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011846",
+"title": [
+"Head, Mummy, Crocodile, Huvud, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011846",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757068/representation",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011846?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"0000.0006",
+"Egypt",
+"MM 18415",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Etnografiska museet",
+"From the Retzius´ collection",
+"L. 5.3 cm",
+"Mummified head of a baby crocodile.",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3011847",
+"title": [
+"Mummy, Fragment, Crocodile, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3011847",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3757072/representation",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3011847?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Etnografiska museet",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Dep. from NM 1928",
+"Egypt",
+"A bunch of young crocodiles wrapped in linen.",
+"NME 796",
+"0000.0006",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3015891",
+"title": [
+"Crocodile, Fragment, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3015891",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/3760504/representation",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3015891?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Etnografiska museet",
+"0000.0006",
+"Egypt",
+"A mummified baby crocodile without head.",
+"From the Retzius´ collection",
+"MM 18414",
+"The head is missing.",
+"L. 18.2 cm",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016253",
+"title": [
+"Crocodile, Mummy, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016253",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4005625/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016253?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"L. 69 cm, W. 6.7 cm",
+"Mummified young crocodiles.",
+"Egypten, 2014-",
+"Mummified crocodile baby.",
+"Mumifierade krokodilungar.",
+"Tip of the tail is missing.",
+"Found at Riksmuseet. The staff there removed the linen wrapping in 1983. The linen is now kept in a cold room at Etnografiska museet, box MM:1.\nX-rayed at Karolinska Sjukhuset 21st of May 2012.",
+"Egyptian gallery 1, showcase 01:03",
+"Egypten, 1982-2012",
+"Egypt",
+"Egypten 8.4",
+"New Egypt, 8, The way to eternal life"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016254",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016254",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4048636/MME+1977%3B002%282%29.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016254?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"New Egypt, 8, The way to eternal life",
+"Mummified baby crocodile without linen wraps.",
+"Gift from Mrs A. Müller-Feldmann, Bad Neuenahr, Germany.",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810.",
+"Egyptian gallery 1, showcase 01:03",
+"Mumifierad krokodilunge utan linnebindlar.",
+"Egypten, 1982-2012",
+"Egypten 8.4",
+"Mumifierade krokodilungar.",
+"Egypt",
+"Mummified young crocodiles.",
+"L. 46 cm"
+]
+},
+{
+"id": "/91639/SMVK_MM_objekt_3016263",
+"title": [
+"Crocodile, Mummy, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://collections.smvk.se/carlotta-mhm/web/object/3016263",
+"edmIsShownBy": "https://collections.smvk.se/carlotta-mhm/web/image/zoom/4013873/image.jpg",
+"guid": "https://www.europeana.eu/item/91639/SMVK_MM_objekt_3016263?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91639_Ag_SE_SwedishNationalHeritage_smvk_mm",
+"desc": [
+"Egypten, 1982-2012",
+"Egypt",
+"New Egypt, 8, The way to eternal life",
+"Mumifierade krokodilungar.",
+"A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose.",
+"Mummified young crocodiles.",
+"L. 29 cm, W. 2.5 cm",
+"MM 30810",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.",
+"Egyptian gallery 1, showcase 01:03",
+"Egypten, 2014-",
+"Egypten 8.4"
+]
+},
+{
+"id": "/916105/bhm_object_UM000548",
+"title": [
+"Mumie",
+"Mumie",
+"Mumie"
+],
+"dataProvider": "Bohuslän Museum",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-nd/4.0/"
+],
+"edmIsShownAt": "https://digitaltmuseum.se/011024262585",
+"edmIsShownBy": "https://mm.dimu.org/image/012sA3s9C8DA?dimension=1200x1200",
+"guid": "https://www.europeana.eu/item/916105/bhm_object_UM000548?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "916105_SOCH_va_bm_media",
+"desc": [
+"Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilarmerad klisterremsa.\n\nUr Knut Adrian Anderssons katalog II\nUddevalla - Musei - Historiska - Samlingar: E: Utländska föremål\nDe Etnografiska föremålen u",
+"Krokodilerna kommer från den antika egyptiska staden El-Maabdeh som var platsen för en av de äldsta krokodilnekropolerna i det forntida Egypten. På Nilens östra sida, uppe på en platå, låg gravplatsen som även innehöll mumier av människor. El-Maabdeh upptäcktes officiellt (?) 1873 av den italienska ",
+"Two mummified crocodile cubs, one in their linen. The mummies are in an oblong glass box, the corners and edges of which are joined together with a blue textile-reinforced strip.\n\nFrom Knut Adrian Andersson’s Catalogue II\nUddevalla - Musei - Historic - Collections: E: Foreign objects\nThe Ethnographi",
+"The crocodiles come from the ancient Egyptian city of El-Maabdeh which was the site of one of the oldest crocodile necropolises in ancient Egypt. On the eastern side of the Nile, on a plateau, was the burial ground, which also contained mummies of humans. El-Maabdeh was officially discovered (?) in "
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011831",
+"title": [
+"Crocodile@eng, Mummy@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011831",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757000/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011831?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified baby crocodile.@eng",
+"NME 797",
+"Dep. from NM 1928. Gift from B. Cronstrand 1842.@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011834",
+"title": [
+"Crocodile@eng, Mummy@eng, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011834",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757016/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011834?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile wrapped in linen.@eng",
+"NME 799",
+"Dep. from NM 1928@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011845",
+"title": [
+"Fragment@eng, Crocodile@eng, Mummy@eng, Krokodil, Mumie, Fragment"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011845",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757064/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011845?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile wrapped in linen.@eng",
+"MM 18406",
+"From the Retzius´ collection@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012. In the same X-ray image as NME 797.@eng",
+"L. 27.5 cm",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011846",
+"title": [
+"Head@eng, Mummy@eng, Crocodile@eng, Huvud, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011846",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757068/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011846?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified head of a baby crocodile.@eng",
+"MM 18415",
+"From the Retzius´ collection@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 5.3 cm",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3011847",
+"title": [
+"Fragment@eng, Mummy@eng, Crocodile@eng, Krokodil, Mumie, Fragment"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3011847",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3757072/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3011847?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A bunch of young crocodiles wrapped in linen.@eng",
+"NME 796",
+"Dep. from NM 1928@eng",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Deposition från Nationalmuseum 1928."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3015891",
+"title": [
+"Crocodile@eng, Fragment@eng, Mummy@eng, Krokodil, Fragment, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3015891",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3760504/representation",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3015891?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile without head.@eng",
+"MM 18414",
+"From the Retzius´ collection@eng",
+"The head is missing.@eng",
+"L. 18.2 cm",
+"Egypt@eng",
+"0000.0006",
+"Etnografiska museet",
+"Från Retzius samling."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016253",
+"title": [
+"Crocodile@eng, Mummy@eng, Krokodil, Mumie"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016253",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013918/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016253?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified crocodile baby.@eng",
+"MME 1983:013 A",
+"Gift from Riksmuseet. Riksmuseet received the crocodile as a gift from Baltzar Cronstrand in 1842.@eng",
+"Found at Riksmuseet. The staff there removed the linen wrapping in 1983. The linen is now kept in a cold room at Etnografiska museet, box MM:1.\nX-rayed at Karolinska Sjukhuset 21st of May 2012.@eng",
+"Tip of the tail is missing.@eng",
+"L. 69 cm, W. 6.7 cm",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"Mumifierad krokodilunge."
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016254",
+"title": [
+"Mummy@eng, Crocodile@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016254",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4048641/MME+1977%3B002%281%29.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016254?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"Mummified baby crocodile without linen wraps.@eng",
+"MME 1977:002",
+"Gift from Mrs A. Müller-Feldmann, Bad Neuenahr, Germany.@eng",
+"X-rayed at Karolinska Sjukhuset 21st of May 2012. In the same X-ray image as MM 30810.@eng",
+"L. 46 cm",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"Mumifierad krokodilunge utan linnebindlar.",
+"Egypten 8.4"
+]
+},
+{
+"id": "/91644/SMVK_MM_Egypt_3016263",
+"title": [
+"Crocodile@eng, Mummy@eng, Mumie, Krokodil"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3016263",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/4013868/image.jpg",
+"guid": "https://www.europeana.eu/item/91644/SMVK_MM_Egypt_3016263?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91644_SwedishNationalHeritage_smvk_mmeg",
+"desc": [
+"A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose.@eng",
+"MM 30810",
+"X-rayed at Karolinska Sjukhuset by Dr. Johan Henriksson 21st of May 2012.@eng",
+"L. 29 cm, W. 2.5 cm",
+"Egypten, 2014-",
+"Egypten, 1982-2012",
+"Egypt@eng",
+"New Egypt, 8, The way to eternal life",
+"Egyptian gallery 1, showcase 01:03",
+"Egypten 8.4",
+"Mummified young crocodiles.@eng",
+"Mumifierade krokodilungar."
+]
+},
+{
+"id": "/91640/SMVK_MM_Photograph_3910030",
+"title": [
+"Photograph",
+"Photograph"
+],
+"dataProvider": "The Museum of Mediterranean and Near Eastern Antiquities",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": [
+"1999"
+],
+"rights": [
+"http://creativecommons.org/licenses/by-nc-nd/2.5/"
+],
+"edmIsShownAt": "http://collections.smvk.se/carlotta-mhm/web/object/3910030",
+"edmIsShownBy": "http://collections.smvk.se/carlotta-mhm/web/image/zoom/3617249/representation",
+"guid": "https://www.europeana.eu/item/91640/SMVK_MM_Photograph_3910030?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "91640_Ag_SE_SwedishNationalHeritage_smvk-mmfoto",
+"desc": [
+"Mumie av krokodil.",
+"Neg 380A, 1653F",
+"0496G",
+"Neg 380A, 1653F",
+"0496G",
+"Neg 380A, 1653F",
+"0496G"
+]
+}
+]
+}

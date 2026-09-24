@@ -1,0 +1,29 @@
+{
+"query": "\"momia de cocodrilo\"",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/2022703/pages_Main_idt_51_inventary_15123_table_FMUS_museum_MAN",
+"title": [
+"Momia de cocodrilo"
+],
+"dataProvider": "National Archaeological Museum",
+"provider": "Hispana",
+"country": "Spain",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://ceres.mcu.es/pages/Main?idt=51&inventary=15123&table=FMUS&museum=MAN",
+"edmIsShownBy": "http://ceres.mcu.es/pages/Viewer?raw=y&accion=42&AMuseo=MAN&img=/MAN/fondos_pre/MANF15123_P.JPG&Ninv=15123",
+"guid": "https://www.europeana.eu/item/2022703/pages_Main_idt_51_inventary_15123_table_FMUS_museum_MAN?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2022703_Ag_ES_Hispana_eseceres",
+"desc": [
+"Momia de cocodrilo, animal simbólico del dios Sobek. Los ojos y la boca están marcados con lino y su cuerpo está vendado con tiras formando rombos siguiendo la tradicional momificación llevada a cabo por los romanos. La radiografía de la momia nos permite ver en el interior de los vendajes los resto"
+]
+}
+]
+}

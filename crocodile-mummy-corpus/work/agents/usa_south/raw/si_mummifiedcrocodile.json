@@ -1,0 +1,490 @@
+{
+  "status": 200,
+  "responseCode": 1,
+  "response": {
+    "rows": [
+      {
+        "id": "ld1-1643407023501-1643407064923-0",
+        "title": "Mummified Reptiles",
+        "unitCode": "NMNHANTHRO",
+        "type": "edanmdm",
+        "url": "edanmdm:nmnhanthropology_8325979",
+        "content": {
+          "freetext": {
+            "date": [
+              {
+                "label": "Accession Date",
+                "content": "1991"
+              }
+            ],
+            "name": [
+              {
+                "label": "Donor Name",
+                "content": "No Information"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Notes",
+                "content": "ONE BOX OF MUMMIFIED REPTILES (INCL. CROCODILES) WITH TEXTILE WRAPPINGS. MIGHT BE FROM CATALOGUE #S 1563 - 1565?"
+              },
+              {
+                "label": "Notes",
+                "content": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for 4 crocodile mummies with this number, 2011: Mummified crocodile group, 332 B.C.-A.D. 250. Dozens of crocodile hatchlings emerge from the nest together, and mummy groups like these that mimic nature were fairly common. The varied quality of the linen wrappings probably means that priests used leftover bits of fabric to wrap the crocodiles."
+              },
+              {
+                "label": "Record Last Modified",
+                "content": "18 Oct 2017"
+              },
+              {
+                "label": "Specimen Count",
+                "content": "50"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place",
+                "content": "Egypt, Africa"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "Archaeology"
+              }
+            ],
+            "culture": [
+              {
+                "label": "Culture",
+                "content": "Ancient Egyptian"
+              }
+            ],
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "Anthropology"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "NMNH - Anthropology Dept."
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Accession Number",
+                "content": "999999"
+              },
+              {
+                "label": "USNM Number",
+                "content": "AT5604-0"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Object Type",
+                "content": "Animal Mummy"
+              }
+            ]
+          },
+          "indexedStructured": {
+            "date": [
+              "1990s"
+            ],
+            "name": [
+              "No Information"
+            ],
+            "place": [
+              "Africa",
+              "Egypt"
+            ],
+            "topic": [
+              "Archaeology",
+              "Anthropology"
+            ],
+            "culture": [
+              "Egyptians"
+            ],
+            "geoLocation": [
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "Africa"
+                },
+                "L2": {
+                  "type": "Country",
+                  "content": "Egypt"
+                }
+              }
+            ],
+            "object_type": [
+              "Animals",
+              "Mummies"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "descriptiveNonRepeating": {
+            "guid": "http://n2t.net/ark:/65665/3ff0f7649-3cb7-4016-ba07-c184a54e5f29",
+            "title": {
+              "label": "title",
+              "content": "Mummified Reptiles"
+            },
+            "record_ID": "nmnhanthropology_8325979",
+            "unit_code": "NMNHANTHRO",
+            "title_sort": "MUMMIFIED REPTILES",
+            "data_source": "NMNH - Anthropology Dept.",
+            "record_link": "http://n2t.net/ark:/65665/3ff0f7649-3cb7-4016-ba07-c184a54e5f29",
+            "metadata_usage": {
+              "access": "CC0"
+            }
+          }
+        },
+        "hash": "91d2089b890d16c332923fbfedc11ef3983d26ce",
+        "docSignature": "16ec8ef60a5879a9f0b702c769850e1e",
+        "timestamp": "1663781739",
+        "lastTimeUpdated": "1734465139",
+        "version": "1734438687"
+      },
+      {
+        "id": "ld1-1643407023501-1643407060748-0",
+        "title": "Mummied Crocodile",
+        "unitCode": "NMNHANTHRO",
+        "type": "edanmdm",
+        "url": "edanmdm:nmnhanthropology_8314204",
+        "content": {
+          "freetext": {
+            "date": [
+              {
+                "label": "Accession Date",
+                "content": "1885"
+              }
+            ],
+            "name": [
+              {
+                "label": "Donor Name",
+                "content": "Dr. George W. Samson"
+              },
+              {
+                "label": "Site Name",
+                "content": "Thebes"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Notes",
+                "content": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for this artifact, 2011: Mummified crocodile, 332-30 B.C. Priests took great care with these wrappings, modeling the head, nostrils and eyes in linen and covering the body in a crisscross pattern secured by linen thread. The remains inside look less impressive: a flattened crocodile, possibly a hatchling, covered with resin."
+              },
+              {
+                "label": "Record Last Modified",
+                "content": "20 Aug 2017"
+              },
+              {
+                "label": "Specimen Count",
+                "content": "1"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place",
+                "content": "Qena, Upper Egypt, Egypt, Africa"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "Archaeology"
+              }
+            ],
+            "culture": [
+              {
+                "label": "Culture",
+                "content": "Ancient Egyptian"
+              }
+            ],
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "Anthropology"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "NMNH - Anthropology Dept."
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Accession Number",
+                "content": "015645"
+              },
+              {
+                "label": "USNM Number",
+                "content": "A74579-0"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Object Type",
+                "content": "Animal Mummy"
+              }
+            ]
+          },
+          "indexedStructured": {
+            "date": [
+              "1880s"
+            ],
+            "name": [
+              "Dr. George W. Samson"
+            ],
+            "place": [
+              "Qena",
+              "Africa",
+              "Egypt",
+              "Upper Egypt"
+            ],
+            "topic": [
+              "Archaeology",
+              "Anthropology"
+            ],
+            "culture": [
+              "Egyptians"
+            ],
+            "geoLocation": [
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "Africa"
+                },
+                "L2": {
+                  "type": "Country",
+                  "content": "Egypt"
+                },
+                "L3": {
+                  "type": "State",
+                  "content": "Upper Egypt"
+                },
+                "L4": {
+                  "type": "County",
+                  "content": "Qena"
+                }
+              }
+            ],
+            "object_type": [
+              "Animals",
+              "Mummies"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "descriptiveNonRepeating": {
+            "guid": "http://n2t.net/ark:/65665/316ca3ab2-b419-49f7-be87-a0961d53fc75",
+            "title": {
+              "label": "title",
+              "content": "Mummied Crocodile"
+            },
+            "record_ID": "nmnhanthropology_8314204",
+            "unit_code": "NMNHANTHRO",
+            "title_sort": "MUMMIED CROCODILE",
+            "data_source": "NMNH - Anthropology Dept.",
+            "record_link": "http://n2t.net/ark:/65665/316ca3ab2-b419-49f7-be87-a0961d53fc75",
+            "metadata_usage": {
+              "access": "CC0"
+            }
+          }
+        },
+        "hash": "6070cfe52d6cbc451bfa37a5bc6c510e91d17fa0",
+        "docSignature": "47af975bec15f2446ed151b1435ac389",
+        "timestamp": "1663781739",
+        "lastTimeUpdated": "1734465139",
+        "version": "1734438687"
+      },
+      {
+        "id": "ld1-1643406903964-1643406916537-0",
+        "title": "Small Bull Mummy/1",
+        "unitCode": "NMNHANTHRO",
+        "type": "edanmdm",
+        "url": "edanmdm:nmnhanthropology_8162347",
+        "content": {
+          "freetext": {
+            "date": [
+              {
+                "label": "Accession Date",
+                "content": "4 Jun 1956"
+              }
+            ],
+            "name": [
+              {
+                "label": "Collector",
+                "content": "Dr. H. Abbott"
+              },
+              {
+                "label": "Donor Name",
+                "content": "Brooklyn Museum"
+              },
+              {
+                "label": "Site Name",
+                "content": "Dashur (Dahshur)"
+              }
+            ],
+            "notes": [
+              {
+                "label": "Notes",
+                "content": "From card: \"Late Ptolemaic to Early Roman Period (200 B.C. - 200 A.D.)\" See accession history for detailed info. on collection/donation of this artifact and the others in this collection."
+              },
+              {
+                "label": "Notes",
+                "content": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for this artifact, 2011: Bull mummy, 300 B.C.-A.D. 400. Although at least nine layers of wrappings protect this bull, the x-ray below reveals only a jumble of bones inside. Some scholars suggest that priests or the king ate the meat to partake of the god's powers. Embalmers mummified the head, however, and held a ritual to allow the bull to see, eat, and hear forever. Divine Bull. This bull lived like a god in a special stable within the temple walls. Priests massaged his body, decorated his horns with ornaments of silver, and even sang to him. Egyptians saw him as a living manifestation of a god, and worshippers filled the temple daily to honor him. When the bull died, Egyptians believed he went on to eternal life, and a young bull with the same distinctive markings took his place. Many temples honored other sacred animals - for example, crocodiles that embodied the god Sobek in the temple at Kom Ombo, and cats of Bastet at Bubastis. When a divine bull died, the entire region fell into mourning. Priests held an elaborate funeral and buried him in an underground niche."
+              },
+              {
+                "label": "Record Last Modified",
+                "content": "1 Apr 2025"
+              },
+              {
+                "label": "Specimen Count",
+                "content": "1"
+              }
+            ],
+            "place": [
+              {
+                "label": "Place",
+                "content": "Dashur (Dahshur), Lower Egypt, Egypt, Africa"
+              }
+            ],
+            "topic": [
+              {
+                "label": "Topic",
+                "content": "Archaeology"
+              }
+            ],
+            "culture": [
+              {
+                "label": "Culture",
+                "content": "Late Ptolemaic/Roman"
+              }
+            ],
+            "setName": [
+              {
+                "label": "See more items in",
+                "content": "Anthropology"
+              }
+            ],
+            "dataSource": [
+              {
+                "label": "Data Source",
+                "content": "NMNH - Anthropology Dept."
+              }
+            ],
+            "identifier": [
+              {
+                "label": "Accession Number",
+                "content": "209589"
+              },
+              {
+                "label": "USNM Number",
+                "content": "A413942-0"
+              }
+            ],
+            "objectType": [
+              {
+                "label": "Object Type",
+                "content": "Animal Mummy"
+              }
+            ],
+            "physicalDescription": [
+              {
+                "label": "Height - Object",
+                "content": "86 cm"
+              },
+              {
+                "label": "Depth - Object",
+                "content": "89 cm"
+              },
+              {
+                "label": "Width - Object",
+                "content": "113.5 cm"
+              }
+            ]
+          },
+          "indexedStructured": {
+            "date": [
+              "1950s"
+            ],
+            "name": [
+              "Dr. H. Abbott",
+              "Brooklyn Museum"
+            ],
+            "place": [
+              "Dashur (Dahshur)",
+              "Africa",
+              "Egypt",
+              "Lower Egypt"
+            ],
+            "topic": [
+              "Archaeology",
+              "Anthropology"
+            ],
+            "culture": [
+              "Egyptians",
+              "Romans"
+            ],
+            "geoLocation": [
+              {
+                "L1": {
+                  "type": "Continent",
+                  "content": "Africa"
+                },
+                "L2": {
+                  "type": "Country",
+                  "content": "Egypt"
+                },
+                "L3": {
+                  "type": "State",
+                  "content": "Lower Egypt"
+                },
+                "L4": {
+                  "type": "County",
+                  "content": "Dashur (Dahshur)"
+                }
+              }
+            ],
+            "object_type": [
+              "Animals",
+              "Mummies"
+            ],
+            "online_media_type": [
+              "Images"
+            ]
+          },
+          "descriptiveNonRepeating": {
+            "guid": "http://n2t.net/ark:/65665/342451350-d66c-4bd3-b366-ddff424e50ac",
+            "title": {
+              "label": "title",
+              "content": "Small Bull Mummy/1"
+            },
+            "record_ID": "nmnhanthropology_8162347",
+            "unit_code": "NMNHANTHRO",
+            "title_sort": "SMALL BULL MUMMY1",
+            "data_source": "NMNH - Anthropology Dept.",
+            "record_link": "http://n2t.net/ark:/65665/342451350-d66c-4bd3-b366-ddff424e50ac",
+            "metadata_usage": {
+              "access": "CC0"
+            }
+          }
+        },
+        "hash": "3bbbcfbba54c4828f2079b5564bfe3c316f3dc50",
+        "docSignature": "4744e2222c4da073803e88299d74f4e4",
+        "timestamp": "1663781636",
+        "lastTimeUpdated": "1755728229",
+        "version": "1755685693"
+      }
+    ],
+    "facets": {},
+    "rowCount": 3,
+    "message": "content found"
+  }
+}

@@ -1,0 +1,27 @@
+{
+"query": "krokodilmumie",
+"profile": "standard",
+"total": 1,
+"fetched": 1,
+"items": [
+{
+"id": "/669/item_PAKHUFNRIOZHSSTBLWAQV37HLJHU5HXL",
+"title": [
+"Krokodilmumie"
+],
+"dataProvider": "Dresden State Art Collections. Sculpture collection",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "https://skd-online-collection.skd.museum/Details/Index/1296154",
+"edmIsShownBy": "http://skd-online-collection.skd.museum/imagescreate/image?id=1296154&type=gross",
+"guid": "https://www.europeana.eu/item/669/item_PAKHUFNRIOZHSSTBLWAQV37HLJHU5HXL?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "669_DDB_SKD",
+"desc": []
+}
+]
+}

@@ -1,0 +1,89 @@
+{
+"query": "Suchos",
+"profile": "standard",
+"total": 3,
+"fetched": 3,
+"items": [
+{
+"id": "/199/item_J26GVCCNBIUZIUK2QRWGEDUPDENLWESE",
+"title": [
+"Kôm Ombo, Grundriss des Tempels des Heroeris und Suchos"
+],
+"dataProvider": "German Documentation Center for Art History - Marburg Picture Index",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://www.bildindex.de/document/obj20801425",
+"edmIsShownBy": "http://www.bildindex.de/bilder/d/ae00070f08",
+"guid": "https://www.europeana.eu/item/199/item_J26GVCCNBIUZIUK2QRWGEDUPDENLWESE?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "199_DDB_BildarchivFotoMarburg",
+"desc": []
+},
+{
+"id": "/77/Kulturen_objekt_33881",
+"title": [
+"crocodile, figure",
+"krokodil, figur",
+"krokodil, figur"
+],
+"dataProvider": "Kulturen",
+"provider": "Swedish Open Cultural Heritage",
+"country": "Sweden",
+"type": "IMAGE",
+"year": [
+"1927"
+],
+"rights": [
+"http://creativecommons.org/licenses/by-nc-nd/4.0/"
+],
+"edmIsShownAt": "http://carl.kulturen.com/web/object/33881",
+"edmIsShownBy": "http://carl.kulturen.com/web/image/zoom/408697/32583_000_01.jpg",
+"guid": "https://www.europeana.eu/item/77/Kulturen_objekt_33881?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "77_Ag_SE_SwedishNationalHeritage_ca_kulturen",
+"desc": [
+"description/notes: KM 32583. The crocodile Suchos, terracotta. do [Ptol. rom. time] The collection number 32134-32767 has come from Cairo to Copenhagen and was bought for funds from Countess W. v. Hallwyl, disponent H. Duncker, f. city fish N. Aschan and prefect P. Pettersson.\nSimultaneous Acquisiti",
+"The collection (KM 32134-32767) has come from Cairo to Copenhagen and has been purchased for funds cut by Countess W. v. Hallwyl, disponent H. Duncker, f. city fish N. Aschan and prefect P. Pettersson.",
+"32134-32767",
+"beskrivning/anteckningar: KM 32583. Krokodilen Suchos, terrakotta. do [Ptol. rom. tid]. Samlingen nr 32134-32767 har kommit från Kairo till Köpenhamn och där inköpts för medel skänkta av grevinnan W. v. Hallwyl, disponent H. Duncker, f. stadsfiskal N. Aschan samt disponent P. Pettersson.\nsamtidiga f",
+"Samlingen (KM 32134-32767) har kommit från Kairo till Köpenhamn och där inköpts för medel skänkta av grevinnan W. v. Hallwyl, disponent H. Duncker, f. stadsfiskal N. Aschan samt disponent P. Pettersson.",
+"Dyrkades i Faijum med dess sjö- och träskdistrikt. Där fanns ett tempel, helgad åt guden.",
+"32134-32767",
+"beskrivning/anteckningar: KM 32583. Krokodilen Suchos, terrakotta. do [Ptol. rom. tid]. Samlingen nr 32134-32767 har kommit från Kairo till Köpenhamn och där inköpts för medel skänkta av grevinnan W. v. Hallwyl, disponent H. Duncker, f. stadsfiskal N. Aschan samt disponent P. Pettersson.\nsamtidiga f",
+"Samlingen (KM 32134-32767) har kommit från Kairo till Köpenhamn och där inköpts för medel skänkta av grevinnan W. v. Hallwyl, disponent H. Duncker, f. stadsfiskal N. Aschan samt disponent P. Pettersson.",
+"Dyrkades i Faijum med dess sjö- och träskdistrikt. Där fanns ett tempel, helgad åt guden.",
+"32134-32767",
+"köp"
+]
+},
+{
+"id": "/0940434/_nn37hr7",
+"title": [
+"'King of Poland and Master of Prussia’: coins of Poland. Vol. 1",
+"Coins of Poland",
+"\"King of Poland and Master of Prussia\" : coins of Poland. Vol. 1",
+"Coins of Poland"
+],
+"dataProvider": "Kuyavian-Pomeranian Digital Library",
+"provider": "Digital Libraries Federation",
+"country": "Poland",
+"type": "TEXT",
+"year": [
+"1920"
+],
+"rights": [
+"http://creativecommons.org/publicdomain/mark/1.0/"
+],
+"edmIsShownAt": "http://fbc.pionier.net.pl/id/oai:kpbc.umk.pl:88362",
+"edmIsShownBy": "http://kpbc.umk.pl/Content/88362/Magazyn_121_20_010_0001.djvu",
+"guid": "https://www.europeana.eu/item/0940434/_nn37hr7?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "0940434_Ag_PL_kpbc.umk.pl",
+"desc": [
+"[16] s."
+]
+}
+]
+}

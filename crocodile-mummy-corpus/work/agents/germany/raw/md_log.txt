@@ -1,0 +1,10 @@
+msg: {'status': 'Error', 'msg': 'There are no results for this query.'}
+# query='Tiermumie' instance=global total=None fetched=0
+# query='Mumie' instance=global total=135 fetched=135
+# query='Krokodilsmumie' instance=global total=1 fetched=1
+# query='crocodile mummy' instance=global total=1 fetched=1
+# query='crocodile' instance=global total=20 fetched=20
+# query='Sobek' instance=global total=10 fetched=10
+# query='Suchos' instance=global total=1 fetched=1
+# query='Crocodylus' instance=global total=5 fetched=5
+# query='mumifiziert' instance=global total=11 fetched=11

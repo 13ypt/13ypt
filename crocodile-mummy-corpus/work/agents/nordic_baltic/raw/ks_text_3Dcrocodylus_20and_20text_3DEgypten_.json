@@ -1,0 +1,106 @@
+[
+ {
+  "uri": "http://kulturarvsdata.se/SMVK-EM/objekt/1603139",
+  "url": "https://collections.smvk.se/carlotta-em/web/object/1603139",
+  "label": "snöre, myskkörtel, string, gland",
+  "org": "SMVK-EM",
+  "desc": [
+   [
+    "Beskrivning",
+    "Snöre med krokodilmyskkörtlar. Övre Blå Nilen. Sudan. Schilluk (Generalkatalogen)"
+   ],
+   [
+    "Geografiskt namn / annat",
+    "Sudan"
+   ],
+   [
+    "Geografiskt namn / annat",
+    "Östafrika"
+   ],
+   [
+    "Land / engelska",
+    "South Sudan"
+   ],
+   [
+    "Land / engelska",
+    "Sudan"
+   ],
+   [
+    "Händelse / var närvarande vid",
+    "Expedition till Vita Nilen (1900-1901)"
+   ]
+  ],
+  "names": [
+   [
+    "Sakord",
+    "snöre"
+   ],
+   [
+    "Sakord",
+    "myskkörtel"
+   ],
+   [
+    "Sakord, engelska",
+    "string"
+   ],
+   [
+    "Sakord, engelska",
+    "gland"
+   ]
+  ],
+  "numbers": [
+   [
+    "Inventarienummer",
+    "1901.20.0014"
+   ]
+  ],
+  "meas": [],
+  "ctx": [
+   {
+    "contextLabel": "Insamlad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Jägerskiöld, Leonard Axel Krister Edvard",
+    "intermediary": "http://kulturarvsdata.se/SMVK-EM/name/1177149"
+   },
+   {
+    "contextLabel": "Förvärvad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#transact",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "fromTime": "1901",
+    "toTime": "1901"
+   },
+   {
+    "contextLabel": "Brukad",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "name": "Shilluk",
+    "user": "http://www.wikidata.org/entity/Q1134682"
+   },
+   {
+    "contextLabel": "Ursprung",
+    "contextType": "http://kulturarvsdata.se/resurser/ContextType#use",
+    "contextSuperType": "http://kulturarvsdata.se/resurser/ContextSuperType#interact",
+    "country": "http://kulturarvsdata.se/resurser/aukt/geo/country#ss",
+    "continentName": "Afrika",
+    "countryName": "Sudan, Sydsudan",
+    "placeName": "Upper Nile State"
+   }
+  ],
+  "images": [],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ },
+ {
+  "uri": "http://kulturarvsdata.se/bhm/object/UM000548",
+  "url": "https://digitaltmuseum.se/011024262585",
+  "label": "Mumie",
+  "org": "bhm",
+  "desc": [],
+  "names": [],
+  "numbers": [],
+  "meas": [],
+  "ctx": [],
+  "images": [],
+  "itemLicense": "http://kulturarvsdata.se/resurser/License#cc0"
+ }
+]

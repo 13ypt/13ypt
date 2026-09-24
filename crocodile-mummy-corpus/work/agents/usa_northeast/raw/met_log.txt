@@ -1,0 +1,4 @@
+crocodile mummy 10 1
+crocodile mummy None 7
+crocodile 10 1
+crocodile None 653
