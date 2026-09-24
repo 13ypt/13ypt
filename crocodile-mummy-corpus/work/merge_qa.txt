@@ -16,6 +16,9 @@ INST-IT-002: 3 object(s) without inventory number among 3 — check duplicates: 
 INST-NO-002: 2 object(s) without inventory number among 2 — check duplicates: ['INST-NO-002-O001', 'INST-NO-002-O002']
 POSSIBLE SAME INSTITUTION: 'DK|national museum of denmark' ~ 'DK|national museum of denmark collection of classical and near eastern antiquities'
 POSSIBLE SAME INSTITUTION: 'EG|akoris archaeological site chapel e storeroom' ~ 'EG|akoris archaeological site chapel e storeroom western temple'
+POSSIBLE SAME INSTITUTION: 'ES|national archaeological museum' ~ 'ES|national archaeological museum of spain'
+POSSIBLE SAME INSTITUTION: 'FR|musee des beaux arts et d archeologie' ~ 'FR|musee des beaux arts et d archeologie de besancon'
+POSSIBLE SAME INSTITUTION: 'FR|musee municipal' ~ 'FR|musee municipal de sens'
 POSSIBLE SAME INSTITUTION: 'SE|malmo museer' ~ 'SE|malmo museum'
 POSSIBLE SAME INSTITUTION: 'US|carnegie museum of natural history' ~ 'US|field museum of natural history'
 no_confirmation superseded by master: EG|sharm el sheikh museum -> INST-EG-007
