@@ -1,0 +1,74 @@
+{
+ "crocodile (all departments)": {
+  "hits": 653,
+  "crocodile_mummy_candidates": [
+   552246,
+   570752
+  ]
+ },
+ "crocodile mummy": {
+  "hits": 7,
+  "crocodile_mummy_candidates": [
+   552246,
+   570752
+  ]
+ },
+ "mummified crocodile": {
+  "hits": 3,
+  "crocodile_mummy_candidates": [
+   552246,
+   570752
+  ]
+ },
+ "Sobek": {
+  "hits": 24,
+  "crocodile_mummy_candidates": [
+   552246
+  ]
+ },
+ "Crocodylus": {
+  "hits": 1,
+  "crocodile_mummy_candidates": []
+ },
+ "Souchos": {
+  "hits": 0,
+  "crocodile_mummy_candidates": []
+ },
+ "departmentId=10 crocodile": {
+  "hits": 128,
+  "crocodile_mummy_candidates": [
+   552246,
+   570752
+  ]
+ },
+ "departmentId=10 Sobek": {
+  "hits": 24,
+  "crocodile_mummy_candidates": [
+   552246
+  ]
+ },
+ "departmentId=10 animal mummy": {
+  "hits": 76,
+  "crocodile_mummy_candidates": [
+   570752,
+   552246
+  ]
+ },
+ "departmentId=10 crocodile mummy": {
+  "hits": 6,
+  "crocodile_mummy_candidates": [
+   552246,
+   570752
+  ]
+ },
+ "departmentId=10 Fayum crocodile": {
+  "hits": 3,
+  "crocodile_mummy_candidates": [
+   552246
+  ]
+ },
+ "departmentId=10 Kom Ombo": {
+  "hits": 0,
+  "crocodile_mummy_candidates": []
+ }
+}

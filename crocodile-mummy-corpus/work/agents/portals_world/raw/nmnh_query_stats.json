@@ -1,0 +1,3035 @@
+{
+ "anth|crocodile": {
+  "total": 136,
+  "retrieved": 136,
+  "flagged": [
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ],
+  "all": [
+   {
+    "_id": 8438129,
+    "cat": "E408071-0",
+    "name": "Crocodile And Man Carving",
+    "country": "Democratic Republic of the Congo",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8937827,
+    "cat": "E387560-4",
+    "name": "Shovel-Nose Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8937826,
+    "cat": "E387560-3",
+    "name": "Shovel-Nose Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8937825,
+    "cat": "E387560-2",
+    "name": "Shovel-Nose Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8937824,
+    "cat": "E387560-1",
+    "name": "Shovel-Nose Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8460088,
+    "cat": "E427378-0",
+    "name": "Standing Male Figure With Crocodile And Bird",
+    "country": "Papua New Guinea",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8459859,
+    "cat": "E427142-0",
+    "name": "Crocodile Carving",
+    "country": "Papua New Guinea",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8455908,
+    "cat": "E422946-0",
+    "name": "Basketry Crocodile",
+    "country": "Papua New Guinea",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8453767,
+    "cat": "E421102-0",
+    "name": "Mask: \"Crocodile\" Dance",
+    "country": "Mexico",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8453762,
+    "cat": "E421099-0",
+    "name": "Mask: \"Crocodile\" Dance",
+    "country": "Mexico",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8453759,
+    "cat": "E421096-0",
+    "name": "Mask: \"Crocodile\"",
+    "country": "Mexico",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8441231,
+    "cat": "E410719-0",
+    "name": "Carved Crocodile",
+    "country": "Indonesia (not certain) / Papua New Guinea (not certain)",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8438788,
+    "cat": "E408656-0",
+    "name": "Toy Bamboo Crocodile",
+    "country": "Burma (Myanmar)",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8937828,
+    "cat": "E387562-1",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8438038,
+    "cat": "E407991-0",
+    "name": "Carved Crocodile",
+    "country": "Democratic Republic of the Congo",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8428723,
+    "cat": "E400047-0",
+    "name": "Wood Sculpture - Crocodile",
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421527,
+    "cat": "E387564-0",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421526,
+    "cat": "E387563-0",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421523,
+    "cat": "E387560-0",
+    "name": "Shovel-Nose Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421520,
+    "cat": "E387559-1",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421517,
+    "cat": "E387558-0",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421516,
+    "cat": "E387557-0",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421515,
+    "cat": "E387556-3",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421514,
+    "cat": "E387556-2",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421511,
+    "cat": "E387555-1",
+    "name": "Canoe Paddle",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938058,
+    "cat": "E387559-10",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 15223884,
+    "cat": "A607932-0",
+    "name": "Pottery effigy vessel crocodile maw fragment",
+    "country": "Mexico",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 11925238,
+    "cat": "E433909-0",
+    "name": "Crocodile Pendant",
+    "country": "Côte d'Ivoire",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 11925230,
+    "cat": "E433902-0",
+    "name": "Crocodile Pendant",
+    "country": "Côte d'Ivoire",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 11196638,
+    "cat": "E433286-0",
+    "name": "Bark Painting: Diver Dance",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 11196634,
+    "cat": "E433285-0",
+    "name": "Bark Painting: Djambarrpuynu Mortuary Rites",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938067,
+    "cat": "E387557-2",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938066,
+    "cat": "E387557-1",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938065,
+    "cat": "E387556-8",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938064,
+    "cat": "E387556-7",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938063,
+    "cat": "E387556-6",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938062,
+    "cat": "E387556-5",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938061,
+    "cat": "E387556-4",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421510,
+    "cat": "E387555-0",
+    "name": "Canoe Paddle",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938057,
+    "cat": "E387559-9",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938056,
+    "cat": "E387559-8",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938055,
+    "cat": "E387559-7",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938054,
+    "cat": "E387559-6",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938053,
+    "cat": "E387559-5",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938052,
+    "cat": "E387559-4",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938051,
+    "cat": "E387559-3",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938049,
+    "cat": "E387523-6",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938048,
+    "cat": "E387523-5",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938047,
+    "cat": "E387526-4",
+    "name": "Human Hair Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8938046,
+    "cat": "E387526-3",
+    "name": "Human Hair Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8350832,
+    "cat": "E175454-0",
+    "name": "Arrows Crocodile (3)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421463,
+    "cat": "E387529-0",
+    "name": "Hafted Stone Ax, Small",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421458,
+    "cat": "E387526-0",
+    "name": "Human Hair Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421457,
+    "cat": "E387525-0",
+    "name": "Possum Cord Strands",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421455,
+    "cat": "E387523-4",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421450,
+    "cat": "E387522-1",
+    "name": "Adult Arm-Bands (Pair)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421449,
+    "cat": "E387522-0",
+    "name": "Adult Arm-Bands (Pair)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421448,
+    "cat": "E387521-0",
+    "name": "Adult Arm-Bands",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8406798,
+    "cat": "E360030-0",
+    "name": "Sheath Of Crocodile Skin",
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8406789,
+    "cat": "E360022-0",
+    "name": "Crocodile Scabbard With 3 Blades",
+    "country": "Sudan / Ethiopia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8393130,
+    "cat": "E323327-0",
+    "name": "Wooden Crocodile",
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8386894,
+    "cat": "E299936-0",
+    "name": "Crocodile Modeled Of Terracotta, Black",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8360030,
+    "cat": "E211778-0",
+    "name": "Scare Crocodile \"Eeoh\"",
+    "country": "India",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421467,
+    "cat": "E387532-0",
+    "name": "Message-Sticks With Customary Notches",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8168514,
+    "cat": "A419657-0",
+    "name": "Leilira Blades",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168513,
+    "cat": "A419656-0",
+    "name": "Biconcave Mortar",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168512,
+    "cat": "A419655-0",
+    "name": "Cycad Hammerstone",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168511,
+    "cat": "A419654-0",
+    "name": "Polished Ax Blade Fragments",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168510,
+    "cat": "A419653-0",
+    "name": "Hammer-Stone",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168509,
+    "cat": "A419652-0",
+    "name": "Pitted Hammerstone",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168508,
+    "cat": "A419651-0",
+    "name": "Oyster Pick",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168507,
+    "cat": "A419650-0",
+    "name": "Oyster Pick",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168506,
+    "cat": "A419649-0",
+    "name": "Oyster Pick",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8168505,
+    "cat": "A419648-0",
+    "name": "Edge Ground Chipped Ax Blade",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421486,
+    "cat": "E387540-0",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421509,
+    "cat": "E387554-0",
+    "name": "Cocoanut Shell Dish",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421507,
+    "cat": "E387553-0",
+    "name": "Initiation Device Symbolizing Python (Yermerlindi)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421505,
+    "cat": "E387551-0",
+    "name": "Ceremonial Stick",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421504,
+    "cat": "E387550-0",
+    "name": "(Barnumbir) Stick Or Challenge-Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421502,
+    "cat": "E387549-0",
+    "name": "Bullroarer And Cylindrical Handle",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421500,
+    "cat": "E387547-0",
+    "name": "(Ranga) Or Totemic-Emblem",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421499,
+    "cat": "E387546-0",
+    "name": "Wax Figure Of Crocodile",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421498,
+    "cat": "E387545-0",
+    "name": "Kurt Kurt Feather Headdress",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421493,
+    "cat": "E387540-7",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421489,
+    "cat": "E387540-3",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421488,
+    "cat": "E387540-2",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421487,
+    "cat": "E387540-1",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8137674,
+    "cat": "A391977-0",
+    "name": "Gold-Plated Ornament - 2-Headed Crocodile",
+    "country": "Panama",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421484,
+    "cat": "E387539-4",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421482,
+    "cat": "E387539-2",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421481,
+    "cat": "E387539-1",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421480,
+    "cat": "E387539-0",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421479,
+    "cat": "E387538-2",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421478,
+    "cat": "E387538-1",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421476,
+    "cat": "E387537-3",
+    "name": "Netted Spirit-Bag",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421475,
+    "cat": "E387537-2",
+    "name": "Netted Spirit-Bag",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421474,
+    "cat": "E387537-1",
+    "name": "Netted Spirit-Bag",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421469,
+    "cat": "E387534-0",
+    "name": "Log Coffin",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421468,
+    "cat": "E387533-0",
+    "name": "Painted Wooden Club",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421501,
+    "cat": "E387548-0",
+    "name": "(Ranga) Or Totemic-Emblem, Fish Tail",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421483,
+    "cat": "E387539-3",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421490,
+    "cat": "E387540-4",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421491,
+    "cat": "E387540-5",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421492,
+    "cat": "E387540-6",
+    "name": "Women's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421494,
+    "cat": "E387541-0",
+    "name": "Coiled Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421495,
+    "cat": "E387542-0",
+    "name": "Lily Root Fibres & Pandanus Leaf Fibre",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421496,
+    "cat": "E387543-0",
+    "name": "Medicine-Bags",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421497,
+    "cat": "E387544-0",
+    "name": "Woven Ceremonial Neck Band",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421477,
+    "cat": "E387538-0",
+    "name": "Men's Basket",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421506,
+    "cat": "E387552-0",
+    "name": "Barbed (Ranga) Or Ceremonial-Spears",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421512,
+    "cat": "E387556-0",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421513,
+    "cat": "E387556-1",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421518,
+    "cat": "E387558-1",
+    "name": "Throwing Stick Woomera",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421519,
+    "cat": "E387559-0",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421521,
+    "cat": "E387559-2",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421524,
+    "cat": "E387561-0",
+    "name": "Spears",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421525,
+    "cat": "E387562-0",
+    "name": "Spear",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421459,
+    "cat": "E387526-1",
+    "name": "Human Hair Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8360029,
+    "cat": "E211777-0",
+    "name": "Scare Crocodile \"Eeoh\"",
+    "country": "India",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8386895,
+    "cat": "E299937-0",
+    "name": "Crocodile Modeled Of Terracotta, Red",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421447,
+    "cat": "E387520-0",
+    "name": "Child Arm-Bands",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421451,
+    "cat": "E387523-0",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421452,
+    "cat": "E387523-1",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421453,
+    "cat": "E387523-2",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421454,
+    "cat": "E387523-3",
+    "name": "Feather Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421456,
+    "cat": "E387524-0",
+    "name": "Cord Shoulder Band",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8137677,
+    "cat": "A391980-0",
+    "name": "Gold-Plated Ornament Fgt. - Crocodile",
+    "country": "Panama",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421460,
+    "cat": "E387526-2",
+    "name": "Human Hair Cordage",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421461,
+    "cat": "E387527-0",
+    "name": "Hafted Stone Ax",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421465,
+    "cat": "E387530-0",
+    "name": "Bone Awl",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421466,
+    "cat": "E387531-0",
+    "name": "Message-Stick With Interpretation",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421470,
+    "cat": "E387535-0",
+    "name": "Painted Wooden Tube",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421471,
+    "cat": "E387536-0",
+    "name": "Drone Tube, Dijeridoo (Didgeridoo Or Didjeridu)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421472,
+    "cat": "E387536-1",
+    "name": "Drone Tube, Dijeridoo (Didgeridoo Or Didjeridu)",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8421473,
+    "cat": "E387537-0",
+    "name": "Netted Spirit-Bag",
+    "country": "Australia",
+    "croc_mummy_flag": false
+   }
+  ]
+ },
+ "anth|crocodile mummy": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ],
+  "all": [
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ]
+ },
+ "anth|mummied crocodile": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ],
+  "all": [
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ]
+ },
+ "anth|mummified crocodile": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|crocodiles": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|Crocodylus": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|Sobek": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|reptile mummy": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|mummified reptiles": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [
+   {
+    "_id": 8325979,
+    "cat": "AT5604-0",
+    "name": "Mummified Reptiles",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ],
+  "all": [
+   {
+    "_id": 8325979,
+    "cat": "AT5604-0",
+    "name": "Mummified Reptiles",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ]
+ },
+ "anth|animal mummy": {
+  "total": 29,
+  "retrieved": 29,
+  "flagged": [
+   {
+    "_id": 8162347,
+    "cat": "A413942-0",
+    "name": "Small Bull Mummy/1",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8325979,
+    "cat": "AT5604-0",
+    "name": "Mummified Reptiles",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   }
+  ],
+  "all": [
+   {
+    "_id": 8162347,
+    "cat": "A413942-0",
+    "name": "Small Bull Mummy/1",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8325980,
+    "cat": "AT5605-0",
+    "name": "Mummied Ibis",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8325979,
+    "cat": "AT5604-0",
+    "name": "Mummified Reptiles",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8325977,
+    "cat": "AT5602-0",
+    "name": "Fragments Of Animal Mummies",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8314211,
+    "cat": "A74586-0",
+    "name": "Mummied Ibis",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8314204,
+    "cat": "A74579-0",
+    "name": "Mummied Crocodile",
+    "country": "Egypt",
+    "croc_mummy_flag": true
+   },
+   {
+    "_id": 8314194,
+    "cat": "A74576-0",
+    "name": "Mummied Cat",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8313937,
+    "cat": "A74071-0",
+    "name": "Mummied \"Guinea Pig.\" Wrapped.",
+    "country": "Peru",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8297238,
+    "cat": "A542222-0",
+    "name": "Mummy, Baboon",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8284891,
+    "cat": "A528481-0",
+    "name": "Bird Mummy",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8206909,
+    "cat": "A454235-0",
+    "name": "Wrapped Mummy Of A Kestrel",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8191104,
+    "cat": "A437431-0",
+    "name": "Mummy Of Cat, In Mummy Wrappings",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8188802,
+    "cat": "A435221-0",
+    "name": "Mummy Of Kestrel",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8182156,
+    "cat": "A429132-0",
+    "name": "Articulated Mummified Animal Paw",
+    "country": "United States",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8175523,
+    "cat": "A423000-0",
+    "name": "Falcon-Shaped Wooden Coffin, With Falcon Mummy",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8028154,
+    "cat": "A1564-0",
+    "name": "Fragts. Of Mummied Animals",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8162346,
+    "cat": "A413941-0",
+    "name": "Large Bull Mummy/1",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8125404,
+    "cat": "A381572-0",
+    "name": "Mummy Of \"Kitten\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8125403,
+    "cat": "A381571-0",
+    "name": "Head Of Mummified Cat",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8125402,
+    "cat": "A381570-0",
+    "name": "Mummy Of Cat, Wrapped Linen",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8125401,
+    "cat": "A381569-0",
+    "name": "Mummy Of Cat",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8083183,
+    "cat": "A316508-0",
+    "name": "Mummified Cat",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8072820,
+    "cat": "A279287-0",
+    "name": "Mummied Ibis",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8072819,
+    "cat": "A279286-0",
+    "name": "Mummied Ibis",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8072818,
+    "cat": "A279285-0",
+    "name": "Mummied Ibis",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8072816,
+    "cat": "A279283-0",
+    "name": "Funerary Urn Of Earthenware containing Ibis Mummy",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8072559,
+    "cat": "A278365-0",
+    "name": "Mummied Cat In Wrapper",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8028377,
+    "cat": "A1566-0",
+    "name": "Fragts. Of Mummied Animals",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8028272,
+    "cat": "A1565-0",
+    "name": "Fragts. Of Mummied Animals",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   }
+  ]
+ },
+ "anth|Kom Ombo": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [],
+  "all": [
+   {
+    "_id": 13300171,
+    "cat": "A604250-0",
+    "name": "Aurochs astragalus cast",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   }
+  ]
+ },
+ "anth|Fayum": {
+  "total": 171,
+  "retrieved": 171,
+  "flagged": [],
+  "all": [
+   {
+    "_id": 8064577,
+    "cat": "A248151-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064589,
+    "cat": "A248163-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064588,
+    "cat": "A248162-0",
+    "name": "Arrow Or Spear-Head",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064587,
+    "cat": "A248161-0",
+    "name": "Flint \"Sickle-Saw\"; Pointedblade",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064586,
+    "cat": "A248160-0",
+    "name": "Flint \"Sickle-Saw\"; Rectangular Blade",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064585,
+    "cat": "A248159-0",
+    "name": "Flint \"Sickle-Saw\"; Rectangular Blade",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064584,
+    "cat": "A248158-0",
+    "name": "Flint \"Sickle-Saw\"; Rectangular Blade",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064583,
+    "cat": "A248157-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064582,
+    "cat": "A248156-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064581,
+    "cat": "A248155-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064580,
+    "cat": "A248154-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064579,
+    "cat": "A248153-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064578,
+    "cat": "A248152-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064590,
+    "cat": "A248164-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064576,
+    "cat": "A248150-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064575,
+    "cat": "A248149-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064574,
+    "cat": "A248148-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064573,
+    "cat": "A248147-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064572,
+    "cat": "A248146-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064571,
+    "cat": "A248145-0",
+    "name": "Flint \"Sickle-Saw\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064570,
+    "cat": "A248144-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064569,
+    "cat": "A248143-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064568,
+    "cat": "A248142-0",
+    "name": "Polished Hatchet, Diorite",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064567,
+    "cat": "A248141-0",
+    "name": "Polished Flint Hatchet",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064564,
+    "cat": "A248140-0",
+    "name": "Arrowpoints; Minute",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078738,
+    "cat": "A303334-0",
+    "name": "Iron Pincers",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 10045252,
+    "cat": "A248167-0",
+    "name": "Serrated Flint Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8175530,
+    "cat": "A423007-0",
+    "name": "Tomb Ceiling Fragment (Stars)",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8137527,
+    "cat": "A391844-0",
+    "name": "Arrowheads",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8137526,
+    "cat": "A391843-0",
+    "name": "\"Sickle Blades\"",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8111142,
+    "cat": "A363381-0",
+    "name": "Arrowheads",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8111140,
+    "cat": "A363379-0",
+    "name": "Sickle Flint",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8111139,
+    "cat": "A363378-0",
+    "name": "Flint Scraper",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078746,
+    "cat": "A303341-0",
+    "name": "Bronze Needle",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078745,
+    "cat": "A303340-0",
+    "name": "Iron Key Ring",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078743,
+    "cat": "A303339-0",
+    "name": "Iron Key",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078740,
+    "cat": "A303336-0",
+    "name": "Iron Adze",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078739,
+    "cat": "A303335-0",
+    "name": "Iron Ax",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064560,
+    "cat": "A248139-0",
+    "name": "Arrowpoints; Triangular and barbed",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078737,
+    "cat": "A303333-0",
+    "name": "Iron Fish-Hook",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078736,
+    "cat": "A303332-0",
+    "name": "Spindle",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8078718,
+    "cat": "A303316-0",
+    "name": "Weaving Sticks",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064598,
+    "cat": "A248173-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064597,
+    "cat": "A248172-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064596,
+    "cat": "A248171-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064595,
+    "cat": "A248170-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064594,
+    "cat": "A248169-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064593,
+    "cat": "A248168-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064592,
+    "cat": "A248166-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064591,
+    "cat": "A248165-0",
+    "name": "Fish Scaling Knife",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043151,
+    "cat": "A197953-0",
+    "name": "Ball Of Yarn",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056710,
+    "cat": "A229524-0",
+    "name": "Arrowpoints, Small & Slender.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056708,
+    "cat": "A229523-0",
+    "name": "Arrowpoints-Stemmed; Rude.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056704,
+    "cat": "A229521-0",
+    "name": "Slender Narrow Points: Probably Drills.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056697,
+    "cat": "A229518-0",
+    "name": "Worked Flint Flakes; Rounded Ends, Scrapers And Cutting Tools",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056691,
+    "cat": "A229516-0",
+    "name": "Worked Flint Flakes; Cutting Implements.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056688,
+    "cat": "A229515-0",
+    "name": "Roughly Chipped Points: Perporators",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056680,
+    "cat": "A229512-0",
+    "name": "Flint Knives-Semi=Lunar Shaped.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056679,
+    "cat": "A229511-0",
+    "name": "Leaf-Shaped Points: Thin Flakes Chipped From One Side",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056678,
+    "cat": "A229510-0",
+    "name": "Leaf=Shaped Points: Thick Flakes Chipped Most",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056666,
+    "cat": "A229504-0",
+    "name": "Crescent Shaped Flint, Roughly Chipped. Unfin",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056663,
+    "cat": "A229502-0",
+    "name": "Water Wom Piece Of Flint With One Edge Roughly Chipped",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043166,
+    "cat": "A197966-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056713,
+    "cat": "A229525-0",
+    "name": "Arrowpoints: Triangular, Roughly Worked.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043149,
+    "cat": "A197951-0",
+    "name": "Bone Disc-Small",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043145,
+    "cat": "A197949-0",
+    "name": "Wooden Toy-Tip Cat",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043143,
+    "cat": "A197947-0",
+    "name": "Wooden Top",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043137,
+    "cat": "A197942-0",
+    "name": "Pottery Stand",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043136,
+    "cat": "A197941-0",
+    "name": "Pottery Dish",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043135,
+    "cat": "A197940-0",
+    "name": "Pottery Vase",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043132,
+    "cat": "A197938-0",
+    "name": "Pottery Bowl",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043127,
+    "cat": "A197933-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043125,
+    "cat": "A197931-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043124,
+    "cat": "A197930-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043114,
+    "cat": "A197921-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064545,
+    "cat": "A248126-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064558,
+    "cat": "A248138-0",
+    "name": "Arrowpoints; Stemmed",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064556,
+    "cat": "A248137-0",
+    "name": "Arrowpoints; Leaf-Shaped",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064555,
+    "cat": "A248136-0",
+    "name": "Flint Adze",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064554,
+    "cat": "A248135-0",
+    "name": "Flint Adze",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064553,
+    "cat": "A248134-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064552,
+    "cat": "A248133-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064551,
+    "cat": "A248132-0",
+    "name": "Flint Implement",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064550,
+    "cat": "A248131-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064549,
+    "cat": "A248130-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064548,
+    "cat": "A248129-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064547,
+    "cat": "A248128-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8064546,
+    "cat": "A248127-0",
+    "name": "Flint Implements",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043106,
+    "cat": "A197915-0",
+    "name": "Flint Flakes",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056880,
+    "cat": "A230149-0",
+    "name": "Encaustic Portrait, Mummy",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056735,
+    "cat": "A229543-0",
+    "name": "Small Thin Narrow Blade (Part Of).",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056733,
+    "cat": "A229541-0",
+    "name": "Double Pointed Flint Implement: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056731,
+    "cat": "A229539-0",
+    "name": "Flint Knife: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056729,
+    "cat": "A229537-0",
+    "name": "Flint Knife: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056727,
+    "cat": "A229535-0",
+    "name": "Flint Implement: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056726,
+    "cat": "A229534-0",
+    "name": "Flint Implement: Special Form. Same Type As No. 229533",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056725,
+    "cat": "A229533-0",
+    "name": "Flint Implement: Special Form. Curved Flake Chipped",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056724,
+    "cat": "A229532-0",
+    "name": "Flint Implement: Special Form. Curved Flake Chipped",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056723,
+    "cat": "A229531-0",
+    "name": "Flint Knife With Handle In One Piece: Broken",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056715,
+    "cat": "A229527-0",
+    "name": "Arrowpoints: More Or Less Triangular Outline,",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051951,
+    "cat": "A217854-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056667,
+    "cat": "A229505-0",
+    "name": "Roughly Chipped Leaf = Shaped Blades",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056664,
+    "cat": "A229503-0",
+    "name": "Crescent Shaped Flint, Roughly Chipped. Unfin",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051957,
+    "cat": "A217860-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051956,
+    "cat": "A217859-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051955,
+    "cat": "A217858-0",
+    "name": "Greco-Egyptian Papyrus, 2nd Cent.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051954,
+    "cat": "A217857-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051953,
+    "cat": "A217856-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051952,
+    "cat": "A217855-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056670,
+    "cat": "A229506-0",
+    "name": "Leaf-shaped Blades - (Thin)",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051950,
+    "cat": "A217853-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051949,
+    "cat": "A217852-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8051948,
+    "cat": "A217851-0",
+    "name": "Greco-Egyptian Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043165,
+    "cat": "A197965-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043164,
+    "cat": "A197964-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043163,
+    "cat": "A197963-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043162,
+    "cat": "A197962-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043161,
+    "cat": "A197961-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056706,
+    "cat": "A229522-0",
+    "name": "Leaf= Shaped Arrow Points.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056734,
+    "cat": "A229542-0",
+    "name": "Double Pointed Flint Implement: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056732,
+    "cat": "A229540-0",
+    "name": "Flint Knife: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056730,
+    "cat": "A229538-0",
+    "name": "Flint Knife: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056728,
+    "cat": "A229536-0",
+    "name": "Flint Knife: Special Form.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056721,
+    "cat": "A229530-0",
+    "name": "Flint Knife With Handle In One Piece: Broken",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056719,
+    "cat": "A229529-0",
+    "name": "Flint Knife With Handle In One Piece: Broken",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056718,
+    "cat": "A229528-0",
+    "name": "Arrowpoints: Broken Specimens, Same Type As (",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056714,
+    "cat": "A229526-0",
+    "name": "Arrowpoint: Triangular, Serrated Edges.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043160,
+    "cat": "A197960-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056701,
+    "cat": "A229520-0",
+    "name": "Double Pointed Implts: Small, Some Roughly Worked",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056699,
+    "cat": "A229519-0",
+    "name": "Double-Pointed Implts: Triangular In Section.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056694,
+    "cat": "A229517-0",
+    "name": "Worked Flint Flakes; Thin-Narrow.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056686,
+    "cat": "A229514-0",
+    "name": "Flint Saws: Blades With One Edge Strongly Serrated",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056683,
+    "cat": "A229513-0",
+    "name": "Long Narrow Blades (Spear Heads?)",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056676,
+    "cat": "A229509-0",
+    "name": "Flint Knives: Large Flakes With Chipping Most",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056675,
+    "cat": "A229508-0",
+    "name": "Leaf-Shaped Spear Heads Or Knives.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8056673,
+    "cat": "A229507-0",
+    "name": "Leaf-shaped Blades - Pointed At Both Ends.",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043115,
+    "cat": "A197922-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043126,
+    "cat": "A197932-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043122,
+    "cat": "A197929-0",
+    "name": "Wooden Shabti",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043121,
+    "cat": "A197928-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043120,
+    "cat": "A197927-0",
+    "name": "Wooden Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043119,
+    "cat": "A197926-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043118,
+    "cat": "A197925-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043117,
+    "cat": "A197924-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043116,
+    "cat": "A197923-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043128,
+    "cat": "A197934-0",
+    "name": "Porcelain Statuette",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043113,
+    "cat": "A197920-0",
+    "name": "Mask",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043111,
+    "cat": "A197919-0",
+    "name": "Piece Of Metal",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043110,
+    "cat": "A197918-0",
+    "name": "Water Worn Pebbles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043108,
+    "cat": "A197917-0",
+    "name": "Flint Spear-Heads Or Daggers",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043107,
+    "cat": "A197916-0",
+    "name": "Flint Flakes With Saw-Like Edge",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8010159,
+    "cat": "A129641-0",
+    "name": "Mummy Cloth Fringe",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8010158,
+    "cat": "A129640-0",
+    "name": "Painted Cloth With Characters",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8010153,
+    "cat": "A129636-0",
+    "name": "Fgts. Of Papyri",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043142,
+    "cat": "A197946-0",
+    "name": "Wooden Scoop",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043157,
+    "cat": "A197959-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043156,
+    "cat": "A197958-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043155,
+    "cat": "A197957-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043154,
+    "cat": "A197956-0",
+    "name": "Egyptian Textiles",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043153,
+    "cat": "A197955-0",
+    "name": "Textile Fabric",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043150,
+    "cat": "A197952-0",
+    "name": "Basket Or Sack Of Plaited Flag",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043148,
+    "cat": "A197950-0",
+    "name": "Bone Point",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043144,
+    "cat": "A197948-0",
+    "name": "Wooden Object",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8010140,
+    "cat": "A129624-0",
+    "name": "Frags. Of Papyrus",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043141,
+    "cat": "A197945-0",
+    "name": "Wooden Head Rest",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043140,
+    "cat": "A197944-0",
+    "name": "Pottery Fragment",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043139,
+    "cat": "A197943-0",
+    "name": "Pot Rest",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043133,
+    "cat": "A197939-0",
+    "name": "Pottery Vase",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043131,
+    "cat": "A197937-0",
+    "name": "Pottery Bowl",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043130,
+    "cat": "A197936-0",
+    "name": "Pottery Vase",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 8043129,
+    "cat": "A197935-0",
+    "name": "Shabti",
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   }
+  ]
+ },
+ "anth|Samoun": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|Maabdeh": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "anth|Manfalut": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "herps|Crocodylus mummy": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "herps|mummy": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "herps|mummified": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": [],
+  "all": []
+ },
+ "herps|Egypt Crocodylus": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [],
+  "all": [
+   {
+    "_id": 6033022,
+    "cat": {
+     "catnc": "    56776",
+     "catnm": 56776
+    },
+    "name": null,
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   }
+  ]
+ },
+ "herps|Crocodylus niloticus": {
+  "total": 46,
+  "retrieved": 46,
+  "flagged": [],
+  "all": [
+   {
+    "_id": 6294143,
+    "cat": {
+     "catnc": "   149671",
+     "catnm": 149671
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6252593,
+    "cat": {
+     "catnc": "    22284",
+     "catnm": 22284
+    },
+    "name": null,
+    "country": "Congo, Democratic Republic of [Zaire]",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6275362,
+    "cat": {
+     "catnc": "   129761",
+     "catnm": 129761
+    },
+    "name": null,
+    "country": "Sudan",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6275363,
+    "cat": {
+     "catnc": "   129762",
+     "catnm": 129762
+    },
+    "name": null,
+    "country": "Sudan",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6280588,
+    "cat": {
+     "catnc": "   135451",
+     "catnm": 135451
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6281701,
+    "cat": {
+     "catnc": "   136621",
+     "catnm": 136621
+    },
+    "name": null,
+    "country": "Ethiopia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294137,
+    "cat": {
+     "catnc": "   149665",
+     "catnm": 149665
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294138,
+    "cat": {
+     "catnc": "   149666",
+     "catnm": 149666
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294139,
+    "cat": {
+     "catnc": "   149667",
+     "catnm": 149667
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294140,
+    "cat": {
+     "catnc": "   149668",
+     "catnm": 149668
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294141,
+    "cat": {
+     "catnc": "   149669",
+     "catnm": 149669
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6294142,
+    "cat": {
+     "catnc": "   149670",
+     "catnm": 149670
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6234699,
+    "cat": {
+     "catnc": "    20071",
+     "catnm": 20071
+    },
+    "name": null,
+    "country": "Kenya",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6313976,
+    "cat": {
+     "catnc": "   194830",
+     "catnm": 194830
+    },
+    "name": null,
+    "country": "Ivory Coast",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6313977,
+    "cat": {
+     "catnc": "   194831",
+     "catnm": 194831
+    },
+    "name": null,
+    "country": "Ivory Coast",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6313978,
+    "cat": {
+     "catnc": "   194832",
+     "catnm": 194832
+    },
+    "name": null,
+    "country": "Ivory Coast",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6313979,
+    "cat": {
+     "catnc": "   194833",
+     "catnm": 194833
+    },
+    "name": null,
+    "country": "Ivory Coast",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6314594,
+    "cat": {
+     "catnc": "   195448",
+     "catnm": 195448
+    },
+    "name": null,
+    "country": "Botswana",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6314928,
+    "cat": {
+     "catnc": "   195782",
+     "catnm": 195782
+    },
+    "name": null,
+    "country": "Botswana",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6314929,
+    "cat": {
+     "catnc": "   195783",
+     "catnm": 195783
+    },
+    "name": null,
+    "country": "Botswana",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6330422,
+    "cat": {
+     "catnc": "   211287",
+     "catnm": 211287
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6353103,
+    "cat": {
+     "catnc": "   233977",
+     "catnm": 233977
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6359394,
+    "cat": {
+     "catnc": "    16027",
+     "catnm": 16027
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6055772,
+    "cat": {
+     "catnc": "    82131",
+     "catnm": 82131
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6010366,
+    "cat": {
+     "catnc": "    32454",
+     "catnm": 32454
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6010367,
+    "cat": {
+     "catnc": "    32455",
+     "catnm": 32455
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6019288,
+    "cat": {
+     "catnc": "    42149",
+     "catnm": 42149
+    },
+    "name": null,
+    "country": "Uganda",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6019289,
+    "cat": {
+     "catnc": "    42150",
+     "catnm": 42150
+    },
+    "name": null,
+    "country": "Kenya",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6019398,
+    "cat": {
+     "catnc": "    42262",
+     "catnm": 42262
+    },
+    "name": null,
+    "country": "Uganda",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6019983,
+    "cat": {
+     "catnc": "    42860",
+     "catnm": 42860
+    },
+    "name": null,
+    "country": "Ethiopia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6033022,
+    "cat": {
+     "catnc": "    56776",
+     "catnm": 56776
+    },
+    "name": null,
+    "country": "Egypt",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6039460,
+    "cat": {
+     "catnc": "    63592",
+     "catnm": 63592
+    },
+    "name": null,
+    "country": "Kenya",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6039809,
+    "cat": {
+     "catnc": "    64011",
+     "catnm": 64011
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6055770,
+    "cat": {
+     "catnc": "    82129",
+     "catnm": 82129
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6055771,
+    "cat": {
+     "catnc": "    82130",
+     "catnm": 82130
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6003145,
+    "cat": {
+     "catnc": "     7447",
+     "catnm": 7447
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6057793,
+    "cat": {
+     "catnc": "    84246",
+     "catnm": 84246
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6058579,
+    "cat": {
+     "catnc": "    85107",
+     "catnm": 85107
+    },
+    "name": null,
+    "country": null,
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6102709,
+    "cat": {
+     "catnc": "   248848",
+     "catnm": 248848
+    },
+    "name": null,
+    "country": "Sierra Leone",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198627,
+    "cat": {
+     "catnc": "    24244",
+     "catnm": 24244
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198629,
+    "cat": {
+     "catnc": "    24246",
+     "catnm": 24246
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198630,
+    "cat": {
+     "catnc": "    24247",
+     "catnm": 24247
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198631,
+    "cat": {
+     "catnc": "    24248",
+     "catnm": 24248
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198712,
+    "cat": {
+     "catnc": "    24329",
+     "catnm": 24329
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198713,
+    "cat": {
+     "catnc": "    24330",
+     "catnm": 24330
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   },
+   {
+    "_id": 6198714,
+    "cat": {
+     "catnc": "    24331",
+     "catnm": 24331
+    },
+    "name": null,
+    "country": "Liberia",
+    "croc_mummy_flag": false
+   }
+  ]
+ }
+}

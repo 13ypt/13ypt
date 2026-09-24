@@ -1,0 +1,547 @@
+== Krokodil: count=206
+   735234 | Universitätsbibliothek/UB Fliegende Blätter | "Die neckische Krokodil-Mama" | Oberländer, Adolf
+   1069982 | Universitätsbibliothek/UB Bibliotheca Palatina/UB Bibliotheca Palatina (BAV) | Liber VI,7, Kapitelillustration: Codrillus (Krokodil als fuchsähnliches Tier) | 
+   731954 | Universitätsbibliothek/UB Fliegende Blätter | "Zu viel verlangt"
+"Geistesgegenwart, oder: Das improvisirte Krokodil" | Reinicke, Emil, Harburger, Edmund
+   733748 | Universitätsbibliothek/UB Fliegende Blätter | "Ein Gratiger"
+"Unerwarteter Ausgang einer Krokodils-Fütterung"
+"Der Eindringling" | Reinicke, Emil, Mayer, Henry, Wahle, Friedrich
+   731243 | Universitätsbibliothek/UB Fliegende Blätter | "Wunder der Dressur, oder : Das Krokodil als Meerrettig-Reibeisen"
+"Wer Ander´n eine Grube gräbt, fällt selbst hinein" | Hengeler, Adolf
+   23782151 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Öllampe | 
+   23782152 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Öllampe | 
+   23782153 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Öllampe | 
+   23782154 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Öllampe | 
+   995697 | Universitätsbibliothek/UB Kladderadatsch | Afrikanisches oder Bulls Tränen über die Behandlung der Neger in den deutschen Kolonien | Johnson, Arthur
+   990120 | Universitätsbibliothek/UB Meggendorfer Blätter | Der Dieb. Eine Fabel | Kainradl, Leo
+   23782230 | Antiquitatum Thesaurus | Krokodil [nicht identifiziert] | 
+   23782232 | Antiquitatum Thesaurus | Krokodil [nicht identifiziert] | 
+   1745749 | arthistoricum.net/Götterbilder | Nave del Sole | 
+   23831630 | arthistoricum.net/Götterbilder | [Sol] | Zaltieri, Bolognino
+   1743421 | arthistoricum.net/Götterbilder | Nave del Sole | 
+   1724322 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Öllampe | 
+   1613214 | arthistoricum.net/Götterbilder | Apollon | Zaltieri, Bolognino
+   1745748 | arthistoricum.net/Götterbilder | Apollo | 
+   1745827 | arthistoricum.net/Götterbilder | Anubide | 
+   748557 | Universitätsbibliothek/UB Fliegende Blätter | "Der Krokodilhof" | 
+   748558 | Universitätsbibliothek/UB Fliegende Blätter | "Der Krokodilhof" | 
+   23831628 | arthistoricum.net/Götterbilder | [Apollon] | Zaltieri, Bolognino
+   1739038 | arthistoricum.net/Götterbilder | Nave del Sole | 
+   775596 | Universitätsbibliothek/UB Fliegende Blätter | "Daß man Renntiere aus dem Norden geholt und auf der Zugspitze angesiedelt hat, ..." | Mauder, Josef
+   748565 | Universitätsbibliothek/UB Fliegende Blätter | "Ulk"
+"Der Krokodilhof" | 
+   1613276 | arthistoricum.net/Götterbilder | Typhon & Horus | Zaltieri, Bolognino
+   1613212 | arthistoricum.net/Götterbilder | Apollon | Zaltieri, Bolognino
+   1743420 | arthistoricum.net/Götterbilder | Apollo | 
+   1745852 | arthistoricum.net/Götterbilder | Tifone & Horo | 
+   1743498 | arthistoricum.net/Götterbilder | Anubide | 
+   779769 | Universitätsbibliothek/UB Fliegende Blätter | "Krokodilfabel" | Croissant, Eugen
+   1743521 | arthistoricum.net/Götterbilder | Tifone & Horo | 
+   1739096 | arthistoricum.net/Götterbilder | Tifone & Horo | 
+   747193 | Universitätsbibliothek/UB Fliegende Blätter | "Die beiden Krokodile" | Oberländer, Adolf
+   769022 | Universitätsbibliothek/UB Fliegende Blätter | "Die Krokodilscheuche" | Graetz, Theodor
+   699157 | Universitätsbibliothek/UB Fliegende Blätter | "Der tadellose Soldat" | 
+   734092 | Universitätsbibliothek/UB Fliegende Blätter | "Das humoristische Krokodil" | Graetz, Theodor
+   23832598 | arthistoricum.net/Götterbilder | [Apollo] | Zaltieri, Bolognino
+   1613400 | arthistoricum.net/Götterbilder | Nave del Sole | 
+   1739036 | arthistoricum.net/Götterbilder | Apollo | 
+   23832660 | arthistoricum.net/Götterbilder | [Tifone & Horo] | Zaltieri, Bolognino
+   1612361 | arthistoricum.net/Iconologia | PERSECVTIONE | 
+   1614072 | arthistoricum.net/Götterbilder | [Apollon] | 
+   23832597 | arthistoricum.net/Götterbilder | [Apollo] | Zaltieri, Bolognino
+   1613479 | arthistoricum.net/Götterbilder | Anubide | 
+   1613399 | arthistoricum.net/Götterbilder | Apollo | 
+   1740083 | arthistoricum.net/Iconologia | CONCVPISCENCE | 
+   778155 | Universitätsbibliothek/UB Fliegende Blätter | "Krokodilleder"
+"Ihr Mann ist nicht zu Hause?" | Kirchner, Eugen
+   747194 | Universitätsbibliothek/UB Fliegende Blätter | "Die beiden Krokodile"
+"Schlau" | Oberländer, Adolf, Nagel, Ludwig von
+   23779217 | Universitätsbibliothek/UB Codices Salemitani | Zierseite mit Bordürenrahmen, Initiale mit Miniatur: P(roteri): heiliger Georg als Drächentöter | 
+   748741 | Universitätsbibliothek/UB Fliegende Blätter | "Die dummen Krokodile"
+"Alles umsonst" | Meissl, August von, Oberländer, Adolf
+   826474 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | What we must expect | Sambourne, Linley
+   881708 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | The matrimonial market | Howard, Henry Richard
+   1733308 | arthistoricum.net/Iconologia | Jugend | Weigel, Christoph
+   1732971 | arthistoricum.net/Iconologia | Die böse Lust. Fleischliche Lust | Weigel, Christoph
+   1613504 | arthistoricum.net/Götterbilder | Tifone & Horo | 
+   1614135 | arthistoricum.net/Götterbilder | [Typhon & Horus] | 
+   1614070 | arthistoricum.net/Götterbilder | [Apollon] | 
+   1738814 | arthistoricum.net/Iconologia | IEVSNE | 
+   733592 | Universitätsbibliothek/UB Fliegende Blätter | "Der Unwiderstehliche"
+"Das Krokodil und der Weiberfeind" | Flashar, Max
+   733593 | Universitätsbibliothek/UB Fliegende Blätter | "Das Krokodil und der Weiberfeind"
+"Zart umschrieben" | Schlittgen, Hermann
+   729866 | Universitätsbibliothek/UB Fliegende Blätter | "Das Krokodil. Ein Carnevals-Abenteuer in acht Bildern" | Oberländer, Adolf
+   729867 | Universitätsbibliothek/UB Fliegende Blätter | "Das Krokodil. Ein Carnevals-Abenteuer in acht Bildern" | Oberländer, Adolf
+   740830 | Universitätsbibliothek/UB Fliegende Blätter | "Der Adler und das Krokodil"
+"Tantalus-Qualen" | Graetz, Theodor, Rothaug, Alexander
+   748740 | Universitätsbibliothek/UB Fliegende Blätter | "D'r alde Drumbeeder"
+"Die dummen Krokodile" | Stockmann, Hermann, Oberländer, Adolf
+   747441 | Universitätsbibliothek/UB Fliegende Blätter | "Wahrheitsliebend"
+"Das Krokodil und er Eremit" | Wagner, Erdmann, Reinicke, Emil
+   1652327 | Antiquitatum Thesaurus | Figur auf einem Krokodil stehend | 
+   1718934 | Antiquitatum Thesaurus | Abb. 1 [Q]: Krokodil | 
+   1718935 | Antiquitatum Thesaurus | Abb. 1 [R]: Krokodil | 
+   772630 | Universitätsbibliothek/UB Fliegende Blätter | "Das unglückliche Krokodil"
+"Was würdest jetzt tun" | Rübner, Kurt, Wagner, Wolfgang
+   747442 | Universitätsbibliothek/UB Fliegende Blätter | "Das Krokodil und er Eremit"
+"Hasenjagd bei Berlin" | Reinicke, Emil, Oberländer, Adolf
+   23923587 | Antiquitatum Thesaurus | Fol. 392 r: Anubis mit Krokodil | Boissard, Jean Jacques
+   1710994 | Antiquitatum Thesaurus | Abb. 17: Krokodil | 
+   1710997 | Antiquitatum Thesaurus | Abb. 20: Krokodil | 
+   849509 | Universitätsbibliothek/UB Französische Karikaturen | Précaution;
+- Ma grande ressemblance avec le comte de Chambord a beaucoup nui à mon avancement. | Rabier, Benjamin, Huard, Charles
+   824392 | Universitätsbibliothek/UB Französische Karikaturen | Conte nègre | Fau, Fernand
+   735663 | Universitätsbibliothek/UB Fliegende Blätter | "Der Nasenring als Lebensretter" | Hengeler, Adolf
+   735388 | Universitätsbibliothek/UB Fliegende Blätter | "Frauen-Logik"
+"Schadenfreude" | Graetz, Theodor, Haushofer, Alfred
+   825509 | Universitätsbibliothek/UB Französische Karikaturen | Faute de crédits suffisants, le Jardin des Plantes est laissé dans un état de lamentable abandon. Il se forme une Sociét | Métivet, Lucien-Marie-François
+   669659 | Universitätsbibliothek/UB Fliegende Blätter | "Die Schöpfungsgeschichte" | 
+   734779 | Universitätsbibliothek/UB Fliegende Blätter | "Immer derselbe"
+"Der Dank" | Albrecht, Henry, Vogel, Hermann
+   767121 | Universitätsbibliothek/UB Fliegende Blätter | "Hexerei" | Storch, Carl
+   632948 | Universitätsbibliothek/UB Fliegende Blätter | "Über Auswanderung nach Afrika" | Lichtenheld, Wilhelm
+   632615 | Universitätsbibliothek/UB Fliegende Blätter | "Jäger-Praktika" | 
+   1613890 | arthistoricum.net/Götterbilder | [Apollon] | Zaltieri, Bolognino
+   1741995 | arthistoricum.net/Götterbilder | Ibis | Meyer, Johann
+   1741335 | arthistoricum.net/Götterbilder | Nilus | Sandrart, Joachim von
+   735257 | Universitätsbibliothek/UB Fliegende Blätter | "Der starke Hiesl"
+"Unverfroren"
+"Wie fängt man ein Krokodil?" | Graetz, Theodor, Albrecht, Henry
+   1717053 | Antiquitatum Thesaurus | Abb. [A]: Anubis mit Krokodil | 
+   1712665 | Antiquitatum Thesaurus | S. 294: Anubis mit Krokodil | 
+   669132 | Universitätsbibliothek/UB Fliegende Blätter | "Probe aus einer nächstens erscheinenden neuen, die jugendliche Phantasie so anmuthig anregenden abenteuerlichen Erzählu | 
+   669237 | Universitätsbibliothek/UB Fliegende Blätter | "Der geringe Unterschied"
+"In der Reitbahn" | Ille, Eduard
+   670407 | Universitätsbibliothek/UB Fliegende Blätter | "Zehn Jahre nachher" (Asträa von Morimoncourt) | Ille, Eduard
+   23779323 | Universitätsbibliothek/UB Codices Salemitani | Zierinitialen / Cadellen | 
+   747661 | Universitätsbibliothek/UB Fliegende Blätter | "Vom Kinderball"
+"Bei den Kannibalen"
+"Dreihme sin Scheime" | Reinicke, Emil, Bechstein, Ludwig
+   912326 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | "Hold on!" | Tenniel, John
+   632131 | Universitätsbibliothek/UB Fliegende Blätter | "Die Auswanderer, oder wunderbare Fahrten und Abenteuer der Herren Barnabas Wühlhuber und Casimir Heulmaier in Amerika" | Braun, Kaspar
+   754270 | Universitätsbibliothek/UB Fliegende Blätter | "Zu rücksichtsvoll" | Graetz, Theodor
+   731955 | Universitätsbibliothek/UB Fliegende Blätter | "Geistesgegenwart, oder: Das improvisirte Krokodil"
+"Der gefährliche Knochen" | Kirchner, Eugen, Reinicke, Emil
+   23933314 | Antiquitatum Thesaurus | Abb. [A]: Anubis mit Krokodil | Ferroverde, Filippo
+   669712 | Universitätsbibliothek/UB Fliegende Blätter | "Guckkasten-Bilder"
+"Die Schönen auf dem Lande" | 
+   671807 | Universitätsbibliothek/UB Fliegende Blätter | "Das unheimliche Zimmer" | Watter, Joseph
+   671629 | Universitätsbibliothek/UB Fliegende Blätter | "Des Chemikers Phantasie an Laura"
+"Widerspruch" | Rostosky, Karl Oswald
+   769578 | Universitätsbibliothek/UB Fliegende Blätter | "Rosen auf den Weg gestreut..."
+"Rätselecke" | Basler-Kopp, Franz Karl, Stockmann, Hermann
+   699225 | Universitätsbibliothek/UB Fliegende Blätter | "Wie es wär', wenn's anders wär'" | Oberländer, Adolf
+   752291 | Universitätsbibliothek/UB Fliegende Blätter | "Havas und Reuter" | Dombrowski, Katharina von
+   752764 | Universitätsbibliothek/UB Fliegende Blätter | "Tierbild" | Dombrowski, Katharina von
+   861317 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Relief and reaction | Sambourne, Linley
+   675019 | Universitätsbibliothek/UB Französische Karikaturen | !!! par Moloch | Moloch
+   1613955 | arthistoricum.net/Götterbilder | [Typhon & Horus] | Zaltieri, Bolognino
+   1613888 | arthistoricum.net/Götterbilder | [Apollon] | Zaltieri, Bolognino
+   1373350 | Antiquitatum Thesaurus | Taf. 078: Anubis mit Krokodil | 
+   1709418 | Antiquitatum Thesaurus | Abb. D: Ptah-Patek auf Krokodilen | 
+   1743347 | Antiquitatum Thesaurus | Ptah-Patek auf Krokodilen [nicht identifiziert] | 
+   23879260 | Antiquitatum Thesaurus | Abb. [B]: Zeus-Ammon - Anubis und Krokodil | Anonymer Holzschneider (Kircher 1636)
+   1709417 | Antiquitatum Thesaurus | Abb. C: Ptah-Patek auf Krokodilen | 
+   1709416 | Antiquitatum Thesaurus | Abb. B: Ptah-Patek auf Krokodilen | 
+   824391 | Universitätsbibliothek/UB Französische Karikaturen | Le délégué de l'Allemagne au Congrès de la Paix. (Postillon, Munich.);
+Conte nègre | Fau, Fernand
+   824983 | Universitätsbibliothek/UB Französische Karikaturen | La folie du Bridge | Hellé, André
+   663221 | Universitätsbibliothek/UB Französische Karikaturen | La ménagerie impériale | Hadol, Paul
+   663382 | Universitätsbibliothek/UB Französische Karikaturen | Les aventures de sabre de bois. Nourriture pendant le siège | Pescheux, G.
+   990387 | Universitätsbibliothek/UB Meggendorfer Blätter | Splitter; Ein Tanzmeisterstückchen | Meggendorfer, Lothar
+   699834 | Universitätsbibliothek/UB Fliegende Blätter | "Ausnahme von der Reiterregel"
+"Noch ein Stoßseufzer aus Afrika! | Oberländer, Adolf, Nagel, Ludwig von
+   631530 | Universitätsbibliothek/UB Fliegende Blätter | "Wanderlust" | 
+   1613023 | arthistoricum.net/Iconologia | Fasten/ Nüchterkeit | 
+   1684383 | Antiquitatum Thesaurus | Abb. 38: Anubis mit Krokodil | Anonymer Kupferstecher (Hohenburg [um 1610])
+   1728328 | Antiquitatum Thesaurus | Abb. [B]: Zeus-Ammon - Anubis und Krokodil | Anonymer Holzschneider (Kircher 1650)
+   1729085 | Antiquitatum Thesaurus | Abb. [B]: Zeus-Ammon - Anubis und Krokodil | Anonymer Holzschneider (Kircher 1650)
+   1709467 | Antiquitatum Thesaurus | Abb. 24: Typhon / Seth (?) mit Krokodil und Fisch | 
+   1709415 | Antiquitatum Thesaurus | Abb. A: Ptah-Patek auf Krokodilen | 
+   663736 | Universitätsbibliothek/UB Französische Karikaturen | Le Musée-Homme ou le Jardin des Bêtes | Faustin
+   24011768 | arthistoricum.net/Götterbilder | [Apollon] | Hachenberg, Paul
+   24011831 | arthistoricum.net/Götterbilder | [Typhon] | Hachenberg, Paul
+   871300 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | The confused crocodile | Sambourne, Linley
+   670091 | Universitätsbibliothek/UB Fliegende Blätter | "Die Rache des Elephanten" | Busch, Wilhelm
+   23779695 | Universitätsbibliothek/UB Codices Salemitani | Zierseite mit Bordürenrahmen, Initiale, Miniatur: Auffindung des heiligen Kreuzes durch Kaiserin Helena | 
+   717118 | Universitätsbibliothek/UB Französische Karikaturen | Ferdinand de Lesseps, par Gill | Gill, André
+   698422 | Universitätsbibliothek/UB Fliegende Blätter | "Das Gastmahl der Natur"
+"Das Gelübde"
+"Schwäbische Werbung"
+"Anzügliche Zumuthung" | 
+   913455 | Universitätsbibliothek/UB Französische Karikaturen | Croquis, - par Pif | Henriot
+   632774 | Universitätsbibliothek/UB Fliegende Blätter | "Friedrich Gerstäcker auf der Reise" | Reinhardt, Carl
+   1510834 | Antiquitatum Thesaurus | Abb. [B]: Typhon / Seth (?) mit Krokodil und Fisch | Anonymer Holzschneider (Pignoria 1605)
+   23879278 | Antiquitatum Thesaurus | Abb. [A]: Dreieck mit dem Buchstaben M - Anubis und Krokodil | Anonymer Holzschneider (Kircher 1636)
+   828145 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | A pitiful pose | Raven-Hill, Leonard
+   24011766 | arthistoricum.net/Götterbilder | [Apollon] | Hachenberg, Paul
+   694448 | Universitätsbibliothek/UB Fliegende Blätter | "Apologie"
+"Modebild"
+"Große Aehnlichkeit" | Bechstein, Ludwig
+   694668 | Universitätsbibliothek/UB Fliegende Blätter | "Emil Girardin, ein militärisches Genie" | Oberländer, Adolf
+   860361 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Interiors and exteriors, No. 1 | Furniss, Harry
+   848845 | Universitätsbibliothek/UB Französische Karikaturen | La Trahison;
+Henry Irving et miss Ellen Terry dans Madame Sans-Gêne, à Londres. (Pick-me-up);
+Larmes de crocodile;
+Comme | Le Petit, Alfred, Blanchet-Magon
+   913411 | Universitätsbibliothek/UB Französische Karikaturen | Actualités | Morel-Retz, Louis Pierre Gabriel Bernard
+   924286 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Getting a lift! | Tenniel, John
+   1702612 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Statue | 
+   1652295 | Antiquitatum Thesaurus | Typhon / Seth (?) mit Krokodil und Fisch [nicht identifiziert] | 
+   1717017 | Antiquitatum Thesaurus | Abb. [A]: Anubis mit Krokodil | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   848687 | Universitätsbibliothek/UB Französische Karikaturen | Faut-il poursuivre? | Fau, Fernand
+   837111 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | The wolf in sheep's clothing | Sambourne, Linley
+   694457 | Universitätsbibliothek/UB Fliegende Blätter | "Modebild"
+"Sächsisch-Deutsch"
+"Die gute alte Zeit" | Bechstein, Ludwig
+   892158 | Universitätsbibliothek/UB Französische Karikaturen | Actualités | Morel-Retz, Louis Pierre Gabriel Bernard
+   1490131 | Heidelberger Akademie der Wissenschaften/Epigraphische Datenbank Heidelberg | Inschrift aus El-Moueh - Aegyptus | 
+   1511969 | Antiquitatum Thesaurus | Abb. [B]: Typhon / Seth (?) mit Krokodil und Fisch | Anonymer Kupferstecher (Pignoria 1608)
+   1614792 | Antiquitatum Thesaurus | Anubis mit Krokodil [nicht identifiziert] | 
+   861541 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Punch's essence of parliament | Sambourne, Linley
+   1477873 | Antiquitatum Thesaurus | Abb. 6: Patera - Anubis und Krokodil | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1477871 | Antiquitatum Thesaurus | Abb. 4: Guttus - Anubis und Krokodil | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   731400 | Universitätsbibliothek/UB Fliegende Blätter | "Der Alligator"
+"Im Damencoupé"
+"Malheur" | Graetz, Theodor, Schlittgen, Hermann
+   837147 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Lord de Rothschild's Egyptian soothing syrup. Feeding-time; a little treat all round | Sambourne, Linley
+   1459152 | Antiquitatum Thesaurus | Abb. 1: Anubis mit Krokodil | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   945652 | Universitätsbibliothek/UB Bibliotheca Palatina/UB Bibliotheca Palatina (BAV) | Lib. VIII,5, De piscibus: Walfisch (balene); drachenartiger Thunfisch (cete); Seepferd (equi marini); Seekühe (boves mar | Hrabanus, Maurus
+   664545 | Universitätsbibliothek/UB Französische Karikaturen | Erinnerungsblätter an das Jahr 1870 | Oberländer, Adolf, Bechstein, Ludwig
+   832738 | Universitätsbibliothek/UB Französische Karikaturen | Scènes de la vie privée et plublique des animaux, publiées sous la direction de M. P.-J. Stahl (Première partie.) | Grandville
+   1624927 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Stele | 
+   861350 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | The St. Stephens show | Tenniel, John
+   864346 | Universitätsbibliothek/UB Französische Karikaturen | Revue comique de la semaine par Cham | Cham
+   1645650 | Antiquitatum Thesaurus | Isis Multimammia mit vier Elementen [nicht identifiziert] | 
+   1598222 | Antiquitatum Thesaurus | Labyrinth bei der Tempelanlage Amenemhets III. in Hawara (Al Fayum) [zerstört] | 
+   1324774 | Antiquitatum Thesaurus | Relief des Nektanebos I. | 
+   1588871 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Horusstele | 
+   1617640 | Antiquitatum Thesaurus | Anubis mit Tieren [neuzeitlich] [nicht identifiziert] | 
+   1625486 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Patäke | 
+   1314394 | Antiquitatum Thesaurus | Horus-Stele | 
+   1476693 | Antiquitatum Thesaurus | Pantheos auf Ouroboros / Inschrift (Ge 175) | 
+   1598141 | Antiquitatum Thesaurus | Opferszene mit einem Ptolemäerkönig vor Sobek | 
+   1616110 | Antiquitatum Thesaurus | Serapis [neuzeitlich?] [nicht identifiziert] | 
+   715315 | Universitätsbibliothek/UB Der Simpl | "Das sag ich euch"; "Tröste dich, die Unsrigen haben auch keinen Humor" | Nückel, Otto, Erber, Josef
+   1588879 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Patäke (Amulett) | 
+   1588768 | Antiquitatum Thesaurus | Opferszene mit einem König vor einem Gott [nicht lokalisiert] | 
+   1314695 | Antiquitatum Thesaurus | Horus-Stele | 
+   1369242 | Antiquitatum Thesaurus | Horus-Stele | 
+   1729227 | Antiquitatum Thesaurus | Abb. [A]: Caduceus (Hermesstab) | Anonymer Holzschneider (Kircher 1650)
+   1730178 | Antiquitatum Thesaurus | Harpokrates-Stele | 
+   23779476 | Universitätsbibliothek/UB Codices Salemitani | Zierseite mit Bordürenrahmen, Initiale mit Miniatur: A(lleluia): Versammlung der Heiligen | 
+   1715722 | Antiquitatum Thesaurus | Horus-Stele | 
+   1541008 | Heidelberger Akademie der Wissenschaften/Epigraphische Datenbank Heidelberg | Grabinschrift aus Trier - Belgica | 
+   1595937 | Antiquitatum Thesaurus | Abb. [G]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Zeichner (Esna-Reliefs: Papiers de Montfaucon)
+   1588762 | Antiquitatum Thesaurus | Opferszene mit einem König vor einem Gott [nicht lokalisiert] | 
+   1588797 | Antiquitatum Thesaurus | Abb. [G]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Kupferstecher (Lucas 1719)
+   23871684 | Antiquitatum Thesaurus | Abb. [G]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Zeichner (Esna-Reliefs: Kircher-Korrespondenz)
+   23825683 | Antiquitatum Thesaurus | Abb. [A]: Serapis (nach Macrobius) | 
+   1595935 | Antiquitatum Thesaurus | Abb. [E]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Zeichner (Esna-Reliefs: Papiers de Montfaucon)
+   1588795 | Antiquitatum Thesaurus | Abb. [E]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Kupferstecher (Lucas 1719)
+   23871682 | Antiquitatum Thesaurus | Abb. [E]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Zeichner (Esna-Reliefs: Kircher-Korrespondenz)
+   551542 | Universitätsbibliothek/UB Bibliotheca Palatina/UB Bibliotheca Palatina (UB Heidelberg) | Der hl. Theodorus wird verbrannt | Elsässische Werkstatt von 1418
+   1588790 | Antiquitatum Thesaurus | Abb. [G]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1588788 | Antiquitatum Thesaurus | Abb. [E]: Opferszene mit einem König vor einem Gott - Tempel des Chnum (Esna) | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1641296 | Befestigte Kirchenanlagen, Städte und Dörfer in Deutschland/Städte und Dörfer | Heidelberg-Weststadt Bahnhofstraße 45 | 
+   1710380 | Befestigte Kirchenanlagen, Städte und Dörfer in Deutschland/Städte und Dörfer | Heidelberg-Weststadt Kleinschmidtstraße 10-12 | Kuhn, Franz Sales, Nimis, Eugen
+== Mumie: count=283
+   1730769 | Antiquitatum Thesaurus | Mumie [nicht identifiziert] | 
+   1717104 | Antiquitatum Thesaurus | Mumiensarkophag [nicht identifiziert] | 
+   1730767 | Antiquitatum Thesaurus | Mumie [nicht identifiziert] | 
+   550876 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1716470 | Antiquitatum Thesaurus | Mumiensarkophag [nicht identifiziert] | 
+   550934 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El Hibe | 
+   550886 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1716350 | Antiquitatum Thesaurus | Mumiensarkophag [nicht identifiziert] | 
+   1717101 | Antiquitatum Thesaurus | Mumiensarkophag [nicht identifiziert] | 
+   1708210 | Antiquitatum Thesaurus | Fragment der Mumienbinden der Aberuai [nicht identifiziert] | 
+   550907 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550916 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1744742 | Antiquitatum Thesaurus | Mumienbinde [nicht identifiziert] | 
+   550927 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1573831 | Antiquitatum Thesaurus | Fragment der Mumienbinden der Aberuai [verloren] | 
+   1463688 | Propylaeum/Assuan in der Welt: Die verstreute materielle Kultur der Region in internationalen Sammlungen | Mumienetikett | 
+   707481 | Universitätsbibliothek/UB Nachlass Ernst Wahle | Mumie | 
+   708230 | Universitätsbibliothek/UB Nachlass Ernst Wahle | Ägyptische Mumie | 
+   550915 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550947 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1573849 | Antiquitatum Thesaurus | Fragmente der Mumienbinden der Aberuai (Fragment Louvre N 3059 / BN 229) | 
+   23833225 | Antiquitatum Thesaurus | Mumienkartonage [nicht identifiziert] | 
+   1627931 | Antiquitatum Thesaurus | Mumienmaske der Di-ni-Nefermaat | 
+   1595863 | Antiquitatum Thesaurus | Mumienauflage [nicht identifiziert] | 
+   1739860 | Antiquitatum Thesaurus | Mumienförmiger Sarkophagdeckel des Horemakhbit | 
+   671447 | Universitätsbibliothek/UB Fliegende Blätter | "Der Mumie Fluch" | Bechstein, Ludwig
+   1744234 | Antiquitatum Thesaurus | Mumienbinde [nicht identifiziert] | 
+   1739808 | Antiquitatum Thesaurus | Mumienförmiger Sarkophagdeckel des Ânkhmérout | 
+   1716328 | Antiquitatum Thesaurus | Mumie eines Mannes mit Porträt und Leichentuch | 
+   1744232 | Antiquitatum Thesaurus | Mumienbinde [nicht identifiziert] | 
+   1716330 | Antiquitatum Thesaurus | Mumie einer Frau mit Porträt und Leichentuch | 
+   559959 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   553919 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   671448 | Universitätsbibliothek/UB Fliegende Blätter | "Der Mumie Fluch"
+"In einer Kunsthandlung vor der Photographie einer "Venus""
+"Ein einjähriger Freiwilliger" | 
+   631576 | Universitätsbibliothek/UB Fliegende Blätter | "Ein deutscher Privatdozent, welcher eingehüllt in seine Hoffnungen zur Mumie wird"
+"Das Lotteriespiel"
+"Der Allerseelen | 
+   23832931 | Antiquitatum Thesaurus | Achôm [nicht identifiziert] | 
+   1573836 | Antiquitatum Thesaurus | Mumienbinden der Aberuai | 
+   1369103 | Antiquitatum Thesaurus | Fragment der Mumienbinden der Aberuai (Fragment BN 89) | 
+   1212432 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Kindermumie in Tunika | 
+   550866 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, Karara | 
+   550857 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, Karara | 
+   550882 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550914 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550851 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550946 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550885 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   550922 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1705525 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Kindermumie mit Dachaufbau über dem Kopf | 
+   1700194 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Materialprobe | 
+   707479 | Universitätsbibliothek/UB Nachlass Ernst Wahle | Kindermumie von 1864 | 
+   707480 | Universitätsbibliothek/UB Nachlass Ernst Wahle | Kindermumie von 1864 | 
+   23831979 | Antiquitatum Thesaurus | Tafel [5] r: Mumie (?) | 
+   828398 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | British Museum Official. "No, you can't go into the mummy gallery, the government officials are still there." Rustic. "W | Speed, Lancelot
+   550846 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   750674 | Universitätsbibliothek/UB Fliegende Blätter | "Die Mumie" | Kirchner, Eugen
+   769869 | Universitätsbibliothek/UB Fliegende Blätter | "Die Mumie" | Reinicke, Emil
+   769870 | Universitätsbibliothek/UB Fliegende Blätter | "Die Mumie" | Reinicke, Emil
+   769871 | Universitätsbibliothek/UB Fliegende Blätter | "Die Mumie" | Reinicke, Emil
+   1176214 | Universitätsbibliothek/UB Anatomische Illustrationen | Kopf eines altägyptischen Königs oder Priesters | Krantz, Moritz, F. A. Brockhaus' Geogr.-Artist. Anstalt
+   1719055 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Materialprobe | 
+   774528 | Universitätsbibliothek/UB Fliegende Blätter | "Kennerblick" | Croissant, Eugen
+   1718881 | Antiquitatum Thesaurus | Abb. 2: Mumie | 
+   1718880 | Antiquitatum Thesaurus | Abb. 1: Mumie | 
+   862230 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Trying it on: or, reviving the mummy | Tenniel, John
+   550850 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   23925159 | Antiquitatum Thesaurus | Mumie, Skarabäus, Vogel und Schlange / Inschrift [nicht identifiziert] | 
+   1718872 | Antiquitatum Thesaurus | Abb. 1: Mumiensarkophag | 
+   1718873 | Antiquitatum Thesaurus | Abb. 2: Mumiensarkophag | 
+   1718876 | Antiquitatum Thesaurus | Abb. 1: Mumiensarkophag | 
+   1718877 | Antiquitatum Thesaurus | Abb. 2: Mumiensarkophag | 
+   1710794 | Antiquitatum Thesaurus | Abb. 2: Mumie | 
+   1710798 | Antiquitatum Thesaurus | Abb. 1: Mumie | 
+   880327 | Universitätsbibliothek/UB Britische Karikaturen/UB Britische Karikaturen 1 | Grand demonstration of public feeling in the British Museum | Tenniel, John
+   1652309 | Antiquitatum Thesaurus | Mumienartige Osiris [neuzeitlich] | 
+   1710841 | Antiquitatum Thesaurus | Abb. [A]: Mumienbinden-Segment | 
+   1710842 | Antiquitatum Thesaurus | Abb. [B]: Mumienbinden-Segment | 
+   23832097 | Antiquitatum Thesaurus | Abb. [J]: Tafel [5] r, Mumie (?) - Bleibuch | 
+   1740648 | Antiquitatum Thesaurus | Abb. [A]: Mumienkartonage | 
+   1710834 | Antiquitatum Thesaurus | Abb. 4: Mumienbinden-Segment | 
+   1710835 | Antiquitatum Thesaurus | Abb. 5: Mumienbinden-Segment | 
+   1710836 | Antiquitatum Thesaurus | Abb. 6: Mumienbinden-Segment | 
+   1710837 | Antiquitatum Thesaurus | Abb. 7: Mumienbinden-Segment | 
+   1710838 | Antiquitatum Thesaurus | Abb. 1: Mumienbinden-Segment | 
+   1710820 | Antiquitatum Thesaurus | Abb. 2: Mumienbinden-Segment | 
+   1710821 | Antiquitatum Thesaurus | Abb. 3: Mumienbinden-Segment | 
+   1710822 | Antiquitatum Thesaurus | Abb. 1: Mumienbinden-Segment | 
+   1710825 | Antiquitatum Thesaurus | Abb. 5: Mumienbinden-Segment | 
+   1710826 | Antiquitatum Thesaurus | Abb. 6: Mumienbinden-Segment | 
+   1710827 | Antiquitatum Thesaurus | Abb. 4: Mumienbinden-Segment | 
+   1710828 | Antiquitatum Thesaurus | Abb. 8: Mumienbinden-Segment | 
+   1710829 | Antiquitatum Thesaurus | Abb. 9: Mumienbinden-Segment | 
+   1710830 | Antiquitatum Thesaurus | Abb. 10: Mumienbinden-Segment | 
+   1710831 | Antiquitatum Thesaurus | Abb. 7: Mumienbinden-Segment | 
+   1710832 | Antiquitatum Thesaurus | Abb. 2: Mumienbinden-Segment | 
+   1710833 | Antiquitatum Thesaurus | Abb. 3: Mumienbinden-Segment | 
+   1710785 | Antiquitatum Thesaurus | Abb. 1: Mumiensarkophag | 
+   1710786 | Antiquitatum Thesaurus | Abb. 2: Mumiensarkophag | 
+   1710790 | Antiquitatum Thesaurus | Abb. 1: Mumiensarkophag | 
+   1710791 | Antiquitatum Thesaurus | Abb. 2: Mumiensarkophag | 
+   1728832 | Antiquitatum Thesaurus | Abb. [B]: Mumienförmiger Osiris in einer Totenbarke | 
+   1740640 | Antiquitatum Thesaurus | Abb. [A]: Mumienkartonage | 
+   1728893 | Antiquitatum Thesaurus | Abb. [A]: Mumienförmiger Osiris in einer Totenbarke | 
+   1457811 | Antiquitatum Thesaurus | Abb. 44: Mumie, Skarabäus, Vogel und Schlange / Inschrift | Werden, Jacques van
+   1625300 | Antiquitatum Thesaurus | Mumienförmiger Osiris in einer Totenbarke [nicht identifiziert] | 
+   1717384 | Antiquitatum Thesaurus | Abb. [B]: Fragment der Mumienbinden der Aberuai | 
+   699492 | Universitätsbibliothek/UB Fliegende Blätter | "Bedenkliches Anzeichen"
+"Modebild"
+"Begriffsverwirrung" | Spitzer, Emanuel, Stauber, Carl, Bechstein, Ludwig
+   1457844 | Antiquitatum Thesaurus | Abb. 77: Osiris-Mumie mit Krone / astrologische Symbole | Werden, Jacques van
+   23832123 | Antiquitatum Thesaurus | Abb. [J]: Tafel [5] r, Mumie (?) - Bleibuch | 
+   1723228 | Antiquitatum Thesaurus | Abb. 299 r: Fragment der Mumienbinden der Aberuai | 
+   1709468 | Antiquitatum Thesaurus | Abb. 25: Mumienartige Osiris (London) | 
+   1457845 | Antiquitatum Thesaurus | Abb. 78: Gekrönte Mumie mit vier kleinen Figuren | Werden, Jacques van
+   1719053 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Bandagen von Hetep-Amun | 
+   1702623 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Kopfstütze | 
+   550847 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   1466206 | Antiquitatum Thesaurus | Mumie mit Mondsichel, Stern, Palmzweig und Kranz (Ge 140) | 
+   574104 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Khabekhnet, TT 2 | 
+   1509823 | Antiquitatum Thesaurus | Abb. [A]: Mumienförmiger Osiris in einer Totenbarke | Anonymer Holzschneider (Pignoria 1605)
+   24159821 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Deckel eines mumienförmigen Frauensarges | 
+   1510835 | Antiquitatum Thesaurus | Abb. [C]: Mumienartige Osiris (London) | Anonymer Holzschneider (Pignoria 1605)
+   23876363 | Antiquitatum Thesaurus | Abb. [A]: Mumienförmiger Osiris in einer Totenbarke | Anonymer Holzschneider (Kircher 1636)
+   1710782 | Antiquitatum Thesaurus | Abb. A: Mumie eines Mannes mit Porträt und Leichentuch (Dresden) | 
+   1710783 | Antiquitatum Thesaurus | Abb. B: Mumie einer Frau mit Porträt und Leichentuch (Dresden) | 
+   1629938 | Antiquitatum Thesaurus | Abb. [A]: Mumienmaske der Di-ni-Nefermaat (Berlin) | 
+   760775 | Universitätsbibliothek/UB Französische Karikaturen | Le Carnaval | Grandville
+   550849 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   570439 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, Karara | 
+   1684803 | Antiquitatum Thesaurus | Abb. 68: Mumie, Skarabäus, Vogel und Schlange / Inschrift | Anonymer Kupferstecher (Hohenburg [um 1610])
+   23832149 | Antiquitatum Thesaurus | Abb. [J]: Tafel [5] r, Mumie (?) - Bleibuch | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1718586 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Gesicht vom Deckel eines mumienförmigen Frauensargs | 
+   1717302 | Antiquitatum Thesaurus | Abb. [B]: Fragment der Mumienbinden der Aberuai | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   24030180 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Kreuzanhänger | 
+   1742002 | Antiquitatum Thesaurus | Sog. Evelyn-Stele [zerstört] | 
+   1550637 | Antiquitatum Thesaurus | Ptah [verloren] | 
+   1739762 | Antiquitatum Thesaurus | Abb. [B]: Mumienförmiger Sarkophagdeckel des Horemakhbit (Paris) | 
+   1739761 | Antiquitatum Thesaurus | Abb. [A]: Mumienförmiger Sarkophagdeckel des Ânkhmérout (Paris) | 
+   1603560 | Antiquitatum Thesaurus | Gekrönte Mumie mit vier kleinen Figuren (CBd-968) [neuzeitlich] | 
+   1548117 | Antiquitatum Thesaurus | Uschebti | 
+   868460 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | El- Hibe, Grabung El Hibe | 
+   571077 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ameneminet, TT 277 | 
+   1511548 | Antiquitatum Thesaurus | Abb. [A]: Mumienförmiger Osiris in einer Totenbarke | Anonymer Holzschneider (Pignoria 1608)
+   1511970 | Antiquitatum Thesaurus | Abb. [C]: Mumienartige Osiris (London) | Anonymer Kupferstecher (Pignoria 1608)
+   1718509 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Mumienförmiger Sarg | 
+   1718838 | Antiquitatum Thesaurus | Abb. [F]: Osiris-Mumie mit Krone / astrologische Symbole | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1718839 | Antiquitatum Thesaurus | Abb. [G]: Gekrönte Mumie mit vier kleinen Figuren | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1719393 | Antiquitatum Thesaurus | Abb. [C]: Mumie mit Mondsichel, Stern, Palmzweig und Kranz (Ge 140) (Kassel) | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1369313 | Antiquitatum Thesaurus | Nr. 228: Mumie mit Mondsichel, Stern, Palmzweig und Kranz (Ge 140) (Kassel) | Anonymer Kupferstecher (Capello 1702)
+   1618794 | Antiquitatum Thesaurus | Osiris-Mumie mit Krone / astrologische Symbole [neuzeitlich ?] [nicht identifiziert] | 
+   1176220 | Universitätsbibliothek/UB Anatomische Illustrationen | Übereinander gezeichnete Contoure der Köpfe von Kant, Rumohr, Tiedge und einer Mumie | F. A. Brockhaus' Geogr.-Artist. Anstalt
+   1719054 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Materialprobe | 
+   23729949 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Materialprobe | 
+   1573920 | Antiquitatum Thesaurus | Abb. [A]: Mumienauflage | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1573921 | Antiquitatum Thesaurus | Abb. [B]: Mumienauflage | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   577631 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Niay, TT 286 | 
+   1617431 | Antiquitatum Thesaurus | Gekrönte Mumie mit vier kleinen Figuren [neuzeitlich] [nicht identifiziert] | 
+   587335 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Raia, TT 159 | 
+   574246 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ramose, TT 250 | 
+   1548123 | Antiquitatum Thesaurus | Uschebti [verloren] | 
+   23832011 | Antiquitatum Thesaurus | Abb. [J]: Tafel [5] r, Mumie (?) - Bleibuch | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   574229 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ramose, TT 250 | 
+   1548119 | Antiquitatum Thesaurus | Ptah-Sokar-Osiris | 
+   1733592 | Antiquitatum Thesaurus | Kanope(?) [neuzeitlich?] [nicht identifiziert] | 
+   1745125 | Antiquitatum Thesaurus | Uschebti(?) [nicht identifiziert] | 
+   1624734 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Sargmaske | 
+   1373707 | Antiquitatum Thesaurus | Abb. [F]: Osiris-Mumie mit Krone / astrologische Symbole | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1574279 | Antiquitatum Thesaurus | Abb. [A]: Fragment der Mumienbinden der Aberuai | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1574281 | Antiquitatum Thesaurus | Abb. [C]: Fragment der Mumienbinden der Aberuai | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1375083 | Antiquitatum Thesaurus | Abb. [C]: Mumie mit Mondsichel, Stern, Palmzweig und Kranz (Ge 140) (Kassel) | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   587337 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Raia, TT 159 | 
+   587338 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Raia, TT 159 | 
+   577890 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Sennedjem, TT 1 | 
+   1745119 | Antiquitatum Thesaurus | Uschebti(?) [nicht identifiziert] | 
+   1466207 | Antiquitatum Thesaurus | Osiris auf Löwe mit Isis, Nephty und Anubis (Ge 142) | 
+   1373708 | Antiquitatum Thesaurus | Abb. [G]: Gekrönte Mumie mit vier kleinen Figuren | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   1314434 | Antiquitatum Thesaurus | Abb. 01: Fragment der Mumienbinden der Aberuai | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   576695 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hekamaatre-Nacht, gen. Turo, TT 222 | 
+   574105 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Khabekhnet, TT 2 | 
+   577889 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Sennedjem, TT 1 | 
+   1745116 | Antiquitatum Thesaurus | Uschebti(?) [nicht identifiziert] | 
+   1745123 | Antiquitatum Thesaurus | Uschebti(?) [nicht identifiziert] | 
+   577687 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Setau, TT 289 | 
+   550912 | Aegyptologie (Universität Heidelberg)/Ägyptologie Archiv | Grabung, El- Hibe | 
+   596273 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Setau, TT 289 | 
+   596234 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Setau, TT 289 | 
+   596236 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Setau, TT 289 | 
+   596330 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nachtamun, TT 341 | 
+   569284 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Bakenimen, TT 135 | 
+   569285 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Bakenimen, TT 135 | 
+   574379 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ken, TT 4 | 
+   577689 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Setau, TT 289 | 
+   1598040 | Antiquitatum Thesaurus | Ptah-Sokar-Osiris [nicht identifiziert] | 
+   1211818 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | 2-Finger-Amulett | 
+   1624735 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Sargmaske | 
+   549202 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nefersecheru, TT 296 | 
+   559954 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   559930 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   559942 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   571063 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Schuroy, TT 13 | 
+   1548125 | Antiquitatum Thesaurus | Uschebti [verloren] | 
+   1730983 | Antiquitatum Thesaurus | Ptah-Sokar-Osiris [nicht identifiziert] | 
+   564965 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Samut, gen. Kiki, TT 409 | 
+   559955 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   566393 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT 16 | 
+   574380 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ken, TT 4 | 
+   574250 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ramose, TT 250 | 
+   574114 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Paschedu, TT 323 | 
+   1548121 | Antiquitatum Thesaurus | Uschebti [verloren] | 
+   1710570 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   1710331 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   1548113 | Antiquitatum Thesaurus | Uschebti [verloren] | 
+   564966 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Samut, gen. Kiki, TT 409 | 
+   559880 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   553702 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nefersecheru, TT 296 | 
+   576708 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hekamaatre-Nacht, gen. Turo, TT 222 | 
+   566438 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT 16 | 
+   566444 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT16 | 
+   570097 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hori, TT 259 | 
+   570098 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hori, TT 259 | 
+   1631168 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   583805 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemheb, TT 44 | 
+   578585 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemheb, TT 44 | 
+   580687 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemheb, TT 44 | 
+   1730981 | Antiquitatum Thesaurus | Ptah-Sokar-Osiris [nicht identifiziert] | 
+   23848207 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   23848205 | Antiquitatum Thesaurus | Plakette mit Kebechsenuef [nicht identifiziert] | 
+   559881 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   576718 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hekamaatre-Nacht, gen. Turo, TT 222 | 
+   990073 | Universitätsbibliothek/UB Meggendorfer Blätter | Gedanken Splitter; Starke Liebe | Luttich, Mila, Burian, Franz
+   583796 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemheb, TT 44 | 
+   1743988 | Antiquitatum Thesaurus | Idol / Kanope (?) [nicht identifiziert] | 
+   23879705 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   1475802 | Antiquitatum Thesaurus | Uterussymbol, Gottheiten und Chnoubisschlangen in einem Ouroboros / Uterus (Ge 173) | 
+   554776 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   554782 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   554953 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   596274 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nachtamun, TT 341 | 
+   566385 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT 16 | 
+   566440 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT16 | 
+   566476 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Panehsi, TT16 | 
+   571074 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ameneminet, TT 277 | 
+   571076 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ameneminet, TT 277 | 
+   569366 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nedjemger, TT 138 | 
+   574262 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ramose, TT 250 | 
+   574226 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ramose, TT 250 | 
+   1548115 | Antiquitatum Thesaurus | Uschebti des Herisachmet [verloren] | 
+   1743941 | Antiquitatum Thesaurus | Amun [nicht identifiziert] | 
+   23879709 | Antiquitatum Thesaurus | Uschebti [nicht identifiziert] | 
+   24173708 | Antikensammlung (Universität Heidelberg)/Original-Sammlung | Griechisch-ägyptisches Zaubertäfelchen aus Blei | 
+   1314412 | Antiquitatum Thesaurus | Würfelhocker des Pa-Anch-Ra | 
+   559931 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   559938 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   571073 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Ameneminet, TT 277 | 
+   569364 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nedjemger, TT 138 | 
+   1733692 | Antiquitatum Thesaurus | Amulett [nicht identifiziert] | 
+   1588884 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Zwei-Finger-Amulett | 
+   1548109 | Antiquitatum Thesaurus | Uschebti des Heriemhotep | 
+   559940 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Amenemope, TT 41 | 
+   570099 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Hori, TT 259 | 
+   559878 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   559882 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   559877 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   553812 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nefersecheru, TT 296 | 
+   553813 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nefersecheru, TT 296 | 
+   1616110 | Antiquitatum Thesaurus | Serapis [neuzeitlich?] [nicht identifiziert] | 
+   553808 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Nefersecheru, TT 296 | 
+   23848141 | Antiquitatum Thesaurus | Plakette mit zwei Horussöhnen [nicht identifiziert] | 
+   559886 | Aegyptologie (Universität Heidelberg)/Ägyptologie Ramessidengräber | Grab des Neferrenpet, TT 178 | 
+   1365164 | Videopool UB/Ehemaliger Mediaserver | 150 Jahre Klassische Archäologie an der Uni Heidelberg - von Troja bis hin zu regionalen Funden aus der Römerzeit | Panagiotopoulos, Diamantis, Obhof, Linda
+   1605425 | Antiquitatum Thesaurus | Ouroboros, der einen Uterus mit Gottheiten umschließt (CBd-2925) [nicht identifiziert] | 
+   1616209 | Aegyptologie (Universität Heidelberg)/Ägyptische Sammlung (Uni Heidelberg) | Ptah-Sokar-Osirisfigur | 
+   23798257 | arthistoricum.net/Cabinet Petau | Uschebti [neuzeitlich] [nicht identifiziert] | 
+   23959886 | arthistoricum.net/Cabinet Petau | Abb. [B]: Uschebti | Bleyswyck, François van
+   23788261 | arthistoricum.net/Cabinet Petau | Abb. [B]: Uschebti | Rousset, François
+   23958739 | arthistoricum.net/Cabinet Petau | Abb. [B]: Uschebti | Rousset, François
+   23933325 | arthistoricum.net/Cabinet Petau | Abb. [B]: Uschebti | Bleyswyck, François van
+   23958740 | arthistoricum.net/Cabinet Petau | Abb. [A]: Uschebti | Rousset, François
+   23959885 | arthistoricum.net/Cabinet Petau | Abb. [A]: Uschebti | Bleyswyck, François van
+   1712397 | Antiquitatum Thesaurus | Abb. [A]: Teraphim | 
+   23933324 | arthistoricum.net/Cabinet Petau | Abb. [A]: Uschebti | Bleyswyck, François van
+   23788260 | arthistoricum.net/Cabinet Petau | Abb. [A]: Uschebti | Rousset, François
+   1369121 | Videopool UB/Ehemaliger Mediaserver | Ägyptische Magie im Wandel der Zeiten | Jördens, Andrea
+   1575188 | Antiquitatum Thesaurus | Sonnenbarke am Abend (Sauneron-Nr. 437, Szene 8) | 
+   1715275 | Antiquitatum Thesaurus | Opferszene mit Caracalla vor Neith und den Netjeru-Hetepu (Sauneron-Nr. 481, westliche Innenwand) | 
+   1730178 | Antiquitatum Thesaurus | Harpokrates-Stele | 
+== Tiermumie: count=0
+== Sobek: count=7
+   1598141 | Antiquitatum Thesaurus | Opferszene mit einem Ptolemäerkönig vor Sobek | 
+   1598122 | Antiquitatum Thesaurus | Abb. [A]: Opferszene mit einem Ptolemäerkönig vor Sobek - Tempel des Sobek (Kasr Karun) | Anonymer Kupferstecher (Lucas 1719)
+   1574013 | Antiquitatum Thesaurus | Abb. 2 [A]: Opferszene mit einem Ptolemäerkönig vor Sobek - Tempel des Sobek (Kasr Karun) | Anonymer Kupferstecher (Montfaucon, L'antiquité expliquée)
+   23875869 | Antiquitatum Thesaurus | Abb. [A]: Tempel des Sobek (Kasr Karun) | Anonymer Kupferstecher (Lucas 1719)
+   23875870 | Antiquitatum Thesaurus | Abb. [B]: Tempel des Sobek (Kasr Karun) | Anonymer Kupferstecher (Lucas 1719)
+   23875864 | Antiquitatum Thesaurus | Tempel des Sobek | 
+   1595863 | Antiquitatum Thesaurus | Mumienauflage [nicht identifiziert] | 

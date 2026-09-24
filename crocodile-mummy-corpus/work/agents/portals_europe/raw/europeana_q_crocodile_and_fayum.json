@@ -1,0 +1,178 @@
+{
+"query": "crocodile AND Fayum",
+"profile": "standard",
+"total": 7,
+"fetched": 7,
+"items": [
+{
+"id": "/334/Museu_ProvidedCHO_museum_digital_1238__technical_number_",
+"title": [
+"Steuerquittung für Opferkalb",
+"Tax receipt for sacrificial calf"
+],
+"dataProvider": "Egyptian Museum and Papyrus Collection, Berlin State Museums",
+"provider": "MUSEU",
+"country": "Germany",
+"type": "IMAGE",
+"year": [
+"102"
+],
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "http://www.smb-digital.de/eMuseumPlus?service=ExternalInterface&module=collection&objectId=1447600",
+"edmIsShownBy": "https://berlpap.smb.museum/Original/P_07882_R_001.jpg",
+"guid": "https://www.europeana.eu/item/334/Museu_ProvidedCHO_museum_digital_1238__technical_number_?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "334_MUSEU_SPK",
+"desc": [
+"Es wird quittiert, dass Satabus, Sohn des Nestnephis, aus Soknopaiu Nesos die Abgabe für ein Opferkalb (τέλος μόσχου θυομένου) bezahlt hat. Darunter ein Tonsiegel (der Gott Soknopaios (?) als Krokodil mit Sperberkopf auf einer Schlange mit umlaufender Jahresangabe).\n\n\n\nDiese Seite ist sichtbar in de",
+"It is acknowledged that Satabus, son of the Nestnephis, paid from Soknopaiu Nesos the charge for a sacrificial calf (τέλος μόσχου θυομένου). Among them, a clay seal (the god Soknopaios (?) as a crocodile with a sperm head on a serpent with an annual indication).\n\n\n\nThis page is visible at the exhibi"
+]
+},
+{
+"id": "/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238",
+"title": [
+"Momie de crocodile",
+"Mummy of a young crocodile",
+"Mummie van een krokodil"
+],
+"dataProvider": "Royal Museums of Art and History, Brussels",
+"provider": "MUSEU",
+"country": "Belgium",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": "https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=fr&objectId=75238",
+"edmIsShownBy": "https://mpBruxellesMRAH.zetcom.com/MpWeb-mpBruxellesMRAH/images/75238.jpg",
+"guid": "https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_75238?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "322_Museu_RMAH",
+"desc": [
+"number-of-objects: 1",
+"Cette momie de crocodile provient des fouilles de B. Grenfell et A. Hunt au Fayoum. Elle est enveloppée dans une étoffe de lin entouré d'un double fil. Les yeux sont fabriqués de cartonnage peint. L'étude radiographique démontre que l'objet est une contrefaçon antique constituant d'un matériel non-i",
+"This crocodile mummy was found during the excavations of Grenfell and Hunt in the Fayum. It is wrapped in linen and surrounded by a double wire. The eyes are made of painted cartonnage. Radiologic studies on the mummy have shown that it is actually an ancient forgery, made of an unidentified materia",
+"Deze krokodillenmummie is afkomstig uit de opgravingen van B. Grenfell en A. Hunt in de Fajoem. Hij is gewikkeld in een linnen stof omgeven door een dubbele draad. De ogen zijn gemaakt van beschilderd cartonnage. Radiografisch onderzoek toont aan dat het voorwerp een antieke vervalsing is die bestaa"
+]
+},
+{
+"id": "/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002750",
+"title": [
+"mould (coin)"
+],
+"dataProvider": "Nottingham City Museums and Galleries",
+"provider": "MUSEU",
+"country": "Europe",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": null,
+"edmIsShownBy": "http://media.culturegrid.org.uk/mediaLibrary/NCMG/BLDIDHH002750.jpg",
+"guid": "https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002750?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2064107_Museu_UK_Museums",
+"desc": [
+"Nine coin moulds (terracotta) from Medinet el Fayum (Crocodilopolis). It is likely that these impressions were taken from genuine coins in order to produce counterfeit ones. Two bearing bust of Constantine I. Legend: IMP CEL VAL CONSTANTINUS PF AVG Unabbreviated: Imperator Caesar Valerius Constantin"
+]
+},
+{
+"id": "/08602/IL3000051873",
+"title": [
+"La R. missione archeologica italiana di Egitto scopre fra le rovine dell'antica Tebtunis nel Fayum il tempio del dio coccodrillo. Gennaio - aprile IX.. Scavi della missione archeologia italiana in Egitto (Gennaio-Aprile 1931 IX)",
+"The R. Italian archeological mission of Egypt discovers among the ruins of ancient Tebtunis in the Fayum the temple of the crocodile god January - April IX.. Excavations of the Italian Archaeology mission in Egypt (January-April 1931 IX)"
+],
+"dataProvider": "Cinecittà - Luce",
+"provider": "The European Film Gateway",
+"country": "Italy",
+"type": "VIDEO",
+"year": [
+"1931"
+],
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": null,
+"edmIsShownBy": "https://videocinecitta.bytewise.it/vod/archivioluce/MpegM300/M010602.mp4/manifest.mpd",
+"guid": "https://www.europeana.eu/item/08602/IL3000051873?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "08602_EFG_Instituto_Luce_Cinecitta",
+"desc": [
+"L'antica città di Tebtunis - case di abitazione greco-romane scoperte dalla missione inglese nel 900 - il ritrovamento dei ruderi del tempio al dio Coccodrillo: le case dei sacerdoti; la via processionale che conduce al santuario; le sale per i banchetti; il chiosco d'ingresso, di epoca Tolemaica; i",
+"1 - la bandiera tricolore sventola nel campo di scavo",
+"2 - gli archeologi italiani e alcune guardie egizie, in piedi sotto la bandiera italiana, salutano",
+"3 - veduta della parte della città scavata dalla missione inglese nel 1900: case di abitazione greco-romane",
+"4 - il prof. Anti (egiziano) dà istruzioni a 200 operai beduini seduti in terra di fronte a lui",
+"5 - gli operai si alzano ed iniziano a lavorare allo scavo delle case dei sacerdoti lungo il muro di cinta del tempio del dio coccodrillo",
+"6 - donne e bambini partecipano al lavoro di scavo",
+"7 - le donne trasportano la terra su delle ceste appoggiate sulla testa",
+"8 - le immagini scorrono sul lavoro di scavo",
+"9 - le fondamenta delle mura vengono alla luce",
+"10 - gli operai egiziani proseguono il lavoro di scavo",
+"11 - colonna di operai in fila per lo scarico della sabbia"
+]
+},
+{
+"id": "/1100/4284",
+"title": [
+"Letter from Herennia to Pompeius"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_63",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_63/800/0/MP63_24353.jpg",
+"guid": "https://www.europeana.eu/item/1100/4284?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Private letter from Herennia to her father Pompeius written in Greek on papyrus in the Arsinoite nome (modern Fayum) in Egypt and dated 18 January 57 AD. Herennia [‘Eλενία] seeks her father's advice in relation to pious contributions requested from the privileged classes resident in the area for the"
+]
+},
+{
+"id": "/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002776",
+"title": [
+"figurine"
+],
+"dataProvider": "Nottingham City Museums and Galleries",
+"provider": "MUSEU",
+"country": "Europe",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": null,
+"edmIsShownBy": "http://media.culturegrid.org.uk/mediaLibrary/NCMG/BLDIDHH002776.jpg",
+"guid": "https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002776?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2064107_Museu_UK_Museums",
+"desc": [
+"This figurine is made by hollow construction of terracotta, with an undecorated back. The lower arms and legs are no longer extant. The figurine stands with arms outstretched wearing a draped garment and the traditional Hathor headdress. The town known today as Medinet el-Faiyum was once a marshy la"
+]
+},
+{
+"id": "/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002747",
+"title": [
+"mould/scarab"
+],
+"dataProvider": "Nottingham City Museums and Galleries",
+"provider": "MUSEU",
+"country": "Europe",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by-nc-sa/4.0/"
+],
+"edmIsShownAt": null,
+"edmIsShownBy": "http://media.culturegrid.org.uk/mediaLibrary/NCMG/BLDIDHH002747.jpg",
+"guid": "https://www.europeana.eu/item/2064107/Museu_ProvidedCHO_Nottingham_City_Museums_and_Galleries_BLDIDHH002747?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2064107_Museu_UK_Museums",
+"desc": [
+", MOULD, terra-cotta; for making porcelain scaraboei. Medinet el Fyoum (Crocodilopolis). Egyptian. Given by the Rev. Greville J. Chester, B.A. [Annual Report 1878-79], The town known today as Medinet el-Faiyum was once a marshy lagoon where the crocodile god Sobek was once worshipped from the Old Ki"
+]
+}
+]
+}

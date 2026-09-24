@@ -1,0 +1,362 @@
+2001.18.59	Sans titre [Grue brolga] | | | | | | | Territoire
+2001.18.60	Kunapipi | | | | | | | Territoire du Nord | | Yol
+2001.18.62	[Sans titre] | | | | | | | Territoire du Nord | |
+2001.18.65	[sans titre] | | | | | | | Territoire du Nord | |
+2001.18.98	Totem | | | | | | | Territoire du Nord | | Yolngu
+2001.18.99	Totem | | | | | | | Territoire du Nord | | Inv. n
+20015641	Crocodileimus robustus | | | | | | | | | | | | | 
+2004.4.15	Coiffe de mariage | | | | | | | | | | | | | Papou
+2006.7.3	Metamorphosis ; Djunungayangu | | | | | | | Terri
+2007.1.45	Collier de guerrier | | | | | | | Papouasie-Nouve
+2007.1.82	Monnaie | | | | | | | Papouasie-Nouvelle-Guinée 
+2007.1.93	Parure-monnaie | | | | | | | | | | | | | Papouasi
+2007.68.2	Crocodile design | | | | | | | Territoire du Nord
+20151109	Crocodileimus robustus | | | | | | | France | | F
+2017.43.279	Coiffe de chef ou de guerrier | | | | | | | | | |
+2018.14.29	pendentif | | | | | | | Owo | | Yoruba | | Inv. n
+2025.3.110	Selimut | | | | | | | Timor | | Inv. n°2025.3.11
+42000392	Crocodylus porosus | | | | | | | Vietnam du Sud |
+42000393	Crocodylus niloticus | | | | Spécimen monté | |
+42000394	Crocodylus siamensis | | | | | | | Vietnam du Sud
+42000395	Crocodylus niloticus | | | | | | | Toamasina | | 
+42000532	Crocodylus niloticus | | | | Spécimen monté | | 
+42001360	Scopelus crocodilus | | | | | | | France | | Spé
+42003560	Crocodylus niloticus | | | | | | | Égypte | | Sp
+42003561	Crocodylus niloticus | | | | | | | Nosy Bé | | S
+42003562	Crocodylus siamensis | | | | | | | Tay Ninh | | S
+42003563	Crocodylus siamensis | | | | | | | Vietnam | | Sp
+42003564	Crocodylus porosus | | | | | | | Hô Chi Minh Vil
+42003914	Crocodylus niloticus | | | | | | | Afrique | | Sp
+42003923	Osteolaemus tetraspis | | | | Spécimen en fluide
+42003924	Crocodylus niloticus | | | | Spécimen en fluide 
+42003926	Osteolaemus tetraspis | | | | | | | Bénin | | Sp
+42003946	Osteolaemus tetraspis | | | | | | | Afrique | | S
+42004211	Belone annulata | | | | | | | Océan Indien | | S
+42005380	Tylosurus crocodilus | | | | | | | Sénégal | | 
+42006200	Crocodylus niloticus | | | | | | | Cameroun | | S
+42006201	Crocodylus porosus | | | | | | | Afrique | | Spé
+42006202	Crocodylus acutus | | | | | | | Amérique | | Sp�
+42006203	Crocodylus niloticus | | | | | | | Madagascar | |
+42006204	Crocodylus porosus | | | | | | | Tay Ninh | | Sp�
+42006205	Crocodylus niloticus | | | | Spécimen monté | |
+42006206	Crocodylus niloticus | | | | | | | Saint-Louis | 
+42006506	Crocodylus rhombifer | | | | Spécimen monté | |
+42006507	Crocodylus rhombifer | | | | Spécimen monté | |
+42006539	Crocodylus niloticus | | | | | | | Madagascar | | 
+42006540	Crocodylus porosus | | | | | | | Hô Chi Minh Vil
+42006545	Crocodylus acutus | | | | | | | Rép. Dominicaine
+42006548	Crocodylus niloticus | | | | | | | Afrique | | Sp
+42006549	Crocodylus niloticus | | | | | | | Afrique | | Sp
+42006550	Crocodylus niloticus | | | | | | | Afrique | | Sp
+42006554	Crocodylus niloticus | | | | | | | Sénégal | | 
+42006706	Crocodylus niloticus | | | | Spécimen monté | |
+42006718	Crocodylus niloticus | | | | Inv. n°42006718 | |
+42006720	Osteolaemus tetraspis | | | | | | | Gabon | | Sp�
+42006721	Crocodylus mindorensis | | | | | | | Philippines 
+42006722	Crocodylus porosus | | | | Spécimen en fluide | 
+42006748.7	Crocodylus rhombifer | | | | | | | Amérique | | 
+42006759	Crocodylus porosus | | | | | | | Vietnam | | Œuf
+42006791	Crocodylus niloticus | | | | Œuf | | Inv. n°420
+42007041	Crocodylus niloticus | | | | Inv. n°42007041 | |
+90000095	Barque en forme de crocodile | | | | | | | | | | 
+90001182	TETE DE CROCODILE MOMIFIEE | | | | | | | Haute Egyp
+90001183	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001184	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001185	MOMIE DE JEUNE CROCODILE | | | | | | | Haute Egyp
+90001186	Momie de crocodile | | | | | | | Haute Egypte | |
+90001187	Momie de crocodile | | | | | | | | | | | | | Haut
+90001188	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001189	Amas de bébés crocodiles | | | | | | | Égypte 
+90001190	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001191	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001192	CROCODILE MOMIFIE AVEC OEUF | | | | | | | Haute E
+90001193	TETE DE CROCODILE MOMIFIEE | | | | | | | Égypte 
+90001194	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001195	EMBRYON DE CROCODILE MOMIFIE | | | | | | | Haute 
+90001196	CROCODILE MOMIFIE | | | | | | | Haute Egypte | | 
+90001197	OEUF DE CROCODILE MOMIFIE | | | | | | | Haute Egy
+90001199	Momie de crocodile | | | | | | | | | | | | | Haut
+90001276	Momie de crocodile | | | | | | | Égypte | | Spé
+90001281	Momie de crocodile | | | | | | | Égypte | | Spé
+90001282	Momie de crocodile | | | | | | | Égypte | | Spé
+90001287	Momie de crocodile | | | | | | | Égypte | | Spé
+90001328	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001329	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001330	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001331	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001332	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001333	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001334	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001335	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001336	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001337	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001338	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001339	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001355	Momie de crocodile | | | | | | | Égypte | | Spé
+90001369	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001370	MOMIE DE JEUNE CROCODILE | | | | | | | Égypte | 
+90001372	SIMULACRE DE CROCODILE | | | | | | | Haute Egypte
+90001373	Momie de crocodile | | | | | | | Égypte | | Spé
+90001374	Momie de crocodile | | | | | | | Égypte | | Spé
+90001376	Momie de crocodile | | | | | | | Haute Egypte | |
+90001380	MOMIE PATTE ARG DE CROCODILE | | | | | | | Égypt
+90001383	Momie de crocodile | | | | | | | Égypte | | Spé
+90001384	Momie de crocodile | | | | | | | Égypte | | Spé
+90001385	Momie de crocodile | | | | | | | Égypte | | Spé
+90001386	MOMIE DE QUEUE DE CROCODILE | | | | | | | Égypte
+90001387	Momie de crocodile | | | | | | | Haute Egypte | |
+90001388	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001389	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001390	Momie de crocodile | | | | | | | Égypte | | Spé
+90001391	Momie de crocodile sacré | | | | | | | Égypte |
+90001392	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001393	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001394	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001395	FRAGMENT DE CROCODILE MOMIFIE | | | | | | | Égyp
+90001396	FRAGMENT DE CROCODILE MOMIFIE | | | | | | | Égyp
+90001397	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001398	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001399	Momie de crocodile | | | | | | | Égypte | | Inv.
+90001400	FRAGMENT DE CROCODILE MOMIFIE | | | | | | | Égyp
+90001401	FRAGMENT DE CROCODILE MOMIFIE | | | | | | | Égyp
+90001591	Momie de crocodile | | | | | | | | | | | | | Haut
+90001838	CRANE MOMIFIE DE CROCODILE | | | | | | | Égypte 
+90001839	CRANE MOMIFIE DE CROCODILE | | | | | | | Égypte 
+90001840	CRANE MOMIFIE DE CROCODILE | | | | | | | Égypte 
+90001841	CRANE MOMIFIE DE CROCODILE | | | | | | | Haute Eg
+90001842	CRANE MOMIFIE DE CROCODILE | | | | | | | Égypte 
+90001843	FRAGMENT DE CROCODILE MOMIFIE | | | | | | | Égyp
+90001844	TETE MOMIFIEE DE CROCODILE | | | | | | | Égypte 
+90001850	FRAGMENTS DE CROCODILE MOMIFIE | | | | | | | Égy
+90001851	TETE MOMIFIEE DE CROCODILE | | | | | | | Égypte 
+90001852	TETE MOMIFIEE DE CROCODILE | | | | | | | Égypte 
+90001855	TETE DE CROCODILE MOMIFIE | | | | | | | Égypte |
+90001856	TETE DE CROCODILE MOMIFIEE | | | | | | | Égypte 
+90001901	PETIT CROCODILE | | | | | | | Égypte | | Spécim
+90001938	FRAG DE QUEUE DE CROCODILE | | | | | | | Égypte 
+90001939	FRAG DE CORPS DE CROCODILE | | | | | | | Égypte 
+90001941	FRAG DE CORPS DE CROCODILE | | | | | | | Égypte 
+90001942	Amas de bébés crocodiles | | | | | | | Égypte 
+90001943	Amas de bébés crocodiles | | | | | | | Égypte 
+90001944	Amas de bébés crocodiles | | | | | | | Égypte 
+90001945	Amas de bébés crocodiles | | | | | | | Égypte 
+90001946	Amas de bébés crocodiles | | | | | | | Égypte 
+90001947	Amas de bébés crocodiles | | | | | | | Égypte 
+90001948	Amas de bébés crocodiles | | | | | | | | | | | 
+90001949	Amas de bébés crocodiles | | | | | | | Égypte 
+90001950	Amas de bébés crocodiles | | | | | | | Égypte 
+90001951	Amas de bébés crocodiles | | | | | | | Égypte 
+90001952	Bébé crocodile momifié | | | | | | | Égypte |
+90001953	Amas de bébés crocodiles | | | | | | | Égypte 
+90001954	Bébé crocodile momifié | | | | | | | Égypte |
+90001955	Bébé crocodile momifié | | | | | | | Égypte |
+90001956	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001957	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001958	Bébé crocodile momifié | | | | | | | Égypte |
+90001959	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001960	Bébé crocodile momifié | | | | | | | Égypte |
+90001961	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001962	Bébé crocodile momifié | | | | | | | Égypte |
+90001963	Bébé crocodile momifié | | | | | | | Égypte |
+90001964	Bébé crocodile momifié | | | | | | | Égypte |
+90001965	Bébé crocodile momifié | | | | | | | Égypte |
+90001966	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001967	Bébé crocodile momifié | | | | | | | Égypte |
+90001968	Bébé crocodile momifié | | | | | | | Égypte |
+90001969	Bébé crocodile momifié | | | | | | | Égypte |
+90001970	Bébé crocodile momifié | | | | | | | Égypte |
+90001971	Bébé crocodile momifié | | | | | | | Égypte |
+90001972	Bébé crocodile momifié | | | | | | | Égypte |
+90001973	Bébé crocodile momifié | | | | | | | Égypte |
+90001974	Bébé crocodile momifié | | | | | | | Égypte |
+90001975	Bébé crocodile momifié | | | | | | | Égypte |
+90001976	Bébé crocodile momifié | | | | | | | Égypte |
+90001977	Bébé crocodile momifié | | | | | | | Égypte |
+90001978	Bébé crocodile momifié | | | | | | | Égypte |
+90001979	Bébé crocodile momifié | | | | | | | Égypte |
+90001980	Bébé crocodile momifié | | | | | | | Égypte |
+90001981	Bébé crocodile momifié | | | | | | | Égypte |
+90001982	Bébé crocodile momifié | | | | | | | Égypte |
+90001983	Bébé crocodile momifié | | | | | | | Égypte |
+90001984	Bébé crocodile momifié | | | | | | | Égypte |
+90001985	Bébé crocodile momifié | | | | | | | Égypte |
+90001986	Bébé crocodile momifié | | | | | | | Égypte |
+90001987	Bébé crocodile momifié | | | | | | | Égypte |
+90001988	Bébé crocodile momifié | | | | | | | Égypte |
+90001989	Bébé crocodile momifié | | | | | | | Égypte | 
+90001990	Bébé crocodile momifié | | | | | | | Égypte |
+90001991	Bébé crocodile momifié | | | | | | | Égypte |
+90001992	Bébé crocodile momifié | | | | | | | Égypte |
+90001993	Bébé crocodile momifié | | | | | | | Égypte |
+90001994	Bébé crocodile momifié | | | | | | | Égypte |
+90001995	PETIT AMAS DE BEBES CROCODILES | | | | | | | Égy
+90001996	Bébé crocodile momifié | | | | | | | Égypte |
+90001997	Bébé crocodile momifié | | | | | | | Égypte |
+90001998	Bébé crocodile momifié | | | | | | | Égypte |
+90001999	Bébé crocodile momifié | | | | | | | Égypte |
+90002000	Bébé crocodile momifié | | | | | | | Égypte |
+90002001	Bébé crocodile momifié | | | | | | | Égypte |
+90002002	Bébé crocodile momifié | | | | | | | Égypte |
+90002003	Bébé crocodile momifié | | | | | | | Égypte |
+90002004	Bébé crocodile momifié | | | | | | | Égypte |
+90002005	Bébé crocodile momifié | | | | | | | Égypte |
+90002006	Bébé crocodile momifié | | | | | | | Égypte |
+90002007	Bébé crocodile momifié | | | | | | | Égypte |
+90002008	Bébé crocodile momifié | | | | | | | Égypte |
+90002009	Bébé crocodile momifié | | | | | | | Égypte |
+90002010	Bébé crocodile momifié | | | | | | | Égypte |
+90002011	Bébé crocodile momifié | | | | | | | Égypte |
+90002012	Bébé crocodile momifié | | | | | | | Égypte |
+90002014	Bébé crocodile momifié | | | | | | | Égypte |
+90002015	Bébé crocodile momifié | | | | | | | Égypte |
+90002016	Bébé crocodile momifié | | | | | | | Égypte |
+90002017	Bébé crocodile momifié | | | | | | | Égypte |
+90002018	Bébé crocodile momifié | | | | | | | Égypte |
+90002019	Bébé crocodile momifié | | | | | | | Égypte |
+90002020	Bébé crocodile momifié | | | | | | | Égypte |
+90002021	Bébé crocodile momifié | | | | | | | Égypte |
+90002022	Bébé crocodile momifié | | | | | | | Égypte |
+90002023	Bébé crocodile momifié | | | | | | | Égypte |
+90002024	Bébé crocodile momifié | | | | | | | Égypte |
+90002025	Bébé crocodile momifié | | | | | | | Égypte |
+90002026	Bébé crocodile momifié | | | | | | | Égypte |
+90002027	Bébé crocodile momifié | | | | | | | Égypte |
+90002028	Bébé crocodile momifié | | | | | | | Égypte |
+90002029	Bébé crocodile momifié | | | | | | | Égypte |
+90002030	Bébé crocodile momifié | | | | | | | Égypte |
+90002031	Bébé crocodile momifié | | | | | | | Égypte |
+90002032	Bébé crocodile momifié | | | | | | | Égypte |
+90002033	Bébé crocodile momifié | | | | | | | Égypte |
+90002034	Bébé crocodile momifié | | | | | | | Égypte |
+90002035	Bébé crocodile momifié | | | | | | | Égypte |
+90002036	Bébé crocodile momifié | | | | | | | Égypte |
+90002037	Bébé crocodile momifié | | | | | | | Égypte |
+90002038	Bébé crocodile momifié | | | | | | | Égypte |
+90002039	Bébé crocodile momifié | | | | | | | Égypte |
+90002040	Bébé crocodile momifié | | | | | | | Égypte |
+90002041	Bébé crocodile momifié | | | | | | | Égypte |
+90002042	Bébé crocodile momifié | | | | | | | Égypte |
+90002043	Bébé crocodile momifié | | | | | | | Égypte |
+90002044	Bébé crocodile momifié | | | | | | | Égypte |
+90002045	Bébé crocodile momifié | | | | | | | Égypte |
+90002046	Bébé crocodile momifié | | | | | | | Égypte |
+90002047	Bébé crocodile momifié | | | | | | | Égypte |
+90002048	Bébé crocodile momifié | | | | | | | Égypte |
+90002049	Bébé crocodile momifié | | | | | | | Égypte |
+90002050	Bébé crocodile momifié | | | | | | | Égypte |
+90002051	Bébé crocodile momifié | | | | | | | Égypte |
+90002052	Bébé crocodile momifié | | | | | | | Égypte |
+90002053	Bébé crocodile momifié | | | | | | | Égypte |
+90002054	Bébé crocodile momifié | | | | | | | Égypte |
+90002055	Bébé crocodile momifié | | | | | | | Égypte |
+90002056	Bébé crocodile momifié | | | | | | | Égypte |
+90002057	Bébé crocodile momifié | | | | | | | Égypte |
+90002058	Bébé crocodile momifié | | | | | | | Égypte |
+90002059	Bébé crocodile momifié | | | | | | | Égypte |
+90002060	Bébé crocodile momifié | | | | | | | Égypte |
+90002061	Bébé crocodile momifié | | | | | | | Égypte |
+90002062	Bébé crocodile momifié | | | | | | | Égypte |
+90002063	Bébé crocodile momifié | | | | | | | Égypte |
+90002064	Bébé crocodile momifié | | | | | | | Égypte |
+90002065	Bébé crocodile momifié | | | | | | | Égypte |
+90002066	Bébé crocodile momifié | | | | | | | Égypte |
+90002067	Bébé crocodile momifié | | | | | | | Égypte |
+90002068	Bébé crocodile momifié | | | | | | | Égypte |
+90002069	Bébé crocodile momifié | | | | | | | Égypte |
+90002070	Bébé crocodile momifié | | | | | | | Égypte |
+90002071	Bébé crocodile momifié | | | | | | | Égypte |
+90002072	Bébé crocodile momifié | | | | | | | Égypte |
+90002073	Bébé crocodile momifié | | | | | | | Égypte |
+90002074	Bébé crocodile momifié | | | | | | | Égypte |
+90002075	Bébé crocodile momifié | | | | | | | Égypte |
+90002076	Bébé crocodile momifié | | | | | | | Égypte |
+90002077	Bébé crocodile momifié | | | | | | | Égypte |
+90002078	Bébé crocodile momifié | | | | | | | Égypte |
+90002079	Bébé crocodile momifié | | | | | | | Égypte |
+90002080	Bébé crocodile momifié | | | | | | | Égypte |
+90002081	Bébé crocodile momifié | | | | | | | Égypte |
+90002082	Bébé crocodile momifié | | | | | | | Égypte |
+90002083	Bébé crocodile momifié | | | | | | | Égypte |
+90002084	Bébé crocodile momifié | | | | | | | Égypte |
+90002085	Bébé crocodile momifié | | | | | | | Égypte |
+90002086	Bébé crocodile momifié | | | | | | | Égypte |
+90002087	Bébé crocodile momifié | | | | | | | Égypte |
+90002088	Bébé crocodile momifié | | | | | | | Égypte |
+90002089	Bébé crocodile momifié | | | | | | | Égypte |
+90002090	Bébé crocodile momifié | | | | | | | Égypte |
+90002091	Bébé crocodile momifié | | | | | | | Égypte |
+90002092	Bébé crocodile momifié | | | | | | | Égypte |
+90002093	Bébé crocodile momifié | | | | | | | Égypte |
+90002094	Bébé crocodile momifié | | | | | | | Égypte | 
+90002095	Bébé crocodile momifié | | | | | | | Égypte |
+90002097	Bébé crocodile momifié | | | | | | | Égypte |
+90002098	Bébé crocodile momifié | | | | | | | Égypte |
+90002099	Bébé crocodile momifié | | | | | | | Égypte |
+90002100	Bébé crocodile momifié | | | | | | | Égypte |
+90002101	Bébé crocodile momifié | | | | | | | Égypte |
+90002102	Bébé crocodile momifié | | | | | | | Égypte |
+90002103	Bébé crocodile momifié | | | | | | | Égypte |
+90002104	Bébé crocodile momifié | | | | | | | Égypte |
+90002105	Bébé crocodile momifié | | | | | | | Égypte |
+90002106	Bébé crocodile momifié | | | | | | | Égypte |
+90002107	Bébé crocodile momifié | | | | | | | Égypte |
+90002108	Bébé crocodile momifié | | | | | | | Égypte |
+90002109	Bébé crocodile momifié | | | | | | | Égypte |
+90002110	Bébé crocodile momifié | | | | | | | Égypte |
+90002111	Bébé crocodile momifié | | | | | | | Égypte |
+90002112	Bébé crocodile momifié | | | | | | | Égypte |
+90002113	Bébé crocodile momifié | | | | | | | Égypte |
+90002114	Bébé crocodile momifié | | | | | | | Égypte |
+90002115	Bébé crocodile momifié | | | | | | | Égypte |
+90002116	Bébé crocodile momifié | | | | | | | Égypte |
+90002117	Bébé crocodile momifié | | | | | | | Égypte |
+90002118	Bébé crocodile momifié | | | | | | | Égypte |
+90002119	Bébé crocodile momifié | | | | | | | Égypte |
+90002120	Bébé crocodile momifié | | | | | | | Égypte |
+90002121	Bébé crocodile momifié | | | | | | | Égypte |
+90002122	Bébé crocodile momifié | | | | | | | Égypte |
+90002123	Bébé crocodile momifié | | | | | | | Égypte |
+90002124	Bébé crocodile momifié | | | | | | | Égypte |
+90002125	Bébé crocodile momifié | | | | | | | Égypte |
+90002126	Bébé crocodile momifié | | | | | | | Égypte |
+90002127	Bébé crocodile momifié | | | | | | | Égypte |
+90002128	Bébé crocodile momifié | | | | | | | Égypte |
+90002129	Bébé crocodile momifié | | | | | | | Égypte |
+90002130	Bébé crocodile momifié | | | | | | | Égypte |
+90002131	Bébé crocodile momifié | | | | | | | Égypte |
+90002132	Bébé crocodile momifié | | | | | | | Égypte |
+90002133	Bébé crocodile momifié | | | | | | | Égypte |
+90002134	Bébé crocodile momifié | | | | | | | Égypte |
+90002135	Bébé crocodile momifié | | | | | | | Égypte |
+90002136	Bébé crocodile momifié | | | | | | | Égypte |
+90002137	Bébé crocodile momifié | | | | | | | Égypte |
+90002138	Bébé crocodile momifié | | | | | | | Égypte |
+90002139	Bébé crocodile momifié | | | | | | | Égypte |
+90002140	Bébé crocodile momifié | | | | | | | Égypte |
+90002141	Bébé crocodile momifié | | | | | | | Égypte |
+90002142	Bébé crocodile momifié | | | | | | | Égypte |
+90002143	Bébé crocodile momifié | | | | | | | Égypte |
+90002144	Bébé crocodile momifié | | | | | | | Égypte |
+90002145	Bébé crocodile momifié | | | | | | | Égypte |
+90002146	Bébé crocodile momifié | | | | | | | Égypte |
+90002147	Bébé crocodile momifié | | | | | | | Égypte |
+90002148	Bébé crocodile momifié | | | | | | | Égypte |
+90002149	Bébé crocodile momifié | | | | | | | Égypte |
+90002150	Bébé crocodile momifié | | | | | | | Égypte |
+90002151	Bébé crocodile momifié | | | | | | | Égypte |
+90002153	Bébé crocodile momifié | | | | | | | Égypte |
+90002154	Bébé crocodile momifié | | | | | | | Égypte |
+90002155	Dent de crocodile | | | | | | | Haute Egypte | | 
+90002156	Bébé crocodile momifié | | | | | | | Égypte |
+90002157	Bébé crocodile momifié | | | | | | | Égypte |
+90002159	OEUF D’UNE MOMIE DE CROCODILE | | | | | | | Ég
+90002311	MOMIE DE BOUC | | | | | | | Basse Egypte | | Spé
+90002329	Bébé crocodile momifié | | | | | | | Égypte |
+90002398	Amas de bébés crocodiles | | | | | | | Égypte |
+90002399	Bébé crocodile momifié | | | | | | | Égypte |
+90002436	Dent de crocodile | | | | | | | Basse Egypte | | 
+90002437	Dent de crocodile | | | | | | | Haute Egypte | | 
+90010246	Fragments de crocodile | | | | Spécimen momifié
+D979-3-1721	statuaire | | | | Inv. n°D979-3-1721 | | | | | A
+D979-3-1963	Statuette de crocodile | | | | | | | Mali | | Inv
+MC1004	Crocodile | | | | | | | Bénin | | Inv. n°MC1004

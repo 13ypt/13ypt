@@ -1,0 +1,100 @@
+obj-762500 | Bauchauflage einer Mumie | Mumienhülle (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit
+obj-604414 | Mumienhülle und Mumie der Nes-Chons-pa-cheret | Grabausstattung | Ägyptisches Museum und Papyrussammlung | 23. Dynastie (Bubastis, Tanis) / Datierung engl.: 23rd Dynasty (Bubastis, Tanis)
+obj-756468 | Statuette eines Krokodils, eine Mumie auf dem Rücken tragend | Statuette (Rundbild) | Ägyptisches Museum und Papyrussammlung | Spätzeit
+obj-607541 | Mumie eines Mädchens mit Mumienporträt ("Tochter der Aline") | Mensch (Mumie) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: 1.–2. Jh. n. Chr.
+obj-827742 | Mumie eines Mädchens ("Tochter der Aline") mit Mumienmaske | Mensch (Mumie) | Ägyptisches Museum und Papyrussammlung | 1.–2. Jh. n. Chr.
+obj-767658 | Mumie, Mensch, weiblich, der (Hathor-)Ibet, mit Mumienmaske und -auflagen | Mensch (Mumie) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit / Genauer: 4./3. Jahrhundert vor Christus
+obj-607540 | Mumie eines männlichen Kindes mit Mumienporträt ("Sohn der Aline") | Mensch (Mumie) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: 1.–2. Jh. n. Chr.
+obj-762300 | Mumienetikett für Tekysis, Tochter des Pachom, mit Darstellungen des Osiris sowie der Verstorbenen als Mumie auf einer Kline | Mumienetikett (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 2. Jh. n. Chr.
+obj-778887 | Brust-Bein-Auflage der Mumie der Ta-scherit-(en)-Amun, Tochter des Ij-em-hetep und der Ta-dit-ta-Repit | Mumienhülle (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit
+obj-607531 | Katzenmumie | Tier (Mumie) | Ägyptisches Museum und Papyrussammlung | Spätzeit
+obj-607538 | Mumienporträt der Aline | Mumienportrait (Grabausstattung / Mumienhülle) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: 1.–2. Jh. n. Chr.
+obj-762181 | Mumienhülle des Ken-hor; Priester des Min | Mumienhülle (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 23. Dynastie (Bubastis, Tanis)
+obj-762210 | Mumienmaske („Büste“) einer Frau ("Stuckkopf") | Mumienmaske (Grabausstattung / Mumienhülle) | Ägyptisches Museum und Papyrussammlung | 2. Jh. n. Chr.
+obj-762541 | Mumiensandalen (Paar) mit Streifendekor | Mumiensandale (Grabausstattung / Mumienhülle) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit
+obj-759032 | Ba-Vogel, gekrönt mit Sonnenscheibe | Statuette (Rundbild ) | Ägyptisches Museum und Papyrussammlung | 3. Zwischenzeit
+obj-606192 | Anthropomorpher Sargdeckel des Sa-Iset | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | Ramses II. / Datierung engl.: Ramesses II
+obj-607488 | Anthropomorpher Sarg der Hat | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit
+obj-1079254 | Amulett mit Liebeszauber | Blatt (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Byzantinische (Koptische) Zeit
+obj-606196 | Stand-Schreitfigur eines Mannes | Statuette (Rundbild) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: Sesostris II. / Datierung engl.: Senwosret II
+obj-762226 | Mumientuch eines jungen Mannes | Mumientuch (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | Römische Kaiserzeit
+obj-757079 | Herzskarabäus des Ipu | Skarabäus (Kleinkunst) | Ägyptisches Museum und Papyrussammlung | 18.–19. Dynastie
+obj-601054 | Mumienband mit eingepressten Darstellungen: König Takelot II. vor Nechbet (?) | Mumienband ( Mumienhülle  -> Grabausstattung ) | Ägyptisches Museum und Papyrussammlung | Takelot II.
+obj-601053 | Mumienband mit eingepressten Darstellungen von König Osorkon I. vor Mut | Mumienband ( Mumienhülle  -> Grabausstattung ) | Ägyptisches Museum und Papyrussammlung | Osorkon I.
+obj-757048 | Länglich, ovale Perle des Parii | Perle (Kleinkunst / Schmuck) | Ägyptisches Museum und Papyrussammlung | Neues Reich / Datierung engl.: New Kingdom
+obj-601118 | Kanope (Scheinkanope) mit angedeutetem Deckel in Gestalt eines Paviankopfes (Hapi) | Kanope (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 21.–22. Dynastie / Datierung engl.: 21st - 22nd Dynasty
+obj-601116 | Kanope (Scheinkanope) mit angedeutetem Deckel in Gestalt eines Falkenkopfes (Kebech-senuef) | Kanope (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 21.–22. Dynastie / Datierung engl.: 21st - 22nd Dynasty
+obj-601115 | Kanope (Scheinkanope) mit angedeutetem Deckel in Gestalt eines Menschenkopfes (Amset) | Kanope (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 21.–22. Dynastie / Datierung engl.: 21st - 22nd Dynasty
+obj-601117 | Kanope (Scheinkanope) mit angedeutetem Deckel in Gestalt eines Schakalkopfes (Duamutef) | Kanope (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 21.–22. Dynastie / Datierung engl.: 21st - 22nd Dynasty
+obj-758585 | Zweifingeramulett | Amulett (Kleinkunst / Schmuck) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit
+obj-606786 | Statuette des Gottes Osiris mit Atef-Krone | Statuette (Rundbild ) | Ägyptisches Museum und Papyrussammlung | Spätzeit (Ägypten)
+obj-762249 | Mumientuch einer Frau | Mumientuch (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 3.-4. Jh. n. Chr.
+obj-758000 | Mumienmaske | Mumienmaske ( Mumienhülle  -> Grabausstattung ) | Ägyptisches Museum und Papyrussammlung | 2.–3. Jh. n. Chr.
+obj-607494 | Figur eines liegenden Schakals, den Gott Anubis verkörpernd | Statue (Rundbild) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: Spätzeit / Datierung engl.: Late Period
+obj-824069 | Hieroglyphischer Papyrus mit dem Totenbuch des Priesters im Amun-Tempel Nes-pa-her-an (Platte A) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 21. Dynastie (3. Zwischenzeit -> Ägypten) / Abweichende Datierung: 20. Dynastie (Neues Reich -> Ägypten)
+obj-769919 | Kopf einer meroitischen Ba-Statue | Statue (Rundbild ) | Ägyptisches Museum und Papyrussammlung | Meroitisch (Meroitisch/Lokale Regenten -> Sudan)
+obj-828254 | Hieratischer Papyrus mit dem Totenbuch des Priesters Schem-in-eni | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-604448 | Dekoriertes Mumienbett eines Kindes mit Löwenbeinen (Löwenbahre mit kastenförmigem Aufsatz) | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | 1. Jh. n. Chr.
+obj-1082970 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-761702 | Stele mit griechischer Inschrift | Relief (Stele) | Ägyptisches Museum und Papyrussammlung | 1.–2. Jh. n. Chr.
+obj-3424449 | Hieratischer Papyrus mit dem Totenbuch der Senchonsis | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten) / Abweichende Datierung: 22. Dynastie (3. Zwischenzeit -> Ägypten)
+obj-3555450 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-3555449 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-3929776 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-2255647 | Hieroglyphischer Papyrus mit dem Totenbuch des Priesters im Amun-Tempel Nes-pa-her-an | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 21. Dynastie (3. Zwischenzeit -> Ägypten) / Abweichende Datierung: 20. Dynastie (Neues Reich -> Ägypten)
+obj-2288692 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288694 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288695 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288697 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288698 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288702 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288703 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288700 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2288701 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-2046737 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten) / Abweichende Datierung: Spätzeit (Ägypten)
+obj-2049069 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-2322102 | Hieratische Leinenstreifen (Mumienbinde) mit dem Totenbuch des Pa-di- (A) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 26. Dynastie ("Saiten") (Spätzeit -> Ägypten)
+obj-2318862 | Hieratischer Papyrus mit dem Totenbuch des Priesters des Amun, Hori | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-824110 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte A) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828175 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828174 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828156 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828167 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828176 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828173 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828218 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828212 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828215 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828249 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte G) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828243 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte B) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828253 | Hieratischer Papyrus mit dem Totenbuch des Priesters Schem-in-eni | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828216 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828219 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828217 | Hieroglyphischer Papyrus, Totenbuch des königlichen Schreibers Nacht-Amun | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 19. Dynastie (Neues Reich -> Ägypten)
+obj-828246 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte E) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828172 | Hieroglyphischer Papyrus mit dem Totenbuch der Hausherrin Keku | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit (Griechisch–Römische Zeit -> Ägypten)
+obj-828248 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte F) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828245 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte D) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-828244 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet (Platte C) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-1620862 | Hieratischer Papyrus mit dem Totenbuch einer unbekannten Person | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-1586218 | Hieratischer Papyrus mit dem Totenbuch der Senchonsis | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten) / Abweichende Datierung: 22. Dynastie (3. Zwischenzeit -> Ägypten)
+obj-1586298 | Hieratischer Papyrus mit dem Totenbuch der Ta-iri-Neith | Rolle (Schriftträger ) / Text carrier (papyrus) | Ägyptisches Museum und Papyrussammlung | Spätzeit–frühe Ptolemäerzeit (Ägypten)
+obj-1586327 | Hieroglyphischer Papyrus mit dem Totenbuch der Rertet | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-606603 | Hieroglyphischer Papyrus mit dem Totenbuch der Ta-rudj, genannt Nainai | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | 2. Jh. v. Chr. (Ptolemäerzeit -> Griechisch–Römische Zeit -> Ägypten) / Abweichende Datierung: Spätzeit (Ägypten)
+obj-606746 | Hieratischer Papyrus mit Hymnen auf den Totengott Osiris (Papyrus Schmitt) | Rolle (Schriftträger) | Ägyptisches Museum und Papyrussammlung | Frühe Ptolemäerzeit
+obj-823528 | Hieroglyphischer Papyrus mit dem Totenbuch der Herrin des Hauses Ta-Atum alias  (Platte A-D) | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 30. Dynastie (Spätzeit -> Ägypten)
+obj-756608 | Mittlerer Sarg des Mentuhotep | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | Mittleres Reich / Datierung engl.: 2119 BCE to 1794 BCE, Middle Kingdom
+obj-604287 | Anthropomorpher Sarg des Djed-Mut-iu-ef-anch, Wasserträger am Tempel des Amun | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | 22. Dynastie (Oberägyptisch)
+obj-597790 | Pektoral des Königlichen Schreibers Neb-ua | Pektoral (Kleinkunst / Schmuck / Halsschmuck) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: spätes Neues Reich–3. Zwischenzeit
+obj-770846 | Kronprinz Thutmosis auf der Totenbahre (Bahrenuschebti) | Statuette (Rundbild) | Ägyptisches Museum und Papyrussammlung | Amenophis (Amenhotep) III. / Genauer: 1360 v. Chr. / Datierung engl.: Amenhotep III
+obj-770583 | Mumienmaske der Ta-Scherit-en Hor | Mumienmaske (Grabausstattung / Mumienhülle) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit / Datierung engl.: Ptolemaic Period
+obj-780107 | Deckel des anthropomorphen Sargs des Chaa/Chai-Hor | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | Ptolemäerzeit
+obj-1898751 | Anthropomorpher Sarg der Hat (Deckel) | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | Historische Datierung: Ptolemäerzeit
+obj-779317 | Äußerer, anthropomorpher Sarg der Tairkap (Deckel) | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | 25.–26. Dynastie
+obj-1898755 | Anthropomorpher Sarg des Chnum-sa-na-pah-su, Rindervorsteher des Min-Tempels - Typ "Yellow Coffin/Gelber Sarg" | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | 21. Dynastie
+obj-1426953 | Demotischer Papyrus mit einem Auszug aus dem "Buch vom Atmen" für Pamonthis | Rolle (Schriftträger ) | Ägyptisches Museum und Papyrussammlung | 2. Jh. n. Chr. (Griechisch–Römische Zeit -> Ägypten)
+obj-760191 | Pektoral des Pa-nehesi | Pektoral (Kleinkunst / Schmuck / Halsschmuck) | Ägyptisches Museum und Papyrussammlung | 20. Dynastie / Datierung engl.: 20th Dynasty
+obj-607543 | Innerer Sarg des Pestjenfi, Priester des Amun in Karnak | Mensch (Grabausstattung / Sarg/Sarkophag) | Ägyptisches Museum und Papyrussammlung | 26. Dynastie / -841 - -730 / 25.-26. Dynastie
+obj-762176 | Äußerer, kastenförmiger Sarg des Ken-Hor, Priester des Min  (Pfostensarg) | Mensch ( Sarg/Sarkophag  -> Grabausstattung ) | Ägyptisches Museum und Papyrussammlung | 25.–26. Dynastie / Datierung engl.: 746 BCE to 525 BCE, 25th – 26th Dynasty
+obj-757404 | Pfostensarg der Schwestern Sensaos und Tkauthi | Mensch ( Sarg/Sarkophag  -> Grabausstattung ) | Ägyptisches Museum und Papyrussammlung | 2. Jh. n. Chr. (Griechisch–Römische Zeit -> Ägypten)
+obj-763692 | Leichentuch einer Mädchenmumie ("Tochter der Aline"); aus dem Grab der Aline | Mumientuch (Grabausstattung) | Ägyptisches Museum und Papyrussammlung | 1.–2. Jh. n. Chr.

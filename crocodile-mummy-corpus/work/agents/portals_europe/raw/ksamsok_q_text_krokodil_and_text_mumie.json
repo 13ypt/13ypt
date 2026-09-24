@@ -1,0 +1,256 @@
+{
+"query": "text=\"krokodil\" AND text=\"mumie\"",
+"total": 25,
+"items": [
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011830",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, krokodil, mumie",
+"idLabel": "MME 1961:263",
+"type": "Föremål",
+"desc": [
+"MME 1961:263"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015895",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "fragment, crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 30865",
+"type": "Föremål",
+"desc": [
+"MM 30865"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015891",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, fragment, krokodil, mumie",
+"idLabel": "MM 18414, MME 1961:263",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile without head."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011859",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, mumie, krokodil",
+"idLabel": "S.N. E 0064",
+"type": "Föremål",
+"desc": [
+"S.N. E 0064"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011834",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "NME 799",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011847",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, krokodil, mumie",
+"idLabel": "NME 796",
+"type": "Föremål",
+"desc": [
+"A bunch of young crocodiles wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011846",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, head, mumie, krokodil, huvud",
+"idLabel": "MM 18415, MME 1961:264",
+"type": "Föremål",
+"desc": [
+"Mummified head of a baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011831",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "NME 797",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/bhm/object/UM000548",
+"org": "Bohusläns museum",
+"label": "Mumie",
+"idLabel": "UM000548",
+"type": "Object",
+"desc": [
+"Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilarmerad klisterremsa.\n\nUr Knut Adrian Anderssons katalog II\nUddevalla - Musei - Historiska - Samlingar: E: Utländska föremål\nDe Etnografiska föremålen u"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011856",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 10133",
+"type": "Föremål",
+"desc": [
+"Mummified and wrapped. Baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011845",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, mumie, krokodil",
+"idLabel": "MM 18406, MME 1961:255",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011857",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MM 10134",
+"type": "Föremål",
+"desc": [
+"Mummified and wrapped. Baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016279",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18410, MME 1961:259, 4.6",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/Photograph/3910030",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "föremålsbild, photograph, fotografi",
+"idLabel": "0496G",
+"type": "Bild",
+"desc": [
+"Mumie av krokodil."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016255",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 19240, 4.7",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Without linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016257",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18411, MME 1961:260, 4.10",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016256",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18413, MME 1961:262, 4.8",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016260",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18408, MME 1961:257, 4.1",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016258",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18412, MME 1961:261, 4.9",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016259",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18407, MME 1961:256, 4.3",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016261",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MM 18409, MME 1961:258, 4.2",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile without linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016254",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MME 1977:002, 4.12",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile without linen wraps."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016262",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 30721, 4.5",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Three splints made of palmleaves and linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016263",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 30810, 4.4",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016253",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MME 1983:013 A, 4.11",
+"type": "Föremål",
+"desc": [
+"Mummified crocodile baby."
+]
+}
+]
+}

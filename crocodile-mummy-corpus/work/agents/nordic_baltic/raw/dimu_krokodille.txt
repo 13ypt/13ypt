@@ -1,0 +1,165 @@
+QUERY krokodille numFound 164
+0210211634254 | NAM | NAM.11631 | Leke | ['524', '697', '727', '850'] | Leke laget som en krokodille med leddet kropp. Den har hjul og krokodille svinger med halen når den dras/kjører bortover.
+021029712126 | RMU | RMU.005823 | Krokodille | ['365.4'] | Liten utstoppet krokodille
+021028205548 | NTO | NTO.G-000335 | Krokodille |  | 1 stk. krokodille montert på en treplate
+0210211498447 | NAM | NAM.05698 | Krokodille | ['524', '855', '857'] | Utskåret av et stykke. Undermunnen er festet med en trenagle slik at den kan åpnes og lukkes
+0210211632350 | NAM | NAM.05272 | Krokodille | ['524', '697', '720', '727', '857'] | 
+021028204816 | NTO | NTO.G-000299 | Krokodille |  | 1 hel utstoppet krokodille
+011024196994 | NSM | NSM.04293 | Krokodille |  | 
+011025164895 | ST-Z | ST-Z.00224 | Krokodille |  | 
+021028205479 | NTO | NTO.G-000333 | Krokodille |  | 1 stk. krokodillehode
+0210213474812 | KHMUIO-E | UEM10898 | krokodilleskinn/krokodille | ['281.1', '177'] | 
+0210413171874 | LK | LK 2021-0031 | Krokodille [Trykk] |  | Et trykk på papir av en svart krokodille.
+021028204830 | NTO | NTO.G-000302 | Krokodille |  | 1 stk. krokodillehode
+0210214334366 | BSJ | BSJ.06931-8 | Krokodille |  | Suvenir: Utstoppet og tørket krokodilleunge.
+0210213504713 | KHMUIO-E | UEM43780 | krokodille | ['321', '531.4'] | 
+011012874106 | TFM-SVB | FTTF.090636 | Mosambik 1914. Tre unge afrikanske gutter har fanget en liten krokodille. |  | 
+011022809843 | TFM-SVB | FTT.39997 | Plansje | ['870', '872'] | 
+011024214781 | NSM | NSM.14044 | Krokodille |  | Liten krokodille. I motsetning til alligatoren er dyrets snute spissere (for å kunne spise fisk). Den 4. tannen forfra i underkjeven er større enn de 
+0210112421677 | UMUIB-F | 950ee63a-0d14-43d9-bb08-f712ddf41e35 | Krokodille i tre |  | 
+011012569244 | AFM | AFM.MAT.063-007 | "Crocodille" (Bildetekst fra album) En krokodille |  | 
+021025858272 | SV | VS P-1808 | Plansje | ['870', '876'] | Plansje brukt i skoleundervisning.
+011022814886 | TFM-SVB | FTT.48039 | Plansje | ['870', '872'] | Rektangulær papplate, motivet trykt på papir og limt på ene siden av platen. Hull i pappen for oppheng.
+021029241391 | ST-K | ST-K.09721 | Krokodille |  | Krokodillen er dekorert med svidekor og rødmalt inne i munnen og på snuten.
+0210213128503 | HS | SA.02427 | Pung | ['293', '436'] | Falset, loddet, skåret, sydd. 2 jernbøyler med messinglås. "krokodille"- struktur i skinn
+0210112421715 | UMUIB-F | 751fbb4f-c09b-4981-bdee-033228f92985 | Krokodille i leire |  | 
+0210112421716 | UMUIB-F | a50fd843-f587-444a-b68c-fdbb4d7e4bfa | Krokodille i leire |  | 
+0210112421714 | UMUIB-F | f1813957-8f1c-461e-b6a2-f9fe111adf14 | Krokodille i leire |  | 
+021027381553 | JRM | JÆHS2015.675 | Plansje | ['872', '876'] | Plansje brukt i undervisning.
+021027381521 | JRM | JÆHS2015.645 | Plansje | ['872', '876'] | Plansje brukt i undervisning.
+0210414248753 | SKS | GJS-01237 | Utan tittel [Tegning] | ['532'] | 
+021028204831 | NTO | NTO.G-000301 | Skinn |  | 1 stk. krokodilleskinn med hode, hale og føtter.
+0210214638272 | VAMF | VAF12204a-d | Leketøy | ['524'] | Fire plastleker. Lekekrokodille med trekkesnor og tre lekekjøretøy. Ene kjøretøyet er en militær stridsvogn. De andre er en grønn buss og en rød boble
+011012569297 | AFM | AFM.MAT.068-006 | "Crocodille." (Bildetekst fra album) En krokodille ved vannet. |  | 
+021028204931 | NTO | NTO.G-000353 | Klokkereim |  | Klokkereim av krokodilleskinn
+0210112421744 | UMUIB-F | c769f175-0826-4167-b17f-e1ef58d535c0 | Krokodille i tre |  | 
+0210112421676 | UMUIB-F | cf23fddd-38cd-4db2-a636-2b2c5d67f0e2 | Krokodille i tre |  | 
+011022814946 | TFM-SVB | FTT.48065 | Plansje | ['870', '872'] | Rektangulær papplate, motivet trykt på papir og limt på ene siden av platen. I pappen er det to hull som er forsterket med metallringer, i metallringe
+021028542811 | FSM | FSM.01213.027 | Krokodille av tre | ['531', '697', '720', '727'] | Av tre. Består av seks ledd, som er delt i ei høyre- og ei venstreside. Delene er holdt sammen av seglduk og en spiker gjennom hvert ledd. Hodet har s
+021028542815 | FSM | FSM.01213.029 | Krokodille av tre | ['531', '697', '720', '727'] | Av tre. Består av seks ledd, som er delt i ei høyre og ei venstreside. Delene er holdt sammen av seglduk og spiker gjennom hert ledd. Hodet har åpen k
+011013422068 | NF | NF.10580-006 | Krokodille | ['530', '532'] | 
+0210615697370 | NK | NK2018-023 | Håndveske | ['293'] | Stiv håndveske av svart skinn, preget i krokodille- eller alligatormønster, med to hanker og feste for skulderrem. Uklart om skulderrem har eksistert.
+0210615697364 | NK | NK2018-022 | Stilettsko | ['295'] | Svært spisse, dypt ringede lærsko med svært lave stiletthæler. Hælkappen er høy i bakkant, dvs. over ankelhøyde, og skoen holdes på plass med to tynne
+021047997743 | NNKM | NNKM.01862 | Askebeger som krokodille |  | 
+021027460465 | HMF | neb.g08548 | Skoleplansje | ['876'] | Plansje av krokodille.
+0210213468154 | KHMUIO-E | UEM3648 | krokodillemumie | ['764', '136'] | 
+011023238257 | NF | NF.2000-1740 | Alligator | ['353'] | Utstoppet alligatorunge
+021017759731 | AFM | UHB-009_0068 | Sveitsisk elektrisk godstogslokomotiv type Be-6/8 nr. 13314, benevnt Krokodille. Lokomotivene av typen ble bygget i tiden 1919-1922. | ['496'] | 
+0210615202094 | NK | NK2003-052 | Dameveske | ['282.71', '291.42', '293'] | Nesten kvadratisk skulderveske i kraftig, glatt og lakkert krokodille- eller alligatorpreget lær. Lukkes med magnetlås under en applikert, kvadratisk 
+021025820863 | SLF | VF.04464 | Brosje |  | Hamret i form av krokodille. Øye av topas.
+021029255565 | OST-HH | HM.04016 | Sko | ['291.74'] | Pumps i faux krokodille,  mørk rød farge
+021029255568 | OST-HH | HM.04017 | Sko | ['291.74'] | Pumps i faux krokodille,  mørk grønn farge
+021029255570 | OST-HH | HM.04018 | Sko | ['291.74'] | Pumps i faux krokodille, grå farge
+0210215152253 | GDM | VHV6104 | Plansje | ['872'] | Plansje for skoleundervisning. I farger. Krokodille firfirsle
+0210215148062 | GDM | VHV6134 | Plansje | ['872'] | Plansje for skoleundervisning. I farger. Krokodille
+0210616575480 | NK | NK2006-172 | Herresko | ['291.74', '293', '295'] | Svarte skinnsko av joggesko-type, der tå- og hælkappe er semsket og overlæret ellers av lakkert lær, preget så det ligner krokodilleskinn. Åpen snørin
+0210213150615 | TFM-SVB | FTT.60331 | Plansje | ['870', '872'] | Skoleplansje som avbilder ulike krypdyr. Illustrasjonene er markert med romertall. Øverst til venstre er det avbildet en rekke "mynter" med ulik skrif
+011022543494 | AAK | AAM.25354 | Dyr, utstoppet | ['136', '211', '485', '505.1', '505.61'] | Preparert, sydd, modellert m.gips e.l. i munnen, malt, m.m. Stoppet m. tørket grass e.l. plantemateriale. Svak bøy i kroppen, svunget hale. 
+0210415009489 | NMK-B | NG.K&H.1997.0816 | Krokodille [Tegning] | ['532'] | 
+011022846969 | RMT | RMT 587 | Karfløyte | ['534.4'] | Keramikk. Form som en mann sittende på en krokodille. Innblåsningshull ytterst på krokodillens hale, spalteåpning, to fingerhull. Blågrønn glasur.
+0210214487970 | UMUIT-E | E306 | barnebæresele |  | Genstand til at bære børn i. Den består af et firkantet, nupret krokodille (?) skind med ombøjede kanter som er takkede. Nederst sidder en tværpind i 
+021026390117 | HAL | MHB.16743-01 | Lommebok | ['436', '482'] | Lommebok i krokodille-skinn.
+0210213480530 | KHMUIO-E | UEM17095 | papirkniv | ['412.1', '321', '218', '177', '825'] | en krokodille
+021026390117 | HAL | MHB.16743-01 | Lommebok | ['436', '482'] | Lommebok i krokodille-skinn.
+021028542833 | FSM | FSM.01213.045 | Leke | ['531', '697', '720', '727'] | Av tre. Består av fire ledd, som er delt i ei høyre og ei venstre side. Delene er holdt sammen av seglduk og en streng gjennom hvert ledd. Hodet har å
+021028198300 | VH | VH.000619 | Mynt | ['436'] | Portrett av Queen Victoria, Perlering. Skjold med krokodille øverst.
+0210213472125 | KHMUIO-E | UEM7887 | krokodillefigur | ['532', '531', '136'] | <NOTE>Iflg katalogen en krokodille med barn i munnen, men ser mer ut som sau. Halen var skadet ved inkomst.</NOTE>
+0210415003365 | NMK-B | MS-00396-1988 | Krokodille [Skulptur] | ['532'] | 
+021028542820 | FSM | FSM.01213.035 | Leke | ['531', '697', '720', '727'] | Av tre. Består av seks ledd, som er delt i ei høyre og ei venstreside. Delene er holdt sammen av et lerret og en streng gjennom hvert ledd. Hodet har 
+0210212283707 | KHMUIO-A | C35006.R 28204-26 | pipe |  | Pipestilker R28204: Krokodille-mønstret. R28205-7: Dekor. R28208-12: Munnstykker, udekorert, R28213-26: Udekorert. Overflatefarge:Hvit
+0210213503833 | KHMUIO-E | UEM42701 | dansemaske | ['764', '136', '536', '788', '535'] | stilisert krokodille
+021028379463 | ST-B | ST-B.00454 | Figur | ['524', '855', '857'] | Plastfigurer fra Kinderegg: Krokodille
+011024766390 | GDM | LT-02837.00 | Dyr | ['524', '855', '857'] | Små og større plastdyr fra norsk og utenlandsk milljø; bondegården og i naturen;  ku, sau, høne, hjort, apekatt, krokodille, vaskebjørn og så videre. 
+011024056552 | LM | LM.G.007886 | Papirleke | ['289.7', '524', '857'] | Samling av lekedyr i papir. Dyrene er klipt ut frå avis/magasin og montert på papp.  A- giraff, 11,5 x 5 cm B- krokodille, 9 x 7 cm C- esel, 7 x 8 cm
+011022839748 | RMT | RMT 1083 | Karfløyte | ['534.4'] | Grønn leirgøk i form av en sel eller krokodille.
+021027435196 | OLM | OLM-03104 | Mynt | ['431'] | Sølvmynt med inngravert kjede langs kanten, en krone øverst og tekst i midten. På baksiden en kvinne med fruktkurv og en mann med bue, mellom dem et v
+0210213203689 | HFN | DAG 00377 d | skinnfellrose | ['281.382', '531.38'] | Relieff med motiv av en krokodille som gaper.
+021026473380 | AFM | EB.03420 | Bok | ['214', '771'] | 
+011023247574 | NF | NF.2011-0392 | Veske | ['293', '482'] | Veske av krokodilleskinn med spenne av gult metall.
+021026290874 | NF-A | NFA.17998 | Korkklemme | ['278.81'] | Korkklemme av jern formet som en krokodille.
+0210214529195 | LM | LM.G.005542 | Briller med futteral | ['416'] | Lorginet briller, litt bøyd og mangler delen ved siden av ett glass som nesen ligger mot. Er et feste for en side. Futteral er åpent på en side. Utven
+011023018665 | SNM | TBM.4409 | Leiketøy | ['322', '524', '727'] | Enkelt laga krokodille med åtte ledd bunde saman med tau. Er laga av ein russisk krigsfange i 1945-46. Gitt til Kari Grinde i bytte for mat. Trekvit m
+0210213493774 | KHMUIO-E | UEM31381 | budstikke | ['202', '531.41', '760', '825'] | Fra Hovedkatalogen: Budstikke (TUTOK TINGANG) utskåret som et fuglenebb. Oversiden av Nebbet er rødt, undersiden sort, på den ene side bak øiet er uts
+021025886216 | OMU | OMu.g01066 | speil | ['302', '484', '515', '352.7'] | Resiespeil i 3 seksjoner. Metallramme og inkledd i lær. Muligens krokodille.
+011025225591 | NTM | NTM TELE.TKU-4895 | Radiomottaker | ['870'] | Radionette med rød overflate i krokodille imitasjon
+021027959152 | TFM-SVB | FTT.BHS.00262 | Plansje | ['872'] | Rektangulær taktil plansje av tykt papir. Motivet er presset inn i papiret. Svart trykt tekst i øvre del av arket. Punktskrift ved motivene. På baksid
+021027447220 | KYO | ØM.02461 | Plansje | ['872'] | Rektangulær plansje fargetrykk.
+0210615063974 | NMK-D | OK-1991-0659 | Sko | ['291.42', '291.74', '294.51'] | 
+011025159519 | SUM | SUM.11255 | Plansje | ['876'] | Papp-plansje med teikna og fargelagt motiv. Motivet er ein krokodille
+011023240744 | NF | NF.2004-0298 | Bok | ['214', '217.6'] | Permmønster i svakt relieff; illuderer krokodille- og/eller slangeskinn.
+011025236686 | TEM | BKM.012731 | Leke | ['524'] | Kosedyr med klær
+0210211623639 | GDM | LH1167 | Plansje | ['872'] | Undervisningsmateriale. 
+011012569252 | AFM | AFM.MAT.063-015 | Utsikt utover et vann. |  | 
+011012569253 | AFM | AFM.MAT.063-016 | Skadet bilde. Utsikt utover et vann. |  | 
+0210112459846 | UMUIB-F | 052f77d4-129c-4d9f-ad79-121da76097a9 | Etnografisk samling gjenstandsfoto |  | 
+0210112448750 | UMUIB-F | 3132f573-5696-4d98-93c6-53ba8b0ce302 | Etnografisk samling gjenstandsfoto |  | 
+0210112482394 | UMUIB-F | 2d75a2f3-82d7-431e-8de3-3ccf6d4d8590 | Etnografisk samling gjenstandsfoto |  | 
+0210112448751 | UMUIB-F | 739cfce9-470f-484d-ba13-1622df666818 | Etnografisk samling gjenstandsfoto |  | 
+011012569251 | AFM | AFM.MAT.063-014 | En gruppe mennesker av lokal befolkning i tyrkisk/egyptisk bekledning. |  | 
+011012569255 | AFM | AFM.MAT.063-018 | Utsikt utover et vann. En hegre og noen andre fugler. |  | 
+011012569246 | AFM | AFM.MAT.063-009 | "Bischariner" (Bildetekst fra album) En gruppe mennesker av lokal befolkning. |  | 
+011012569245 | AFM | AFM.MAT.063-008 | "Bischariner" (Bildetekst fra album) En gruppe mennesker av lokal befolkning. |  | 
+011012569249 | AFM | AFM.MAT.063-012 | "Bischariner" (Bildetekst fra album) To unge gutter av lokal befolkning. |  | 
+0210215450534 | AFM | MIA.00046-178 | Papirdukke | ['855', '857'] | Klær og tilbehør til papirdukke. Selve dukken mangler. Har tilhørt dukken "Ninni (5år)". Noen av klærne passer en krokodillefigur, som kan være selve 
+0210112459841 | UMUIB-F | 3c533297-51b2-42cc-af1e-17348d21eb0a | Etnografisk samling gjenstandsfoto |  | 
+0210112497911 | UMUIB-F | bdd11dfc-c3d1-4bf7-8760-c4f34acfbddd | Etnografisk samling gjenstandsfoto  |  | 
+0210112482939 | UMUIB-F | ad5f92d1-4937-4b6c-b371-5692258c24eb | Etnografisk samling gjenstandsfoto |  | 
+011012569248 | AFM | AFM.MAT.063-011 | Krahim. Dragoman." (Bildetekst fra album) En mann av lokal befolkning i tyrkisk/egyptisk bekledning. |  | 
+011012569250 | AFM | AFM.MAT.063-013 | "Krahim." (Bildetekst fra album) En mann av lokal befolkning i tyrkisk/egyptisk bekledning. |  | 
+011012569243 | AFM | AFM.MAT.063-006 | "Børn fra Phila" (Bildetekst fra album) Skadet bilde. Flere barn av lokal befolkning. |  | 
+011012569247 | AFM | AFM.MAT.063-010 | "Nilparti" (Bildetekst fra album) Fire Dahabije-båter ute på Nilen. |  | 
+011022842632 | RMT | RMT 2010/141+ | Klesklype | ['534.83'] | Pappeske med 23 klesklyper. Krokodille.
+011022846255 | RMT | RMT 299 | Harpe | ['534.3'] | 5-strenget. Båtformet korpus av tre, trukket med slangeskinn. Buet hals av utskåret elfenben: en krokodille, liggende vendt oppover mot stemmeskruene 
+011022850619 | RMT | RMT 92/26 | Radio | ['207'] | Rektangulær krokodillemønstret reiseradio med runde hjørner. Forside: skala med fire runde funksjons-, og styringsknapper. Høyttaler med trekk av teks
+011022388929 | MH | SS-39119 | Kanne |  | Ølkanne av valbjørk, innvendig foret med forgylt sølv i korpus og lokk. Kannen er skåret ut med scener i dypt relieff, nærmest rundskulptur på sidene,
+011022712674 | FMU | FMU.047998 | Machete Martindale | ['01.06'] | 
+0210112482316 | UMUIB-F | 3f852651-1f47-4af2-b8a5-98fd2c863d29 | Etnografisk samling gjenstandsfoto |  | 
+0210112498285 | UMUIB-F | b43bc341-fe3a-430b-b41c-90088c488033 | Etnografisk samling gjenstandsfoto |  | 
+0210112475052 | UMUIB-F | a54310e0-e5d3-4538-add8-dc4646d42b9c | Etnografisk samling gjenstandsfoto |  | 
+011012569240 | AFM | AFM.MAT.063-003 | "Abysinerbørn" (Bildetekst fra album) To små gutter med lendeklede, en har navlebrokk. |  | 
+011012569241 | AFM | AFM.MAT.063-004 | "Første Katarakt" (Bildetekst fra album) En gruppe mennesker av lokal befolkning langs en elv/vannfall. |  | 
+021028204824 | NTO | NTO.G-000300 | Krokodillefot |  | 2 stk. krokodilleføtter
+0210112453301 | UMUIB-F | d7ae5184-5067-4caa-a573-e12057ffac1d | Nyere kulturhistorie |  | 
+021016131482 | AFM | AFM.MAT.041-006 | "Abysinerbørn" (Bildetekst fra album) To små gutter med lendeklede, en har navlebrokk. |  | 
+011012569242 | AFM | AFM.MAT.063-005 | "Hjemtour fra Abydos" (Bildetekst fra album) Tre personer på hvert sitt esel. Ytterst til venstre: Haaken Christian Mathiesen. |  | 
+021027959145 | TFM-SVB | FTT.BHS.00261 | Plansje | ['872'] | Rektangulær taktil plansje av tykt papir. Motivet er presset inn i papiret. Svart trykt tekst i øvre del av arket. Punktskrift ved motivene. Oversiden
+021027958829 | TFM-SVB | FTT.BHS.00170 | Plansje | ['872'] | Rektangulær taktil plansje av tykt papir. Motivet er presset inn i papiret. Svart trykt tekst i øvre del av arket. Punktskrift ved motivene. Oversiden
+021027958898 | TFM-SVB | FTT.BHS.00192 | Plansje | ['872'] | Rektangulær taktil plansje av tykt papir. Motivet er presset inn i papiret. Svart trykt tekst i øvre del av arket. Punktskrift ved motivene. Oversiden
+021028309972 | TFM-SVB | NDM.01243.17 | Plansje | ['872'] | Rektangulær plansje av gult papir festet på rød kartong. Den røde kartongen danner en ramme for plansjen. Motivet er rektangulært og sentrert midt på 
+0210213510455 | KHMUIO-E | UEM48681 | Muybang | ['532', '136', '353.6', '386', '353.5', '773', '173', '183', '543', '825'] | Rammemål: 1100x800cm. Original tittel "Crocodile Eye", krokodille øyet. Dette er et akryl maleri på lerret. Her har kunstneren malt krokodillens øye. 
+0210215450502 | AFM | MIA.00046-143 | Papirdukke | ['855', '857'] | Papirdukke med en rekke antrekk og tilbehør. Dukken har enten være basert på eller oppkalt etter Audrey Hepburn og har oppsatt, brunt hår.   Grupperin
+021029695647 | KSF | KSF.005628 | Plansje | ['872'] | Rektangulær plansje av hvitt papir festet til kartong. På papiret er det trykt et flerfarget motiv. 
+011012569238 | AFM | AFM.MAT.063-001 | "H.C.M paa Kamel." (Bildetekst fra album) Haaken Christian Mathiesen på en kamel. Liggende kamel til høyre, med en mann av lokal befolkning i midten av bildet. |  | 
+021027904639 | AFM | MIA.00007-003-0254 | Serviett | ['264', '264.3'] | En flerfarget serviett med bursdagsmotiv. To lags myk papir med strukturmønster langs kanten.
+021028203719 | NTO | NTO.G-001966 | Veske |  | Veske av krokodilleskinn med lokk som lukkes med trykknapper.Vesken er delt i tre rom hvor det midterste rommet er lukket med glidelås.Vesken er forsy
+0210213996727 | MND | ITB.G00170 | Emballasje | ['444'] | En flaske med tekstil lim LIMO Flytende TRÅD fra Lignol Produkter.
+021027844618 | AFM | MIA.00007-003-0028 | Serviett | ['264', '264.3'] | En hvit serviett med bursdagsmotiv. Ett lags papir med bølget kant.
+0210213473966 | KHMUIO-E | UEM10000 | flaske | ['415', '764', '788', '323', '825'] | <USIKKER>Term: flaske? Bruk: rituelt gravgods?</USIKKER>
+011025233313 | TEM | BKM.009534 | Etterbarberingsvann | ['302'] | Form: rekt. flaske med stor rektangulær propp 
+011012569254 | AFM | AFM.MAT.063-017 | "Parat for afreise" (Bildetekst fra album) Fire personer på hver sin kamel. En kvinne på esel til venstre, 2. fra venstre er Haaken Christian Mathiesen, ytterst til høyre trolig Haaken Larpent Mathiesen med flere personer av lokal befolkning rundt. |  | 
+0210615273386 | NK | NK2008-283 | Skulderveske | ['291.42', '293', '294.49', '482.3'] | Rektangulær skulderveske av patentskinn/lakkert lær, preget i krokodille- eller alligatormønster. Baksiden enkel, men forsiden prydet med tettstilte, 
+021038453459 | E-KNAV | 021038453459 | Dunker Dons, Wilhelm (1868 - 1908) |  | Norsk jurist som tok tjeneste i Fristaten Kongo fra oktober 1907
+021029271533 | ST-HE | ST-K.HE.01927-60 | Veske | ['855', '688.72'] | Håndveske for barn. Meget forseggjort. Vesken har en boksform med to håndtak som også har en låsmekanisme. På yttersiden er den en lomme med knepplås 
+0210211898910 | KHMUIO-M | M150564 | Mynt |  | 
+0210215497020 | OSK | OSk.02910 | Skoleplansje | ['872', '876'] | Rektangelformet skoleplansje med motiv festet på blå plate. Plansjen har oppheng i metall.
+021027800013 | TEM | BKM.011284 | Veske | ['482'] | Form: avlang veske med hank oppå, fire rom i vesken, 9 skoblokker. Veske med vareprøver.
+011012569239 | AFM | AFM.MAT.063-002 | "Reiseselskabet parat til afgang" (Bildetekst fra album) Fire personer på hver sin kamel. En kvinne på esel til venstre, 2. fra venstre er Haaken Christian Mathiesen, ytterst til høyre trolig Haaken Larpent Mathiesen med flere personer av lokal befolkning rundt. |  | 
+021016131484 | AFM | AFM.MAT.041-007 | "Reiseselskabet parat til afgang" (Bildetekst fra album) Fire personer på hver sin kamel. En kvinne (Agnes?) på esel til venstre, 2. fra venstre er Haaken Christian Mathiesen, ytterst til høyre trolig Haaken Larpent Mathiesen med flere personer av lokal befolkning rundt. |  | 
+0210214530792 | LM | LM.G.005544 | Briller med futteral | ['416'] | Brillene mangler glass. Armene/stengene er fleksible rundt ørene. Litt dekorasjoner på toppen, og på nese-binder. Futteral er foret innvendig.
+0210213504663 | KHMUIO-E | UEM43727 | hardvedmaske | ['532', '291.71', '536', '535', '531.41', '825'] | 
+0210213505522 | KHMUIO-E | UEM44689 | figur | ['532', '531.41', '825', '826'] | 
+021038569628 | E-KNAV | 021038569628 | Krag, Sonni (1902 - 1989) |  | Norsk forfatter og eventyrer, som fra 1924 bosatte seg i Kenya med ektemann og plantasjeeier William Krag. Ble kjent i Skandinavia som den norske Kare
+0211013207451 | HFN | U-no0109-98592 | Skinnfellroser |  | 
+0210213510441 | KHMUIO-E | UEM48670 | Awarapun | ['353.6', '386', '353.5', '173', '183', '543', '772', '825', '213.7'] | Original tittel "Crocodile Skin".Dette er et kunsttrykk på papir. Her avbildes en abstragt fortolking av strukturen i krokodillens hud. Krokodillehude
+021048796090 | GM | GM.023407 | Maleri | ['353.5'] | Maleri fra Rena apotek. Interiør fra apoteket er stilt ut i Steinbygningen ved Glomdalsmuseet. Malt på lerret. Innrammet i enkel treramme.
+021036372764 | E-KNAV | 021036372764 | Barye, Antoine-Louis (1796 - 1875) |  | 
+021016125845 | NTM | NTM UWP 22846 | Zoologi | ['810', '815', '59', '57'] | 
+011024192548 | NSM | NSM.02041 | Relieff | ['531.41', '532', '629.12:73', '73', '73.023.1', '224', '59', '639.1', '96', '962'] | Treplate med utskjæringer, laget av 3 brede planker , opprinnelig innfelte trestykker på baksiden , nå med 3 planker på tvers festet med skruer  (-ant
+021026272096 | RM | RM02075 | Dukke | ['549', '524'] | Dukke iført lang kjole, halvlange ermer, firkantet halsutringing og rundet lomme på høyre side. Pyntebord rundt halsen som fortsetter ned langs venstr
+0210111562217 | TFM-SVB | FTTF.SCH.V.032325.01-12 | Gaver til skolebarna på Ranheim skole |  | 
+0210411760011 | OMU | IKM.00001 | maleri | ['532', '353.5'] | Form: Rektangulær
+0210214575711 | LM | LM.G.009095 | Barneleke | ['726', '567', '855'] | 
+0211813383196 | OST-MB | 0211813383196 | Raff i regn! Smil når englene gråter!  |  | 
+021188652818 | FMB | 021188652818 | Edens hage luktet tørrfisk |  | 
+0210211589422 | TFM-SVB | FTT.39207 | Kasse | ['365.4', '870', '872'] | En trekasse med 25 plansjer der en er en "forside-plansje" mens det er 24 plansjer/bildearke med naturhistoriske motiv. På forsideplansjen er det info
+0210211498001 | TFM-SVB | FTT.59711 | Plakat | ['545'] | 57 teaterplakater som Tatjana Zaitzow har samlet på. Nedenfor er hovedtekst på plakatene gjengitt, en kort motivbeskrivelse samt mål for hver plakat. 

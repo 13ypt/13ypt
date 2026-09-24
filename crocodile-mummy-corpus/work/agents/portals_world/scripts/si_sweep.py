@@ -1,6 +1,7 @@
 """Smithsonian Open Access API sweep (api.si.edu, DEMO_KEY, paced ~1 request / 2 s).
 
-Pages through every query completely (rows=100, start=0,100,...), keeps a compact
+DEMO_KEY allows only ~30 requests/hour: run 2nd pass with SI_PAUSE=130 SI_TAG=_pass2 and the
+remaining queries as argv. Pages through every query completely (rows=100, start=0,100,...), keeps a compact
 summary of every hit, and flags rows whose title/freetext mention mumm* + crocod*/Sobek.
 """
 import json
@@ -41,12 +42,23 @@ def flat(x):
 
 
 def main():
+    import os
+    queries = sys.argv[1:] or QUERIES
+    pause = float(os.environ.get("SI_PAUSE", "2.0"))
+    tag = os.environ.get("SI_TAG", "")
     stats = {}
     rows_all = {}
-    for q in QUERIES:
+    for q in queries:
         start, hits, ids = 0, None, []
         while True:
-            r, err = get(BASE, params={"q": q, "rows": 100, "start": start, "api_key": KEY}, pause=2.0)
+            for attempt in range(4):
+                r, err = get(BASE, params={"q": q, "rows": 100, "start": start, "api_key": KEY}, pause=pause)
+                if not err and r.status_code == 429:
+                    print("429, sleeping 600 s", file=sys.stderr)
+                    import time
+                    time.sleep(600)
+                    continue
+                break
             if err or r.status_code != 200:
                 stats[q] = {"error": err or r.status_code, "hits_so_far": len(ids)}
                 break
@@ -67,13 +79,13 @@ def main():
         stats.setdefault(q, {}).update({"hits": hits, "retrieved": len(ids),
                                         "mumm+croc candidates": cands})
         print(q, hits, len(ids), len(cands), file=sys.stderr)
-    save_raw("si_query_stats.json", stats)
+    save_raw(f"si_query_stats{tag}.json", stats)
     summary = {i: {"title": r.get("title"), "unitCode": r.get("unitCode"),
                    "record_link": r.get("content", {}).get("descriptiveNonRepeating", {}).get("record_link")}
                for i, r in rows_all.items()}
-    save_raw("si_all_hits_summary.json", summary)
+    save_raw(f"si_all_hits_summary{tag}.json", summary)
     cand_ids = sorted({c for s in stats.values() for c in s.get("mumm+croc candidates", [])})
-    save_raw("si_candidates_full.json", {i: rows_all[i] for i in cand_ids})
+    save_raw(f"si_candidates_full{tag}.json", {i: rows_all[i] for i in cand_ids})
     print(json.dumps(stats, indent=1))
 
 

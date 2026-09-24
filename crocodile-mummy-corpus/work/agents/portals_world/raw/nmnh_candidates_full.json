@@ -1,0 +1,1759 @@
+{
+ "8314204": {
+  "_id": 8314204,
+  "acqdc": "1885",
+  "acqln": "015645",
+  "acqpc": "Dr. George W. Samson",
+  "acqtt": "Person",
+  "admdm": {
+   "$date": {
+    "$numberLong": "1503254940000"
+   }
+  },
+  "admuu": "16ca3ab2b41949f7be87a0961d53fc75",
+  "bionm": "Thebes",
+  "catbc": "A74579-0",
+  "catdp": "an",
+  "catdv": "Archaeology",
+  "catnb": {
+   "catnc": "A    74579",
+   "catnm": 74579,
+   "catpr": "A"
+  },
+  "caton": [
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01531"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01545"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01546"
+   },
+   {
+    "catnt": "Black/white negative number",
+    "catnv": "78-8295"
+   },
+   {
+    "catnt": "Black/white negative number",
+    "catnv": "83-3373"
+   },
+   {
+    "catnt": "Black/white negative number",
+    "catnv": "83-3374"
+   }
+  ],
+  "catsc": 1,
+  "cevid": 8034915,
+  "culc2": [
+   "Ancient Egyptian"
+  ],
+  "darci": "Africa",
+  "darct": "Egypt",
+  "darcy": "Qena",
+  "daric": "USNM",
+  "dariu": "10504613; 10504623; 10503558; 11032375; 11032376; 10271397; 10271396; 10271399; 10271398; 10562003",
+  "darst": "Upper Egypt",
+  "desmt": [
+   "Cellulose fibers",
+   "Protein tissue"
+  ],
+  "flags": 257,
+  "ideco": "Mummied Crocodile",
+  "idect": "Animal Mummy",
+  "ideit": [
+   "Animal Mummy"
+  ],
+  "ideoj": [
+   "Mummied Crocodile"
+  ],
+  "mulmm": [
+   {
+    "chaih": 1033,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380623400000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01545; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10504613,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "c9660a8a44194220a9ff729f4893e255",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 58,
+      "docin": "NHB2011-01545.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 207,
+      "docin": "NHB2011-01545.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 413,
+      "docin": "NHB2011-01545.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1033,
+      "docin": "NHB2011-01545.1600x1033.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 936,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380623400000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01546; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10504623,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "4ac6bc545b4444498cb7f1735a646b61",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 53,
+      "docin": "NHB2011-01546.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 187,
+      "docin": "NHB2011-01546.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 374,
+      "docin": "NHB2011-01546.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 936,
+      "docin": "NHB2011-01546.1600x936.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 944,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380535500000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01531; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10503558,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "fb289427e4794ac8bc976b2f4cf3d89f",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 53,
+      "docin": "NHB2011-01531.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 189,
+      "docin": "NHB2011-01531.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 378,
+      "docin": "NHB2011-01531.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 944,
+      "docin": "NHB2011-01531.1600x944.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 1163,
+    "chaiw": 1500,
+    "detrg": "This image was obtained from the Smithsonian Institution - Washington, DC - USA. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural Histo",
+    "mulcr": [
+     "Victor Krantz"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1529439780000"
+     }
+    },
+    "mulds": "X-ray. Digitized jpeg version of Smithsonian Photographic Services negative # 83-3373; original image on file with SPS is a black and white negative.",
+    "mulid": 11032375,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579 and A435221",
+    "muluu": "77eabede8d4045f5be038b45a54e3c09",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 70,
+      "docin": "83-3373.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 248,
+      "docin": "83-3373.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 496,
+      "docin": "83-3373.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1163,
+      "docin": "83-3373.1500x1163.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1500
+     }
+    ]
+   },
+   {
+    "chaih": 1186,
+    "chaiw": 1500,
+    "detrg": "This image was obtained from the Smithsonian Institution - Washington, DC - USA. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural Histo",
+    "mulcr": [
+     "Victor Krantz"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1529439780000"
+     }
+    },
+    "mulds": "X-ray. Digitized jpeg version of Smithsonian Photographic Services negative # 83-3374; original image on file with SPS is a black and white negative.",
+    "mulid": 11032376,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579 and A435221",
+    "muluu": "4bb130da2b8b4bf1b40a52180c1c12e8",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 71,
+      "docin": "83-3374.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 253,
+      "docin": "83-3374.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 506,
+      "docin": "83-3374.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1186,
+      "docin": "83-3374.1500x1186.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1500
+     }
+    ]
+   },
+   {
+    "chaih": 306,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1346856600000"
+     }
+    },
+    "mulds": "DVD 0454",
+    "mulid": 10271397,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "6d9f9561edbc4d5c89954094a1e5f0a1",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 27,
+      "docin": "A074579_ps-1396-E.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 96,
+      "docin": "A074579_ps-1396-E.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 191,
+      "docin": "A074579_ps-1396-E.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 306,
+      "docin": "A074579_ps-1396-E.1024x306.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 306,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1346856540000"
+     }
+    },
+    "mulds": "DVD 0454",
+    "mulid": 10271396,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "c3aaed36c68144de92a74b07e06a0b5a",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 27,
+      "docin": "A074579_ps-1396-D.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 96,
+      "docin": "A074579_ps-1396-D.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 191,
+      "docin": "A074579_ps-1396-D.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 306,
+      "docin": "A074579_ps-1396-D.1024x306.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 796,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1346856600000"
+     }
+    },
+    "mulds": "DVD 0454",
+    "mulid": 10271399,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "e56580878b3e422a92d6335e077d847a",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 70,
+      "docin": "A074579_ps-83-3374.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 249,
+      "docin": "A074579_ps-83-3374.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 497,
+      "docin": "A074579_ps-83-3374.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 796,
+      "docin": "A074579_ps-83-3374.1024x796.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 792,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1346856600000"
+     }
+    },
+    "mulds": "DVD 0454",
+    "mulid": 10271398,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A74579",
+    "muluu": "885ded4a49a74c30a6dc24d362e865bc",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 70,
+      "docin": "A074579_ps-83-3373.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 247,
+      "docin": "A074579_ps-83-3373.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 495,
+      "docin": "A074579_ps-83-3373.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 792,
+      "docin": "A074579_ps-83-3373.1024x792.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 6828,
+    "chaiw": 8577,
+    "detrg": "The Smithsonian continues to research information on its collections. Contact Smithsonian for current status.",
+    "detrs": "Not determined",
+    "detrt": "Documentation",
+    "detsr": "Collections Management, Department of Anthropology, NMNH, Smithsonian Institution",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1523368560000"
+     }
+    },
+    "mulds": "Catalog numbers 74576-74600",
+    "mulid": 10562003,
+    "mulmf": "tiff",
+    "mulmt": "image",
+    "multt": "Ledger book, Volume 016 page 089",
+    "muluu": "e2aecd49e6224155bda05e858e7baa52",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 72,
+      "docin": "anthro_mc_016_089_74576-74600.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 255,
+      "docin": "anthro_mc_016_089_74576-74600.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 509,
+      "docin": "anthro_mc_016_089_74576-74600.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1592,
+      "docin": "anthro_mc_016_089_74576-74600.2000x6828.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 2000
+     },
+     {
+      "dochg": 6828,
+      "docin": "anthro_mc_016_089_74576-74600.8577x6828.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 8577
+     }
+    ]
+   }
+  ],
+  "notno": [
+   {
+    "notnt": "Remarks",
+    "nottx": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for this artifact, 2011: Mummified crocodile, 332-30 B.C. Priests took great care with these wrappings, modeling the head, nostrils and eyes in linen and covering the body in a crisscross pattern secured by linen thread. The remains inside look less impressive: a flattened crocodile, possibly a hatchling, covered with resin."
+   }
+  ],
+  "tstmp": 1754865339,
+  "ustmp": 1754865339,
+  "xname": "Mummied Crocodile"
+ },
+ "8325979": {
+  "_id": 8325979,
+  "acqdc": "1991",
+  "acqln": "999999",
+  "acqpc": "No Information",
+  "acqtt": "Person",
+  "admdm": {
+   "$date": {
+    "$numberLong": "1508349840000"
+   }
+  },
+  "admuu": "ff0f76493cb74016ba07c184a54e5f29",
+  "catbc": "AT5604-0",
+  "catcm": "ca.",
+  "catdp": "an",
+  "catdv": "Archaeology",
+  "catnb": {
+   "catnc": "AT     5604",
+   "catnm": 5604,
+   "catpr": "AT"
+  },
+  "caton": [
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01557"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01558"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01559"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01560"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01561"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2011-01562"
+   },
+   {
+    "catnt": "Color Digital number",
+    "catnv": "NHB2013-01262"
+   }
+  ],
+  "catsc": 50,
+  "cevid": 8035089,
+  "culc2": [
+   "Ancient Egyptian"
+  ],
+  "darci": "Africa",
+  "darct": "Egypt",
+  "daric": "USNM",
+  "dariu": "10505716; 10505717; 10505718; 10505719; 10505720; 10505722; 10505739",
+  "desmn": [
+   "Textile"
+  ],
+  "desmt": [
+   "Cellulose fibers",
+   "Protein tissue",
+   "?bone?ivory?antler"
+  ],
+  "flags": 257,
+  "ideco": "Mummified Reptiles",
+  "idect": "Animal Mummy",
+  "ideit": [
+   "Animal Mummy"
+  ],
+  "ideoj": [
+   "Mummified Reptiles"
+  ],
+  "mulmm": [
+   {
+    "chaih": 916,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01557; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505716,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "7ac62fbf1b564389ba5193a613b08c62",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 52,
+      "docin": "NHB2011-01557.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 183,
+      "docin": "NHB2011-01557.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 366,
+      "docin": "NHB2011-01557.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 916,
+      "docin": "NHB2011-01557.1600x916.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 951,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01558; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505717,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "3dba848a94494201bc750c4c5f5769e9",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 53,
+      "docin": "NHB2011-01558.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 190,
+      "docin": "NHB2011-01558.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 380,
+      "docin": "NHB2011-01558.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 951,
+      "docin": "NHB2011-01558.1600x951.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 1043,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01559; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505718,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "e84f60f0c17f4c6f9719c768006ccd68",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 59,
+      "docin": "NHB2011-01559.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 209,
+      "docin": "NHB2011-01559.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 417,
+      "docin": "NHB2011-01559.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1043,
+      "docin": "NHB2011-01559.1600x1043.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 943,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01560; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505719,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "5ccdbaf047694cdba07e0a160bb29379",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 53,
+      "docin": "NHB2011-01560.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 189,
+      "docin": "NHB2011-01560.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 377,
+      "docin": "NHB2011-01560.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 943,
+      "docin": "NHB2011-01560.1600x943.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 951,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01561; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505720,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "1bed0b7bc5d2478cae5e3b688cf13285",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 53,
+      "docin": "NHB2011-01561.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 190,
+      "docin": "NHB2011-01561.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 380,
+      "docin": "NHB2011-01561.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 951,
+      "docin": "NHB2011-01561.1600x951.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 891,
+    "chaiw": 1600,
+    "detrg": "This image was obtained from the Smithsonian Institution. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625200000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2011-01562; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505722,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "7104f6162cd145b1ba75744ea967b09f",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 50,
+      "docin": "NHB2011-01562.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 178,
+      "docin": "NHB2011-01562.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 356,
+      "docin": "NHB2011-01562.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 891,
+      "docin": "NHB2011-01562.1600x891.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   },
+   {
+    "chaih": 1198,
+    "chaiw": 1600,
+    "detrg": "This image and/or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural History, Smithsonian Institution",
+    "mulcr": [
+     "Donald E. Hurlbert"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1380625260000"
+     }
+    },
+    "mulds": "Jpeg version of NMNH Imaging/Smithsonian Photographic Services digital negative # NHB2013-01262; original tiff is on file with NMNH Imaging and SPS.",
+    "mulid": 10505739,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "AT5604",
+    "muluu": "6a8cbaa606264f2194e81b4c2e098d18",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 67,
+      "docin": "NHB2013-01262.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 240,
+      "docin": "NHB2013-01262.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 479,
+      "docin": "NHB2013-01262.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1198,
+      "docin": "NHB2013-01262.1600x1198.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1600
+     }
+    ]
+   }
+  ],
+  "notno": [
+   {
+    "notnt": "Remarks",
+    "nottx": "ONE BOX OF MUMMIFIED REPTILES (INCL. CROCODILES) WITH TEXTILE WRAPPINGS. MIGHT BE FROM CATALOGUE #S 1563 - 1565?"
+   },
+   {
+    "notnt": "Remarks",
+    "nottx": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for 4 crocodile mummies with this number, 2011: Mummified crocodile group, 332 B.C.-A.D. 250. Dozens of crocodile hatchlings emerge from the nest together, and mummy groups like these that mimic nature were fairly common. The varied quality of the linen wrappings probably means that priests used leftover bits of fabric to wrap the crocodiles."
+   }
+  ],
+  "tstmp": 1754858292,
+  "ustmp": 1754858292,
+  "xname": "Mummified Reptiles"
+ },
+ "8162347": {
+  "_id": 8162347,
+  "acqdc": "4 Jun 1956",
+  "acqln": "209589",
+  "acqpo": "Brooklyn Museum",
+  "acqtt": "Organization",
+  "admdm": {
+   "$date": {
+    "$numberLong": "1743512100000"
+   }
+  },
+  "admuu": "42451350d66c4bd3b366ddff424e50ac",
+  "bionm": "Dashur (Dahshur)",
+  "biopp": [
+   {
+    "bppid": 8016268,
+    "namcn": "Abbott, H.",
+    "namfn": "Dr. H. Abbott"
+   }
+  ],
+  "biopr": [
+   "Abbott, H."
+  ],
+  "catbc": "A413942-0",
+  "catdp": "an",
+  "catdv": "Archaeology",
+  "catnb": {
+   "catnc": "A   413942",
+   "catnm": 413942,
+   "catpr": "A"
+  },
+  "caton": [
+   {
+    "catnt": "Field Number",
+    "catnv": "153.3"
+   },
+   {
+    "catnt": "Black/white negative number",
+    "catnv": "44042"
+   },
+   {
+    "catnt": "Black/white negative number",
+    "catnv": "44042A"
+   }
+  ],
+  "catsc": 1,
+  "cevid": 8001226,
+  "culc2": [
+   "Late Ptolemaic/Roman"
+  ],
+  "darci": "Africa",
+  "darct": "Egypt",
+  "darcy": "Dashur (Dahshur)",
+  "daric": "USNM",
+  "dariu": "8397648; 8397649; 8397650; 8397651; 8397652; 8397653; 10685609; 10685610; 10272306; 10272305; 10808744",
+  "darst": "Lower Egypt",
+  "desmt": [
+   "Worked stone",
+   "Cellulose combination",
+   "Horn/hard keratin",
+   "Bone"
+  ],
+  "flags": 257,
+  "ideco": "Small Bull Mummy/1",
+  "idect": "Animal Mummy",
+  "ideit": [
+   "Animal Mummy"
+  ],
+  "ideoj": [
+   "Small Bull Mummy/1"
+  ],
+  "meams": [
+   {
+    "meaof": "Object",
+    "measu": "cm",
+    "measv": 86,
+    "meaty": "Height"
+   },
+   {
+    "meaof": "Object",
+    "measu": "cm",
+    "measv": 89,
+    "meaty": "Depth"
+   },
+   {
+    "meaof": "Object",
+    "measu": "cm",
+    "measv": 113.5,
+    "meaty": "Width"
+   }
+  ],
+  "mulmm": [
+   {
+    "chaih": 768,
+    "chaiw": 700,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269800000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397648,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "73fca9bfe00f4705bbdd250bff4a2c5f",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 90,
+      "docin": "a413942.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 82
+     },
+     {
+      "dochg": 320,
+      "docin": "a413942.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 292
+     },
+     {
+      "dochg": 640,
+      "docin": "a413942.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 583
+     },
+     {
+      "dochg": 768,
+      "docin": "a413942.700x768.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 700
+     }
+    ]
+   },
+   {
+    "chaih": 768,
+    "chaiw": 845,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269800000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397649,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "c5aa9ab7b12f421e8d16d8b00334bebc",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 82,
+      "docin": "a413942_1.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 291,
+      "docin": "a413942_1.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 582,
+      "docin": "a413942_1.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 768,
+      "docin": "a413942_1.845x768.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 845
+     }
+    ]
+   },
+   {
+    "chaih": 768,
+    "chaiw": 659,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269860000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397650,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "7ae3892c2f9747a08f137394c92a9d06",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 90,
+      "docin": "a413942_2.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 77
+     },
+     {
+      "dochg": 320,
+      "docin": "a413942_2.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 275
+     },
+     {
+      "dochg": 640,
+      "docin": "a413942_2.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 549
+     },
+     {
+      "dochg": 768,
+      "docin": "a413942_2.659x768.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 659
+     }
+    ]
+   },
+   {
+    "chaih": 768,
+    "chaiw": 841,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269860000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397651,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "71602b7f417c43d1a7ee27f3d067988e",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 82,
+      "docin": "a413942_3.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 292,
+      "docin": "a413942_3.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 584,
+      "docin": "a413942_3.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 768,
+      "docin": "a413942_3.841x768.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 841
+     }
+    ]
+   },
+   {
+    "chaih": 681,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269860000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397652,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "7e7c58cbb8c34d7ebe60954592ae923a",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 60,
+      "docin": "a413942_4.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 213,
+      "docin": "a413942_4.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 426,
+      "docin": "a413942_4.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 681,
+      "docin": "a413942_4.1024x681.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 681,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Management-Pod 4"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1571269920000"
+     }
+    },
+    "mulds": "CD 385",
+    "mulid": 8397653,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942, Egypt,,Late Ptolemaic|Early Roman,,Mummy",
+    "muluu": "de865c68b9a64590a6d8603db1fe3765",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 60,
+      "docin": "a413942_5.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 213,
+      "docin": "a413942_5.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 426,
+      "docin": "a413942_5.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 681,
+      "docin": "a413942_5.1024x681.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 1183,
+    "chaiw": 1500,
+    "detrg": "This image was obtained from the Smithsonian Institution - Washington, DC - USA. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural Histo",
+    "mulcr": [
+     "Smithsonian Photographic Services"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1401184920000"
+     }
+    },
+    "mulds": "Digitized jpeg version of Smithsonian Photographic Services negative # 44042; original image on file with SPS is a black and white negative.",
+    "mulid": 10685609,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942",
+    "muluu": "3f6ae7e63e314ee4b82158f171fa7a05",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 71,
+      "docin": "MNH-44042.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 252,
+      "docin": "MNH-44042.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 505,
+      "docin": "MNH-44042.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1183,
+      "docin": "MNH-44042.1500x1183.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1500
+     }
+    ]
+   },
+   {
+    "chaih": 1183,
+    "chaiw": 1499,
+    "detrg": "This image was obtained from the Smithsonian Institution - Washington, DC - USA. The image or its contents may be protected by international copyright laws.",
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "detsr": "National Museum of Natural Histo",
+    "mulcr": [
+     "Smithsonian Photographic Services"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1401184920000"
+     }
+    },
+    "mulds": "Digitized jpeg version of Smithsonian Photographic Services negative # 44042A; original image on file with SPS is a black and white negative.",
+    "mulid": 10685610,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942",
+    "muluu": "52085e5a17b14f2ca2af90cd84f7b055",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 71,
+      "docin": "MNH-44042A.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 253,
+      "docin": "MNH-44042A.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 505,
+      "docin": "MNH-44042A.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1183,
+      "docin": "MNH-44042A.1499x1183.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1499
+     }
+    ]
+   },
+   {
+    "chaih": 839,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1347027720000"
+     }
+    },
+    "mulds": "DVD 0456",
+    "mulid": 10272306,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942",
+    "muluu": "42409277848445e9abc6231b3fc8f6f8",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 74,
+      "docin": "A413942_ps-44042.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 262,
+      "docin": "A413942_ps-44042.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 524,
+      "docin": "A413942_ps-44042.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 839,
+      "docin": "A413942_ps-44042.1024x839.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 1586,
+    "chaiw": 1024,
+    "detrs": "Not determined",
+    "detrt": "Specimen/Object",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1347027720000"
+     }
+    },
+    "mulds": "DVD 0456",
+    "mulid": 10272305,
+    "mulmf": "jpeg",
+    "mulmt": "image",
+    "multt": "A413942",
+    "muluu": "a7ab47e954d44b67a3f3d7235f92d18d",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 90,
+      "docin": "A413942_ps-44042-A.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 58
+     },
+     {
+      "dochg": 320,
+      "docin": "A413942_ps-44042-A.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 207
+     },
+     {
+      "dochg": 640,
+      "docin": "A413942_ps-44042-A.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 413
+     },
+     {
+      "dochg": 1586,
+      "docin": "A413942_ps-44042-A.1024x1586.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 1024
+     }
+    ]
+   },
+   {
+    "chaih": 6496,
+    "chaiw": 8553,
+    "detrg": "The Smithsonian continues to research information on its collections. Contact Smithsonian for current status.",
+    "detrs": "Not determined",
+    "detrt": "Documentation",
+    "detsr": "Collections Management, Department of Anthropology, NMNH, Smithsonian Institution",
+    "mulcr": [
+     "Anthropology Collections Management"
+    ],
+    "muldm": {
+     "$date": {
+      "$numberLong": "1421275920000"
+     }
+    },
+    "mulds": "Catalog numbers 413931-413955",
+    "mulid": 10808744,
+    "mulmf": "tiff",
+    "mulmt": "image",
+    "multt": "Ledger book, Volume A08 page 065",
+    "muluu": "dcad73f8fc26481bb5822dc73fcdad39",
+    "siids": true,
+    "docrs": [
+     {
+      "dochg": 68,
+      "docin": "anthro_mc_A08_065_413931-413955.thumb.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 90
+     },
+     {
+      "dochg": 243,
+      "docin": "anthro_mc_A08_065_413931-413955.320x320.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 320
+     },
+     {
+      "dochg": 486,
+      "docin": "anthro_mc_A08_065_413931-413955.640x640.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 640
+     },
+     {
+      "dochg": 1519,
+      "docin": "anthro_mc_A08_065_413931-413955.2000x6496.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 2000
+     },
+     {
+      "dochg": 6496,
+      "docin": "anthro_mc_A08_065_413931-413955.8553x6496.jpg",
+      "docmf": "jpeg",
+      "docmt": "image",
+      "docwd": 8553
+     }
+    ]
+   }
+  ],
+  "notno": [
+   {
+    "notnt": "Remarks",
+    "nottx": "From card: \"Late Ptolemaic to Early Roman Period (200 B.C. - 200 A.D.)\" See accession history for detailed info. on collection/donation of this artifact and the others in this collection."
+   },
+   {
+    "notnt": "Remarks",
+    "nottx": "From NMNH Exhibit Hall \"Eternal Life in Ancient Egypt\" label for this artifact, 2011: Bull mummy, 300 B.C.-A.D. 400. Although at least nine layers of wrappings protect this bull, the x-ray below reveals only a jumble of bones inside. Some scholars suggest that priests or the king ate the meat to partake of the god's powers. Embalmers mummified the head, however, and held a ritual to allow the bull to see, eat, and hear forever. Divine Bull. This bull lived like a god in a special stable within the temple walls. Priests massaged his body, decorated his horns with ornaments of silver, and even sang to him. Egyptians saw him as a living manifestation of a god, and worshippers filled the temple daily to honor him. When the bull died, Egyptians believed he went on to eternal life, and a young bull with the same distinctive markings took his place. Many temples honored other sacred animals - for example, crocodiles that embodied the god Sobek in the temple at Kom Ombo, and cats of Bastet at Bubastis. When a divine bull died, the entire region fell into mourning. Priests held an elaborate funeral and buried him in an underground niche."
+   }
+  ],
+  "tstmp": 1754860022,
+  "ustmp": 1754860022,
+  "xname": "Small Bull Mummy/1"
+ }
+}

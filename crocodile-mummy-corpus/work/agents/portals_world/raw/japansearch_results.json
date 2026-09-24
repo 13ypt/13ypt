@@ -1,0 +1,489 @@
+{
+ "ワニ ミイラ": {
+  "total": 109,
+  "retrieved": 109,
+  "flagged": [
+   {
+    "id": "nme_ir-httpR2dTxASQEhdl_handle_netAXO10502AXO00008379",
+    "title": "インカのミイラ 「フワニータ」 の保存と展示 : 文化財の帰属をめぐる関係者間の対立 (特集 文化遺産の保存と修復)",
+    "database": "nme_ir",
+    "provider": "nihu_nme",
+    "linkUrl": "http://hdl.handle.net/10502/00008379",
+    "contentsType": "text",
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   },
+   {
+    "id": "dignl-1486696",
+    "title": "伝説 1(3)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1486696",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-9542058",
+    "title": "人間性の歴史 第1 (愛と憎しみと死)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9542058",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1686468",
+    "title": "倫敦の薔薇",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1686468",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-9545619",
+    "title": "世界の神々と性",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9545619",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "Showa_magazine-100017732",
+    "title": "子供の科学　第８巻第５号（昭和３年１１月）",
+    "database": "Showa_magazine",
+    "provider": "ShowakanDA",
+    "linkUrl": "https://search.showakan.go.jp/search/magazine/detail.php?material_cord=100017732",
+    "contentsType": "text",
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   },
+   {
+    "id": "bibnl-23193435",
+    "title": "私と鰐と妹の部屋",
+    "database": "bibnl",
+    "provider": "ndl",
+    "linkUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029572039",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   },
+   {
+    "id": "dignl-2234586",
+    "title": "特集人物往来 2(5)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/2234586",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-7969402",
+    "title": "アサヒカメラ 臨時増刊報道寫眞傑作集",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/7969402",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "bibnl-21911068",
+    "title": "事件記者コルチャック",
+    "database": "bibnl",
+    "provider": "ndl",
+    "linkUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I000011141969",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   },
+   {
+    "id": "dignl-9643924",
+    "title": "四倉の歴史と伝説 : いわき北部史",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9643924",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-7947475",
+    "title": "歴史と旅 20(13)[(298)]",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/7947475",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1138191",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1138191",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1873940",
+    "title": "怪奇境探檢記",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1873940",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1176661",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1176661",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "Showa_magazine-160000208",
+    "title": "朝日新聞報道写真傑作集　１９５１",
+    "database": "Showa_magazine",
+    "provider": "ShowakanDA",
+    "linkUrl": "https://search.showakan.go.jp/search/magazine/detail.php?material_cord=160000208",
+    "contentsType": "text",
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   },
+   {
+    "id": "bibnl-21523212",
+    "title": "キン肉マンcomplete DVD-box",
+    "database": "bibnl",
+    "provider": "ndl",
+    "linkUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I000009978754",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   }
+  ]
+ },
+ "鰐 ミイラ": {
+  "total": 56,
+  "retrieved": 56,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   },
+   {
+    "id": "dignl-2234586",
+    "title": "特集人物往来 2(5)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/2234586",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-9643924",
+    "title": "四倉の歴史と伝説 : いわき北部史",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9643924",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-7947475",
+    "title": "歴史と旅 20(13)[(298)]",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/7947475",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1138191",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1138191",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1873940",
+    "title": "怪奇境探檢記",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1873940",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "bibnl-23193435",
+    "title": "私と鰐と妹の部屋",
+    "database": "bibnl",
+    "provider": "ndl",
+    "linkUrl": "https://ndlsearch.ndl.go.jp/books/R100000002-I029572039",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": null
+   },
+   {
+    "id": "dignl-1176661",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1176661",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   }
+  ]
+ },
+ "鰐木乃伊": {
+  "total": 1,
+  "retrieved": 1,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   }
+  ]
+ },
+ "ワニのミイラ": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": []
+ },
+ "クロコダイル ミイラ": {
+  "total": 55,
+  "retrieved": 55,
+  "flagged": []
+ },
+ "鰐 木乃伊": {
+  "total": 4,
+  "retrieved": 4,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   },
+   {
+    "id": "dignl-1873940",
+    "title": "怪奇境探檢記",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1873940",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1176661",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1176661",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1138191",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1138191",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   }
+  ]
+ },
+ "動物ミイラ": {
+  "total": 0,
+  "retrieved": 0,
+  "flagged": []
+ },
+ "セベク": {
+  "total": 68,
+  "retrieved": 68,
+  "flagged": []
+ },
+ "ソベク": {
+  "total": 56,
+  "retrieved": 56,
+  "flagged": []
+ },
+ "crocodile mummy": {
+  "total": 5756,
+  "retrieved": 1000,
+  "flagged": []
+ },
+ "mummified crocodile": {
+  "total": 9746,
+  "retrieved": 1000,
+  "flagged": []
+ },
+ "エジプト 鰐": {
+  "total": 12,
+  "retrieved": 12,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   }
+  ]
+ },
+ "エジプト ワニ": {
+  "total": 52,
+  "retrieved": 52,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   },
+   {
+    "id": "dignl-9542058",
+    "title": "人間性の歴史 第1 (愛と憎しみと死)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9542058",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-9545619",
+    "title": "世界の神々と性",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/9545619",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   }
+  ]
+ },
+ "木乃伊": {
+  "total": 453,
+  "retrieved": 453,
+  "flagged": [
+   {
+    "id": "cobas-152082",
+    "title": "鰐木乃伊",
+    "database": "cobas",
+    "provider": "tnm",
+    "linkUrl": "https://colbase.nich.go.jp/collection_items/tnm/TJ-2390",
+    "contentsType": "image",
+    "thumbnailUrl": null,
+    "contentsRightsType": "ccby"
+   },
+   {
+    "id": "dignl-1486696",
+    "title": "伝説 1(3)",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1486696",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1686468",
+    "title": "倫敦の薔薇",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1686468",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1873940",
+    "title": "怪奇境探檢記",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1873940",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1176661",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1176661",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   },
+   {
+    "id": "dignl-1138191",
+    "title": "日本猥談集 第1巻",
+    "database": "dignl",
+    "provider": "ndl",
+    "linkUrl": "http://dl.ndl.go.jp/info:ndljp/pid/1138191",
+    "contentsType": null,
+    "thumbnailUrl": null,
+    "contentsRightsType": "incr"
+   }
+  ]
+ }
+}

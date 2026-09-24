@@ -11,3 +11,15 @@ departmentId=10 crocodile mummy 6
 departmentId=10 Fayum crocodile 3
 departmentId=10 Kom Ombo 0
 50 / 732
+100 / 732
+150 / 732
+200 / 732
+250 / 732
+350 / 732
+400 / 732
+450 / 732
+500 / 732
+550 / 732
+600 / 732
+650 / 732
+700 / 732

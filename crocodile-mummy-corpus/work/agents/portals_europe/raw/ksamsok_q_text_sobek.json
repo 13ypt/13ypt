@@ -1,0 +1,56 @@
+{
+"query": "text=\"Sobek\"",
+"total": 5,
+"items": [
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3013026",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "sculpture, skulptur",
+"idLabel": "MME 1977:001, 20",
+"type": "Föremål",
+"desc": [
+"Hieroglyphic inscription that mentions Pa-Nefer, head of the cattle that belongs to Ramasseum."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3010826",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "amulet, crocodile, jewellery, smycke, amulett, krokodil, Sobek",
+"idLabel": "NME 743",
+"type": "Föremål",
+"desc": [
+"A ‘recumbent’ crocodile on an integral base. Highly stylized, still with some discernable details. Tail end is shown slightly twisted. Suspension hole through the body, at the point of its neck. Pale blue glaze."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015791",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "relief, stele",
+"idLabel": "NME 059, NME 59",
+"type": "Föremål",
+"desc": [
+"Round relief of limestone. Surface damaged, hieroglyphs and figures visible."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008235",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "toilette object, toalettartikel",
+"idLabel": "MM 11081, E1081",
+"type": "Föremål",
+"desc": [
+"A triple tube jar. Unfinished."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/bhm/object/UM000548",
+"org": "Bohusläns museum",
+"label": "Mumie",
+"idLabel": "UM000548",
+"type": "Object",
+"desc": [
+"Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilarmerad klisterremsa.\n\nUr Knut Adrian Anderssons katalog II\nUddevalla - Musei - Historiska - Samlingar: E: Utländska föremål\nDe Etnografiska föremålen u"
+]
+}
+]
+}

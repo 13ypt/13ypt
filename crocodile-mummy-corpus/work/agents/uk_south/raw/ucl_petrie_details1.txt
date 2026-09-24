@@ -1,0 +1,242 @@
+=== https://collections.ucl.ac.uk/Details/petrie/17408 [200]
+Reproduction
+Object Category
+ animal remains
+Description
+Remains of young crocodiles, dried, not mummified, 19 skulls with approximately enough body and tail (in broken lengths) to match.
+Collection Place
+Lahun
+Collection Place Notes
+Probably Lahun
+Production Period
+ (possible) Ptolemaic Period
+Material
+animal remains
+Dimensions
+most complete 29.0 cms
+Accession Number
+LDUCE-UC6984
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/17411 [200]
+Reproduction
+Object Category
+ animal remains
+Description
+Remains of young crocodiles, dried, in small fragments, within a singel thickness of linen, not sewn up; (blackened by 1950s UCL fire.)
+Collection Place
+Lahun
+Collection Place Notes
+Provenence unknown but cf UC 6984
+Production Period
+ (possible) Ptolemaic Period
+Material
+animal remains
+Dimensions
+length: 30.0 cms
+Accession Number
+LDUCE-UC6986
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/56902 [200]
+Reproduction
+Object Category
+ animal remains
+Description
+Fragmentary crocodile (?) skull
+Production Period
+ (possible) Roman Period Roman Period
+Material
+bone
+Accession Number
+LDUCE-UC71609
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/56955 [200]
+Reproduction
+Object Category
+ animal remains
+Description
+Desiccated crocodile head
+Production Period
+ (possible) Late Period Late Period
+Material
+animal remains
+Accession Number
+LDUCE-UC71664
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/68332 [200]
+Reproduction
+Object Category
+ animal remains
+Description
+Pair of young crocodiles wrapped together in linen bandages to form a double. CT scanned in 2014.
+Collection Place
+Lahun
+Collection Place Notes
+Compare with UC 6984
+Publications
+- Stevenson, Alice, The Petrie Museum of Egyptian Archaeology: Characters and Collections, p.70
+Production Period
+ Late Period - () Roman Period
+Material
+animal remains
+Dimensions
+height: 24.2 cms
+width: 5.5 cms
+Accession Number
+LDUCE-UC55008
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/4175 [200]
+Reproduction
+Object Category
+ teeth (animal)
+Description
+Crocodile tooth, with enamel (?) tip, set in silver; loop at top for suspension. Some decoration on the silver, but heavily eroded.
+Publications
+- Petrie, William Matthew Flinders, Amulets, pl.II,25b; p.13.
+Production Period
+ (possible) Roman Period
+Material
+teeth
+Dimensions
+length: 2.5 cms
+diameter: 0.8 cms
+Accession Number
+LDUCE-UC38560
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/66533 [200]
+Reproduction
+Object Category
+ mummy bandages
+Description
+Linen bandage fragment with hieratic Book of the Dead line over vignette of thre crocodiles being turned away from the deceased (chapter 31); name of owner not preserved but scale and handwriting recall bandages of Horsaiset UC 32445-8 and a fragment in Uppsala. Emblaming stains. Mounted on old card. Wellcome Collection No.13954, previously MacGregor Collection, Sotheby's Sale Catalogue 1922, Lot 524 (part).
+Publications
+- Kockelmann, Holger, Untersuchungen zu den späten Totenbuch-Handschriften auf Mumienbinden, II, 269 n.232
+Production Period
+ 30th Dynasty - () Ptolemaic Period
+Material
+linen
+Dimensions
+height: 6.8 cms
+width: 9.2 cms
+Accession Number
+LDUCE-UC32451
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/68445 [200]
+Reproduction
+Object Category
+ textiles
+Description
+Fragment of linen textile, preserving part of hypocephalus-style motif with image of falcon-headed sun-god wearing disc, with a circle of twelve (?) crocodile heads, between standing goddess with protecting wings outstretched; part of sun-god and crocodile heads lost, also most of goddess to right unclear, but possibly curves at edge are lefs of an animal or insect (scorpion for Serqet?). Slight stains at points along lower edge, from embalming materials.
+Production Period
+ 30th Dynasty - () Ptolemaic Period
+Material
+linen
+Dimensions
+height: 18.5 cms
+width: 29.3 cms
+Accession Number
+LDUCE-UC55122
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/69253 [200]
+or has occurred.
+About Us
+Search
+Results
+Details
+Selection
+Search History
+English
+ Change language
+Nederlands
+Français
+Deutsch
+العربية
+Italiano
+Svenska
+Norsk
+Dansk
+Русский
+Castellano
+MUSEUMS AND COLLECTIONS
+Home
+A nascent retina, generated from a 3D embryonic stem cell culture
+About Us
+Search
+Results
+Details
+Selection
+Search History
+Loading
+ Sorry, an error has occurred.
+ Please contact Axiell if the problem persists.
+Loading
+ Page
+1
+images: ['//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png', '/Content/Images/flags/flag_germany.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/70845 [200]
+Reproduction
+Object Category
+ mummy bandages
+Description
+Linen mummy bandage fragment, with hieratic Book of the Dead chapters, parts of six lines preserved, with human-headed cobra and crocodile-headed mummy vignettes (BD 77-78); name of deceased not preserved; much torn.
+Production Period
+ 30th Dynasty - () Ptolemaic Period
+Material
+linen
+Dimensions
+height: 6.8 cms
+width: 27.7 cms
+Accession Number
+LDUCE-UC75966
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+
+=== https://collections.ucl.ac.uk/Details/petrie/83244 [200]
+Reproduction
+Object Category
+ cartonnage
+Description
+Papyrus Cartonnage from Crocodile mummies. Used by Dr. W.E.H. Cockle, Dept of Greek. U.C.L. in experiments to separate papyrus.
+Collection Place
+Oxyrhynchus
+Collection Place Notes
+From a folder with the following note: "(1) Papyrus Cartonnage from Crocodile mummies. Folders 24(a) and 24 (b) P. Oxy. IV vel IX. 24 - Please return on completion of work to Dr. W.E.H. Cockle, Dept of Greek. U.C.L."
+Collector
+Egypt Exploration Fund
+Publications
+- Cockle, Walter, Restoring and conserving papyri
+Production Period
+ Ptolemaic Period
+Material
+cartonnage
+Accession Number
+LDUCE-UC80633i-ii
+Administration Name
+Petrie Museum of Egyptian Archaeology
+images: ['../../Content/Css/Themes/ucl/Images/favicon.ico', '//cdn.ucl.ac.uk/img/35x35xsoundcloud.png.pagespeed.ic.BdtBaqtDmd.jpg', '//cdn.ucl.ac.uk/indigo/images/ucl-logo.svg', '//cdn.ucl.ac.uk/skins/UCLIndigoSkin/default-theme/images/edit.gif', '/Content/Images/flags/flag_denmark.png', '/Content/Images/flags/flag_france.png']
+

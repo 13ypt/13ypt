@@ -1,0 +1,6 @@
+irn => 41239
+SummaryData => "NM52.406.1; Mummified animal; Mummified foetal crocodile; Late Period to Roman Period (712 BC - 364 AD); Egypt"
+PhyMedium => "mummified animal remains, linen"
+AccAccessionLotRef => 9548
+DesPhysicalDescription => "Mummified baby crocodile. The crocodile is desiccated from the mummification process and appears black in colour. The eyes are missing, leaving empty sockets. Several teeth are visible on the proper left side of the jaw. The area from the neck down to the top of the tail has been covered in a narro
+NotNotes => null

@@ -1,0 +1,75 @@
+{
+ "crocodile (all departments)": [
+  653,
+  [
+   552246,
+   570752
+  ]
+ ],
+ "crocodile mummy": [
+  7,
+  [
+   552246,
+   570752
+  ]
+ ],
+ "mummified crocodile": [
+  3,
+  [
+   552246,
+   570752
+  ]
+ ],
+ "Sobek": [
+  24,
+  [
+   552246
+  ]
+ ],
+ "Crocodylus": [
+  1,
+  []
+ ],
+ "Souchos": [
+  0,
+  []
+ ],
+ "departmentId=10 crocodile": [
+  128,
+  [
+   552246,
+   570752
+  ]
+ ],
+ "departmentId=10 Sobek": [
+  24,
+  [
+   552246
+  ]
+ ],
+ "departmentId=10 animal mummy": [
+  76,
+  [
+   570752,
+   552246
+  ]
+ ],
+ "departmentId=10 crocodile mummy": [
+  6,
+  [
+   552246,
+   570752
+  ]
+ ],
+ "departmentId=10 Fayum crocodile": [
+  3,
+  [
+   552246
+  ]
+ ],
+ "departmentId=10 Kom Ombo": [
+  0,
+  []
+ ]
+}
+candidates: [552246, 570752]

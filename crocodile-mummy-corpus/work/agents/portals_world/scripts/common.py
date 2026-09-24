@@ -16,8 +16,9 @@ AGENT = "portals_world"
 HERE = os.path.dirname(os.path.abspath(__file__))
 AGENT_DIR = os.path.dirname(HERE)
 RAW = os.path.join(AGENT_DIR, "raw")
-PROJECT = os.path.dirname(os.path.dirname(os.path.dirname(AGENT_DIR)))  # /home/user/13ypt
-REC = os.path.join(PROJECT, "crocodile-mummy-corpus", "scripts", "rec.py")
+CORPUS = os.path.dirname(os.path.dirname(os.path.dirname(AGENT_DIR)))  # .../crocodile-mummy-corpus
+PROJECT = os.path.dirname(CORPUS)  # /home/user/13ypt
+REC = os.path.join(CORPUS, "scripts", "rec.py")
 
 UA = "Mozilla/5.0 (research survey of museum crocodile mummies; contact via Claude Code agent)"
 

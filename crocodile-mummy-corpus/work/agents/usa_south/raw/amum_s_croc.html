@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>PastPerfect</title>
+        <link rel="icon" href="/favicon.svg" sizes="any" type="image/svg+xml">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="/bundles/styles?v=sub-b-aE909vLNNxDjTVie8QsxCBGGC6_ps6-kzrFjA1" />
+        <link rel="stylesheet" href="https://amum.catalogaccess.com/api/appearance/css" />
+        <script type="text/javascript">
+            var CLIENT_ROUTES = {"Home":"home","Search":"search","AdvancedSearch":"advanced-search","RandomImages":"random-images","Images":"images","Archives":"archives","Library":"library","Objects":"objects","Photos":"photos","Exhibits":"exhibits","People":"people","Containers":"containers","SearchTerms":"search-terms","Sites":"sites","NotFound":"not-found","Authorization":"authorization"};
+        </script>
+        <link rel="stylesheet" href="https://use.typekit.net/jps7qpo.css">
+    </head>
+    <body class="d-flex flex-column min-vh-100">
+        
+<div class="privacy-container" data-bind="visible: !app.isPrivacyAccepted()" style="display: none" role="region" aria-label="cookie consent banner">
+    <p>
+        We use cookies on our website to improve your experience. By continuing to enjoy our site, you are agreeing to our use of cookies.
+    </p>
+    <button class="btn btn-outline-primary agree-btn" data-bind="click: app.acceptCookies">I agree</button>
+</div>
+        <a class="visually-hidden-focusable skipnav" href="#content-body">Skip to main content</a>
+        <header>
+            <div class="container"><img alt="" src="https://s3.amazonaws.com/ppwebassets/release/42197/0d751b3f-08ec-4b40-8737-00e2d045a0d4.png" style="float:left" />
+<div class="name"><a href="https://www.memphis.edu/amum/">ART MUSEUM OF THE UNIVERSITY OF MEMPHIS</a></div>
+</div>
+        </header>
+        <div data-bind="css: { 'container': app.isSideNav() }">
+            <div data-bind="css: { 'row': app.isSideNav() }">
+                <!-- ko with: navigationViewModel -->
+                <div id="navigation" data-bind="css: { 'col-sm-12': app.isSideNav(), 'col-lg-2': app.isSideNav() }">
+                    <nav class="navbar navbar-expand-lg main-nav" id="main-navigation-menu" role="navigation" aria-label="Main">
+    <div class="container-fluid">
+        <button class="navbar-toggler ms-auto m-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#main-menu" aria-controls="main-menu-navbar" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="offcanvas offcanvas-end" tabindex="-1" id="main-menu">
+            <div class="offcanvas-header">
+                <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <ul class="navbar-nav justify-content-center flex-grow-1">
+                    <li class="nav-item" id="home-link">
+                        <a class="nav-link" data-bs-dismiss="offcanvas" href="https://amum.catalogaccess.com/home" data-bind="click: app.router.triggerNavigation,
+                            attr: { 'aria-current': app.router.isActiveNavItem('/home')() || app.router.isActiveNavItem('/')() ? 'page' : null }">Home</a>
+                    </li>
+                        <li class="nav-item" id="search-link">
+                            <a class="nav-link" href="https://amum.catalogaccess.com/search" data-bs-dismiss="offcanvas" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/search')() ? 'page' : null }">Keyword Search</a>
+                        </li>
+                                            <li class="nav-item" id="advanced-search-link">
+                            <a class="nav-link" href="https://amum.catalogaccess.com/advanced-search" data-bs-dismiss="offcanvas" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/advanced-search')() ? 'page' : null }">Advanced Search</a>
+                        </li>
+                                            <li class="nav-item" id="images-link">
+                            <a class="nav-link" data-bs-dismiss="offcanvas" href="https://amum.catalogaccess.com/random-images" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/random-images')() ? 'page' : null }">Random Images</a>
+                        </li>
+                                                                                    <li class="nav-item" id="objects-link">
+                            <a class="nav-link" data-bs-dismiss="offcanvas" href="https://amum.catalogaccess.com/objects" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/objects')() ? 'page' : null }">Objects</a>
+                        </li>
+                                                                <li class="nav-item" id="exhibits-link">
+                            <a class="nav-link" data-bs-dismiss="offcanvas" href="https://amum.catalogaccess.com/exhibits" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/exhibits')() ? 'page' : null }">Exhibits</a>
+                        </li>
+                                            <li class="nav-item" id="people-link">
+                            <a class="nav-link" data-bs-dismiss="offcanvas" href="https://amum.catalogaccess.com/people" data-bind="click: app.router.triggerNavigation,
+                                attr: { 'aria-current': app.router.isActiveNavItem('/people')() ? 'page' : null }">People</a>
+                        </li>
+                                            <li class="nav-item" id="custom-link"><a class="nav-link" target="_blank" href="https://www.memphis.edu/amum/">AMUM Home</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</nav>
+                </div>
+                <!-- /ko -->
+                <main id="content-body" class="" data-bind="css: { 'col-sm-12': app.isSideNav(), 'col-lg-10': app.isSideNav() }">
+                    
+                    <div id="page-loader" data-bind="visible: isLoading">
+                        <div class="page-loader">
+    <div class="spinner">
+        <div class="rect1"></div>
+        <div class="rect2"></div>
+        <div class="rect3"></div>
+        <div class="rect4"></div>
+        <div class="rect5"></div>
+    </div>
+</div>
+
+
+                    </div>
+                    <!-- ko with: currentViewModel -->
+                    <div data-bind="template: { name: templateId, data: $data }, css: { 'container': !app.isSideNav() }, visible: !$parent.isLoading()">
+                    </div>
+                    <!-- /ko -->
+                </main>
+            </div>
+        </div>
+        <footer class="mt-auto" data-bind="css: { 'cookie-banner-visible': !app.isPrivacyAccepted() }">
+            <div class="container">
+                <div style="text-align:center"><a href="https://www.memphis.edu/amum/">Art Museum of the University of Memphis</a><br />
+142 Communication &amp; Fine Arts Building,&nbsp;Memphis, Tennessee 38152</div>
+
+            </div>
+        </footer>
+
+        <div id="page-templates"></div>
+
+        <a href="https://amum.catalogaccess.com/home-page-trap-url" style="display:none">Visit home page</a>
+        <script type="text/javascript" src="/bundles/libs?v=6o9Wg1d5gDZBvDyUg5tmLKD0qdh0chxWTa4AvV5oX3g1"></script>
+        <script async type="text/javascript" src="/bundles/app?v=RZ0tJpVmTO8XUg65dgeQ5LvXWsm2TjSZZ7b7oBQuhtk1"></script>
+        
+        <script async type="text/javascript">
+                
+        </script>
+
+        <template id="text-input-component">
+    <span class="input-container" data-bind="validationOptions: validationOptions">
+        <input class="form-control validation-input" data-bind="value: value, attr: { 'readonly': isDisabled, 'id': id, 'type': inputType, 'autocomplete': autocomplete, 'required': isFieldRequired ? 'required' : null, 'tabindex': tabindex, 'aria-invalid': String(isErrorShowing()), 'aria-describedby': ariaDescribedBy, name: inputName  }, event: { input: onInput, focusout: onLostFocus }, valueUpdate: valueUpdate" />
+        <!-- ko if: isErrorShowing() -->
+        <span class="validation-message" data-bind="validationMessage: value, attr: { 'id': errorId }"></span>
+        <!-- /ko -->
+    </span>
+</template>
+        <template id="search-control-component">
+    <div data-bind="css: containerClass, validationOptions: validationOptions">
+        <!-- ko if: icon -->
+        <span class="search-control-icon" aria-hidden="true"><i  data-bind="css: icon"></i></span>
+        <!-- /ko -->
+        <input type="text"
+               data-bind="value: searchString,
+                          valueUpdate: valueUpdate,
+                          event: { keypress: onEnterPress },
+                          enable: enable,
+                          css: inputClass,
+                          attr: { id, title, placeholder, 'aria-label': ariaLabel, 'aria-describedby': ariaDescribedBy }" />
+
+        <!-- ko if: isNotEmpty -->
+        <button class="btn-close"
+                type="reset"
+                title="Clear the search criteria"
+                data-bind="attr: {'aria-label': 'Clear the search criteria'}, 
+                           click: clear, 
+                           enable: enable">
+        </button>
+        <!-- /ko -->
+    </div>
+
+    <span class="validation-message" data-bind="validationMessage: searchString"></span>
+</template>
+        <template id="async-action-button-component">
+    <button type="button" data-bind="verifiedSubmit: click, modelToValidate: modelToValidate, errorElementSelector: errorElementSelector, enable: !isInProgress(), css: buttonClass, visible: visible">
+        <span data-bind="css: spinnerClass, visible: isInProgress" aria-hidden="true"></span>
+        <span data-bind="text: text, attr: { role: role } "></span>
+    </button>
+</template>
+    </body>
+</html>

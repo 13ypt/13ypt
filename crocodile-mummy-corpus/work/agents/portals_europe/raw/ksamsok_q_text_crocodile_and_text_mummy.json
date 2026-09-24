@@ -1,0 +1,316 @@
+{
+"query": "text=\"crocodile\" AND text=\"mummy\"",
+"total": 31,
+"items": [
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015895",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "fragment, crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 30865",
+"type": "Föremål",
+"desc": [
+"MM 30865"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011830",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, krokodil, mumie",
+"idLabel": "MME 1961:263",
+"type": "Föremål",
+"desc": [
+"MME 1961:263"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3015891",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, fragment, krokodil, mumie",
+"idLabel": "MM 18414, MME 1961:263",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile without head."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011859",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, mumie, krokodil",
+"idLabel": "S.N. E 0064",
+"type": "Föremål",
+"desc": [
+"S.N. E 0064"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011834",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "NME 799",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011847",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, krokodil, mumie",
+"idLabel": "NME 796",
+"type": "Föremål",
+"desc": [
+"A bunch of young crocodiles wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011846",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, head, mumie, krokodil, huvud",
+"idLabel": "MM 18415, MME 1961:264",
+"type": "Föremål",
+"desc": [
+"Mummified head of a baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011831",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "NME 797",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016279",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18410, MME 1961:259, 4.6",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011856",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 10133",
+"type": "Föremål",
+"desc": [
+"Mummified and wrapped. Baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016255",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 19240, 4.7",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Without linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016257",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18411, MME 1961:260, 4.10",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016256",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18413, MME 1961:262, 4.8",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016260",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18408, MME 1961:257, 4.1",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016258",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MM 18412, MME 1961:261, 4.9",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011845",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, fragment, crocodile, mumie, krokodil",
+"idLabel": "MM 18406, MME 1961:255",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile wrapped in linen."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011857",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MM 10134",
+"type": "Föremål",
+"desc": [
+"Mummified and wrapped. Baby crocodile."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016259",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 18407, MME 1961:256, 4.3",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Unwrapped."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016261",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MM 18409, MME 1961:258, 4.2",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile without linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016254",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "crocodile, mummy, mumie, krokodil",
+"idLabel": "MME 1977:002, 4.12",
+"type": "Föremål",
+"desc": [
+"Mummified baby crocodile without linen wraps."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016262",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 30721, 4.5",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Three splints made of palmleaves and linen wrappings."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016263",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, mumie, krokodil",
+"idLabel": "MM 30810, 4.4",
+"type": "Föremål",
+"desc": [
+"A mummified baby crocodile. Two splints made of palm leaves and linen wrappings. The head is loose."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011850",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "linen, linne",
+"idLabel": "MME 1983:013 B",
+"type": "Föremål",
+"desc": [
+"Linen for crocodile mummy"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016253",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, crocodile, krokodil, mumie",
+"idLabel": "MME 1983:013 A, 4.11",
+"type": "Föremål",
+"desc": [
+"Mummified crocodile baby."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3011832",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "mummy, snake, mumie, orm",
+"idLabel": "NME 793, 12",
+"type": "Föremål",
+"desc": [
+"Mummy package with a snake inside."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016278",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "textile, wrapping, mummy, fragment, textil, mumie, inlindning",
+"idLabel": "MM 18398, MME 1961:247, S.N. E 0179",
+"type": "Föremål",
+"desc": [
+"Mummy linen with pictures and text from the Book of the Dead, chapter 149 and 150. A ”htp-di nsw”-prayer for the owner.\nText and pictures in black, red and yellow.\nThe name of the owner could be for both a man or a woman."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/arkiv/4340867",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "loan document, lånehandling",
+"idLabel": "000011",
+"type": "Dokument",
+"desc": [
+"Medelhavsmuseet\n\nSida 1\n\nId Namn &lt;Dataelement&gt; /\nMATNAM /\nMaterial\n\nTumnagel\n\nMM 10007 Offering table Diorite, Stone\n\nMM 10023 Female, Relief,\nSketch\n\nLimestone,\nStone\n\nMM 10032 Mace, Weapon Limestone,\nStone\n\nMM 10040 Axe, Tool,\nWeapon\n\nFlint, Stone\n\nMM 10056 Mortar, Pestle,\nStone vessel\n\nBasa"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3008370",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "scarab, skarabé",
+"idLabel": "MME 1975:066",
+"type": "Föremål",
+"desc": [
+"Scarab, crudely worked head. Vague incised lines separating elytra from prothorax. Crudely worked legs. Incised standing man holding two crocodiles, one in each hand. Threading hole running lengthwise through the piece."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016064",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "coffin, cartonnage, kista, kartonnage",
+"idLabel": "NME 002, NME 2; SHM 546, 30.2",
+"type": "Föremål",
+"desc": [
+"Cartonnage inner coffin for the mummy of a woman called Isisirdis, lady of the house, daughter of Tjaamunu. The texts on the coffin says that she was the daughter of a brewer and that she was married.\nAnthropoid inner bivalve coffin, representing the deceased wearing a tripartite wig, with a fillet,"
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3007192",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "scarab, skarabé",
+"idLabel": "MM 11287, E1287, G-A 1930I:36, Gayer-Anderson Coll.",
+"type": "Föremål",
+"desc": [
+"Scarab, detailed clypeus, head with eyes. Prothorax and elytra separated by incised line. The latter divided by incised line. Feathered front legs, the remaining pairs crude. The underside has two deeply incised crocodiles. Hieroglyphs for jtj, ruler."
+]
+},
+{
+"uri": "http://kulturarvsdata.se/SMVK-MM/objekt/3016068",
+"org": "Statens museer för världskultur - Medelhavsmuseet",
+"label": "coffin, mumiekista, kista",
+"idLabel": "MME 1980:002, 29",
+"type": "Föremål",
+"desc": [
+"Mummy coffin for the man Hapimen.\nAnthropoid coffin, decorated in polychrome, representing the deceased wearing a tripartite wig, a plaited ‘divine’ beard, and with a broad collar, with solar raptor terminals upon its chest. The face and beard are coloured green, which is also used extensively in th"
+]
+}
+]
+}

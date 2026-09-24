@@ -1,1 +1,11 @@
 alias,country,canonical,canonical_city,canonical_country,reason
+"Kunsthistorisches Museum Vienna, Egyptian and Near Eastern Collection",AT,Kunsthistorisches Museum Vienna,Vienna,,department of same institution
+Egyptian Museum,EG,"Egyptian Museum, Cairo",Cairo,,same institution (Tahrir)
+"Muséum national d'Histoire naturelle (MNHN), Reptiles & Amphibians collection",FR,Muséum national d'Histoire naturelle (MNHN),Paris,,collection of same institution
+Auckland War Memorial Museum Tāmaki Paenga Hira,NZ,Auckland War Memorial Museum,Auckland,,same institution
+"Phoebe A. Hearst Museum of Anthropology, University of California, Berkeley",US,Phoebe A. Hearst Museum of Anthropology,Berkeley,,same institution
+"Petrie Museum of Egyptian Archaeology, University College London",GB,"Petrie Museum of Egyptian Archaeology, UCL",London,,same institution
+Smithsonian National Museum of Natural History,US,"National Museum of Natural History, Smithsonian Institution","Washington, DC",,same institution
+"Dresden State Art Collections – Sculpture Collection",DE,"Staatliche Kunstsammlungen Dresden, Skulpturensammlung",Dresden,,English/German name of same institution
+State Museum of Egyptian Art Munich,DE,Staatliches Museum Ägyptischer Kunst,München,,English/German name of same institution
+"Manchester Museum, University of Manchester",GB,Manchester Museum,Manchester,,same institution

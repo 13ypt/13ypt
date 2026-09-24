@@ -1,0 +1,1397 @@
+{
+ "CMA": {
+  "crocodile": {
+   "total": 43,
+   "retrieved": 43,
+   "mumm+croc": [
+    {
+     "id": 144280,
+     "accession_number": "1969.118",
+     "title": "Apis Bull",
+     "type": "Sculpture",
+     "culture": [
+      "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+     ],
+     "url": "https://clevelandart.org/art/1969.118"
+    }
+   ],
+   "egyptian_dept_hits": [
+    {
+     "accession_number": "1969.118",
+     "title": "Apis Bull"
+    }
+   ]
+  },
+  "crocodile mummy": {
+   "total": 0,
+   "retrieved": 0,
+   "mumm+croc": [],
+   "egyptian_dept_hits": []
+  },
+  "mummified crocodile": {
+   "total": 1,
+   "retrieved": 1,
+   "mumm+croc": [
+    {
+     "id": 144280,
+     "accession_number": "1969.118",
+     "title": "Apis Bull",
+     "type": "Sculpture",
+     "culture": [
+      "Egypt, Greco-Roman period (332 BCE–395 CE), Ptolemaic dynasty (305–30 BCE)"
+     ],
+     "url": "https://clevelandart.org/art/1969.118"
+    }
+   ],
+   "egyptian_dept_hits": [
+    {
+     "accession_number": "1969.118",
+     "title": "Apis Bull"
+    }
+   ]
+  },
+  "Sobek": {
+   "total": 0,
+   "retrieved": 0,
+   "mumm+croc": [],
+   "egyptian_dept_hits": []
+  },
+  "animal mummy": {
+   "total": 0,
+   "retrieved": 0,
+   "mumm+croc": [],
+   "egyptian_dept_hits": []
+  },
+  "mummy": {
+   "total": 58,
+   "retrieved": 58,
+   "mumm+croc": [],
+   "egyptian_dept_hits": [
+    {
+     "accession_number": "1914.715",
+     "title": "Cartonnage Mummy Case "
+    },
+    {
+     "accession_number": "1914.561",
+     "title": "Coffin of Bakenmut"
+    },
+    {
+     "accession_number": "1914.561.b",
+     "title": "Coffin of Bakenmut (lid)"
+    },
+    {
+     "accession_number": "1914.561.a",
+     "title": "Coffin of Bakenmut"
+    },
+    {
+     "accession_number": "1914.714.b",
+     "title": "Coffin of Nesykhonsu (lid)"
+    },
+    {
+     "accession_number": "1971.136",
+     "title": "Funerary Portrait of a Woman"
+    },
+    {
+     "accession_number": "1914.731",
+     "title": "Mummy Mask of Senbi"
+    },
+    {
+     "accession_number": "1914.699.b",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.703",
+     "title": "Mummy Band"
+    },
+    {
+     "accession_number": "1914.716.b",
+     "title": "Coffin of Senbi (Lid)"
+    },
+    {
+     "accession_number": "1914.699.d",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.699.a",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.699.c",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.699",
+     "title": "Mummy Band"
+    },
+    {
+     "accession_number": "1914.799",
+     "title": "String of Mummy Beads"
+    },
+    {
+     "accession_number": "1914.703.d",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.810",
+     "title": "Model Mummy"
+    },
+    {
+     "accession_number": "1914.703.b",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.703.a",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.703.c",
+     "title": "Tab from Mummy Band"
+    },
+    {
+     "accession_number": "1914.716.a",
+     "title": "Coffin of Senbi"
+    },
+    {
+     "accession_number": "1914.716",
+     "title": "Coffin of Senbi"
+    },
+    {
+     "accession_number": "1921.1029",
+     "title": "Side Panel from the Coffin of Amenemope"
+    },
+    {
+     "accession_number": "1921.1030",
+     "title": "Heart Scarab of Nefer"
+    }
+   ]
+  }
+ },
+ "AIC": {
+  "crocodile": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1894.260",
+     "title": "Statuette of Sobek"
+    },
+    {
+     "ref": "1894.934",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1893.11",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.147",
+     "title": "Amulet of the Goddess Taweret (Thoeris)"
+    },
+    {
+     "ref": "1892.83",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.893",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.830",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.890",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.946",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.1394",
+     "title": "Scarab: Sobekhotep"
+    },
+    {
+     "ref": "1892.218",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.1905",
+     "title": "Scaraboid: Crocodile"
+    },
+    {
+     "ref": "1892.56",
+     "title": "Fragment of a Taweret Amulet"
+    },
+    {
+     "ref": "1892.25",
+     "title": "Ring with a Scarab Bezel"
+    },
+    {
+     "ref": "1894.180",
+     "title": "Funerary Papyrus of Tayuhenutmut"
+    },
+    {
+     "ref": "1895.607",
+     "title": "Fragment"
+    },
+    {
+     "ref": "1923.1192",
+     "title": "Coin Depicting the God Zeus"
+    },
+    {
+     "ref": "1892.27",
+     "title": "Amulet of the Goddess Isis Nursing the God Horus"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1920.262",
+     "title": "Stela of Amenemhat and Hemet"
+    },
+    {
+     "ref": "1894.923",
+     "title": "Earring"
+    },
+    {
+     "ref": "1892.174",
+     "title": "Amulet of the Goddess Nephthys"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1892.170",
+     "title": "Inlay Depicting the Face of a King"
+    },
+    {
+     "ref": "1892.171",
+     "title": "Scarab Amulet"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    },
+    {
+     "ref": "82.1972",
+     "title": "Life Study (Study of an Egyptian Girl)"
+    }
+   ]
+  },
+  "crocodile mummy": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1910.220",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1892.38a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "2002.542",
+     "title": "Statue of Ptah-Sokar-Osiris"
+    },
+    {
+     "ref": "1892.37a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1892.36a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1892.39a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1893.15",
+     "title": "Mummified Man"
+    },
+    {
+     "ref": "1893.80",
+     "title": "Amulet of a Falcon-Headed God"
+    },
+    {
+     "ref": "1892.28",
+     "title": "Shabti (Funerary Figurine) of Nebseni"
+    },
+    {
+     "ref": "1894.967",
+     "title": "Bead Net Funerary Shroud"
+    },
+    {
+     "ref": "1893.14a-b",
+     "title": "Coffin of Wenuhotep"
+    },
+    {
+     "ref": "1910.222",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1893.78",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.260",
+     "title": "Statuette of Sobek"
+    },
+    {
+     "ref": "1892.232",
+     "title": "Head From a Shabti (Funerary Figurine) of Queen Tiye"
+    },
+    {
+     "ref": "1910.244",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1893.79",
+     "title": "Amulet of a Jackal-Headed God"
+    },
+    {
+     "ref": "1892.187",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.76",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.77",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.142",
+     "title": "Amulet of Imsety, One of the Four Sons of Horus"
+    },
+    {
+     "ref": "1893.82",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.188",
+     "title": "Amulet of the God Hapy (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.934",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.1942",
+     "title": "Ushabti of Hor"
+    },
+    {
+     "ref": "1946.184",
+     "title": "Fragment of a Funerary Shroud"
+    },
+    {
+     "ref": "1893.11",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1892.186",
+     "title": "Amulet of the God Duamutef (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.147",
+     "title": "Amulet of the Goddess Taweret (Thoeris)"
+    },
+    {
+     "ref": "1894.679",
+     "title": "Shabti of the Singer of Amun Inhai"
+    },
+    {
+     "ref": "1894.360a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.618",
+     "title": "Shabti of Queen Henuttawy"
+    },
+    {
+     "ref": "1909.152.1-70",
+     "title": "Seventy Mummy Wrapping Fragments"
+    },
+    {
+     "ref": "1892.83",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.361a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.1149",
+     "title": "Shabti (Funerary Figurine) of Mayat"
+    },
+    {
+     "ref": "1894.268",
+     "title": "Shabti of Pinudjem II"
+    },
+    {
+     "ref": "1894.141",
+     "title": "Amulet of a Mummy Lying on a Bier"
+    },
+    {
+     "ref": "1894.893",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1967.570",
+     "title": "Shabti"
+    },
+    {
+     "ref": "1920.264",
+     "title": "Stela (Commemorative Stone) Depicting the Funeral of Ramose"
+    },
+    {
+     "ref": "1894.230",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.293",
+     "title": "Shabti of Tantowy"
+    },
+    {
+     "ref": "1894.968a-g",
+     "title": "Bead Net Funerary Shroud with Amulets"
+    },
+    {
+     "ref": "1894.830",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.660",
+     "title": "Shabti"
+    },
+    {
+     "ref": "1894.890",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.303",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "1894.228",
+     "title": "Shabti of Padipepet"
+    },
+    {
+     "ref": "1893.30",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.289",
+     "title": "Shabti of Ankhefenkhonsu"
+    },
+    {
+     "ref": "1894.304",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "X99",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.225",
+     "title": "Amulet of the Osirian Triad (Nephthys, Horus, and Isis)"
+    },
+    {
+     "ref": "X100",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1894.1394",
+     "title": "Scarab: Sobekhotep"
+    },
+    {
+     "ref": "1894.946",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1892.218",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.1905",
+     "title": "Scaraboid: Crocodile"
+    },
+    {
+     "ref": "1892.56",
+     "title": "Fragment of a Taweret Amulet"
+    },
+    {
+     "ref": "1894.777",
+     "title": "Shabti of the Supreme Chief of the ḫnr.t of Amun Nesikhonsu"
+    },
+    {
+     "ref": "1892.25",
+     "title": "Ring with a Scarab Bezel"
+    },
+    {
+     "ref": "1894.180",
+     "title": "Funerary Papyrus of Tayuhenutmut"
+    },
+    {
+     "ref": "1895.607",
+     "title": "Fragment"
+    },
+    {
+     "ref": "1923.1192",
+     "title": "Coin Depicting the God Zeus"
+    },
+    {
+     "ref": "1892.27",
+     "title": "Amulet of the Goddess Isis Nursing the God Horus"
+    },
+    {
+     "ref": "1920.262",
+     "title": "Stela of Amenemhat and Hemet"
+    },
+    {
+     "ref": "1894.923",
+     "title": "Earring"
+    },
+    {
+     "ref": "1892.174",
+     "title": "Amulet of the Goddess Nephthys"
+    },
+    {
+     "ref": "1892.170",
+     "title": "Inlay Depicting the Face of a King"
+    },
+    {
+     "ref": "1892.171",
+     "title": "Scarab Amulet"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    }
+   ]
+  },
+  "mummified crocodile": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1893.15",
+     "title": "Mummified Man"
+    },
+    {
+     "ref": "1894.260",
+     "title": "Statuette of Sobek"
+    },
+    {
+     "ref": "1893.19",
+     "title": "Box for a Mummified Animal with Cobra Figure"
+    },
+    {
+     "ref": "1894.934",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1892.159",
+     "title": "Box for a Mummified Animal with Snake Figure"
+    },
+    {
+     "ref": "1893.11",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.147",
+     "title": "Amulet of the Goddess Taweret (Thoeris)"
+    },
+    {
+     "ref": "1892.83",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.893",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.830",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.890",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.946",
+     "title": "Amulet of a Crocodile"
+    },
+    {
+     "ref": "1894.1394",
+     "title": "Scarab: Sobekhotep"
+    },
+    {
+     "ref": "1892.218",
+     "title": "Taweret Amulet"
+    },
+    {
+     "ref": "1894.1905",
+     "title": "Scaraboid: Crocodile"
+    },
+    {
+     "ref": "1892.56",
+     "title": "Fragment of a Taweret Amulet"
+    },
+    {
+     "ref": "1892.25",
+     "title": "Ring with a Scarab Bezel"
+    },
+    {
+     "ref": "1894.180",
+     "title": "Funerary Papyrus of Tayuhenutmut"
+    },
+    {
+     "ref": "1895.607",
+     "title": "Fragment"
+    },
+    {
+     "ref": "1923.1192",
+     "title": "Coin Depicting the God Zeus"
+    },
+    {
+     "ref": "1892.27",
+     "title": "Amulet of the Goddess Isis Nursing the God Horus"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1920.262",
+     "title": "Stela of Amenemhat and Hemet"
+    },
+    {
+     "ref": "1894.923",
+     "title": "Earring"
+    },
+    {
+     "ref": "1892.174",
+     "title": "Amulet of the Goddess Nephthys"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1892.170",
+     "title": "Inlay Depicting the Face of a King"
+    },
+    {
+     "ref": "1892.171",
+     "title": "Scarab Amulet"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    },
+    {
+     "ref": "82.1972",
+     "title": "Life Study (Study of an Egyptian Girl)"
+    }
+   ]
+  },
+  "Sobek": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1894.260",
+     "title": "Statuette of Sobek"
+    },
+    {
+     "ref": "1892.25",
+     "title": "Ring with a Scarab Bezel"
+    },
+    {
+     "ref": "1894.180",
+     "title": "Funerary Papyrus of Tayuhenutmut"
+    },
+    {
+     "ref": "1895.607",
+     "title": "Fragment"
+    },
+    {
+     "ref": "1923.1192",
+     "title": "Coin Depicting the God Zeus"
+    },
+    {
+     "ref": "1892.27",
+     "title": "Amulet of the Goddess Isis Nursing the God Horus"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1920.262",
+     "title": "Stela of Amenemhat and Hemet"
+    },
+    {
+     "ref": "1894.923",
+     "title": "Earring"
+    },
+    {
+     "ref": "1892.174",
+     "title": "Amulet of the Goddess Nephthys"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1892.170",
+     "title": "Inlay Depicting the Face of a King"
+    },
+    {
+     "ref": "1892.171",
+     "title": "Scarab Amulet"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    },
+    {
+     "ref": "82.1972",
+     "title": "Life Study (Study of an Egyptian Girl)"
+    }
+   ]
+  },
+  "animal mummy": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1910.220",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1892.38a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "2002.542",
+     "title": "Statue of Ptah-Sokar-Osiris"
+    },
+    {
+     "ref": "1893.80",
+     "title": "Amulet of a Falcon-Headed God"
+    },
+    {
+     "ref": "1892.37a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1892.36a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1892.39a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1893.79",
+     "title": "Amulet of a Jackal-Headed God"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1893.15",
+     "title": "Mummified Man"
+    },
+    {
+     "ref": "1893.82",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.28",
+     "title": "Shabti (Funerary Figurine) of Nebseni"
+    },
+    {
+     "ref": "1894.967",
+     "title": "Bead Net Funerary Shroud"
+    },
+    {
+     "ref": "1893.14a-b",
+     "title": "Coffin of Wenuhotep"
+    },
+    {
+     "ref": "1910.222",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1893.78",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1892.232",
+     "title": "Head From a Shabti (Funerary Figurine) of Queen Tiye"
+    },
+    {
+     "ref": "1910.244",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    },
+    {
+     "ref": "1892.187",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.76",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.77",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.142",
+     "title": "Amulet of Imsety, One of the Four Sons of Horus"
+    },
+    {
+     "ref": "1920.256",
+     "title": "Plaque Depicting a Quail Chick"
+    },
+    {
+     "ref": "1895.600",
+     "title": "Roundel Fragment"
+    },
+    {
+     "ref": "1892.188",
+     "title": "Amulet of the God Hapy (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.1942",
+     "title": "Ushabti of Hor"
+    },
+    {
+     "ref": "1946.184",
+     "title": "Fragment of a Funerary Shroud"
+    },
+    {
+     "ref": "1894.610",
+     "title": "Cosmetic Saucer Decorated with Swans"
+    },
+    {
+     "ref": "1892.186",
+     "title": "Amulet of the God Duamutef (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1922.4800",
+     "title": "Cat Coffin"
+    },
+    {
+     "ref": "1894.679",
+     "title": "Shabti of the Singer of Amun Inhai"
+    },
+    {
+     "ref": "1920.254",
+     "title": "Double-sided Plaque Depicting a Lion and Birds"
+    },
+    {
+     "ref": "1894.360a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.618",
+     "title": "Shabti of Queen Henuttawy"
+    },
+    {
+     "ref": "1909.152.1-70",
+     "title": "Seventy Mummy Wrapping Fragments"
+    },
+    {
+     "ref": "1920.253",
+     "title": "Trial Piece with Hieroglyphs"
+    },
+    {
+     "ref": "1920.251",
+     "title": "Plaque Depicting a Ram"
+    },
+    {
+     "ref": "1910.234",
+     "title": "Tomb Wall Fragment Depicting Donkeys"
+    },
+    {
+     "ref": "1894.361a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.1149",
+     "title": "Shabti (Funerary Figurine) of Mayat"
+    },
+    {
+     "ref": "1894.268",
+     "title": "Shabti of Pinudjem II"
+    },
+    {
+     "ref": "1892.58",
+     "title": "Amulet of Sekhmet"
+    },
+    {
+     "ref": "1894.141",
+     "title": "Amulet of a Mummy Lying on a Bier"
+    },
+    {
+     "ref": "1892.51",
+     "title": "Amulet of Sekhmet"
+    },
+    {
+     "ref": "1892.135",
+     "title": "Amulet of a Crouching Lion"
+    },
+    {
+     "ref": "1920.252",
+     "title": "Statuette of a Jackal"
+    },
+    {
+     "ref": "1967.570",
+     "title": "Shabti"
+    },
+    {
+     "ref": "X99",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1920.264",
+     "title": "Stela (Commemorative Stone) Depicting the Funeral of Ramose"
+    },
+    {
+     "ref": "1894.230",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.293",
+     "title": "Shabti of Tantowy"
+    },
+    {
+     "ref": "1894.968a-g",
+     "title": "Bead Net Funerary Shroud with Amulets"
+    },
+    {
+     "ref": "1894.837",
+     "title": "Amulet in the Shape of Two Mirror-Imaged Birds"
+    },
+    {
+     "ref": "1894.660",
+     "title": "Shabti"
+    },
+    {
+     "ref": "1893.49",
+     "title": "Amulet of a Hare"
+    },
+    {
+     "ref": "1910.161",
+     "title": "Ram Amulet"
+    },
+    {
+     "ref": "1893.19",
+     "title": "Box for a Mummified Animal with Cobra Figure"
+    },
+    {
+     "ref": "1894.303",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "1892.159",
+     "title": "Box for a Mummified Animal with Snake Figure"
+    },
+    {
+     "ref": "1892.85",
+     "title": "Amulet of the Goddess Bastet"
+    },
+    {
+     "ref": "1894.228",
+     "title": "Shabti of Padipepet"
+    },
+    {
+     "ref": "1894.846",
+     "title": "Scaraboid in the Form of a Hedgehog"
+    },
+    {
+     "ref": "1962.609",
+     "title": "Statuette of a Cat"
+    },
+    {
+     "ref": "1892.180",
+     "title": "Amulet of a Hare"
+    },
+    {
+     "ref": "1893.30",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.289",
+     "title": "Shabti of Ankhefenkhonsu"
+    },
+    {
+     "ref": "1894.367",
+     "title": "Amulet of a Double Animal: Lion and Bull"
+    },
+    {
+     "ref": "X397",
+     "title": "Two Beads or Amulets in the Form of Birds"
+    },
+    {
+     "ref": "X100",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.103",
+     "title": "Amulet of a Cow or Bull"
+    },
+    {
+     "ref": "1894.958",
+     "title": "Flying Bird"
+    },
+    {
+     "ref": "1894.304",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "1892.132",
+     "title": "Statuette of Wadjet or Sekhmet"
+    },
+    {
+     "ref": "1894.844",
+     "title": "Amulet of Two Back to Back Canine Heads"
+    }
+   ]
+  },
+  "mummy": {
+   "total": 133118,
+   "retrieved": 1000,
+   "mumm+croc": [],
+   "egypt_hits": [
+    {
+     "ref": "1910.220",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1910.221",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1892.38a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "2002.542",
+     "title": "Statue of Ptah-Sokar-Osiris"
+    },
+    {
+     "ref": "1892.37a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1892.36a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1891.47",
+     "title": "Shabti of Wahibreemakhet"
+    },
+    {
+     "ref": "1892.130",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1892.39a-b",
+     "title": "Canopic Jar of Amenhotep"
+    },
+    {
+     "ref": "1890.30",
+     "title": "Ushabti (Funerary Figurine) of Horudja"
+    },
+    {
+     "ref": "1893.15",
+     "title": "Mummified Man"
+    },
+    {
+     "ref": "1893.80",
+     "title": "Amulet of a Falcon-Headed God"
+    },
+    {
+     "ref": "1892.28",
+     "title": "Shabti (Funerary Figurine) of Nebseni"
+    },
+    {
+     "ref": "1894.967",
+     "title": "Bead Net Funerary Shroud"
+    },
+    {
+     "ref": "1893.14a-b",
+     "title": "Coffin of Wenuhotep"
+    },
+    {
+     "ref": "1910.222",
+     "title": "Funerary Mask"
+    },
+    {
+     "ref": "1893.78",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1892.232",
+     "title": "Head From a Shabti (Funerary Figurine) of Queen Tiye"
+    },
+    {
+     "ref": "1910.244",
+     "title": "Statuette of Osiris"
+    },
+    {
+     "ref": "1893.79",
+     "title": "Amulet of a Jackal-Headed God"
+    },
+    {
+     "ref": "1892.187",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.76",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1893.77",
+     "title": "Amulet of the God Imsety (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.142",
+     "title": "Amulet of Imsety, One of the Four Sons of Horus"
+    },
+    {
+     "ref": "1893.82",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.188",
+     "title": "Amulet of the God Hapy (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.1942",
+     "title": "Ushabti of Hor"
+    },
+    {
+     "ref": "1946.184",
+     "title": "Fragment of a Funerary Shroud"
+    },
+    {
+     "ref": "1892.186",
+     "title": "Amulet of the God Duamutef (one of the four Sons of Horus)"
+    },
+    {
+     "ref": "1894.679",
+     "title": "Shabti of the Singer of Amun Inhai"
+    },
+    {
+     "ref": "1894.360a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.618",
+     "title": "Shabti of Queen Henuttawy"
+    },
+    {
+     "ref": "1909.152.1-70",
+     "title": "Seventy Mummy Wrapping Fragments"
+    },
+    {
+     "ref": "1894.361a-b",
+     "title": "Canopic Jar"
+    },
+    {
+     "ref": "1894.1149",
+     "title": "Shabti (Funerary Figurine) of Mayat"
+    },
+    {
+     "ref": "1894.268",
+     "title": "Shabti of Pinudjem II"
+    },
+    {
+     "ref": "1894.141",
+     "title": "Amulet of a Mummy Lying on a Bier"
+    },
+    {
+     "ref": "1967.570",
+     "title": "Shabti"
+    },
+    {
+     "ref": "1920.264",
+     "title": "Stela (Commemorative Stone) Depicting the Funeral of Ramose"
+    },
+    {
+     "ref": "1894.230",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.293",
+     "title": "Shabti of Tantowy"
+    },
+    {
+     "ref": "1894.968a-g",
+     "title": "Bead Net Funerary Shroud with Amulets"
+    },
+    {
+     "ref": "1894.660",
+     "title": "Shabti"
+    },
+    {
+     "ref": "1894.303",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "1894.228",
+     "title": "Shabti of Padipepet"
+    },
+    {
+     "ref": "1893.30",
+     "title": "Shabti of Psamtek"
+    },
+    {
+     "ref": "1894.289",
+     "title": "Shabti of Ankhefenkhonsu"
+    },
+    {
+     "ref": "1894.304",
+     "title": "Shabti of Tjenet-ipet"
+    },
+    {
+     "ref": "X99",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1892.225",
+     "title": "Amulet of the Osirian Triad (Nephthys, Horus, and Isis)"
+    },
+    {
+     "ref": "X100",
+     "title": "Foundation Deposit: Bound Ox"
+    },
+    {
+     "ref": "1894.777",
+     "title": "Shabti of the Supreme Chief of the ḫnr.t of Amun Nesikhonsu"
+    },
+    {
+     "ref": "1892.25",
+     "title": "Ring with a Scarab Bezel"
+    },
+    {
+     "ref": "1894.180",
+     "title": "Funerary Papyrus of Tayuhenutmut"
+    },
+    {
+     "ref": "1895.607",
+     "title": "Fragment"
+    },
+    {
+     "ref": "1923.1192",
+     "title": "Coin Depicting the God Zeus"
+    },
+    {
+     "ref": "1892.27",
+     "title": "Amulet of the Goddess Isis Nursing the God Horus"
+    },
+    {
+     "ref": "1920.262",
+     "title": "Stela of Amenemhat and Hemet"
+    },
+    {
+     "ref": "1894.923",
+     "title": "Earring"
+    },
+    {
+     "ref": "1892.174",
+     "title": "Amulet of the Goddess Nephthys"
+    },
+    {
+     "ref": "1892.170",
+     "title": "Inlay Depicting the Face of a King"
+    },
+    {
+     "ref": "1892.171",
+     "title": "Scarab Amulet"
+    },
+    {
+     "ref": "2002.632",
+     "title": "Statue of Horus"
+    },
+    {
+     "ref": "82.1972",
+     "title": "Life Study (Study of an Egyptian Girl)"
+    }
+   ]
+  }
+ }
+}

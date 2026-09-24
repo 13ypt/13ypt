@@ -1,0 +1,219 @@
+{
+"query": "Tebtunis",
+"profile": "standard",
+"total": 9,
+"fetched": 9,
+"items": [
+{
+"id": "/08602/IL3000051873",
+"title": [
+"La R. missione archeologica italiana di Egitto scopre fra le rovine dell'antica Tebtunis nel Fayum il tempio del dio coccodrillo. Gennaio - aprile IX.. Scavi della missione archeologia italiana in Egitto (Gennaio-Aprile 1931 IX)",
+"The R. Italian archeological mission of Egypt discovers among the ruins of ancient Tebtunis in the Fayum the temple of the crocodile god January - April IX.. Excavations of the Italian Archaeology mission in Egypt (January-April 1931 IX)"
+],
+"dataProvider": "Cinecittà - Luce",
+"provider": "The European Film Gateway",
+"country": "Italy",
+"type": "VIDEO",
+"year": [
+"1931"
+],
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": null,
+"edmIsShownBy": "https://videocinecitta.bytewise.it/vod/archivioluce/MpegM300/M010602.mp4/manifest.mpd",
+"guid": "https://www.europeana.eu/item/08602/IL3000051873?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "08602_EFG_Instituto_Luce_Cinecitta",
+"desc": [
+"L'antica città di Tebtunis - case di abitazione greco-romane scoperte dalla missione inglese nel 900 - il ritrovamento dei ruderi del tempio al dio Coccodrillo: le case dei sacerdoti; la via processionale che conduce al santuario; le sale per i banchetti; il chiosco d'ingresso, di epoca Tolemaica; i",
+"1 - la bandiera tricolore sventola nel campo di scavo",
+"2 - gli archeologi italiani e alcune guardie egizie, in piedi sotto la bandiera italiana, salutano",
+"3 - veduta della parte della città scavata dalla missione inglese nel 1900: case di abitazione greco-romane",
+"4 - il prof. Anti (egiziano) dà istruzioni a 200 operai beduini seduti in terra di fronte a lui",
+"5 - gli operai si alzano ed iniziano a lavorare allo scavo delle case dei sacerdoti lungo il muro di cinta del tempio del dio coccodrillo",
+"6 - donne e bambini partecipano al lavoro di scavo",
+"7 - le donne trasportano la terra su delle ceste appoggiate sulla testa",
+"8 - le immagini scorrono sul lavoro di scavo",
+"9 - le fondamenta delle mura vengono alla luce",
+"10 - gli operai egiziani proseguono il lavoro di scavo",
+"11 - colonna di operai in fila per lo scarico della sabbia"
+]
+},
+{
+"id": "/1100/6657",
+"title": [
+"Donatio Mortis Causa & drafts of other contracts"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": [
+"164"
+],
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_105",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_105/800/0/MP105_22081.jpg",
+"guid": "https://www.europeana.eu/item/1100/6657?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Papyrus fragment containing traces of three Greek documents written in the second century AD in Tebtunis (Egypt). The first, written in large elaborate script is a 'donatio mortis causa', dated to 164 AD ('the fifth year of Imperator Caesar Marcus Aurelius Antonius Augustus and Imperator Caesar Luci"
+]
+},
+{
+"id": "/1100/6660",
+"title": [
+"Agreement with contractors"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_108",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_108/800/0/MP108_21993.jpg",
+"guid": "https://www.europeana.eu/item/1100/6660?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Papyrus fragment written in Greek in the Arsinoite nome (Egypt) in 69-79AD. The document appears to be an agreement between contractors from Tebtunis and Lycus, the manager and/or lessor of a bathhouse. It appears Lycus has leased it with partners and in these instances they were responsible for all"
+]
+},
+{
+"id": "/1100/6662",
+"title": [
+"Loan of money and barley"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": [
+"154"
+],
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_110",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_110/800/0/MP110_21981.jpg",
+"guid": "https://www.europeana.eu/item/1100/6662?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Papyrus fragment written in Greek at Tebtunis in 154 AD. The text preserves an acknowledgement by Pachnoubis to Thaubarion of a loan from her for forty drachmas and two artabas of barley. The subscription is written for Pachnoubis by Dionysios (a second hand).  The repayment of the corn was normally"
+]
+},
+{
+"id": "/1100/6691",
+"title": [
+"Receipts for weaving-tax"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_64",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_64/800/0/MP64_22057.jpg",
+"guid": "https://www.europeana.eu/item/1100/6691?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Papyrus fragment written in Greek in Tebtunis (Egypt) and dated to the 7th year of Trajan's reign (103-104 AD). The text preserves receipts for payment of weaving-tax extending over one year, issued by the farmers of sales-taxes of Tebtunis to Cronion. The payments (in tetradrachms?) of various amou"
+]
+},
+{
+"id": "/1100/6699",
+"title": [
+"Marriage contract (annulled)"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": [
+"162"
+],
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_72",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_72/800/0/MP72_22036.jpg",
+"guid": "https://www.europeana.eu/item/1100/6699?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": [
+"Papyrus fragment written in Greek in Tebtunis and dated to 162 AD. It preserves the beginning of a marriage contract (annulled); the other half is in the Biblioteca Medicea Laurenziana, Florence (PSI 10.116/BML inv. 18883). The text has been cancelled with oblique strokes of ink.\n\nTranslation (Rees,"
+]
+},
+{
+"id": "/199/item_GXEFZWQGWQRO7IXWA2KGSAQVFRMJ6BQJ",
+"title": [
+"Zeichnung"
+],
+"dataProvider": "German Documentation Center for Art History - Marburg Picture Index",
+"provider": "German Digital Library",
+"country": "Germany",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://rightsstatements.org/vocab/InC/1.0/"
+],
+"edmIsShownAt": "http://www.bildindex.de/document/obj20040140",
+"edmIsShownBy": "http://www.bildindex.de/bilder/d/ae00111b08",
+"guid": "https://www.europeana.eu/item/199/item_GXEFZWQGWQRO7IXWA2KGSAQVFRMJ6BQJ?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "199_DDB_BildarchivFotoMarburg",
+"desc": [
+"Status: Fragment",
+"Status: Fragment",
+"Status: Fragment"
+]
+},
+{
+"id": "/1100/3349",
+"title": [
+"Registration of Pakhes son of Paapis as a priest"
+],
+"dataProvider": "Chester Beatty",
+"provider": "MUSEU",
+"country": "Ireland",
+"type": "IMAGE",
+"year": [
+"-142"
+],
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://viewer.cbl.ie/viewer/ppnresolver?id=MP_Dem_1",
+"edmIsShownBy": "https://viewer.cbl.ie/viewer/content/MP_Dem_1/800/0/1_MP_Dem1_21491.jpg",
+"guid": "https://www.europeana.eu/item/1100/3349?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "1100_Chester_Beatty",
+"desc": []
+},
+{
+"id": "/2021606/resource_document_rijksmuseum_van_oudheden_F1974_7_52",
+"title": [
+"handschrift ; Demotisch ; Grieks"
+],
+"dataProvider": "National Museum of Antiquities",
+"provider": "Dutch Collections for Europe",
+"country": "Netherlands",
+"type": "IMAGE",
+"year": null,
+"rights": [
+"http://creativecommons.org/licenses/by/4.0/"
+],
+"edmIsShownAt": "https://hdl.handle.net/21.12126/18782",
+"edmIsShownBy": "http://img.rmo.nl/imageproxy/proxy.aspx?maxwidth=500&cache=yes&filename=148694.jpg",
+"guid": "https://www.europeana.eu/item/2021606/resource_document_rijksmuseum_van_oudheden_F1974_7_52?utm_source=api&utm_medium=api&utm_campaign=api2demo",
+"dataset": "2021606_DigitaleCollectie_RM_Oudheden",
+"desc": [
+"rekening ; cartonnage ; fragment Oud nummer: P. Barns ? A. Wijze van inramen: tussen dubbel glas B. Indeling: 1. Aantal fragmenten: 1 1: 22.3 x 36 cm Recto 2 kolommen / Verso 3 kolommen Rt. I: 14 regels Grieks Rt. II: 18 regels demotisch Vs. I: 13 regels demotiscjh Vs. II: 20 regels demotisch Vs. II"
+]
+}
+]
+}

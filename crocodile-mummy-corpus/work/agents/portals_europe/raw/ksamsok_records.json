@@ -1,0 +1,66 @@
+{
+ "MM/objekt/21265": {
+  "uri": "http://kulturarvsdata.se/MM/objekt/21265",
+  "url": [
+   "http://carlotta.malmo.se/carlotta-mmus/web/object/21265"
+  ],
+  "org": [
+   "Malmö Museer"
+  ],
+  "label": [
+   "mumifierad krokodil, krokodil"
+  ],
+  "keywords": [
+   "Fornegyptiska gudar",
+   "Andar och gudar",
+   "etnografi",
+   "Trosföreställningar",
+   "Mytologi",
+   "Heliga föremål och platser",
+   "Crocodile",
+   "Mummified crocodile",
+   "Mummie",
+   "Mummified animal"
+  ],
+  "idLabel": [
+   "MM 000030"
+  ],
+  "numbers": [
+   "MM 000030"
+  ],
+  "descriptions": [
+   "Mumifierad krokodilunge, främre delen. Troligen gravfynd från fornegyptisk grav. I fornegyptisk mytologi gestaltades guden Sebek som en krokodil eller en man med krokodilhuvud. Sebek var i egyptisk mytologi flodernas och sjöarnas gud. Han förknippades även med solen, Ra och Amon-Ra. I sin krokodilgestalt har han också en förbindelse med guden Set.",
+   "etn",
+   "778",
+   "776",
+   "136",
+   "773",
+   "A 7",
+   "MR2",
+   "gåva"
+  ],
+  "names": [
+   "mumifierad krokodil",
+   "krokodil"
+  ],
+  "licence": [
+   "http://kulturarvsdata.se/resurser/License#cc0",
+   "http://creativecommons.org/publicdomain/zero/1.0/"
+  ],
+  "images": [
+   "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/300658/MM_000030.jpg",
+   "http://carlotta.malmo.se/carlotta-mmus/web/image/zoom/300661/MM_000030_A.jpg"
+  ],
+  "image_licence": [
+   "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+   "http://creativecommons.org/licenses/by-nc-nd/2.5/se/",
+   "http://kulturarvsdata.se/resurser/License#by-nc-nd",
+   "http://creativecommons.org/licenses/by-nc-nd/2.5/se/"
+  ],
+  "measurements": [],
+  "contexts": [
+   "FörvärvadAndersson (gördelmakare)1865-10-181865-10-18",
+   "BrukadEgypten"
+  ]
+ }
+}

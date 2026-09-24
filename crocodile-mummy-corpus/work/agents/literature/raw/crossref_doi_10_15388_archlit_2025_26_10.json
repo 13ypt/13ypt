@@ -1,0 +1,531 @@
+{
+ "doi": "10.15388/archlit.2025.26.10",
+ "title": "An Egyptian Mummified Crocodile from the Kyiv-Pechersk Lavra National Preserve (Ukraine): Archaeological and Morphological Considerations",
+ "container": "Archaeologia Lituana",
+ "issued": {
+  "date-parts": [
+   [
+    2025,
+    12,
+    22
+   ]
+  ]
+ },
+ "authors": [
+  "Yanish, Yevheniia",
+  "Piombino-Mascali, Dario",
+  "Rosendahl, Wilfried",
+  "Chen, Shidong",
+  "Oras, Ester",
+  "Tarasenko, Mykola"
+ ],
+ "page": "246-261",
+ "volume": "26",
+ "issue": null,
+ "references": [
+  {
+   "DOI": null,
+   "unstructured": "Anderson J., Antoine D. 2019. Scanning Sobek. Mummy of the crocodile god. S. Porcier, S. Ikram, S. Pasquali (eds.) Creatures of earth, water and sky. Essays on animals in ancient Egypt and Nubia. Leiden: Sidestone Press, p. 31-37.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1371/journal.pone.0229140",
+   "unstructured": "Berruyer C., Porcier S. M., Tafforeau P. 2020. Synchrotron \"virtual archaeozoology\" reveals how ancient Egyptians prepared a decaying crocodile cadaver for mummification. PLoS ONE, 15(2), Article e0229140. https://doi.org/10.1371/journal.pone.0229140",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.5743/cairo/9789774248580.003.0008",
+   "unstructured": "Bresciani E. 2005. Sobek, lord of the land of the lake. S. Ikram (ed.) Divine creatures: animal mummies in ancient Egypt. Cairo: The American University in Cairo Press, p. 199-206. https://doi.org/10.5743/cairo/9789774248580.003.0008",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Brunner-Traut E. 1980. Krokodil. W. Helck and W. Westendorf (eds.) Lexikon der Ägyptologie. 3. Wiesbaden: Otto Harrassowitz Verlag, p. 791-801.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1038/nature02849",
+   "unstructured": "Buckley S. A., Clark K. A., Evershed R. P. 2004. Complex organic chemical balms of Pharaonic animal mummies. Nature, 431(7006), p. 294-299. https://doi.org/10.1038/nature02849",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/maps.12664",
+   "unstructured": "Comelli D., D'Orazio M., Folco L., El-Halwagy M., Frizzi T., Alberti R., Capogrosso V., Elnaggar A., Hassan H., Nevin A., Porcelli F., Rashed M. G., Valentini G. 2016. The meteoritic origin of Tutankhamun's iron dagger blade. Meteoritics & Planetary Science, 51(7), p. 1301-1309.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.7717/peerj.1901",
+   "unstructured": "Cunningham S. W., Shirley M. H., Hekkala E. R. 2016. Fine scale patterns of genetic partitioning in the rediscovered African crocodile, Crocodylus suchus (Saint-Hilaire 1807). Peer J, 4, Article e1901. https://doi.org/10.7717/peerj.1901",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Davis B. 2016, December 22. Crocodiles in Vietnam skinned alive in service of fashion. Forbes. Available at: https://www.forbes.com/sites/davisbrett/2016/12/22/crocodiles-in-vietnam-skinned-alive-in-service-of-fashion/?sh=63b390692817",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1371/journal.pone.0279137",
+   "unstructured": "De Cupere B., Van Neer W., Barba Colmenero V., Jiménez Serrano A. 2023. Newly discovered crocodile mummies of variable quality from an undisturbed tomb at Qubbat al-Hawā (Aswan, Egypt). PLoS ONE, 18(1), Article e0279137. https://doi.org/10.1371/journal.pone.0279137",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Ernst M. 1947. Sistematika i proiskhozhdeniye vidov. Gos. izd-vo Inostrannoy literatury: Moscow.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1038/314528a0",
+   "unstructured": "Evershed R. P., Jerman K., Eglinton G. 1985. Pine wood origin for pitch from the Mary Rose. Nature, 314, p. 528-530. https://doi.org/10.1038/314528a0",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1039/an9901501339",
+   "unstructured": "Evershed R. P., Heron C., Goad L. J. 1990. Analysis of organic residues of archaeological origin by high-temperature gas chromatography and gas chromatography-mass spectrometry. Analyst, 115(10), p. 1339-1342. https://doi.org/10.1039/AN9901501339",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1021/ar000200f",
+   "unstructured": "Evershed R. P., Dudd S. N., Copley M. S., Berstan R., Stott A. W., Mottram H., Buckley S. A., Crossman Z. 2002. Chemistry of archaeological animal fats. Accounts of Chemical Research, 35(8), p. 660-668. https://doi.org/10.1021/ar000200f",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Fergusson R. A. 2010. Nile crocodile Crocodylus niloticus. S. C. Manolis and C. Stevenson (eds.) Crocodiles status survey and conservation action plan. 3rd edition. Gland: IUCN, p. 84-89.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Fomenko I. A., Shamray H. F. 2006. Yehypets'ki starozhytnosti v kolektsiyi Dnipropetrovs'koho istorychnoho muzeyu im. D.I. Yavornys'koho. Art-pres: Dnipropetrovs'k.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1515/9780691214733",
+   "unstructured": "Frankfurter D. 1998. Religion in Roman Egypt: assimilation and resistance. Princeton: Princeton University Press.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Gałczyńska C. Z. 2015. Aleksander Branicki (1821-1877). Pierwszy Polski archeolog-amator nad Nilem. Materiały Archeologiczne, 40, p. 271-298.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Geoffroy Saint-Hilaire E. 1807. Description de deux crocodiles qui existent dans le Nil, comparés au crocodile de Saint-Domingue. Annales du Muséum d'histoire naturelle, 10, p. 67-86.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1007/s10592-009-9970-5",
+   "unstructured": "Hekkala E. R., Amato G., Desalle R., Blum M. J. 2010. Molecular assessment of population differentiation and individual assignment potential of Nile crocodile (Crocodylus niloticus) populations. Conservation Genetics, 11, p. 1435-1443. https://doi.org/10.1007/s10592-009-9970-5",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1365-294X.2011.05245.x",
+   "unstructured": "Hekkala E. R., Shirley M., Amato G., Austin J., Charter S., Thorbjanarson J., Vliet K., Houck M., Desalle R., Blum M. 2011. An ancient icon reveals new mysteries: mummy DNA resurrects a cryptic species within the Nile crocodile. Molecular Ecology, 20(20), p. 4199-4215. https://doi.org/10.1111/j.1365-294X.2011.05245.x",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.3374/014.063.0101",
+   "unstructured": "Hekkala E. R., Colten R., Cunningham S. W., Smith O., Ikram S. 2022. Using mitogenomes to explore the social and ecological contexts of crocodile mummification in ancient Egypt. Bulletin of the Peabody Museum of Natural History, 63(1), p. 3-14. https://doi.org/10.3374/014.063.0101",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Hopfner T. 1913. Der Tierkult der alten Ägypter nach dem Grieshisch-Römischen Berichten und den wichtigeren Denkmälern. Wien: In Kommission bei Alfred Hölder.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1365-2028.1987.tb01113.x",
+   "unstructured": "Hutton J. M. 1987. Morphometrics and field estimation of the size of the Nile Crocodile. African Journal of Ecology, 25(4), p. 225-230. https://doi.org/10.1111/j.1365-2028.1987.tb01113.x",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Ikram S. 2010. Crocodiles: guardians of the gateways. Z. Hawass and S. Ikram (eds.) Thebes and beyond: studies in honour of Kent R. Weeks. SCA: Cairo, p. 85-98.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Kákosy L. 1980. Krokodilkult. W. Helck and W. Westendorf (eds.) Lexikon der Ägyptologie. 3. Wiesbaden: Otto Harrassowitz Verlag, p. 801-811.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.jas.2011.12.025",
+   "unstructured": "Keaveney E. M., Reimer P. J., 2012. Understanding the variability in freshwater radiocarbon reservoir offsets: a cautionary tale. Journal of Archaeological Science, 39(5), p. 1306-1316. https://doi.org/10.1016/j.jas.2011.12.025",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Kockelmann H. 2017. Der Herr der Seen, Sümpfe und Flußläufe. Untersuchungen zum Gott Sobek und den ägyptischen Krokodilgötter-Kulten von den Anfängen bis zur Römerzeit. 1-3. Wiesbaden: Harrassowitz Verlag (Ägyptologische Abhandlungen, 74).",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Konstantinov V. M., Naumov S. P. 2011. Zoologia pozvonochnyh. Academia: Moscow.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.nimb.2012.01.015",
+   "unstructured": "Kromer B., Lindauer S., Synal H.-A., Wacker L. 2013. MAMS - a new AMS facility at the Curt-Engelhorn-Centre for Archaeometry, Mannheim, Germany. Nuclear Instruments and Methods in Physics Research B: Beam Interactions with Materials and Atoms, 294, p. 11-13.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Lanting J. N., van der Plicht J. 1998. Reservoir effects and apparent 14C-ages. The Journal of Irish Archaeology, 9, p. 151-165. https://www.jstor.org/stable/30001698",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.daach.2024.e00356",
+   "unstructured": "McKnight L. M., Bibb R., Cooper F. 2024. Seeing is believing - the application of three-dimensional modelling technologies to reconstruct the final hours in the life of an ancient Egyptian crocodile. Digital Applications in Archaeology and Cultural Heritage, 34, Article e00356. https://doi.org/10.1016/j.daach.2024.e00356",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.microc.2013.11.018",
+   "unstructured": "Ménager M., Azémard C., Vieillescazes C. 2014. Study of Egyptian mummification balms by FT-IR spectroscopy and GC-MS. Microchemical Journal, 114, p. 32-41. https://doi.org/10.1016/j.microc.2013.11.018",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Naumov N. P., Kartashev N. N. 1979. Zoologia pozvonochnyh. Part 2. Academia: Moscow.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.17077/etd.tyxbmpzr",
+   "unstructured": "Nestler J. H. 2012. A geometric morphometric analysis of Crocodylus niloticus: evidence for a cryptic species complex (Masterʼs thesis, University of Iowa). Iowa City: Iowa, USA. https://doi.org/10.17077/etd.tyxbmpzr",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.3406/mhnly.1994.1141",
+   "unstructured": "Nicolotti M., Robert L. 1994. Les cocodriles momifiés du museum de Lyon. Nouvelles archives du Muséum d'histoire naturelle de Lyon, 32, p. 4-62.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1558-5646.2011.01373.x",
+   "unstructured": "Oaks J. R. 2011. A time-calibrated species tree of Crocodylia reveals a recent radiation of the true Crocodiles. Evolution, 65(11), p. 3285-3297. https://doi.org/10.1111/j.1558-5646.2011.01373.x",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1371/journal.pone.0227446",
+   "unstructured": "Oras E., Anderson J., Tõrv M., Vahur S., Rammo R., Remmer S., Mölder M., Malve M., Saag L., Saage R., Teearu-Ojakäär A., Peets P., Tambets K., Metspalu M., Lees D. C., Barclay M. V. L., Hall M. J. R., Ikram S., Piombino-Mascali D. 2020. Multidisciplinary investigation of two Egyptian child mummies curated at the University of Tartu Art Museum, Estonia (Late/Graeco-Roman Periods). PLoS ONE, 15(1), Article e0227446. https://doi.org/10.1371/journal.pone.0227446",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.15388/ArchLit.2023.24.7",
+   "unstructured": "Piombino-Mascali D., Jankauskas R., Piličiauskienė G., Girčius R., Ikram S., Caliò L. M., Messina A. 2023. Crocodile rock! A bioarchaeological study of ancient Egyptian reptile remains from the National Museum of Lithuania. Archaeologia Lituana, 24, p. 115-123. https://doi.org/10.15388/ArchLit.2023.24.7",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.jas.2019.105009",
+   "unstructured": "Porcier S., Berruyer C., Pasquali S., Ikram S., Berthet B., Tafforeau P. 2019. Wild crocodiles hunted to make mummies in Roman Egypt: evidence from synchrotron imaging. Journal of Archaeological Science, 110, p. 1-8. https://doi.org/10.1016/j.jas.2019.105009",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Quirke S. 2013. Going out in daylight - prt m hrw: the ancient Egyptian Book of the Dead: translation, sources, meanings. London: Golden House Publications (GHP Egyptology, 20).",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1017/RDC.2020.41",
+   "unstructured": "Reimer P. J., Austin W. E. N., Bard E., Bayliss A., Blackwell P. G., Ramsey C. B., Butzin M., Cheng H., Edwards R. L., Friedrich M., Grootes P. M., Guilderson T. P., Hajdas I., Heaton T. J., Hogg A. G., Hughen K. A., Kromer B., Manning S. W., Muscheler R., Palmer J. G., Pearson C., van der Plicht J., Reimer R. W., Richards D. A., Scott E. M., Southon J. R., Turney C. S. M., Wacker L., Adolphi F., Büntgen U., Capano M., Fahrni S. M., Fogtmann-Schulz A., Friedrich R., Köhler P., Kudsk S., Miyake F., Olsen J., Reinig F., Sakamoto M., Sookdeo A., Talamo S. 2020. The IntCal20 Northern Hemisphere radiocarbon age calibration curve (0-55 cal kBP). Radiocarbon, 62(4), p. 725-757. https://doi.org/10.1017/RDC.2020.41",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1017/RDC.2016.102",
+   "unstructured": "Richardin P., Porcier S., Ikram S., Louarn G., Berthet D. 2017. Cats, crocodiles, cattle, and more: initial steps toward establishing a chronology of ancient Egyptian animal mummies. Radiocarbon, 59(2), p. 595-607. https://doi.org/10.1017/RDC.2016.102",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1201/b19276-12",
+   "unstructured": "Rosendahl W., Döppes D. 2015. The radiocarbon method - basic principles and applications. B. Madea (ed.) The estimation of the time since death. 3rd edition. Taylor & Francis Ltd: New York, p. 259-265.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Senapati A. 2020, July 3. Villagers in Odisha's Malkangiri kill, consume meat of mugger crocodile. Down to Earth. Available at: https://www.downtoearth.org.in/news/environment/villagers-in-odisha-s-malkangiri-kill-consume-meat-of-mugger-crocodile-72108",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.crpv.2003.07.002",
+   "unstructured": "Schmitz A., Mansfeld Р., Hekkala Е., Shine Т., Nickel N., Amato G., Böhme W. 2003. Molecular evidence for species level divergence in African Nile crocodiles Crocodylus niloticus (Laurenti, 1786). Comptes Rendus Palevol, 2(8), p. 703-712. https://doi.org/10.1016/j.crpv.2003.07.002",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.16965/ijar.2015.206",
+   "unstructured": "Shaker N. A., El-Bably S. H. 2015. Morphological and radiological studies on the skull of the Nile crocodile (Crocodylus niloticus). International Journal of Anatomy and Research, 3(3), p. 1331-1340. http://dx.doi.org/10.16965/ijar.2015.206",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1017/S0030605309001586",
+   "unstructured": "Shirley M. H., Oduro W., Beibro H. Y. 2009. Conservation status of crocodiles in Ghana and Côte-d'Ivoire, West Africa. Oryx, 43(1), p. 136-145. https://doi.org/10.1017/S0030605309001586",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/acv.12176",
+   "unstructured": "Shirley M., Villanova V., Vliet K., Austin J. 2015. Genetic barcoding facilitates captive and wild management of three cryptic African crocodile species complexes. Animal Conservation, 18(4), p. 322-330. https://doi.org/10.1111/acv.12176",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Tarasenko M. O. 2019. U poshukakh starozhytnostey z daru khedyva. Davn'oyehypets'ki pam'yatnyky XXI dynastiyi v muzeyakh Ukrayiny. Kyiv: Instytut skhodoznavstva im. A. Yu. Kryms'koho NAN Ukrayiny.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Tarasenko M. O. 2021. Egyptian mummies in Ukrainian museums: an overview. Journal of the Hellenic Institute of Egyptology, 4, p. 145-150. https://doi.org/10.5281/zenodo.5775564",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1002/jssc.200301607",
+   "unstructured": "Tchapla A., Méjanelle P., Bleton J., Goursaud S. 2004. Characterisation of embalming materials of a mummy of the Ptolemaic era. Comparison with balms from mummies of different eras. Journal of Separation Science, 27(3), p. 217-234. https://doi.org/10.1002/jssc.200301607",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Turayev B. A. 1899. Opisaniye egipetskikh pamyatnikov v russkikh muzeyakh i sobraniyakh, Ch. V-VI. Zapiski Vostochnogo otdeleniya Imp. Russkogo arkheologicheskogo obshchestva, 12, p. 191-217.",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Verdade L. M. 1997. Morphometric analysis of the broad-snout caiman (Caiman latirostris): an assessment of individual's clutch, body size, sex, age, and area of origin (Doctoral dissertation, University of Florida). Gainesville: Florida, USA. http://ufdc.ufl.edu/AA00039828/00001",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.jasrep.2015.09.020",
+   "unstructured": "Wasef S., Wood R., El Merghani S., Ikram S., Curtis C., Holland B., Willerslev E., Millar C. D., Lambert D. M. 2015. Radiocarbon dating of sacred ibis mummies from ancient Egypt. Journal of Archaeological Science: Reports, 4, p. 355-361. https://doi.org/10.1016/j.jasrep.2015.09.020",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1007/s00435-016-0325-8",
+   "unstructured": "Warner J. K., Combrink Х., Calverley Р., Champion G., Downs C. T. 2016. Morphometrics, sex ratio, sexual size dimorphism, biomass, and population size of the Nile crocodile (Crocodylus niloticus) at its southern range limit in KwaZulu-Natal, South Africa. Zoomorphology, 135, p. 511-521. https://doi.org/10.1007/s00435-016-0325-8",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": "10.32800/abc.2006.29.0065",
+   "unstructured": "Wu X. B., Xue H., Wu L. S., Zhu J. L., Wang R. P. 2006. Regression analysis between body and head measurements of Chinese alligators (Alligator sinensis) in captive population. Animal Biodiversity and Conservation, 29(1), p. 65-71. https://doi.org/10.32800/abc.2006.29.0065",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  }
+ ]
+}

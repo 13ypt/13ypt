@@ -1,0 +1,167 @@
+QUERY krokodil numFound 138
+021015954466 | S-GNM | GNM7036:006 | Krokodil |  | 
+021015954464 | S-GNM | GNM7036:004 | Krokodil |  | 
+021015954465 | S-GNM | GNM7036:005 | Krokodil |  | 
+0210215771153 | S-SMM-SM | S 0217 | Krokodil |  | Krokodil.
+011025201429 | S-VM | VM28074 | SKOLPLANSCH | ['872'] | Krokodiler på väg upp ur vattnet
+0210214559848 | S-VGM | 1M16-89987:1 | Krokodil | ['136'] | 
+0210213428504 | S-GOM | GFC19754 | Leksak | ['524'] | Helgjuten grön krokodil som är gulmålad undertill samt munnen slarvigt målad i  rosa nyreg data oktober 2004 lj
+0210213162157 | S-DM | DM 02117 | Smycke | ['301'] | Smycke i form av krokodil.
+011025201474 | S-VM | VM28119 | SKOLPLANSCH | ['872'] | Planschen visar olika djur, bland annat schakal och flodhäst, kamel, åsna, gräshoppa, krokodil, skorpion och gesäll. I mitten av bilden vilar kamelen 
+0210115462458 | S-DIBIS | QER00374 | None |  | 
+021015947670 | S-GNM | GNM5220:578 | krokodil |  | 
+011025179633 | S-VM | VM19388 | KROKODIL | ['524'] | Leksakskrokodil
+0210214471478 | S-VGM | 1M16-107344:263 | Krokodil | ['136', '87', '873'] | Provins 1. Ryggradsdjur (Vertebrata) Klass 3. Kräldjur (Reptilia) Ordning 1. Krokodiler (Crocodilia) Kajman (Caiman niger SPIX.): Skinn, Sydamerika, s
+021027880218 | S-SK | SKAFOR.0018309 | Krokodil | ['225'] | Krokodil, brun, uppstoppad.
+021017448650 | S-KA | KLMF.43967-65 | Graverat glas. | ['353'] | 
+0210214471482 | S-VGM | 1M16-107344:264 | Krokodil | ['136', '87', '873'] | Provins 1. Ryggradsdjur (Vertebrata) Klass 3. Kräldjur (Reptilia) Ordning 1. Krokodiler (Crocodilia) Kajman (Caiman niger SPIX.): Ett ägg Rio Negro Br
+0210214471481 | S-VGM | 1M16-107344:265 | Krokodil | ['136', '87', '873'] | Provins 1. Ryggradsdjur (Vertebrata) Klass 3. Kräldjur (Reptilia) Ordning 1. Krokodiler (Crocodilia) Kajman (Caiman niger SPIX.): Ett ägg Rio Negro Br
+021015940681 | S-GNM | GNM1169:001 | Krokodil |  | 
+021015941111 | S-GNM | GNM00155:001 | Krokodil |  | 
+021015944109 | S-GNM | GNM411:001 | Krokodil    Alligator |  | 
+0210114276266 | S-UM | UB070173 | Doktor Ysander med indisk kvinna, Uppsala 1951 | ['352', '885'] | 
+021015946138 | S-GNM | GNM497:001 | Krokodil |  | 
+0210113642981 | S-TEK | TEKA0231106 | Frimärke med motiv av Jamaicas Vapen, med rött kors och gyllene ananas, samt Taino kvinna och man som sköldbärare. Från 1906. |  | 
+011014495321 | S-BM | UMFA54979:2696 | Enligt Bengt Lundins noteringar: "Nilkrokodil. Resteröds Djurpark, Bohuslän". | ['367'] | 
+021026304914 | S-TEK | TEKS0029994 | Leksak | ['5654'] | Krokodil, leksak av gul och grön plastisk polyvinylklorid, med propp av blå sådan för uppblåsning.
+011023751905 | S-NM | NM.0246728 | Leksaksdjur | ['524'] | Inventering Sesam 1996-1999: L 53   H 4,5   B 6,5    (cm) Leksaksdjur, krokodil, bestående av svarvade och målade kulor uppträdda på snöre. Fyra grönb
+021027867456 | S-UVLM | Vlm-29886 | Pyssel | ['524', '855'] | Att tillverka som motorisk övning för barn och sedan ha som prydnad.
+021027867533 | S-UVLM | Vlm-29957 | Pyssel | ['524', '855'] | Att tillverka för barn i pedagogiskt syfte.
+021016778375 | S-XLM | XLM.CL015479-15 | En av Furuviks många djur. Kajman eller krokodil ? | ['136', '231', '367'] | 
+021016778376 | S-XLM | XLM.CL015479-16 | En av Furuviks många djur. Kajman eller krokodil ? | ['136', '231', '367'] | 
+021016778378 | S-XLM | XLM.CL015479-18 | En av Furuviks många djur. Kajman eller krokodil ? | ['136', '231', '367'] | 
+021016778377 | S-XLM | XLM.CL015479-17 | En av Furuviks många djur. Kajman eller krokodil ? | ['136', '231', '367'] | 
+021016778374 | S-XLM | XLM.CL015479-14 | En av Furuviks många djur. Kajman eller krokodil ? | ['136', '231', '367'] | 
+0210113195854 | S-OSA | OK-095-I-0173 | Krokodil på Biologiska museet, 2014-04-28 | ['Dj.3', 'Ku.11', 'Sk.4', 'St.4.2'] | 
+0210113195855 | S-OSA | OK-095-I-0175 | Krokodil på väggen på Biologiska museet, 2014-04-28 | ['Dj.3', 'Ku.11', 'Sk.4', 'St.4.2'] | 
+0210113195857 | S-OSA | OK-095-I-0174 | Uppstoppad Krokodil på Biologiska museet, 2014-04-28 | ['Dj.3', 'Ku.11', 'Sk.4', 'St.4.2'] | 
+011025174264 | S-VM | VM17276:42 | SKOLPLANSCH | ['872'] | Krokodiler  Skolplanscher med insekter, fåglar, fiskar, däggdjur från 1900- talets första hälft.  I maj 1979 bereddes Vänersborgs museum tillfälle att
+021027278948 | S-XLM | XLM.R01168 | Cigarrskåp | ['352'] | Cigarrskåp, mahogny med gröna reliefer, krokodil och delfiner samt Columbus i guld.  Kat. kort: Dekorationer som suttit anbragta på tobaksskåpet R 116
+021015942914 | S-GNM | GNM3116:001 | Krokodil |  | 
+0210113375493 | S-BM | UMFA53517:0001 | Text på baksidan av bilden: "1011a. U.M. 7162. 6262. Fotografi nr. 1 över Kongokrokodilens montering av Hilmer Skoog, konservator vid Göteborgs Zool. museum, å museigården Juli 1918.
+Krokodilskinnet skänkt 1915 till Uddevalla museum av sjökapten G.E. Göransson i Kongastatens tjänst ( ännu 1918). Färdig uppstoppad i förstklassigt skick kostar krokodilen 250 kronor. 
+Den 8 Nov. 1919 beslöt musiestyrelsen giva herr Skoog 400 kronor för djurets uppställning i museilokalen ( inklusive 77 kr för pallen, 25 kr. för konstgjorda tänder + klor samt 30 kr. för hans resekostnader samt dessutom 18 kr. för välgjort arbete. 
+Fot. Gåva av Skoog."
+jfr uppgifter UMFA53086:0896 - UMFA53086:0899 | ['136', '219'] | 
+011023756843 | S-NM | NM.0251723 | Visitkortställning | ['224', '353', '484', '52', '554', '631', '648'] | Katalogkort: "Visitkortsställning i form av uppstoppad krokodil som sitter på svansen och håller en bricka mellan framtassarna. Brickan orientalisk av
+011025186227 | S-VM | VM21910:031 | TECKNINGSKORT | ['532', '872'] | Ett kort föreställande en nilkrokodil. Kortet är märkt med nr 15.  Föremålet ingår i en samling av förebilder för teckningsundervisning i folkskolan, 
+0210113375490 | S-BM | UMFA53517:0002 | Text på baksidan av bilden: "1011 b. U.M. 7162. 6262. Fotografi nr. 2 över Kongokrokodilens montering av konservator Hilmer Skoog å Göteborgs musei gård juli 1918.
+Skinnet skänktes 1915 till Uddevalla museum av sjökapten G.E. Göransson i Kongastatens tjänst (ännu 1918).
+Priset på monteringsarbetet i förstklassigt skick är 250 kronor. 
+De 4 fotografierna gåva av Skoog till Uddevalla musei intendent Knut Adrian Andersson 16/8 1918." | ['136', '219'] | 
+0210113375502 | S-BM | UMFA53517:0003 | Text på baksidan av bilden: "1011 c. U.M. 7162. 6262. Fotografi nr. 3 över Kongokrokodilens montering av konservator Hilmer Skoog i Göteborgs musei gård juli 1918.
+Skinnet skänktes 1915 till Uddevalla museum av sjökapten G.E. Göransson i Kongastatens tjänst (ännu 1918).
+Fot: Gåva av H. Skoog.
+monteringsfärdig går till 250 kronor." | ['136', '219'] | 
+021016864740 | S-XLM | XLM.FLYG1710-1 | Vykort "Engmansparken, Njutånger", Hälsingland
+
+
+ | ['133', '136', '231', '322', '367'] | 
+021016864742 | S-XLM | XLM.FLYG1710-3 | Vykort "Engmansparken, Njutånger", Hälsingland
+
+
+ | ['133', '136', '231', '322', '367'] | 
+021015950683 | S-GNM | GNM5738:001 | Foto av bakgrund för krokodil. |  | 
+0210216017585 | S-VGM | 1M16-SM 4802 | Leksak | ['347', '443', '524'] | Leksak i plåt, krokodil.
+0210113375514 | S-BM | UMFA53517:0004 | Text på baksidan av bilden: "1011 d. U.M. 7162. 6262. neg. Fotografi nr. 4 över kongokrokodilens montering (skinnet ligger löst pålagt) av Hilmer Skoog konservator 
+(syns i bilden) vid Göteborgs Zool: museum i i Göteborgs museigård juli ? (aug.) 1918.
+Sjökapten G.E. Göransson i Kongastatens tjänst (ännu 1918) skänkte vid sin vistelse 1915 (på hösten) i Uddevalla krokodilskinnet med kranium o. en del lösa bensköldar till Uddevalla museum samt dessutom andra naturföremål för att gynna sin fosterbygd Uddevalla den 16/8 1918. Knut Adrian Andersson museets intendent. 
+priset blir 250 kr.
+(Fot. Gåva av Skoog !)." | ['136', '219'] | 
+021016727881 | S-UM | UB035847 | Germund och Laila Widmark med uppstoppad krokodil, Uppsala, juli 1958 | ['136', '885'] | 
+011024809038 | S-SMM-MM | MM 12010.I | Glasbild | ['ABBE'] | Glasbild till skioptikonappparat.målad glasskiva.Rektangulär träram med infattad glasskiva med motiv: Tiger som möter en krokodil.
+011024262585 | S-BM | UM000548 | Mumie | ['764', '779'] | Två mumifierade krokodilungar, den ena i sin linnebinda. Mumierna ligger i en avlång glaslåda vars hörn och kanter är sammanfogade med en blå textilar
+021026855041 | S-ENK | EM14813:35 | Skolplansch | ['658', '87'] | Skolplansch X, färgbilder på djur, sköldpadda, krokodil, ödla, orm, groda och salamander.
+021017129603 | S-TEK | TEKI0012543 | Projektet "Robotics". En utställning i Wallenbergshallen om roboten.
+Bildtext: KTH har gjort Robotar på djur temat under en 5 poängs kurs. Dessa finns med i utställningen. Här huvudet på en krokodil. |  | 
+011023612225 | S-NM | NM.0121005 | Mönsterblad | ['353'] | Tunt arkpapper med exotiskadjur, bla. elefant, krokodil, lejon, och enhörning. Vallflicka med ett får, mansfigurer. Pressad, goffrerad dekor i guld på
+0210111534926 | S-PM | POST.032300 | Bilen sedd snett bakifrån, vänster sida. Med uppfälld baklucka s k
+"krokodil-gap". Plats: Gården vid Postens Industrier i Ulvsunda. | ['493', 'II225jb'] | 
+0210213330886 | S-DM | DM 28477-21 | Leksak | ['872'] | Djur i trä. 17 st olika djur, bla tiger, känguru, häst, katt, noshörning, krokodil osv.
+0210213375818 | S-DM | DM 20135-0760 | Idbricka |  | Två runda id brickor av metall. den ena tillhörande Alfred Garpe och den andra Carina Garpe-Hedestrand. Förvaras i en vit pappask med krokodil imitati
+021015950206 | S-GNM | GNM5654:025 | 'Teckning av blodkärl hos ödla, orm och krokodil. Handskrivna anteckningar i blyerts. Anteckning ''Kerstin Nyblén på baksidan. ::  :: ''Fotografier använda vid dissektionskursen våren 1928'' . :: Avfotograferade teckningar på skelett och organ. :: På baksidan av vissa står det Kerstin Nyblén :: V.T.-18 :: ur bok' |  | 
+0210213415159 | S-GOM | GFC12030_434 | Väska |  | DA. KUVERTMODELL, BRUN krOKODIL. INSIDA OCH FODER AV BRUNT KALVSKINN, 1 BLIXTLÅSFACK. 3 ÖVRIGA FACK. TRYCKKNÄPPE. L. 26, BR. 15,5 CM.
+0210214832885 | S-TGF | TGF002329 | Skulptur | ['353', '531'] | Formgjutet glasblock med en stiliserad krokodil.
+0210213420191 | S-GOM | GFC14579 | Dammsugare | ['356'] | Dammsugare från electrolux av modell za55 med skenor undertill, dammsugaren är beige med imiterat krokodil- eller ormskinn, slangen är av textil i bei
+021025858272 | SV | VS P-1808 | Plansje | ['870', '876'] | Plansje brukt i skoleundervisning.
+0210113299599 | S-XLM | XLM.U12125 | Tatuerad rygg och armar på man som lutar sig framåt. Motiv av naken kvinna, krokodil och lejon. | ['304'] | 
+0210613168431 | S-DA | DA-035121 | Ritning heminredning (okänd titel) [ritning] | ['353', '531.1'] | Konvolut 131: Stolar Slinkan, Slim, Slimline, Thoni, 61 st. Konvolut 132: Ester bäddar, sittsoffa 1967, Wesnofa soffgrupp, Fabian+Westan, Kinaman, Orm
+011023785771 | S-NM | NM.0280662 | Leksak | ['352', '524', '736'] | Inventering Sesam 1996-1999: H  7   B 22 (cm) Krokodil, leksak, av obehandlat och svarvat barrträ med glödritad dekor, ledad stjärt och käke, rödmålat
+021026712066 | S-KPS | M 18613 | Kista | ['352'] | S.k. Amerikakista, rektangulär med rundat lock, tillverkad  av trä, med utsidan klädd med pressad och svartmålad plåt, imiterande krokodil. Fasthållen
+0210211802855 | S-VM | VMA001802:01 | ÄGG | ['136'] | Ägg av krokodil. Från Qunene River.  Ingår i äggsamlingen från Axel Eriksson.
+011014290615 | S-BM | UMFA53086:0898 | Montering av nilkrokodil för Uddevalla Museums räkning i juli 1918 | ['219', '352', '367', '532'] | 
+021016864313 | S-XLM | XLM.FLYG1306 | Krokodil. Njutånger, Hälsingland
+
+
+
+ | ['136', '322', '367', '523'] | 
+011023777617 | S-NM | NM.0272457+*1 | Konfektyr | ['257'] | Huvudliggaren: "Konfektyr, 23 st olika sötsaker; överlämnade i samband med sötsaksutställning i Ostermans marmorhallar, Sthlm."  23 stycken olika söts
+011024462817 | S-AM | AM.096412 | Tandborstfodral |  | Rosa plastfodral med krokodil.
+021028421620 | S-NM | NM.0334202 | Bälte | ['293'] | Bälte av brunt krokodilskinn. Spänne av gulmetall och hälla av krokodilskinn i ena änden. I andra änden 7 st hål och förstärkning i änden i form av du
+011014290616 | S-BM | UMFA53086:0899 | Montering av nilkrokodil för Uddevalla Museums räkning i juli 1918 | ['219', '352', '367', '532', '885'] | 
+021028883943 | S-LAR | LAMR003381-01 | Reklam |  | Annonsavdrag, svartvitt tryck. Reklam för Gahns Barnserie Do-Do  Tecknad bild på en krokodil och olika förpackningar. Bild av ett skrattande barn/baby
+021027231819 | S-XLM | XLM.19427 | Lekssakskrokodil | ['136', '524'] | Kat: kort: LEKSAKSKROKODIL, Trävit. Rörlig svans och käke som dras med snöre. Krokodil  limmad på träplatta som fästs med skruv på träkloss. Klossen h
+021026705410 | S-KPS | M 49538-46 | Väska | ['482', '872'] | Brun skolväska av läder, präglat mönster (krokodil). Bakdelen blir i sin förlängning lock vilket knäppes med tryckknappar samt spännen och tampar. På 
+021015707484 | S-NM | NMA.0071950 | Promenadpumps i Halländsk modell av brun mocca med äkta krokodil-inläggning. |  | 
+0210216616511 | S-UM | UM21767 | Skolplansch | ['815', '872'] | Skolplansch i papp försedd med två hål och ett upphängningssnöre, tredje upplagan. Planschen märkt: " Förläggare: Lithografiska Aktie Bolaget i Norrkö
+0210216616553 | S-UM | UM21817 | Skolplansch | ['815', '872'] | Skolplansch i papp med naturhistoriskt motiv i färgtryck, fjärde upplagan. Planschen märkt: " Förläggare: Lithografiska Aktie Bolaget i Norrköping. Bi
+0210213351882 | S-HKM | VMF042107 | Fotografi | ['19:7'] | Fotografi inom glas och ram. Motiv: "Misstänkt odjur i vallgraven".
+011014290614 | S-BM | UMFA53086:0897 | Montering av nilkrokodil för Uddevalla Museums räkning i juli 1918 | ['219'] | 
+011014290613 | S-BM | UMFA53086:0896 | Montering av nilkrokodil för Uddevalla Museums räkning i juli 1918 | ['219', '355', '367'] | 
+011013839178 | S-NM | NMA.0032059 | Hattmode visas på varuhuset  Nordiska Kompaniet i Stockholm 1936.
+En ung kvinna poserar i halvprofil iförd en liten hatt av präglat skinn, möjligen krokodil. Hatten har ett litet, finmaskigt flor. |  | 
+011024830100 | S-SMM-SM | S 5378 | Galjonsbild, alligator | ['AAAB'] | Alligator/krokodil med ett huvud och två sidor, som omslutit stäven. Öppen käft med sammanhängande tandrader och rombformade fjäll på ryggen. Målad i 
+021027105890 | S-KA | KLM045519-00007 | Pussel | ['524', '302'] | KLM 45519:7 Pussel. Ask av kartong, med pusselbitar av trä. På askens lock finns bilden för pusslet. Motiv med en elefantmamma som tvättar två elefant
+011025182528 | S-VM | VM21312 | VÄSKA | ['482'] | Damhandväska i Krokodilskinn. Väskan har ett handtag i skinn fästat i ena öppningen. Inuti har väskan tre fack. Lås, handtagsfästen och öppningsbeslag
+021028209530 | S-UM | UM22557 | Sko | ['291', '295'] | Herrskor, i form av en halvstövel s. k. "boots", tillverkad av konstmaterial med läderbindsula. Konstmaterialet imiterar brunt skinn, skaftet av kroko
+011023807992 | S-NM | NM.0303886 | Chokladomslag | ['252', '257', '415'] | 
+021028209538 | S-UM | UM22567 | Sko | ['291', '295'] | Damsko av brunt reptilskinn, ödla eller krokodil, 5 cm hög klack, liten halvrosett framtill. Lädersula. Märke: Hästens, Upsala, Sanitized Behandlad. H
+0210211922811 | S-KPS | OF 2223 | Vas | ['353'] | Formgiven av Simon Gate. Vas med rektangulär form. Graverat motiv föreställande en dansande kvinna vid en krokodil.
+021017882718 | S-NM | NMA.0092569 | Motiv: (ingen anteckning) (England) ;
+Vy över en park med kvinnor och män som går på en stig och män som spelar cricket i bakgrunden, pingviner i en inhägnad, en folksamling framför burar med lejon och en skylt "Feeding Time 3 pm", en sköldpadda, en krokodil, en kvinna i profil. |  | 
+011014317124 | S-BM | UMFA53240:008148 | Enligt notering: "Hovmästare Pettersson son Älvsnabben 5/4 -59". | ['211', '532', '805', '885'] | 
+0210216574234 | OSK | OSk.03158 | Skoleplansje |  | Rektangelformet skoleplansje med motiv. Plansjen har hjørner og oppheng i metall.
+011023712009 | S-NM | NM.0207334 | Laskklämma | ['294'] | 
+011014312191 | S-BM | UMFA53240:003668 | Enligt notering: "Resteröds djurpark juli". | ['231', '367'] | 
+011014312192 | S-BM | UMFA53240:003669 | Enligt notering: "Resteröds djurpark juli". | ['231', '367'] | 
+011014312194 | S-BM | UMFA53240:003670 | Enligt notering: "Resteröds djurpark juli". | ['231', '367', '885'] | 
+011014312841 | S-BM | UMFA53240:004129 | Enligt notering: "Förvaltare Orås Singapore-besök 7-3-55". | ['352', '353', '532', '855', '885'] | 
+0210213262049 | S-DM | DM 18180 | Skolplansch | ['353', '872'] | Skolplanscher, liggande i pappkasset. Ram med öppen framsida baksidan med profilerad överkant och två små hål för upphängning. Utvändigt klädd med tyg
+021027232101 | S-XLM | XLM.25184 | Docka | ['524', '855', '857'] | Flickdocka av gulbrunt skinn. Stoppad. Huvud och underarmar av hudfärgad celloid?. Brunt hår. Ögon av glas eller porslin. Märke i nacken: krokodil sam
+011025182368 | S-VM | VM21163 | DAMVÄSKA | ['482'] | Ljusgul, droppformad väska med dragkedja vid överdelen  samt vidare löpande längs ena långsidan. Väskan bäres i  ett skinnhuvud av samma material som 
+011025186999 | S-VM | VM22312 | HANDVÄSKA | ['482'] | Handväska av krokodilskinn inköpt i butiken Roslings i Vänersborg av ägaren omkring 1940. Väskan kostade vid inköpet 150 kronor.  Föremål från familje
+0210213967074 | S-ALM | AM 2021-002 | Resväska |  | Resväska som tillhört Anna Norlander (Alingsås museums grundare). Väskan är klädd med krokodilskinns imitation samt invändigt med randigt papper. Hand
+021026480542 | S-PM | POST.055817 | Frimärke | ['205', '523', 'II65a3'] | Upplaga: 2.5 milj. par 3-sidig tandning, 2,80 kr. Fuktaktiverad.
+011024604368 | S-MS | 01171 | Träfigur | ['855', '857', '872'] | 39 stycken olika träfigurer. Buskar, grenar, boskapsdjur, giraff, kamel, krokodil, anka, tre sittande män, en stol. Det angivna måttet är maxmått. (Ur
+0210213433022 | S-GOM | GFC24717 | Grafik |  | Tre utklippta bilder klistrade på ett tjockare papper. Bild överst t.v.: En man i indianliknande utstyrsel ses sittande på en krokodil i vattenbrynet,
+0210216607088 | SNM | SU.3629 | Fiskesluk |  | Kort bølgeformet 18 grams Aligator skjesluk fra Delfin Slukfabrikk. Fiskeskjellmønster på utstiden. Sølvfarget.
+011025186998 | S-VM | VM22311:a-b | DAMSKO | ['291'] | Ett par skor av krokodilskinn köpta i Trollhättan av ägaren i slutet av 1950-talet. Skorna var specialbeställda. Inuti är skorna märkta: ''Tärnsko Con
+0210315743068 | E-KNAV | 0210315743068 | Larsen, Erling (1948 - ) |  | svensk sångare och skådespelare
+011024265437 | S-BM | UM003693 | Krokodil | ['136'] | "Krokodilen". Monterad nilkrokodil, Crocodylus niloticus, art i kräldjursfamiljen krokodiler, längd 3,8 m. Djuret uppskattades vara ca 80 år gammal då
+0210211506080 | S-KA | KLM044205-00890-13 | Bokmärke | ['213', '443', '524', '136'] | KLM 44205:890. Bokmärke, bokmärkesark. Av papper, färg. Vilda djur. Inplastat. Ett ark.
+011022731464 | NSK | SJF.07672 | Sluk | ['226.2'] | Skjesluk av krokodilletypen. Rettspinnende gang i sterk strøm. Har livelig, vrikkende bevegelser ved normal fartsmotstand i vann og elv. 
+011023414362 | S-NM | NM.0045744 | Tarokkort | ['524'] | Huvudliggaren: "Tarokkort. 78 st. Stämplade: 'Stockholm 1766'. Gåva af med. kand. Astley Levin i Stockh. 16/3 1885."
+0210315750724 | E-KNAV | 0210315750724 | Andersson, Anton Emanuel (1845 - 1884) |  | Svensk skipskaptein som i oktober 1880 ble ansatt av Comité d'études du Haut-Congo i Kongo.
+0210214723197 | S-HKM | VMF045051:a-b | Sänke, samling | ['17:2.3'] | Blyhagel för fiske, i förvaringsask.  a) Överdel av ask. Asken är tillverkad av papp och har en rödfärgad utsida. På locket finns ett grafiskt tryck s
+011022823903 | TFM-SVB | FTT.50812 | Krok | ['226', '226.2', '484', '517', '520'] | Avlang, avrundet fiskekrok. Den er sølvfarget og skjellmønstret på oversiden, bronsefarget og glatt på undersiden. Sluken har et kroksett på tre kroke
+021026151591 | S-OLM | OLM-36102 | PORTFÖLJ | ['482'] | 
+011024267653 | S-BM | UM006189 | Spegel | ['352', '531'] | Sockel med täljda figurer skurna i en rot från ett lövträd (al, björk, rönn ...). Elva djur och två människoliknande varelser syns i "ett stubbliknand
+021026158432 | S-OLM | OLM-24808 | HANDVÄSKA | ['291', '482'] | 
+0210211505475 | S-KA | KLM044205-00531 | Bokmärke | ['213', '443', '524', '136', '855'] | KLM 44205:531. Bokmärke, bokmärkesark. Av papper, färg. Större och mindre märken. I djurparken. Tryckt text: EAS, Printed in Germany och 3099. 13 ark.
+021026489892 | S-OM | OM.ES.000017 | Amulett | ['172', '764'] | 
+0211011553464 | S-BM | U-se0013-1739401 | Messages from the Stars  - ERIC MAGASSA |  | I DIALOG MED SAMLINGARNA Magassas urval av objekt i samlingarna har huvudsakligen en anknytning till nuvarande Demokratiska republiken Kongo, Kongo-Ki
+021017921791 | S-HM | HMM108923 | En träskulptur i form av en krokodil med en fågel i gapet vid Järnblästen, 1 juli 1961. |  | 
+021017921792 | S-HM | HMM108924 | En träskulptur i from av en krokodil har ett fågelbo i gapet. Träskulpturen finns vid Järnblästen i Ilsbo, 1 juli 1961. |  | 
+021028345660 | S-SK | SKAFOR.0018022 | Bonad | ['353', '531'] | Bonad, kopia av original i Nordiska museet (NM.0063193) målad på väv med ägglinoljetempera i flera färger av W. E. Hoffman 1996.
+011023832902 | S-NM | NM.0329601A-H | Handväska | ['206', '212', '293', '302', '372', '431', '527', '556'] | Handväska med innehåll (a-h). a)  Handväska av brunt krokodilskinn. Rektangulär modell med rak bygel av mässing och snäpplås. Handtag av skinnet. Fodr
+021028238587 | TFM-SVB | NDM.01277 | Plansje | ['872'] | Rektangulær plansje av gult papir festet på kartong. Kartongen danner en ramme for plansjen. Motivet er rektangulært og sentrert midt på plansjen. Mot
+0210411781648 | S-DM | ÅH 0028-07 | Drottning Gåsfot 7 [Blandteknik] | ['532'] | Etsning och torrnålsgravyr av Bertil Bull Hedlund. "Drottning Gåsfot 7". 1940-41.  Lindgren 122.
+021028422988 | S-NM | NM.0334201 | Byxor | ['291'] | Byxor av brun mocka i jeansmodell. Två framstycken och två bakstycken samt ok. Linning  med 5 hällor. Framtill en ficka på var framstycke samt en mind
+011025135838 | S-VM | VM08016 | DJURBILD | ['172'] | Anubis. Skulptur av en egyptisk forntida gudomlighet i form av en svart schakal. Tillverkad i trä, målad i svart med gulddetaljer r rotm av öga och ha
+021025816188 | S-KA | KLM043274 | Handväska | ['291', '482'] | KLM 43274. Handväska. Av krokodilskinn. Rektangulär, liggande format. Flera bruna nyanser. Med två överhängande lock, knäpps med tryckknapp. På det öv
+0210216607090 | SNM | SU.3628 | Fiskesluk |  | Fire bølgeformede skjesluker av merket Krokodill fra Delfin Slukfabrikk. Trippel krok i enden. På innsiden metallfarger i matt, sølv, messing og kobbe
+0210315741427 | E-KNAV | 0210315741427 | Heyse, Paul (1830 - 1914) |  | tysk författare och Nobelpristagare i litteratur
+011025202234 | S-VM | VM28734 | VÄSKA | ['482'] | Krokodilväska lagom stor för att kunna innehålla några LP-skivor. Handtaget i läder är sönder och själva väskan går inte att få upp utan våld (därför 
+0211116472536 | S-SMM-SM | Fo113265F | Med COORANGA till Sydafrika 1957 |  | 
+021035593304 | E-KNAV | 021035593304 | Oddner, Georg (1923 - 2007) |  | Georg Oddner, född 1923 i Stockholm, har en lång och mångfacetterad meritlista som fotograf. Ursprungligen jazzmusiker, sadlade han om och lärde sig f
+0210316598397 | E-KNAV | 0210316598397 | Schwensen, Einar (1873 - 1900) |  | Dansk offiser og handelsfaktoriagent i Fristaten Kongo fra 1899.

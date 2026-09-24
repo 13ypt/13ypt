@@ -1,0 +1,11 @@
+INST-EG-002: 2 object(s) without inventory number among 2 — check duplicates: ['INST-EG-002-O001', 'INST-EG-002-O002']
+INST-EG-003: 2 object(s) without inventory number among 29 — check duplicates: ['INST-EG-003-O028', 'INST-EG-003-O029']
+INST-EG-006: 10 object(s) without inventory number among 10 — check duplicates: ['INST-EG-006-O001', 'INST-EG-006-O002', 'INST-EG-006-O003', 'INST-EG-006-O004', 'INST-EG-006-O005', 'INST-EG-006-O006', 'INST-EG-006-O007', 'INST-EG-006-O008', 'INST-EG-006-O009', 'INST-EG-006-O010']
+INST-EG-007: 2 object(s) without inventory number among 2 — check duplicates: ['INST-EG-007-O001', 'INST-EG-007-O002']
+INST-GB-002: 1 object(s) without inventory number among 15 — check duplicates: ['INST-GB-002-O015']
+INST-GB-005: 1 object(s) without inventory number among 5 — check duplicates: ['INST-GB-005-O003']
+INST-GB-007: 1 object(s) without inventory number among 2 — check duplicates: ['INST-GB-007-O002']
+INST-GB-010: 2 object(s) without inventory number among 2 — check duplicates: ['INST-GB-010-O001', 'INST-GB-010-O002']
+INST-IT-002: 3 object(s) without inventory number among 3 — check duplicates: ['INST-IT-002-O001', 'INST-IT-002-O002', 'INST-IT-002-O003']
+POSSIBLE SAME INSTITUTION: 'US|carnegie museum of natural history' ~ 'US|field museum of natural history'
+no_confirmation superseded by master: EG|sharm el sheikh museum -> INST-EG-007

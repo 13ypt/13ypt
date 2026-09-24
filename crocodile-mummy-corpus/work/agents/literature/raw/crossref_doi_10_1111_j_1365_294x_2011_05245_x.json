@@ -1,0 +1,823 @@
+{
+ "doi": "10.1111/j.1365-294x.2011.05245.x",
+ "title": "An ancient icon reveals new mysteries: mummy DNA resurrects a cryptic species within the Nile crocodile",
+ "container": "Molecular Ecology",
+ "issued": {
+  "date-parts": [
+   [
+    2011,
+    9,
+    9
+   ]
+  ]
+ },
+ "authors": [
+  "HEKKALA, EVON",
+  "SHIRLEY, MATTHEW H.",
+  "AMATO, GEORGE",
+  "AUSTIN, JAMES D.",
+  "CHARTER, SUELLEN",
+  "THORBJARNARSON, JOHN",
+  "VLIET, KENT A.",
+  "HOUCK, MARLYS L.",
+  "DESALLE, ROB",
+  "BLUM, MICHAEL J."
+ ],
+ "page": "4199-4215",
+ "volume": "20",
+ "issue": "20",
+ "references": [
+  {
+   "DOI": "10.1016/j.ympev.2006.03.018",
+   "unstructured": null,
+   "article-title": "Phylogenetic relationships and phylogeography of the Killifish species of the subgenus Chromaphyosemion (Radda, 1971) in West Africa, inferred from mitochondrial DNA sequences",
+   "author": "Agnese",
+   "year": "2006",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1080/10635150600755453",
+   "unstructured": null,
+   "article-title": "Approximate likelihood ratio test for branches: a fast, accurate and powerful alternative",
+   "author": "Anisimova",
+   "year": "2006",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1007/978-94-009-9951-0_5",
+   "unstructured": null,
+   "article-title": null,
+   "author": "Axelrod",
+   "year": "1978",
+   "journal-title": null,
+   "volume-title": "Biogeography and Ecology of Southern Africa"
+  },
+  {
+   "DOI": "10.1007/s10531-006-9022-0",
+   "unstructured": null,
+   "article-title": "Biogeographic patterns of the East African coastal forest vertebrate fauna",
+   "author": "Azeria",
+   "year": "2007",
+   "journal-title": "Biodiversity and Conservation",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1096-3642.1857.tb01196.x",
+   "unstructured": null,
+   "article-title": "On the species of Crocodilus inhabiting the rivers Kwóra and Bínuë (Niger and Tsadda) in Central Africa",
+   "author": "Baikie",
+   "year": "1857",
+   "journal-title": "Proceedings of Zoological Society of London",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.5962/bhl.title.9082",
+   "unstructured": null,
+   "article-title": null,
+   "author": "Boettger",
+   "year": "1877",
+   "journal-title": null,
+   "volume-title": "Die Reptilien Und Amphibien von Madagascar"
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Bory de Saint-Vincent",
+   "year": "1824",
+   "journal-title": null,
+   "volume-title": "Dictionnaire classique d’histoire naturelle. Part 5"
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Brazaitis",
+   "year": "1973",
+   "journal-title": null,
+   "volume-title": "Identification of Living Crocodilians. Zoologica"
+  },
+  {
+   "DOI": "10.1643/0045-8511(2000)000[0657:PRADTO]2.0.CO;2",
+   "unstructured": null,
+   "article-title": "Phylogenetic relationships and divergence timing of Crocodylus based on morphology and the fossil record",
+   "author": "Brochu",
+   "year": "2000",
+   "journal-title": "Copeia",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Brochu",
+   "year": "2001",
+   "journal-title": null,
+   "volume-title": "Crocodilian Biology and Evolution"
+  },
+  {
+   "DOI": "10.1146/annurev.earth.31.100901.141308",
+   "unstructured": null,
+   "article-title": "Phylogenetic approaches toward crocodilian history",
+   "author": "Brochu",
+   "year": "2003",
+   "journal-title": "Annual Review of Earth and Planetary Sciences",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.geobios.2005.10.008",
+   "unstructured": null,
+   "article-title": "Tertiary endemic crocodylians in the West Indies?",
+   "author": "Brochu",
+   "year": "2007",
+   "journal-title": "Geobios",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Le magmatisme alcalin de la ligne du Cameroun au Tertiaire inferieur: données géochronologiques K/Ar",
+   "author": "Cantagrel",
+   "year": "1978",
+   "journal-title": "Comptes Rendus Sommaire de la Société Géologique de France",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.2307/j.ctt22726mc.7",
+   "unstructured": null,
+   "article-title": null,
+   "author": "Coetzee",
+   "year": "1993",
+   "journal-title": null,
+   "volume-title": "Biological Relationships between Africa and South America"
+  },
+  {
+   "DOI": "10.1126/science.289.5482.1139b",
+   "unstructured": null,
+   "article-title": "Ancient DNA: do it right or not at all",
+   "author": "Cooper",
+   "year": "2000",
+   "journal-title": "Science",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": "Cretzschmar PJ 1826 Atlas zu der reise im nördlichen Afrika, von Eduard Rüppell. 1. Abth. Zoologie. Hrsg. von der Senkenbergischen Naturforschenden Gesellschaft H. L. Brönner",
+   "article-title": null,
+   "author": null,
+   "year": null,
+   "journal-title": null,
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Sur les différentes espèces de crocodiles vivants et sur leurs caractères distinctifs",
+   "author": "Cüvier",
+   "year": "1807",
+   "journal-title": "Annales du Muséum National d'Histoire Naturelle",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/sysbio/41.4.421",
+   "unstructured": null,
+   "article-title": "Populations, genetic variation, and the delimitation of phylogenetic species",
+   "author": "Davis",
+   "year": "1992",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1096-3642.2007.00248.x",
+   "unstructured": null,
+   "article-title": "First European evidence for transcontinental dispersal of Crocodylus (Late Neogene of Southern Italy)",
+   "author": "Delfino",
+   "year": "2007",
+   "journal-title": "Zoological Journal of the Linnaean Society",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Some scientific results of two visits to Africa",
+   "author": "Deraniyagala",
+   "year": "1948",
+   "journal-title": "Spoila Zeylanica",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1073/pnas.1012231108",
+   "unstructured": null,
+   "article-title": "Ancient watercourses and biogeography of the Sahara explain the peopling of the desert",
+   "author": "Drake",
+   "year": "2011",
+   "journal-title": "Proceedings of the National Academy of Sciences, USA",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1186/1471-2148-7-214",
+   "unstructured": null,
+   "article-title": "Beast: Bayesian evolutionary analysis by sampling trees",
+   "author": "Drummond",
+   "year": "2007",
+   "journal-title": "BMC Evolutionary Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1371/journal.pbio.0040088",
+   "unstructured": null,
+   "article-title": "Relaxed phylogenetics and dating with confidence",
+   "author": "Drummond",
+   "year": "2006",
+   "journal-title": "PLoS Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.ympev.2008.11.009",
+   "unstructured": null,
+   "article-title": "Species-level diversification of African dwarf crocodiles (Genus Osteolaemus): a geographic and phylogenetic perspective",
+   "author": "Eaton",
+   "year": "2009",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/S1055-7903(02)00369-X",
+   "unstructured": null,
+   "article-title": "Phylogeographic patterns in populations of the black-chinned tilapia complex (Teleostei, Cichlidae) from coastal areas in West Africa: support for the refuge zone theory",
+   "author": "Falk",
+   "year": "2003",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Fergusson",
+   "year": "2010",
+   "journal-title": null,
+   "volume-title": "Crocodiles. Status Survey and Conservation Action Plan"
+  },
+  {
+   "DOI": "10.1046/j.1365-294x.1999.00802-4.x",
+   "unstructured": null,
+   "article-title": "PCR primers for the amplification of five nuclear introns in vertebrates",
+   "author": "Friesen",
+   "year": "1999",
+   "journal-title": "Molecular Ecology",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Die Unterarten des Nilkrokodils Crocodylus niloticus",
+   "author": "Fuchs",
+   "year": "1974",
+   "journal-title": "Salamandra",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.2307/1446560",
+   "unstructured": null,
+   "article-title": "Sequence similarity of 12S ribosomal segment of mitochondrial DNAs of gharial and false gharial",
+   "author": "Gatesy",
+   "year": "1992",
+   "journal-title": "Copeia",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1080/10635150390197037",
+   "unstructured": null,
+   "article-title": "Combined support for wholesale taxic atavism in gavialine crocodylians",
+   "author": "Gatesy",
+   "year": "2003",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Description de deux crocodiles qui existent dans le Nil, comparés au crocodile de Saint-Domingue",
+   "author": "Geoffroy Saint-Hilaire",
+   "year": "1807",
+   "journal-title": "Ann. Mus. Hist. Nat.",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.tree.2005.07.005",
+   "unstructured": null,
+   "article-title": "Assessing ancient DNA studies",
+   "author": "Gilbert",
+   "year": "2005",
+   "journal-title": "Trends in Ecology & Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1096-0031.2000.tb00356.x",
+   "unstructured": null,
+   "article-title": "Phylogenetic species, nested hierarchies, and character fixation",
+   "author": "Goldstein",
+   "year": "2000",
+   "journal-title": "Cladistics",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.geomorph.2004.11.008",
+   "unstructured": null,
+   "article-title": "The drainage of Africa since the Cretaceous",
+   "author": "Goudie",
+   "year": "2005",
+   "journal-title": "Geomorphology",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Description de quelques reptiles noveaux decouverts a Madagascar en 1870",
+   "author": "Grandidier",
+   "year": "1872",
+   "journal-title": "Annual Science Nature Paris, series 5",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Griffith",
+   "year": "1831",
+   "journal-title": null,
+   "volume-title": "The Class Reptilia. The Animal Kingdom Arranged in Conformity With Its Organization"
+  },
+  {
+   "DOI": "10.1080/10635150390235520",
+   "unstructured": null,
+   "article-title": "A simple, fast, and accurate algorithm to estimate large phylogenies by maximum likelihood",
+   "author": "Guindon",
+   "year": "2003",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1007/s10592-009-9970-5",
+   "unstructured": null,
+   "article-title": "Molecular assessment of population differentiation and individual assignment potential of Nile crocodile (Crocodylus niloticus) populations",
+   "author": "Hekkala",
+   "year": "2009",
+   "journal-title": "Conservation Genetics",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1095-8312.2007.00864.x",
+   "unstructured": null,
+   "article-title": "An empirical test of the midpoint rooting method",
+   "author": "Hess",
+   "year": "2007",
+   "journal-title": "Biological Journal of the Linnaean Society",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Hewitt",
+   "year": "1937",
+   "journal-title": null,
+   "volume-title": "A Guide to the Vertebrate Fauna of the Eastern Cape Province, South Africa. Part II: Reptiles, Amphibians and Freshwater Fishes"
+  },
+  {
+   "DOI": "10.1073/pnas.0403618101",
+   "unstructured": null,
+   "article-title": "Lack of phylogeography in European mammals before the last glaciation",
+   "author": "Hofreiter",
+   "year": "2004",
+   "journal-title": "Proceedings of the National Academy of Sciences, USA",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Hutton",
+   "year": "2000",
+   "journal-title": null,
+   "volume-title": "Endangered Species, Threatened Convention. The Past, Present and Future of CITES"
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": null,
+   "year": "1989",
+   "journal-title": null,
+   "volume-title": "Crocodilian, Tuatara, and Turtle Species of the World: A Taxonomic and Geographic Reference"
+  },
+  {
+   "DOI": "10.1111/j.1096-0031.1998.tb00328.x",
+   "unstructured": null,
+   "article-title": "Total evidence or taxonomic congruence: cladistics or consensus classification",
+   "author": "Kluge",
+   "year": "1998",
+   "journal-title": "Cladistics",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1007/BF02261724",
+   "unstructured": null,
+   "article-title": "Chromosomes of Damaliscus (Artiodactyla, Bovidae): simple and complex centric fusion rearrangements",
+   "author": "Kumamoto",
+   "year": "1996",
+   "journal-title": "Chromosome Research",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/bioinformatics/btm404",
+   "unstructured": null,
+   "article-title": "Clustal W and Clustal X version 2.0",
+   "author": "Larkin",
+   "year": "2007",
+   "journal-title": "Bioinformatics",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Laurenti",
+   "year": "1768",
+   "journal-title": null,
+   "volume-title": "Specimen Medicum, Exhibens Synopsis Reptilium"
+  },
+  {
+   "DOI": "10.1016/0012-821X(94)90262-3",
+   "unstructured": null,
+   "article-title": "Isotopic variations with distance and time in the volcanic islands of the Cameroon line: evidence for a mantel plume origin",
+   "author": "Lee",
+   "year": "1994",
+   "journal-title": "Earth and Planetary Science Letters",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1365-294X.2008.03891.x",
+   "unstructured": null,
+   "article-title": "Ancient DNA applications for wildlife conservation",
+   "author": "Leonard",
+   "year": "2008",
+   "journal-title": "Molecular Ecology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/sysbio/46.3.523",
+   "unstructured": null,
+   "article-title": "Gene trees in species trees",
+   "author": "Maddison",
+   "year": "1997",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1038/347129a0",
+   "unstructured": null,
+   "article-title": "Taxonomy as destiny",
+   "author": "May",
+   "year": "1990",
+   "journal-title": "Nature",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.ympev.2006.01.012",
+   "unstructured": null,
+   "article-title": "Are crocodiles really monophyletic? Evidence for subdivisions from sequence and morphological data",
+   "author": "McAliley",
+   "year": "2006",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "African climate change and faunal evolution during the Pliocene-Pleistocene",
+   "author": "de Menocal",
+   "year": "2004",
+   "journal-title": "Earth and Plant Science Letters Frontiers",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.ympev.2011.03.026",
+   "unstructured": null,
+   "article-title": "A phylogenetic hypothesis for Crocodylus (Crocodylia) based on mitochondrial DNA: evidence for a trans-Atlantic voyage from Africa to the New World",
+   "author": "Meredith",
+   "year": "2011",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/S0040-1951(97)00173-X",
+   "unstructured": null,
+   "article-title": "Deep-imaging seismic and gravity results from offshore Cameroon Volcanic Line, and speculation of African hotlines",
+   "author": "Meyers",
+   "year": "1998",
+   "journal-title": "Tectonophysics",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "The Late Pliocene Las Tunas Local Fauna from Southernmost Baja California, Mexcio",
+   "author": "Miller",
+   "year": "1980",
+   "journal-title": "Journal of Paleontology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1371/journal.pone.0000454",
+   "unstructured": null,
+   "article-title": "Molecular biogeography: towards an integrated framework for conserving pan-African biodiversity",
+   "author": "Moodley",
+   "year": "2007",
+   "journal-title": "PLoS ONE",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/0169-5347(94)90057-4",
+   "unstructured": null,
+   "article-title": "Defining ‘Evolutionarily Significant Units’ for conservation",
+   "author": "Moritz",
+   "year": "1994",
+   "journal-title": "Trends in Ecology and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1080/10635150490264699",
+   "unstructured": null,
+   "article-title": "Bayesian phylogenetic analysis of combined data",
+   "author": "Nylander",
+   "year": "2004",
+   "journal-title": "Systematic Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1558-5646.2011.01373.x",
+   "unstructured": null,
+   "article-title": "A time calibrated species tree of Crocodylia reveals a recent radiation of the true crocodiles",
+   "author": "Oaks",
+   "year": "2011",
+   "journal-title": "Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1146/annurev.genet.37.110801.143214",
+   "unstructured": null,
+   "article-title": "Genetic analyses from ancient DNA",
+   "author": "Paabo",
+   "year": "2004",
+   "journal-title": "Annual Review of Genetics",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1098/rstb.2004.1535",
+   "unstructured": null,
+   "article-title": "Mechanisms and tempo of evolution in the African Guinea-Congolian rainforest",
+   "author": "Plana",
+   "year": "2004",
+   "journal-title": "Philosophical Transactions of the Royal Society of London Series B: Biology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/molbev/msn083",
+   "unstructured": null,
+   "article-title": "jModelTest: phylogenetic model averaging",
+   "author": "Posada",
+   "year": "2008",
+   "journal-title": "Molecular Biology and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.tree.2004.11.006",
+   "unstructured": null,
+   "article-title": "The resurrection of oceanic dispersal in historical biogeography",
+   "author": "de Queiroz",
+   "year": "2005",
+   "journal-title": "Trends in Ecology & Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1111/j.1365-294X.2009.04092.x",
+   "unstructured": null,
+   "article-title": "Using phylochronology to reveal cryptic population histories: review and synthesis of 29 ancient DNA studies",
+   "author": "Ramakrishnan",
+   "year": "2009",
+   "journal-title": "Molecular Ecology",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Rambaut",
+   "year": "2006",
+   "journal-title": null,
+   "volume-title": "FigTree: Tree Figure Drawing Tool, v.1.0"
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Rambaut",
+   "year": "2005",
+   "journal-title": null,
+   "volume-title": "Tracer v1.3: MCMC Trace Analysis Tool"
+  },
+  {
+   "DOI": "10.1002/jez.10198",
+   "unstructured": null,
+   "article-title": "The crocodilian mitochondrial control region: general structure, conserved sequences and evolutionary implications",
+   "author": "Ray",
+   "year": "2002",
+   "journal-title": "Journal of Experimental Zoology",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/bioinformatics/btg180",
+   "unstructured": null,
+   "article-title": "MRBAYES 3: Bayesian phylogenetic inference under mixed models",
+   "author": "Ronquist",
+   "year": "2003",
+   "journal-title": "Bioinformatics",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": null,
+   "year": "1998",
+   "journal-title": null,
+   "volume-title": "Status Survey and Conservation Action Plan: Revised Action Plan for Crocodiles"
+  },
+  {
+   "DOI": "10.1111/j.1755-0998.2008.02235.x",
+   "unstructured": null,
+   "article-title": "CAOS software for use in character-based DNA barcoding",
+   "author": "Sarkar",
+   "year": "2008",
+   "journal-title": "Molecular Ecology Resources",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Gedächtnisrede auf Dr. Eduard Rüppell",
+   "author": "Schmidt",
+   "year": "1885",
+   "journal-title": "Ber. Senckenb. Naturf. Ges.",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.crpv.2003.07.002",
+   "unstructured": null,
+   "article-title": "Molecular evidence for species level divergence in the Nile crocodile (Crocodylus niloticus)",
+   "author": "Schmitz",
+   "year": "2003",
+   "journal-title": "Comptes Rendus Palevol",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Evolution of the WANCY region in amniote mitochondrial DNA",
+   "author": "Seutin",
+   "year": "1994",
+   "journal-title": "Molecular Biology and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1126/science.1101074",
+   "unstructured": null,
+   "article-title": "Rise and fall of the Beringian steppe bison",
+   "author": "Shapiro",
+   "year": "2004",
+   "journal-title": "Science",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.2144/97223bm03",
+   "unstructured": null,
+   "article-title": "Enhanced DNA extraction and PCR amplification of mitochondrial genes from formalin-fixed museum specimens",
+   "author": "Shedlock",
+   "year": "1997",
+   "journal-title": "BioTechniques",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1017/S0030605300031938",
+   "unstructured": null,
+   "article-title": "Rediscovery of relict populations of the Nile crocodile Crocodylus niloticus in south-east Mauritania, with observations on their natural history",
+   "author": "Shine",
+   "year": "2001",
+   "journal-title": "Oryx",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1017/S0030605309001586",
+   "unstructured": null,
+   "article-title": "Conservation Status of Crocodiles in Ghana and Cote-d’Ivoire, West Africa",
+   "author": "Shirley",
+   "year": "2009",
+   "journal-title": "Oryx",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1023/A:1003592123079",
+   "unstructured": null,
+   "article-title": "Status of the Nile crocodile in the Sahara desert",
+   "author": "de Smet",
+   "year": "1999",
+   "journal-title": "Hydrobiologia",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.2307/1436233",
+   "unstructured": null,
+   "article-title": "Crocodilian Nomenclature",
+   "author": "Stejneger",
+   "year": "1933",
+   "journal-title": "Copeia",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "Swofford",
+   "year": "2002",
+   "journal-title": null,
+   "volume-title": "PAUP* Phylogenetic Analysis Using Parsimony (*and Other Methods). V.4"
+  },
+  {
+   "DOI": "10.1093/oxfordjournals.molbev.a003995",
+   "unstructured": null,
+   "article-title": "Evolutionary distance estimation under heterogeneous substitution pattern among lineages",
+   "author": "Tamura",
+   "year": "2002",
+   "journal-title": "Molecular Biology and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1073/pnas.0404206101",
+   "unstructured": null,
+   "article-title": "Prospects for inferring very large phylogenies by using the neighbor-joining method",
+   "author": "Tamura",
+   "year": "2004",
+   "journal-title": "Proceedings of the National Academy of Sciences, USA",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1093/molbev/msm092",
+   "unstructured": null,
+   "article-title": "MEGA4: molecular evolutionary genetics analysis (MEGA) software version 4.0",
+   "author": "Tamura",
+   "year": "2007",
+   "journal-title": "Molecular Biology and Evolution",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": "Liste der rezenten Amphibien und Reptilien. Testudines, Crocodylia, Rhynchocephalia",
+   "author": "Wermuth",
+   "year": "1977",
+   "journal-title": "Das Tierreich",
+   "volume-title": null
+  },
+  {
+   "DOI": null,
+   "unstructured": null,
+   "article-title": null,
+   "author": "White",
+   "year": "2001",
+   "journal-title": null,
+   "volume-title": "Crocodilian Biology and Evolution Surrey Beatty and Sons Chipping Norton, NSW"
+  },
+  {
+   "DOI": "10.1098/rspb.2004.2813",
+   "unstructured": null,
+   "article-title": "Ancient DNA",
+   "author": "Willerslev",
+   "year": "2005",
+   "journal-title": "Proceedings of the Royal Society B",
+   "volume-title": null
+  },
+  {
+   "DOI": "10.1016/j.ympev.2009.09.003",
+   "unstructured": null,
+   "article-title": "Transthyretin gene (TTR) intron 1 elucidates crocodylian phylogenetic relationships",
+   "author": "Willis",
+   "year": "2009",
+   "journal-title": "Molecular Phylogenetics and Evolution",
+   "volume-title": null
+  }
+ ]
+}

@@ -1,0 +1,40 @@
+[
+ {
+  "_id": "1978168",
+  "institutionCode": "NHMUK",
+  "otherCatalogNumbers": "NHMUK:ecatalogue:1978168",
+  "basisOfRecord": "PreservedSpecimen",
+  "collectionCode": "ZOO",
+  "occurrenceStatus": "present",
+  "locality": "No data",
+  "catalogNumber": "1977.448",
+  "occurrenceID": "bedf285f-432f-470d-87ef-613b66fe8bcb",
+  "individualCount": "1",
+  "scientificName": "Crocodylus niloticus",
+  "family": "Crocodylidae",
+  "genus": "Crocodylus",
+  "specificEpithet": "niloticus",
+  "higherClassification": "Crocodylidae",
+  "created": "2011-03-21T22:19:16+00:00",
+  "barcode": "015069778",
+  "preservative": "Dry",
+  "subDepartment": "LS Reptiles",
+  "kindOfObject": "mummified",
+  "determinationNames": [
+   "Crocodylus niloticus"
+  ],
+  "determinationFiledAs": [
+   "Yes"
+  ],
+  "gbifID": "1056691432",
+  "gbifIssue": [
+   "MODIFIED_DATE_INVALID",
+   "COUNTRY_DERIVED_FROM_COORDINATES",
+   "GEODETIC_DATUM_ASSUMED_WGS84",
+   "INSTITUTION_MATCH_FUZZY",
+   "INSTITUTION_COLLECTION_MISMATCH"
+  ],
+  "modified": "2023-06-28T13:39:37+00:00",
+  "portal_url": "https://data.nhm.ac.uk/object/bedf285f-432f-470d-87ef-613b66fe8bcb"
+ }
+]

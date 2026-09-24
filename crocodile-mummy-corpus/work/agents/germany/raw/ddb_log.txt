@@ -1,0 +1,15 @@
+# q='Krokodilmumie' numFound=1
+# q='Krokodilsmumie' numFound=0
+# q='Krokodilmumien' numFound=1
+# q='Krokodilsmumien' numFound=1
+# q='(Krokodil AND Mumie)' numFound=6
+# q='(Krokodil AND mumifiziert)' numFound=2
+# q='(Krokodils AND Mumie)' numFound=6
+# q='Tiermumie' numFound=6
+# q='Tiermumien' numFound=8
+# q='(crocodile AND mummy)' numFound=0
+# q='(Krokodil AND Tiermumie)' numFound=1
+# q='(Krokodil AND Balsamierung)' numFound=0
+# q='(Krokodil AND Mumienbinde)' numFound=0
+# q='Krokodilei' numFound=0
+# q='(Sobek AND Mumie)' numFound=4

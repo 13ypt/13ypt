@@ -1,0 +1,156 @@
+{
+ "3015895": {
+  "status": 200,
+  "inv": "MM 30865",
+  "dim": null,
+  "n_image_ids": 2,
+  "cc_by_4_link": true
+ },
+ "3015891": {
+  "status": 200,
+  "inv": "MM 18414",
+  "dim": "L. 18.2 cm",
+  "n_image_ids": 5,
+  "cc_by_4_link": true
+ },
+ "3011859": {
+  "status": 200,
+  "inv": "S.N. E 0064",
+  "dim": null,
+  "n_image_ids": 5,
+  "cc_by_4_link": true
+ },
+ "3011834": {
+  "status": 200,
+  "inv": "NME 799",
+  "dim": null,
+  "n_image_ids": 7,
+  "cc_by_4_link": true
+ },
+ "3011847": {
+  "status": 200,
+  "inv": "NME 796",
+  "dim": null,
+  "n_image_ids": 7,
+  "cc_by_4_link": true
+ },
+ "3011846": {
+  "status": 200,
+  "inv": "MM 18415",
+  "dim": "L. 5.3 cm",
+  "n_image_ids": 5,
+  "cc_by_4_link": true
+ },
+ "3011831": {
+  "status": 200,
+  "inv": "NME 797",
+  "dim": null,
+  "n_image_ids": 6,
+  "cc_by_4_link": true
+ },
+ "3011856": {
+  "status": 200,
+  "inv": "MM 10133",
+  "dim": "L. 99 cm",
+  "n_image_ids": 8,
+  "cc_by_4_link": true
+ },
+ "3011845": {
+  "status": 200,
+  "inv": "MM 18406",
+  "dim": "L. 27.5 cm",
+  "n_image_ids": 5,
+  "cc_by_4_link": true
+ },
+ "3011857": {
+  "status": 200,
+  "inv": "MM 10134",
+  "dim": "L. 90.8 cm",
+  "n_image_ids": 22,
+  "cc_by_4_link": true
+ },
+ "3016279": {
+  "status": 200,
+  "inv": "MM 18410",
+  "dim": "L. 29 cm, W. 4.5 cm",
+  "n_image_ids": 9,
+  "cc_by_4_link": true
+ },
+ "3016255": {
+  "status": 200,
+  "inv": "MM 19240",
+  "dim": "L. 19.5 cm, W. 3.8 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016257": {
+  "status": 200,
+  "inv": "MM 18411",
+  "dim": "L. 29.5 cm, W. 2.5 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016256": {
+  "status": 200,
+  "inv": "MM 18413",
+  "dim": "L. 21.5 cm, W. 3.5 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016260": {
+  "status": 200,
+  "inv": "MM 18408",
+  "dim": "L. 24.2 cm, W. 4 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016258": {
+  "status": 200,
+  "inv": "MM 18412",
+  "dim": "L. 25.7 cm, W. 3 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016253": {
+  "status": 200,
+  "inv": "MME 1983:013 A",
+  "dim": "L. 69 cm, W. 6.7 cm",
+  "n_image_ids": 17,
+  "cc_by_4_link": true
+ },
+ "3016259": {
+  "status": 200,
+  "inv": "MM 18407",
+  "dim": "L. 23.5 cm, W. 3.5 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016261": {
+  "status": 200,
+  "inv": "MM 18409",
+  "dim": "L. 25.7 cm, W. 3 cm.",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016254": {
+  "status": 200,
+  "inv": "MME 1977:002",
+  "dim": "L. 46 cm",
+  "n_image_ids": 12,
+  "cc_by_4_link": true
+ },
+ "3016262": {
+  "status": 200,
+  "inv": "MM 30721",
+  "dim": "L. 30 cm, W. 3.5 cm",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ },
+ "3016263": {
+  "status": 200,
+  "inv": "MM 30810",
+  "dim": "L. 29 cm, W. 2.5 cm",
+  "n_image_ids": 10,
+  "cc_by_4_link": true
+ }
+}
