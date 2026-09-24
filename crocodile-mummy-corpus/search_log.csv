@@ -326,6 +326,10 @@ date,country,language,database_or_search_engine,query,institution_checked,result
 2026-09-24,FR,fr,portail.museedesconfluences.fr search,recherche_libre=Sobek ; Samoun ; saurien,Musée des Confluences,0 hits each,UNKNOWN,france
 2026-09-24,FR,fr,portail.museedesconfluences.fr search,recherche_libre=Crocodylus ; Esna,Musée des Confluences,Crocodylus 40 hits (modern herpetology); Esna 25 hits (croc ones already known; 9 'momie d'animal' = non-croc),UNKNOWN,france
 2026-09-24,FR,fr,portail.museedesconfluences.fr notices,298 crocodile notices fetched and parsed (1.2 s/request),Musée des Confluences,297 Egyptian crocodile mummy/part records written; 1 modern Madagascar skin excluded,raw/mdc_notices.jsonl,france
+2026-09-24,FR,fr,Joconde open-data CSV (streamed),regex crocodil|sobek|sebek|souchos|suchos|kom ombo over full export,all musées de France in Joconde,"pass 1 stopped after ~1,000,000 lines: 741 matching rows; croc mummies Cherbourg x3, Sens 1, Nancy 1, Verdun 1, Besançon x3, Louvre N 2901; pass 2 failed (0 lines) - REMAINDER OF FILE NOT FILTERED",raw/joconde_crocodile_rows.csv,france
+2026-09-24,FR,fr,pop.culture.gouv.fr (curl),notice/joconde/06780001908,Muséum Emmanuel-Liais Cherbourg,200; momie de crocodile MEL 2006.0.226,UNKNOWN,france
+2026-09-24,FR,fr,collections.louvre.fr ark scan,"cl010024537-617, cl010028255-335, cl010015080-160, cl010371614-694 (partly)",Musée du Louvre,new: AF 2053 'momie de crocodile (?)' (cl010015094),UNKNOWN,france
+2026-09-24,FR,fr,archive.org advancedsearch API,title:(faune momifiée) ; (Lortet AND Gaillard),Lortet & Gaillard,only Gaillard & Daressy 1905 Cairo CG catalogue; Lyon Archives volumes not found,UNKNOWN,france
 2026-09-24,DE,de,museum-digital global JSON API (global.museum-digital.org/json/objects?s=),Krokodilmumie,UNKNOWN,0 hits,UNKNOWN,germany
 2026-09-24,DE,de,museum-digital global JSON API,Krokodil,UNKNOWN,"324 hits; crocodile mummies: none titled so (Görlitz EK 102-1999-4 'Mumie' found via other query); rest figures, prints, coins, specimens",list saved raw/md_global_Krokodil.txt,germany
 2026-09-24,DE,de,museum-digital global JSON API,Tiermumie,UNKNOWN,0 hits,UNKNOWN,germany
