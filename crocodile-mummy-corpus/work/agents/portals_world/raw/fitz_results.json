@@ -1,0 +1,214 @@
+{
+ "crocodile mummy": {
+  "total": 3,
+  "retrieved_ids": 6,
+  "titles": {
+   "54263": "Glazed steatite scraboid",
+   "51297": "Fake Mummified Crocodile",
+   "49399": "Mummified Crocodile"
+  },
+  "flagged": [
+   "54263",
+   "54263",
+   "51297",
+   "51297",
+   "49399",
+   "49399"
+  ]
+ },
+ "mummified crocodile": {
+  "total": 2,
+  "retrieved_ids": 4,
+  "titles": {
+   "51297": "Fake Mummified Crocodile",
+   "49399": "Mummified Crocodile"
+  },
+  "flagged": [
+   "51297",
+   "51297",
+   "49399",
+   "49399"
+  ]
+ },
+ "reptile mummy": {
+  "total": 3,
+  "retrieved_ids": 6,
+  "titles": {
+   "51297": "Fake Mummified Crocodile",
+   "49399": "Mummified Crocodile",
+   "49042": "Reptile mummy"
+  },
+  "flagged": [
+   "51297",
+   "51297",
+   "49399",
+   "49399"
+  ]
+ },
+ "animal mummy": {
+  "total": 8,
+  "retrieved_ids": 16,
+  "titles": {
+   "54358": "Animal mummy",
+   "54245": "Glazed steatite scarab",
+   "63972": "Animal mummy",
+   "63918": "Animal mummy",
+   "51297": "Fake Mummified Crocodile",
+   "49344": "Mummified cat",
+   "49399": "Mummified Crocodile",
+   "110000123": "T. H. Ormiston Pease: Loan of Egyptian antiquities collected by his father, Thomas Pease."
+  },
+  "flagged": [
+   "51297",
+   "51297",
+   "49399",
+   "49399"
+  ]
+ },
+ "crocodile": {
+  "total": 177,
+  "retrieved_ids": 192,
+  "titles": {
+   "59024": "Diorite bottle in the form of Taweret-Sekhmet-Sobek",
+   "54192": "Amulet",
+   "169648": "Miscellany (verse and prose)",
+   "62665": "Glazed steatite scarab",
+   "54263": "Glazed steatite scraboid",
+   "76503": "The Essex Jug",
+   "76489": "Crocodile",
+   "76266": "Punch and Judy Show",
+   "76264": "Punch's Judy with baby",
+   "76257": "Mr Punch",
+   "54164": "Glazed steatite scarab",
+   "206797": "Spearhead",
+   "62678": "Glazed steatite scarab",
+   "65810": "Rhyton",
+   "67356": "Clay figure of a crocodile",
+   "64982": "Faience scarab",
+   "64972": "Steatite scarab",
+   "64967": "Faience scarab",
+   "64942": "Glazed steatite scaraboid",
+   "64940": "Glazed steatite scarab",
+   "64780": "Glazed steatite scarab",
+   "63342": "Magical rod segment",
+   "63317": "Steatite magic rod segment",
+   "61749": "Animal",
+   "61739": "Figure",
+   "60083": "Bowl",
+   "59242": "To be checked",
+   "58996": "Limestone sculptor's model",
+   "193990": "One of a group of scarce Nemausan assaria and dupondii with a boar's leg attachment. Here, the main body of the leg has broken away, leaving only the lower part.",
+   "54365": "Wooden figure of a crocodile",
+   "53698": "Figurine",
+   "52965": "Bowl",
+   "227959": "Tribute to the 42nd Regiment From the London Highland Society. 1801.",
+   "227958": "Tribute to the 42nd Regiment From the London Highland Society. 1801.",
+   "51981": "Glazed steatite scarab",
+   "51980": "Glazed steatite scarab",
+   "51978": "Glazed steatite scarab",
+   "209540": "Cut as",
+   "51933": "Glazed steatite scarab",
+   "51241": "Amulet",
+   "51297": "Fake Mummified Crocodile",
+   "49399": "Mummified Crocodile",
+   "197180": "Royal Geographical Society Emin Pasha Relief Expedition Medal",
+   "193947": "Dupondius",
+   "193945": "Dupondius",
+   "193969": "Dupondius",
+   "193968": "Dupondius",
+   "193967": "Dupondius",
+   "193966": "Dupondius",
+   "193946": "Dupondius",
+   "193971": "Dupondius",
+   "193943": "Dupondius",
+   "193970": "Dupondius",
+   "193983": "Dupondius",
+   "193961": "Dupondius",
+   "193960": "Dupondius",
+   "193959": "Dupondius",
+   "193985": "Dupondius",
+   "193981": "Dupondius",
+   "193980": "Dupondius",
+   "193978": "Dupondius",
+   "193977": "Dupondius",
+   "193976": "Dupondius",
+   "193956": "Dupondius",
+   "193975": "Dupondius",
+   "193944": "Dupondius",
+   "193989": "As",
+   "193984": "Dupondius",
+   "193987": "Dupondius",
+   "193974": "Dupondius",
+   "193973": "Dupondius",
+   "193979": "Dupondius",
+   "193965": "Dupondius",
+   "193964": "Dupondius",
+   "193963": "Dupondius",
+   "193962": "Dupondius",
+   "193991": "As",
+   "193958": "Dupondius",
+   "193957": "Dupondius",
+   "193986": "Dupondius",
+   "193982": "Dupondius",
+   "193955": "Dupondius",
+   "193954": "Dupondius",
+   "193953": "Dupondius",
+   "193952": "Dupondius",
+   "193951": "Dupondius",
+   "193950": "Dupondius",
+   "193949": "Dupondius",
+   "193948": "Dupondius",
+   "193988": "Dupondius",
+   "193972": "Dupondius",
+   "33808": "Bird and rat eating a dead crocodile",
+   "186415": "As",
+   "175990": "Roman Provincial",
+   "175973": "Roman Provincial",
+   "175137": "Roman Provincial"
+  },
+  "flagged": [
+   "51297",
+   "51297",
+   "49399",
+   "49399"
+  ]
+ },
+ "Sobek": {
+  "total": 12,
+  "retrieved_ids": 24,
+  "titles": {
+   "59024": "Diorite bottle in the form of Taweret-Sekhmet-Sobek",
+   "54250": "Steatite scarab",
+   "64870": "Glazed steatite scarab",
+   "64826": "Seal",
+   "58996": "Limestone sculptor's model",
+   "53698": "Figurine",
+   "50855": "Faience scarab",
+   "51826": "Amulet",
+   "54404": "Seal",
+   "59478": "Amulet",
+   "52739": "Statuette",
+   "51902": "Steatite scarab"
+  },
+  "flagged": [
+   "54250",
+   "54250"
+  ]
+ },
+ "crocodile egg": {
+  "total": 1,
+  "retrieved_ids": 2,
+  "titles": {
+   "169648": "Miscellany (verse and prose)"
+  },
+  "flagged": []
+ },
+ "Kom Ombo": {
+  "total": 1,
+  "retrieved_ids": 2,
+  "titles": {
+   "63013": "Limestone Sphinx"
+  },
+  "flagged": []
+ }
+}

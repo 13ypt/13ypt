@@ -1,0 +1,315 @@
+TOTAL 314
+/es/object/151296 | Mumie | 
+/es/object/135746 | Mumie, barn | 
+/es/object/149600 | Mumie | 
+/es/object/152132 | Sølvplade | 
+/es/object/241017 | Tekstil, fra mumie | 
+/es/object/241018 | Tekstil, fra mumie | 
+/es/object/241016 | Tekstil, fra mumie | 
+/es/object/135747 | Mumie, sandsynligvis mandlig | 
+/es/object/151321 | Mumie | 
+/es/object/151322 | Mumie | 
+/es/object/151963 | Skalp fra mumie (1 af 2 numre) | 
+/es/object/151302 | Smykke, fragment | 
+/es/object/152102 | Øjesten | 
+/es/object/145127 | Smykke | /es/asset/367374
+/as/object/3170 | sarkofag med mumie | /as/asset/55162
+/as/object/4416 | træsarkofag med mumie | /as/asset/6594
+/es/object/241023 | Hue, fra mumie | 
+/as/object/16015 | barnemumiekiste m/mumie | 
+/as/object/928 | planterester bevikling mumie | 
+/as/object/940 | afskåret hår mumie | 
+/es/object/152097 | Snor | 
+/as/object/929 | planterester bevikling mumie | 
+/as/object/31329 | hoved af mumie | 
+/es/object/149601 | Mumieklædning | 
+/as/object/16053 | venstre hånd af mumie | 
+/as/object/16054 | venstre hånd af mumie | 
+/as/object/936 | potteskår fra bughule mumie | /as/asset/56697
+/as/object/937 | pakke med indvolde mumie | 
+/as/object/41901 | mumiekiste Pa-nes med mumie | 
+/es/object/152125 | Fuglenet, fragment | 
+/es/object/152126 | Kam | 
+/es/object/152127 | Armring | 
+/es/object/152129 | Sandal | 
+/es/object/152130 | Sandal | 
+/es/object/152131 | Sandal | 
+/es/object/152144 | Kar | 
+/es/object/152145 | Frugter og nødder, 7 stk. | 
+/es/object/152150 | Taske | 
+/es/object/152152 | Majskolbe | 
+/es/object/152153 | Garnnøgler, 2 stk. | 
+/as/object/5907 | foderal til snoge mumie | 
+/as/object/930 | hårlokker og negle mumie | 
+/as/object/943 | 2 frag bevikling mumie | 
+/es/object/152096 | Tekstil | 
+/es/object/152149 | Rangle | 
+/es/object/152151 | Skal | 
+/es/object/152095 | Tekstil | 
+/as/object/16018 | hænder af en mumie 2 stk | 
+/es/object/152148 | Pose | 
+/as/object/16016 | barnemumie | /as/asset/56687
+/es/object/149608 | Fjerprydelse | 
+/es/object/149610 | Fjerprydelse | 
+/es/object/149604 | Snor | 
+/as/object/16014 | mumiekiste træ | /as/asset/22084
+/es/object/149605 | Fjerstav | 
+/es/object/151964 | Pung (1 af 2 numre) | 
+/es/object/149607 | Fjerprydelse | 
+/es/object/149609 | Fjerprydelse | 
+/es/object/149602 | Fjerponcho | 
+/es/object/149606 | Fjerstav | 
+/es/object/143991 | Beklædningsdel (støvleskaft eller ærme) | 
+/es/object/143998 | skindstykke | 
+/es/object/144000 | skindstykke | 
+/es/object/143999 | skindstykke | 
+/as/object/3189 | mumiekiste med bræt | /as/asset/8547
+/es/object/151297 | Bælte | 
+/es/object/151298 | Pose | 
+/es/object/151299 | Reb | 
+/es/object/151300 | Kølle | 
+/es/object/151301 | Slynge | 
+/as/object/3191 | mumiekiste og mumiebræt | /as/asset/8561
+/es/object/151303 | Smykke | 
+/es/object/151304 | Sæk | 
+/es/object/151305 | Stav | 
+/es/object/151306 | Dyrefigur | 
+/es/object/151307 | Fløjte | 
+/es/object/151308 | Kobberstjerne, våben | 
+/es/object/151309 | Kobberstjerne, våben | 
+/es/object/151310 | Stjerne, våben | 
+/es/object/151311 | Kugle | 
+/es/object/151312 | Ambolt | 
+/es/object/151313 | Mejsel | 
+/es/object/151314 | Kniv | 
+/es/object/151315 | Kniv | 
+/es/object/151316 | Kniv | 
+/es/object/151317 | Kar | 
+/es/object/151318 | Lampe | 
+/es/object/151319 | Håndten, 4 stk. | 
+/as/object/3172 | mumieportræt kvinde på træ | /as/asset/6714
+/as/object/3192 | mumiekiste Tajuherit og bræt | /as/asset/8586
+/as/object/16013 | mumiekiste Ta-khennu | /as/asset/5249
+/as/object/8247 | mumieportræt | /as/asset/50092
+/es/object/149603 | Slynge | 
+/as/object/3190 | indre og ydre mumiekiste, bræt | /as/asset/6761
+/es/object/181347 | mumierest | 
+/es/object/181348 | mumierest | 
+/es/object/181349 | mumierest | 
+/es/object/181350 | mumierest | 
+/es/object/181351 | mumierest | 
+/es/object/181352 | mumierest | 
+/es/object/181353 | mumierest | 
+/es/object/131275 | mumiehoved, falskt | /es/asset/107846
+/es/object/131435 | mumiemaske | /es/asset/107849
+/as/object/16430 | gravstele kalksten | /as/asset/8550
+/as/object/2185 | mumiemaske | 
+/as/object/9467 | mumiemaske stuk | 
+/as/object/9494 | mumiekartonnage, 3.mell | 
+/as/object/3171 | mumieportræt mand på træ | 
+/as/object/4457 | mumiehylster | 
+/as/object/16023 | mumiegemme ler | 
+/as/object/16024 | mumiegemme ler | 
+/as/object/16025 | mumiegemme ler | 
+/as/object/16089 | mumiehoved træ | 
+/as/object/16096 | mumiesandaler 1 par | 
+/as/object/14528 | mumiehånd ægyptisk | 
+/as/object/14529 | mumiemaske kvindelig | 
+/as/object/16558 | 1 mumiesandal | /as/asset/56784
+/as/object/16121 | mumiemaske stuk | 
+/as/object/16122 | mumiemaske stuk | 
+/as/object/16123 | mumiemaske stuk | 
+/as/object/16127 | mumiehoved træ og hånd | 
+/as/object/941 | mumiekiste ankh-n-khonsu | 
+/as/object/942 | mumiekartonage | 
+/as/object/946 | mumienet blå perler | 
+/as/object/16017 | mumiekiste, 2 mumiehænder | 
+/as/object/16560 | mumiestuk, sen | 
+/as/object/16561 | mumiestuk, sen | 
+/as/object/16562 | mumiestuk, sen | 
+/as/object/3287 | mumieklæde kranse papyrusfragm | 
+/as/object/16022 | mumiegemme ler | 
+/as/object/16081 | mumieformet figur træ | 
+/as/object/16084 | mumiemaske træ | 
+/as/object/16104 | mumiekartonnage, sen Isis | 
+/as/object/16105 | mumiekartonnage, fodstykke | 
+/as/object/16107 | mumiemaske træ | 
+/as/object/16109 | mumieformet figur træ 2 stk | /as/asset/10593
+/as/object/13756 | mumiehoved | 
+/as/object/14683 | mumielignende figur falsk | 
+/as/object/16464 | mumieformet figur amulet | 
+/as/object/16472 | mumieformet figur amulet fajan | 
+/as/object/16559 | mumiestuk, sen | 
+/as/object/16125 | mumiekistedele, fod og hånd | 
+/as/object/16197 | mumieformet figur bronze | 
+/es/object/131438 | mumiemaske | /es/asset/364587
+/es/object/135731 | Mumiemaske | 
+/es/object/135732 | Mumiemaske, del af | 
+/es/object/135737 | Næse af mumiemaske | 
+/es/object/135754 | Mumiemaske | 
+/es/object/135757 | Mumietøj, 6 stk. | 
+/as/object/31323 | mumienet af blå perler fragmen | 
+/as/object/31336 | mumiekiste Ta-na | 
+/as/object/42285 | mumiekartonnage, sen Isis | 
+/as/object/16563 | mumiestuk, sen falkehoved | 
+/as/object/4958 | fragment mumiekiste træ | 
+/as/object/16102 | 1 mumiekartonnage, sen tekst | 
+/as/object/16103 | 3 mumiekartonnage, sen | 
+/as/object/8372 | kvinde i mumieform ler | 
+/as/object/5786 | 5 stykker af mumieseler | 
+/as/object/4277 | kvindehoved stuk | /as/asset/50088
+/as/object/4412 | 7 stykker mumieklæder | 
+/as/object/14868 | 2 stykker mumieklæde | 
+/as/object/16090 | stykke af mumiebind | 
+/as/object/16106 | 4 mumiekartonnage 3.mell. | 
+/as/object/12412 | knælende Nut stuk | /as/asset/6604
+/as/object/16503 | øje af mumiekiste | 
+/as/object/16627 | øje af mumiekiste | 
+/as/object/16666 | øje af mumiekiste | 
+/as/object/16667 | øje af mumiekiste | 
+/as/object/16124 | 4 mumiekartonnage 3.mell. | 
+/as/object/16128 | 4+3 mumiekartonnage 3.mell+sen | 
+/as/object/16141 | øje af mumiekiste | 
+/as/object/57055 | Mumiehånd | 
+/as/object/57056 | Mumiehoved | 
+/as/object/57057 | Mumiehoved | 
+/dnt/object/12679 | Flig af mumieklæde fra pyramide ved Kairo | 
+/as/object/42714 | Mumiehoved | 
+/as/object/45433 | del af mumiekiste, ansigt, træ | 
+/as/object/45434 | Del af mumiekiste, ansigt, træ | 
+/as/object/32543 | gemme mumielignede figur indsk | 
+/as/object/931 | 2 æsker med mumiebind og lign | 
+/as/object/932 | snor og lærred mumiekartonage | 
+/as/object/938 | 3 glasperler fra mumiebeviklin | 
+/es/object/181965 | Stok | 
+/es/object/181966 | Stok | 
+/es/object/181967 | bearbejdet | 
+/es/object/181968 | åre | 
+/es/object/181969 | åre | 
+/es/object/181970 | trækul | 
+/es/object/181971 | trækul | 
+/es/object/181973 | pind | 
+/es/object/102287 | kar | 
+/es/object/135717 | Lerskåle, 2 stk. | 
+/es/object/135718 | Lerskåle, 2 stk. | 
+/es/object/135719 | Lerskål | 
+/es/object/135720 | Lerkar | 
+/es/object/135723 | Kalabasser, 3 stk. | 
+/es/object/135724 | Bomuldstøj, stykke | 
+/es/object/135725 | Bomuldstasker, 2 stk. | 
+/es/object/135726 | Puder, 2 stk. | 
+/es/object/135727 | Pude | 
+/es/object/135728 | Pudebetræk | 
+/es/object/135729 | Slynge | 
+/es/object/135730 | Bomuldstotter, 2 stk. og et bundt bomuldsgarn | 
+/es/object/135733 | Øresmykker, 2 stk. | 
+/es/object/135734 | Hårprøver, 2 stk. | 
+/es/object/135735 | Bomuldstotter, 3 stk. | 
+/es/object/135736 | Træstykker, 3 stk. | 
+/es/object/135738 | Fiskenet, brudstykke | 
+/es/object/135739 | Dukke | 
+/es/object/135740 | Hovedprydelser, 3 stk. | 
+/es/object/135741 | Hovedprydelse | 
+/es/object/135742 | Tørklæde | 
+/es/object/135743 | Bælte | 
+/es/object/135744 | Klæder, 2 stk. | 
+/es/object/135745 | Klæder, 2 stk. | 
+/es/object/135748 | Kurv m. tene og spoler | 
+/es/object/135749 | Majskolbe | 
+/es/object/135750 | Muslingeskal | 
+/es/object/135751 | Snor | 
+/es/object/135752 | Garn og stoffer | 
+/es/object/135753 | Garnnøgler, 8 stk. | 
+/es/object/135755 | Lervase | 
+/es/object/135756 | Tørklæde | 
+/es/object/135758 | Lervase | 
+/es/object/135759 | Bomuldstøj | 
+/es/object/141725 | Figur | 
+/es/object/147721 | tunika | 
+/es/object/152119 | Kvast | 
+/es/object/152120 | Fiskenet | 
+/es/object/119747 | fragment | 
+/es/object/119748 | fragment | 
+/es/object/119749 | fragment | 
+/es/object/119750 | fragment | 
+/es/object/119751 | fragment | 
+/es/object/123906 | klæde | 
+/as/object/31322 | pupil til øje mumiekiste glas | 
+/as/object/31324 | 12 mumiebind | 
+/as/object/31331 | kasse m stykker mumiehylstre | 
+/as/object/31333 | lærredsfragmenter malede, fra mumiebeklædninger | 
+/as/object/16019 | 3 mumiestuk, sen | 
+/as/object/8565 | høgemumie | 
+/as/object/3169 | 7 amuletter | 
+/as/object/4278 | mandshoved stuk | 
+/as/object/2811 | kanope | 
+/as/object/2812 | kanope | 
+/as/object/2813 | kanope | 
+/as/object/2814 | kanope | 
+/as/object/16020 | kattemumie | 
+/as/object/16021 | hovedstykke af sarkofaglåg træ | 
+/as/object/16026 | sarkofaglåg | 
+/as/object/16027 | sarkofaglåg | /as/asset/6022
+/as/object/16078 | barnemumie | 
+/as/object/16079 | sarkofaglåg | /as/asset/4356
+/as/object/16088 | barnemumie | 
+/as/object/16099 | hoved af kattemumie | 
+/as/object/16100 | ibismumie | 
+/as/object/16101 | ibismumie | 
+/as/object/13849 | falkemumie | 
+/as/object/14227 | falkemumie | 
+/as/object/14615 | ibismumie | 
+/as/object/14616 | ibismumie | 
+/as/object/14617 | nilkrokodille unge | 
+/as/object/14618 | nilkrokodiller 4 unger | 
+/as/object/14619 | mumificeret fisk og dele af fisk | 
+/as/object/14733 | klæde fragment | 
+/as/object/12411 | brystsmykke stuk | /as/asset/21699
+/as/object/12413 | indskrift kolonne stuk | 
+/as/object/12414 | gudefremstilling plade stuk | 
+/as/object/12415 | gudefremstilling plade stuk | 
+/as/object/12416 | gudefremstilling plade stuk | 
+/as/object/12417 | gudefremstilling plade stuk | 
+/as/object/12418 | gudefremstilling plade stuk | 
+/as/object/12419 | gudefremstilling plade stuk | 
+/as/object/12421 | sandalsåler stuk | 
+/as/object/16357 | vase af sort sten | 
+/as/object/16362 | kanope | 
+/as/object/16363 | kanope | 
+/as/object/16365 | kanopelåg | 
+/as/object/16366 | kanope | /as/asset/16441
+/as/object/16367 | kanope | 
+/as/object/16368 | kanope | 
+/as/object/16373 | kanopelåg | 
+/as/object/16375 | kanope | 
+/as/object/16376 | kanope | 
+/as/object/16377 | kanope | 
+/as/object/16378 | kanopelåg | 
+/as/object/16379 | kanope | 
+/as/object/16380 | kanopelåg | 
+/as/object/16381 | kanope | 
+/as/object/16382 | kanope | 
+/as/object/16383 | kanopelåg | 
+/as/object/16384 | kanopelåg | 
+/as/object/16405 | kanopelåg | 
+/as/object/16447 | brystplade af falk med skarabæ | /as/asset/6569
+/as/object/16118 | skammel sycomoretræ | /as/asset/6563
+/as/object/16119 | kattemumie | 
+/as/object/16140 | krokodillemumie unge 3 stk | 
+/as/object/16143 | krokodillemumie unge | 
+/as/object/16144 | krokodillemumie | 
+/as/object/16145 | krokodillemumie bundt 5 stk | 
+/as/object/12555 | maske antropoid sarkofaglåg tc E39 | 
+/as/object/6751 | dyremumie Ibis | 
+/as/object/6752 | dyremumie ibis uden hovedet | 
+/as/object/6753 | dyremumie ibis | 
+/as/object/6754 | dyremumie | 
+/as/object/319 | krokodillemumie | 
+/as/object/944 | sjal | 
+/as/object/945 | tunika | 
+/as/object/41930 | Kanopelåg | 
+/as/object/42574 | mumificeret fisk | 
+/as/object/42575 | dele af mumificeret fisk | 
+/as/object/16369 | kanopelåg | 
+/as/object/16370 | kanopelåg | 
+/as/object/12420 | gudefremstilling plade stuk | /as/asset/21576

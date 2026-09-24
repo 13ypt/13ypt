@@ -1,0 +1,8 @@
+TOTAL 7
+/as/object/2974 | 5 krokodiller fajance | 
+/as/object/42535 | 3 krokodiller fajance | 
+/as/object/2113 | Horus på krokodiller kalksten | 
+/es/object/4700 | stol | 
+/es/object/4897 | stol | 
+/es/object/4899 | stol | 
+/as/object/2774 | stele relief og hieroglyffer | /as/asset/6557

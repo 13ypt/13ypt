@@ -1,0 +1,3 @@
+TOTAL 2
+/as/object/5908 | hylster til firbensmumie bronz | /as/asset/6593
+/as/object/16436 | stele kalksten | /as/asset/9656

@@ -1,0 +1,4 @@
+TOTAL 3
+/as/object/2186 | hylster firbensmumie bronze | 
+/as/object/2187 | hylster firbensmumie bronze | 
+/as/object/5908 | hylster til firbensmumie bronz | /as/asset/6593
