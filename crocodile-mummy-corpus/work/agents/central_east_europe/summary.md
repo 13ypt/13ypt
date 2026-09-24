@@ -1,0 +1,7 @@
+# central_east_europe — summary (transcribed by orchestrator from agent's final report)
+- CONFIRMED: Náprstek Museum (P 608, 609, 610b–e, 614, 2478, 2492, 2793, 2797); Kynžvart (3480, 3487, 3488); Podlipanské muzeum Český Brod (516); Lešná Castle / Zoo Zlín (1007); Bratislava City Museum (VE-00045/001–005, Slovakiana); National Museum of Transylvanian History Cluj (V 1681, CIMEC Clasate).
+- PROBABLE: National Museum in Lublin (exhibition page; ownership unclear). UNVERIFIED: Szépművészeti Múzeum Budapest (HTTP 451 here), Savaria Museum Szombathely (blog), National Museum in Poznań (crocodile head; news).
+- Key source: Strouhal & Vyhnánek 1979 (full text fi.nm.cz) — catalogues all 18 crocodile cases in Czechoslovak collections.
+- Portals negative: eSbírky, Slovakiana, hu.museum-digital, Clasate, Europeana (region); Pushkin API (only cat); Kraków NM 2023 paper (4 animal mummies, no crocodile).
+- NOT YET SEARCHED: PL — Warsaw NM digital catalogue, Kraków & Poznań archaeological museums, Łódź, Wrocław, Gdańsk, Gołuchów, Elbląg. RU — Hermitage, goskatalog.ru (unreachable), Kunstkamera & zoological museums (reachable, not searched). All of HR, SI, RS, BA, MK, AL, BG, GR, CY, TR, UA, BY, GE, AM, AZ, MD.
+- Resume: Szépművészeti /mutargyak/14576/ and /14577/ ("Krokodilmúmia"); Topkapı paper DOI 10.16947/fsmia.582351; Semmelweis Museum paper DOI 10.1127/anthranz/2022/1587; goskatalog «мумия крокодила»; Zagreb Archaeological Museum; NAM Athens.
