@@ -142,7 +142,16 @@ def compute():
     def inst_list(pred):
         return sorted(f"{r['museum']} ({r['country']})" for r in inst
                       if r["confidence"] in ("CONFIRMED", "PROBABLE") and pred(r))
-    api = inst_list(lambda r: r["api_available"] == "YES")
+    agg = re.compile(r"europeana|museum-digital|deutsche-digitale|dimu\.org|ksamsok|kulturarvsdata|gbif|"
+                     r"digitalnz|joconde|pop\.culture|ministere-culture|jpsearch|slovakiana", re.I)
+
+    def own_api(r):
+        hosts = re.findall(r"https?://([^/\s;]+)", r["x_api_url"])
+        return any(not agg.search(h) for h in hosts) or bool(re.search(r"\.json to ark", r["x_api_url"]))
+    api = [f"{x} — own API/JSON" if own_api(r) else f"{x} — via aggregator API only"
+           for r in inst if r["confidence"] in ("CONFIRMED", "PROBABLE") and r["api_available"] == "YES"
+           for x in [f"{r['museum']} ({r['country']})"]]
+    api.sort()
     iiif = inst_list(lambda r: r["iiif_available"] == "YES")
     open_inst = sorted({f"{o['museum']} ({o['x_country']})" for o in with_img if is_open(o["image_license"])})
     S["N_INST_API"], S["N_INST_IIIF"], S["N_INST_OPEN"] = len(api), len(iiif), len(open_inst)

@@ -196,7 +196,10 @@ def main():
         inst_groups.setdefault(k, [])
 
     # ---------- objects ----------
-    merge_map = {m["drop_key"].strip(): m["keep_key"].strip() for m in merges}
+    # object_merges.csv may name objects by persistent object_id or by internal key
+    oid_to_okey = {v: k for k, v in ids["obj"].items()}
+    merge_map = {oid_to_okey.get(m["drop_key"].strip(), m["drop_key"].strip()):
+                 oid_to_okey.get(m["keep_key"].strip(), m["keep_key"].strip()) for m in merges}
     obj_groups = defaultdict(list)
     for r in obj_recs:
         inv = norm_inv(r["inventory_number"])
