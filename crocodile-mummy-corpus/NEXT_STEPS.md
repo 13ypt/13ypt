@@ -1,8 +1,23 @@
 # NEXT_STEPS — resuming the crocodile-mummy corpus without duplication
 
 This round stopped **before global saturation** because the budget ran out. All 20 round-1
-agents were told to wrap up early. None of them reached saturation in its region. Every
-record they wrote is merged into the master CSVs. Nothing is kept only in agent memory.
+agents wrapped up early. None of them reached saturation in its region.
+
+Every record the agents wrote is persisted in `work/agents/*/*.jsonl`. It is merged into
+the master CSVs (final checkpoint). Each agent's summary is saved in
+`work/agents/<agent>/summary.md`; where the harness stopped an agent from writing it, the
+orchestrator copied it from the agent's final report.
+
+Final figures, from the CSVs:
+
+| Measure | Count |
+|---|---|
+| Institutions | 88: 75 CONFIRMED (23 countries), 7 PROBABLE, 6 UNVERIFIED |
+| Object rows | 774: 722 CONFIRMED, 46 PROBABLE, 6 UNVERIFIED |
+| Sum of `minimum_confirmed_objects` | 735 |
+| Checked, no confirmation | 76 institutions |
+| Leads | 380: 339 OPEN, 32 IN_MASTER, 9 CHECKED_NO_CONFIRMATION |
+| Logged queries | 984 |
 
 ## 0. How to resume (pipeline)
 
@@ -87,10 +102,10 @@ See `institutions_master.csv` (confidence ≠ CONFIRMED) for the full rows.
 
 ## 3. Open leads
 
-`work/leads_status.csv` holds 374 leads, of which 334 are OPEN at the time of writing.
+`work/leads_status.csv` holds 380 leads, of which 339 are OPEN.
 
-Leading countries: FR 67, US 64, GB 38, DE 30, IT 15, CA 8, AU 7, JP 7, CH 6, SE 6,
-then 1–5 each for about 50 other countries. Work through the OPEN rows by country. Record
+Leading countries: FR 67, US 64, GB 38, DE 30, IT 15, EG 10, CA 8, AU 7, JP 7, CH 6,
+then 1–6 each for about 50 other countries. Work through the OPEN rows by country. Record
 each checked lead as institution/objects or as `no_confirmation`. `merge.py` then updates
 the `resolution` column automatically.
 
@@ -109,9 +124,19 @@ High-value open leads named by several agents:
 
 ## 4. Unfinished verification tasks
 
-1. **Mechanical URL check.** `scripts/verify_urls.py` writes `work/url_check.csv`. Rows with
-   `inventory_found = NO` or an HTTP error need a manual check. Many are expected false
-   negatives: JavaScript-rendered pages, and sites that block automated clients (403/429).
+1. **Mechanical URL check — UNFINISHED.** It was stopped on budget after 37 of 774 objects
+   (48 URL rows, up to `INST-CA-001-O008`, in `object_id` order).
+   - Results so far: 17 × HTTP 200 with the inventory number found; 14 × HTTP 200 with the
+     number not found; 11 × HTTP 403; 6 × no number to check.
+   - To resume, run `python3 scripts/verify_urls.py`. It skips (object_id, url) pairs
+     already in `work/url_check.csv` and caches repeated URLs.
+   - Budget for about 800 URLs at 1.5 s per host (roughly 30–60 min). Most of the time goes
+     on the Musée des Confluences portal (about 300 URLs).
+   - A "NO" or an error is a prompt for a manual check, not evidence against a record.
+     Likely false negatives: pages rendered by JavaScript, bot-blocked sites (BM, MNHN,
+     rmo.nl, Louvre search), and archive.org catalogue scans where the number is not in the
+     page text.
+   - Manual follow-up needed now: the 25 rows marked NO or 403 in `work/url_check.csv`.
 2. **Official records not yet opened.** These records rest on portal copies or archived
    pages:
    - RMO Leiden: Europeana / Collectie Nederland.

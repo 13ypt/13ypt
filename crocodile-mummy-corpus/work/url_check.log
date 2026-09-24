@@ -21,3 +21,28 @@ INST-AU-001-O004 200 NO https://www.sydney.edu.au/museums/collections_search/?re
 INST-BE-001-O001 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
 INST-BE-001-O001 403  https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_7523
 INST-BE-001-O002 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BE-001-O003 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BE-001-O004 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BE-001-O005 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BE-001-O005 403  https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_8409
+INST-BE-001-O006 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BE-001-O006 403  https://www.europeana.eu/item/322/Museu_ProvidedCHO_Mus_es_Royaux_d_Art_et_d_Histoire_8409
+INST-BE-001-O007 200 YES https://www.carmentis.be/eMP/eMuseumPlus?service=ExternalInterface&module=collection&lang=
+INST-BR-001-O001 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O002 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O003 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O004 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O005 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O006 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O007 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O008 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O009 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-BR-001-O010 200 NO http://static.recantodasletras.com.br/arquivos/2479979.pdf
+INST-CA-001-O001 200 YES https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne
+INST-CA-001-O002 200 YES https://www.etsmtl.ca/en/news/devoiler-les-secrets-des-momies-animales-de-legypte-ancienne
+INST-CA-001-O003 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH8469&lang=en
+INST-CA-001-O004 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH193&lang=en
+INST-CA-001-O005 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH8474&lang=en
+INST-CA-001-O006 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH317&lang=en
+INST-CA-001-O007 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH8467&lang=en
+INST-CA-001-O008 200 N/A https://app.pch.gc.ca/application/artefacts_hum/detailler_detail.app?d=RMMH8468&lang=en
